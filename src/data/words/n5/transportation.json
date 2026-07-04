@@ -1,0 +1,692 @@
+[
+  {
+    "id": "n5-transportation-railway-station-1777217253200",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "駅",
+    "kanji": "駅",
+    "kana": "えき",
+    "meaning": "railway station",
+    "explanation": "A JLPT N5 noun meaning \"railway station\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "駅",
+        "meanings": [
+          "railway station"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "駅はどこですか。",
+      "english": "Where's the station?",
+      "furigana": [
+        {
+          "text": "駅",
+          "highlight": true,
+          "reading": "えき"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188894",
+        "englishSentenceId": "2254667",
+        "url": "https://tatoeba.org/en/sentences/show/188894"
+      }
+    },
+    "acceptedJapanese": [
+      "駅",
+      "えき"
+    ],
+    "acceptedEnglish": [
+      "railway station",
+      "train station",
+      "staging post on a highway"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-transportation-car-1777217253290",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "自動車",
+    "kanji": "自動車",
+    "kana": "じどうしゃ",
+    "meaning": "car",
+    "explanation": "A JLPT N5 noun meaning \"car\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "自",
+        "meanings": [
+          "car"
+        ]
+      },
+      {
+        "kanji": "動",
+        "meanings": [
+          "car"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その自動車は電気で動く。",
+      "english": "The automobile runs on electricity.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "自動車",
+          "highlight": true,
+          "reading": "じどうしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "電気",
+          "reading": "でんき"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "動く",
+          "reading": "うごく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "209690",
+        "englishSentenceId": "46952",
+        "url": "https://tatoeba.org/en/sentences/show/209690"
+      }
+    },
+    "acceptedJapanese": [
+      "自動車",
+      "じどうしゃ"
+    ],
+    "acceptedEnglish": [
+      "car",
+      "automobile",
+      "motorcar",
+      "motor vehicle",
+      "auto"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-transportation-taxi-1777217253563",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "タクシー",
+    "kanji": "タクシー",
+    "kana": "タクシー",
+    "meaning": "taxi",
+    "explanation": "A JLPT N5 noun meaning \"taxi\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "タクシーを呼んで。",
+      "english": "Call a taxi.",
+      "furigana": [
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "タクシー"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "タクシー"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "タクシー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "タクシー"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "呼",
+          "reading": "よ"
+        },
+        {
+          "text": "んで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11535697",
+        "englishSentenceId": "9770427",
+        "url": "https://tatoeba.org/en/sentences/show/11535697"
+      }
+    },
+    "acceptedJapanese": [
+      "タクシー"
+    ],
+    "acceptedEnglish": [
+      "taxi"
+    ]
+  },
+  {
+    "id": "n5-transportation-subway-1777217253908",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "地下鉄",
+    "kanji": "地下鉄",
+    "kana": "ちかてつ",
+    "meaning": "subway",
+    "explanation": "A JLPT N5 noun meaning \"subway\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "subway"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "subway"
+        ]
+      },
+      {
+        "kanji": "鉄",
+        "meanings": [
+          "subway"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "地下鉄に乗ろう。",
+      "english": "Let's take the subway.",
+      "furigana": [
+        {
+          "text": "地下鉄",
+          "highlight": true,
+          "reading": "ちかてつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗",
+          "reading": "じょう"
+        },
+        {
+          "text": "ろう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "127015",
+        "englishSentenceId": "277075",
+        "url": "https://tatoeba.org/en/sentences/show/127015"
+      }
+    },
+    "acceptedJapanese": [
+      "地下鉄",
+      "ちかてつ"
+    ],
+    "acceptedEnglish": [
+      "subway",
+      "metro",
+      "underground"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-transportation-ticket-1777217253917",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "切符",
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "meaning": "ticket",
+    "explanation": "A JLPT N5 noun meaning \"ticket\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "切",
+        "meanings": [
+          "ticket"
+        ]
+      },
+      {
+        "kanji": "符",
+        "meanings": [
+          "ticket"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この切符は無料です。",
+      "english": "This is a free ticket.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "切符",
+          "highlight": true,
+          "reading": "きっぷ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "無料",
+          "reading": "むりょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220852",
+        "englishSentenceId": "58174",
+        "url": "https://tatoeba.org/en/sentences/show/220852"
+      }
+    },
+    "acceptedJapanese": [
+      "切符",
+      "きっぷ"
+    ],
+    "acceptedEnglish": [
+      "ticket"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-transportation-bicycle-1777217253989",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "自転車",
+    "kanji": "自転車",
+    "kana": "じてんしゃ",
+    "meaning": "bicycle",
+    "explanation": "A JLPT N5 noun meaning \"bicycle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "自",
+        "meanings": [
+          "bicycle"
+        ]
+      },
+      {
+        "kanji": "転",
+        "meanings": [
+          "bicycle"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "bicycle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "自転車に乗ります。",
+      "english": "I take a bicycle.",
+      "furigana": [
+        {
+          "text": "自転車",
+          "highlight": true,
+          "reading": "じてんしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗り",
+          "reading": "のり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6828228",
+        "englishSentenceId": "7217905",
+        "url": "https://tatoeba.org/en/sentences/show/6828228"
+      }
+    },
+    "acceptedJapanese": [
+      "自転車",
+      "じてんしゃ"
+    ],
+    "acceptedEnglish": [
+      "bicycle",
+      "bike"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-transportation-train-1777217254145",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "電車",
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "meaning": "train",
+    "explanation": "A JLPT N5 noun meaning \"train\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "電",
+        "meanings": [
+          "train"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "train"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "電車で行きます。",
+      "english": "I'll go by train.",
+      "furigana": [
+        {
+          "text": "電車",
+          "highlight": true,
+          "reading": "でんしゃ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "きます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13115757",
+        "englishSentenceId": "6532405",
+        "url": "https://tatoeba.org/en/sentences/show/13115757"
+      }
+    },
+    "acceptedJapanese": [
+      "電車",
+      "でんしゃ"
+    ],
+    "acceptedEnglish": [
+      "train",
+      "electric train"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-transportation-elevator-1777217254346",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "エレベーター",
+    "kanji": "エレベーター",
+    "kana": "エレベーター",
+    "meaning": "elevator",
+    "explanation": "A JLPT N5 noun meaning \"elevator\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "エレベーターはどこですか。",
+      "english": "Where is the elevator?",
+      "furigana": [
+        {
+          "text": "エ",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "ベ",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "エレベーター"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227886",
+        "englishSentenceId": "65239",
+        "url": "https://tatoeba.org/en/sentences/show/227886"
+      }
+    },
+    "acceptedJapanese": [
+      "エレベーター"
+    ],
+    "acceptedEnglish": [
+      "elevator",
+      "lift"
+    ]
+  },
+  {
+    "id": "n5-transportation-airplane-1777217254361",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "飛行機",
+    "kanji": "飛行機",
+    "kana": "ひこうき",
+    "meaning": "airplane",
+    "explanation": "A JLPT N5 noun meaning \"airplane\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飛",
+        "meanings": [
+          "airplane"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "airplane"
+        ]
+      },
+      {
+        "kanji": "機",
+        "meanings": [
+          "airplane"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "飛行機に乗ります。",
+      "english": "I'll ride a plane.",
+      "furigana": [
+        {
+          "text": "飛行機",
+          "highlight": true,
+          "reading": "ひこうき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗り",
+          "reading": "のり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6828226",
+        "englishSentenceId": "9461593",
+        "url": "https://tatoeba.org/en/sentences/show/6828226"
+      }
+    },
+    "acceptedJapanese": [
+      "飛行機",
+      "ひこうき"
+    ],
+    "acceptedEnglish": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "aircraft"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-transportation-car-1777217254409",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "車",
+    "kanji": "車",
+    "kana": "くるま",
+    "meaning": "car",
+    "explanation": "A JLPT N5 noun meaning \"car\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "車",
+        "meanings": [
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "車は止まった。",
+      "english": "The automobile stopped.",
+      "furigana": [
+        {
+          "text": "車",
+          "highlight": true,
+          "reading": "くるま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "止",
+          "reading": "と"
+        },
+        {
+          "text": "まった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8537512",
+        "englishSentenceId": "2267957",
+        "url": "https://tatoeba.org/en/sentences/show/8537512"
+      }
+    },
+    "acceptedJapanese": [
+      "車",
+      "くるま"
+    ],
+    "acceptedEnglish": [
+      "car",
+      "automobile",
+      "vehicle",
+      "wheel",
+      "castor",
+      "caster"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-transportation-bus-1777217254556",
+    "jlpt": "N5",
+    "subcategory": "Transportation",
+    "name": "バス",
+    "kanji": "バス",
+    "kana": "バス",
+    "meaning": "bus",
+    "explanation": "A JLPT N5 noun meaning \"bus\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "バスに乗ります。",
+      "english": "I take a bus.",
+      "furigana": [
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "バス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "バス"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗り",
+          "reading": "のり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6828232",
+        "englishSentenceId": "7217908",
+        "url": "https://tatoeba.org/en/sentences/show/6828232"
+      }
+    },
+    "acceptedJapanese": [
+      "バス"
+    ],
+    "acceptedEnglish": [
+      "bus"
+    ]
+  }
+]

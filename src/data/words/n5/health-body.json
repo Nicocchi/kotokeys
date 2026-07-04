@@ -1,0 +1,858 @@
+[
+  {
+    "id": "n5-health-body-nose-1777217252837",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "鼻",
+    "kanji": "鼻",
+    "kana": "はな",
+    "meaning": "nose",
+    "explanation": "A JLPT N5 noun meaning \"nose\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鼻",
+        "meanings": [
+          "nose"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鼻をかんで。",
+      "english": "Blow your nose.",
+      "furigana": [
+        {
+          "text": "鼻",
+          "highlight": true,
+          "reading": "はな"
+        },
+        {
+          "text": "をかんで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8649639",
+        "englishSentenceId": "3374161",
+        "url": "https://tatoeba.org/en/sentences/show/8649639"
+      }
+    },
+    "acceptedJapanese": [
+      "鼻",
+      "はな"
+    ],
+    "acceptedEnglish": [
+      "nose"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-ear-1777217252969",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "耳",
+    "kanji": "耳",
+    "kana": "みみ",
+    "meaning": "ear",
+    "explanation": "A JLPT N5 noun meaning \"ear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "耳",
+        "meanings": [
+          "ear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は耳が鋭い。",
+      "english": "He has sharp hearing.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "耳",
+          "highlight": true,
+          "reading": "みみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "鋭い",
+          "reading": "するどい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105249",
+        "englishSentenceId": "298440",
+        "url": "https://tatoeba.org/en/sentences/show/105249"
+      }
+    },
+    "acceptedJapanese": [
+      "耳",
+      "みみ"
+    ],
+    "acceptedEnglish": [
+      "ear",
+      "hearing",
+      "edge",
+      "crust",
+      "heel",
+      "selvedge"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-health-body-tooth-1777217253245",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "歯",
+    "kanji": "歯",
+    "kana": "は",
+    "meaning": "tooth",
+    "explanation": "A JLPT N5 noun meaning \"tooth\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歯",
+        "meanings": [
+          "tooth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歯が痛いです。",
+      "english": "I have a toothache.",
+      "furigana": [
+        {
+          "text": "歯",
+          "highlight": true,
+          "reading": "は"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150973",
+        "englishSentenceId": "436653",
+        "url": "https://tatoeba.org/en/sentences/show/150973"
+      }
+    },
+    "acceptedJapanese": [
+      "歯",
+      "は"
+    ],
+    "acceptedEnglish": [
+      "tooth",
+      "teeth",
+      "cog",
+      "support"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-health-body-medicine-1777217253338",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "薬",
+    "kanji": "薬",
+    "kana": "くすり",
+    "meaning": "medicine",
+    "explanation": "A JLPT N5 noun meaning \"medicine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "薬",
+        "meanings": [
+          "medicine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "薬を飲んで。",
+      "english": "Take the medicine.",
+      "furigana": [
+        {
+          "text": "薬",
+          "highlight": true,
+          "reading": "くすり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "飲",
+          "reading": "いん"
+        },
+        {
+          "text": "んで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12581599",
+        "englishSentenceId": "1071787",
+        "url": "https://tatoeba.org/en/sentences/show/12581599"
+      }
+    },
+    "acceptedJapanese": [
+      "薬",
+      "くすり"
+    ],
+    "acceptedEnglish": [
+      "medicine",
+      "pharmaceuticals",
+      "drugs",
+      "pill",
+      "ointment",
+      "salve"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-to-sleep-1777217253407",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "寝る",
+    "kanji": "寝る",
+    "kana": "ねる",
+    "meaning": "to sleep",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to sleep\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "寝",
+        "meanings": [
+          "to sleep"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "寝るなよ。",
+      "english": "Don't sleep.",
+      "furigana": [
+        {
+          "text": "寝る",
+          "highlight": true,
+          "reading": "ねる"
+        },
+        {
+          "text": "なよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11257931",
+        "englishSentenceId": "7910336",
+        "url": "https://tatoeba.org/en/sentences/show/11257931"
+      }
+    },
+    "acceptedJapanese": [
+      "寝る",
+      "ねる"
+    ],
+    "acceptedEnglish": [
+      "to sleep",
+      "to go to bed",
+      "to lie in bed",
+      "to lie down",
+      "to lie flat",
+      "to lie idle"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-belly-1777217253548",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "お腹",
+    "kanji": "お腹",
+    "kana": "おなか",
+    "meaning": "belly",
+    "explanation": "A JLPT N5 noun meaning \"belly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "腹",
+        "meanings": [
+          "belly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お腹が痛いです。",
+      "english": "My stomach hurts.",
+      "furigana": [
+        {
+          "text": "お腹",
+          "highlight": true,
+          "reading": "おなか"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10008425",
+        "englishSentenceId": "28159",
+        "url": "https://tatoeba.org/en/sentences/show/10008425"
+      }
+    },
+    "acceptedJapanese": [
+      "お腹",
+      "おなか"
+    ],
+    "acceptedEnglish": [
+      "belly",
+      "abdomen",
+      "stomach"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-hand-1777217253554",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "手",
+    "kanji": "手",
+    "kana": "て",
+    "meaning": "hand",
+    "explanation": "A JLPT N5 noun meaning \"hand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手を開いて。",
+      "english": "Open your hand.",
+      "furigana": [
+        {
+          "text": "手",
+          "highlight": true,
+          "reading": "て"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "開",
+          "reading": "あ"
+        },
+        {
+          "text": "いて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10153662",
+        "englishSentenceId": "3454012",
+        "url": "https://tatoeba.org/en/sentences/show/10153662"
+      }
+    },
+    "acceptedJapanese": [
+      "手",
+      "て"
+    ],
+    "acceptedEnglish": [
+      "hand",
+      "arm",
+      "forepaw",
+      "foreleg",
+      "handle",
+      "worker"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-health-body-shower-1777217253743",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "シャワー",
+    "kanji": "シャワー",
+    "kana": "シャワー",
+    "meaning": "shower",
+    "explanation": "A JLPT N5 noun meaning \"shower\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "シャワーしてきて。",
+      "english": "Take a shower.",
+      "furigana": [
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "シャワー"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "シャワー"
+        },
+        {
+          "text": "ワ",
+          "highlight": true,
+          "reading": "シャワー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "シャワー"
+        },
+        {
+          "text": "してきて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8752765",
+        "englishSentenceId": "2250042",
+        "url": "https://tatoeba.org/en/sentences/show/8752765"
+      }
+    },
+    "acceptedJapanese": [
+      "シャワー"
+    ],
+    "acceptedEnglish": [
+      "shower"
+    ]
+  },
+  {
+    "id": "n5-health-body-foot-1777217253788",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "足",
+    "kanji": "足",
+    "kana": "あし",
+    "meaning": "foot",
+    "explanation": "A JLPT N5 noun meaning \"foot\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "足",
+        "meanings": [
+          "foot"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "足が痛い。",
+      "english": "My foot hurts.",
+      "furigana": [
+        {
+          "text": "足",
+          "highlight": true,
+          "reading": "あし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "139876",
+        "englishSentenceId": "792061",
+        "url": "https://tatoeba.org/en/sentences/show/139876"
+      }
+    },
+    "acceptedJapanese": [
+      "足",
+      "あし"
+    ],
+    "acceptedEnglish": [
+      "foot",
+      "paw",
+      "arm",
+      "leg",
+      "gait",
+      "pace"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-health-body-rest-1777217254058",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "休み",
+    "kanji": "休み",
+    "kana": "やすみ",
+    "meaning": "rest",
+    "explanation": "A JLPT N5 noun meaning \"rest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "休みたい。",
+      "english": "I want to rest.",
+      "furigana": [
+        {
+          "text": "休み",
+          "highlight": true,
+          "reading": "やすみ"
+        },
+        {
+          "text": "たい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3552065",
+        "englishSentenceId": "2011295",
+        "url": "https://tatoeba.org/en/sentences/show/3552065"
+      }
+    },
+    "acceptedJapanese": [
+      "休み",
+      "やすみ"
+    ],
+    "acceptedEnglish": [
+      "rest",
+      "recess",
+      "respite",
+      "vacation",
+      "holiday",
+      "absence"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-health-body-voice-1777217254160",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "声",
+    "kanji": "声",
+    "kana": "こえ",
+    "meaning": "voice",
+    "explanation": "A JLPT N5 noun meaning \"voice\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "声",
+        "meanings": [
+          "voice"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あなたの声が好きです。",
+      "english": "I like your voice.",
+      "furigana": [
+        {
+          "text": "あなたの"
+        },
+        {
+          "text": "声",
+          "highlight": true,
+          "reading": "こえ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10071286",
+        "englishSentenceId": "6995653",
+        "url": "https://tatoeba.org/en/sentences/show/10071286"
+      }
+    },
+    "acceptedJapanese": [
+      "声",
+      "こえ"
+    ],
+    "acceptedEnglish": [
+      "voice",
+      "singing",
+      "chirping",
+      "hoot",
+      "opinion",
+      "view"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-health-body-head-1777217254193",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "頭",
+    "kanji": "頭",
+    "kana": "あたま",
+    "meaning": "head",
+    "explanation": "A JLPT N5 noun meaning \"head\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頭",
+        "meanings": [
+          "head"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "頭が痛いです。",
+      "english": "My head hurts.",
+      "furigana": [
+        {
+          "text": "頭",
+          "highlight": true,
+          "reading": "あたま"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "842643",
+        "englishSentenceId": "456425",
+        "url": "https://tatoeba.org/en/sentences/show/842643"
+      }
+    },
+    "acceptedJapanese": [
+      "頭",
+      "あたま"
+    ],
+    "acceptedEnglish": [
+      "head",
+      "hair",
+      "mind",
+      "brains",
+      "intellect",
+      "leader"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-health-body-doctor-1777217254292",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "医者",
+    "kanji": "医者",
+    "kana": "いしゃ",
+    "meaning": "doctor",
+    "explanation": "A JLPT N5 noun meaning \"doctor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "医",
+        "meanings": [
+          "doctor"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "doctor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は医者ですか。",
+      "english": "Is he a doctor?",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "医者",
+          "highlight": true,
+          "reading": "いしゃ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110072",
+        "englishSentenceId": "293616",
+        "url": "https://tatoeba.org/en/sentences/show/110072"
+      }
+    },
+    "acceptedJapanese": [
+      "医者",
+      "いしゃ"
+    ],
+    "acceptedEnglish": [
+      "doctor",
+      "physician"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-illness-1777217254421",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "病気",
+    "kanji": "病気",
+    "kana": "びょうき",
+    "meaning": "illness",
+    "explanation": "A JLPT N5 noun meaning \"illness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "病",
+        "meanings": [
+          "illness"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "illness"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "何の病気ですか。",
+      "english": "What illness do I have?",
+      "furigana": [
+        {
+          "text": "何の",
+          "reading": "どの"
+        },
+        {
+          "text": "病気",
+          "highlight": true,
+          "reading": "びょうき"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "187704",
+        "englishSentenceId": "435200",
+        "url": "https://tatoeba.org/en/sentences/show/187704"
+      }
+    },
+    "acceptedJapanese": [
+      "病気",
+      "びょうき"
+    ],
+    "acceptedEnglish": [
+      "illness",
+      "disease",
+      "sickness",
+      "bad habit",
+      "bad behaviour",
+      "weakness"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-health-body-eye-1777217254526",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "目",
+    "kanji": "目",
+    "kana": "め",
+    "meaning": "eye",
+    "explanation": "A JLPT N5 noun meaning \"eye\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "目はいいです。",
+      "english": "I have good eyesight.",
+      "furigana": [
+        {
+          "text": "目",
+          "highlight": true,
+          "reading": "め"
+        },
+        {
+          "text": "はいいです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9444135",
+        "englishSentenceId": "263381",
+        "url": "https://tatoeba.org/en/sentences/show/9444135"
+      }
+    },
+    "acceptedJapanese": [
+      "目",
+      "め"
+    ],
+    "acceptedEnglish": [
+      "eye",
+      "eyeball",
+      "eyesight",
+      "sight",
+      "vision",
+      "look"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

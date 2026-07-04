@@ -1,0 +1,356 @@
+[
+  {
+    "id": "n5-animals-animal-1777217252876",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "動物",
+    "kanji": "動物",
+    "kana": "どうぶつ",
+    "meaning": "animal",
+    "explanation": "A JLPT N5 noun meaning \"animal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "動",
+        "meanings": [
+          "animal"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "animal"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "猫は動物です。",
+      "english": "Cats are animals.",
+      "furigana": [
+        {
+          "text": "猫",
+          "reading": "ねこ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "動物",
+          "highlight": true,
+          "reading": "どうぶつ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11571587",
+        "englishSentenceId": "11566692",
+        "url": "https://tatoeba.org/en/sentences/show/11571587"
+      }
+    },
+    "acceptedJapanese": [
+      "動物",
+      "どうぶつ"
+    ],
+    "acceptedEnglish": [
+      "animal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-animals-to-make-sound-1777217253425",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "鳴く",
+    "kanji": "鳴く",
+    "kana": "なく",
+    "meaning": "to make sound",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to make sound\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鳴",
+        "meanings": [
+          "to make sound"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鳥は鳴く。",
+      "english": "Birds sing.",
+      "furigana": [
+        {
+          "text": "鳥",
+          "reading": "とり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "鳴く",
+          "highlight": true,
+          "reading": "なく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1284062",
+        "englishSentenceId": "278174",
+        "url": "https://tatoeba.org/en/sentences/show/1284062"
+      }
+    },
+    "acceptedJapanese": [
+      "鳴く",
+      "なく"
+    ],
+    "acceptedEnglish": [
+      "to make sound",
+      "to call",
+      "to cry",
+      "to whine",
+      "to sing",
+      "to chirp"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-animals-bird-1777217253713",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "鳥",
+    "kanji": "鳥",
+    "kana": "とり",
+    "meaning": "bird",
+    "explanation": "A JLPT N5 noun meaning \"bird\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鳥",
+        "meanings": [
+          "bird"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鳥は歌います。",
+      "english": "Birds sing.",
+      "furigana": [
+        {
+          "text": "鳥",
+          "highlight": true,
+          "reading": "とり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "歌",
+          "reading": "うた"
+        },
+        {
+          "text": "います。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125799",
+        "englishSentenceId": "278174",
+        "url": "https://tatoeba.org/en/sentences/show/125799"
+      }
+    },
+    "acceptedJapanese": [
+      "鳥",
+      "とり"
+    ],
+    "acceptedEnglish": [
+      "bird",
+      "bird meat",
+      "fowl",
+      "poultry"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-animals-cat-1777217253935",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "猫",
+    "kanji": "猫",
+    "kana": "ねこ",
+    "meaning": "cat",
+    "explanation": "A JLPT N5 noun meaning \"cat\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "猫",
+        "meanings": [
+          "cat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "猫が好きです。",
+      "english": "I like cats.",
+      "furigana": [
+        {
+          "text": "猫",
+          "highlight": true,
+          "reading": "ねこ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "354378",
+        "englishSentenceId": "354379",
+        "url": "https://tatoeba.org/en/sentences/show/354378"
+      }
+    },
+    "acceptedJapanese": [
+      "猫",
+      "ねこ"
+    ],
+    "acceptedEnglish": [
+      "cat",
+      "shamisen",
+      "geisha",
+      "wheelbarrow",
+      "clay bed-warmer",
+      "bottom"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-animals-dog-familiaris-1777217254388",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "犬",
+    "kanji": "犬",
+    "kana": "いぬ",
+    "meaning": "dog familiaris)",
+    "explanation": "A JLPT N5 noun meaning \"dog familiaris)\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "犬",
+        "meanings": [
+          "dog familiaris)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "犬が好きです。",
+      "english": "I like dogs.",
+      "furigana": [
+        {
+          "text": "犬",
+          "highlight": true,
+          "reading": "いぬ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "946923",
+        "englishSentenceId": "252245",
+        "url": "https://tatoeba.org/en/sentences/show/946923"
+      }
+    },
+    "acceptedJapanese": [
+      "犬",
+      "いぬ"
+    ],
+    "acceptedEnglish": [
+      "dog familiaris)",
+      "squealer",
+      "rat",
+      "snitch",
+      "informer",
+      "informant"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-animals-pet-1777217254460",
+    "jlpt": "N5",
+    "subcategory": "Animals",
+    "name": "ペット",
+    "kanji": "ペット",
+    "kana": "ペット",
+    "meaning": "pet",
+    "explanation": "A JLPT N5 noun meaning \"pet\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "トランペットを吹いてみるか。",
+      "english": "Will you try to play the trumpet?",
+      "furigana": [
+        {
+          "text": "トラン"
+        },
+        {
+          "text": "ペ",
+          "highlight": true,
+          "reading": "ペット"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ペット"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ペット"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "吹",
+          "reading": "ふ"
+        },
+        {
+          "text": "いてみるか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "199706",
+        "englishSentenceId": "36908",
+        "url": "https://tatoeba.org/en/sentences/show/199706"
+      }
+    },
+    "acceptedJapanese": [
+      "ペット"
+    ],
+    "acceptedEnglish": [
+      "pet",
+      "trumpet"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

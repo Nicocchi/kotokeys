@@ -1,0 +1,783 @@
+[
+  {
+    "id": "n5-nature-weather-pond-1777217252708",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "池",
+    "kanji": "池",
+    "kana": "いけ",
+    "meaning": "pond",
+    "explanation": "A JLPT N5 noun meaning \"pond\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "池",
+        "meanings": [
+          "pond"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この池は浅いです。",
+      "english": "This pond is shallow.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "池",
+          "highlight": true,
+          "reading": "いけ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "浅い",
+          "reading": "あさい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10032757",
+        "englishSentenceId": "9176641",
+        "url": "https://tatoeba.org/en/sentences/show/10032757"
+      }
+    },
+    "acceptedJapanese": [
+      "池",
+      "いけ"
+    ],
+    "acceptedEnglish": [
+      "pond"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-hot-1777217252723",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "熱い",
+    "kanji": "熱い",
+    "kana": "あつい",
+    "meaning": "hot",
+    "explanation": "A JLPT N5 i adjective meaning \"hot\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "熱",
+        "meanings": [
+          "hot"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "熱い？",
+      "english": "Is it hot?",
+      "furigana": [
+        {
+          "text": "熱い",
+          "highlight": true,
+          "reading": "あつい"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8688654",
+        "englishSentenceId": "456027",
+        "url": "https://tatoeba.org/en/sentences/show/8688654"
+      }
+    },
+    "acceptedJapanese": [
+      "熱い",
+      "あつい"
+    ],
+    "acceptedEnglish": [
+      "hot",
+      "passionate",
+      "ardent",
+      "zealous",
+      "enthusiastic",
+      "fired up"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-clear-weather-1777217253092",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "晴れ",
+    "kanji": "晴れ",
+    "kana": "はれ",
+    "meaning": "clear weather",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"clear weather\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "晴",
+        "meanings": [
+          "clear weather"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "晴れています。",
+      "english": "The sky is clear.",
+      "furigana": [
+        {
+          "text": "晴れ",
+          "highlight": true,
+          "reading": "はれ"
+        },
+        {
+          "text": "ています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143013",
+        "englishSentenceId": "433662",
+        "url": "https://tatoeba.org/en/sentences/show/143013"
+      }
+    },
+    "acceptedJapanese": [
+      "晴れ",
+      "はれ"
+    ],
+    "acceptedEnglish": [
+      "clear weather",
+      "fine weather"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-tree-1777217253149",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "木",
+    "kanji": "木",
+    "kana": "き",
+    "meaning": "tree",
+    "explanation": "A JLPT N5 noun meaning \"tree\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "木",
+        "meanings": [
+          "tree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは木です。",
+      "english": "That's a tree.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "木",
+          "highlight": true,
+          "reading": "き"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1483561",
+        "englishSentenceId": "1098425",
+        "url": "https://tatoeba.org/en/sentences/show/1483561"
+      }
+    },
+    "acceptedJapanese": [
+      "木",
+      "き"
+    ],
+    "acceptedEnglish": [
+      "tree",
+      "shrub",
+      "bush",
+      "wood",
+      "timber",
+      "wooden clappers"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-nature-weather-snow-1777217253215",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "雪",
+    "kanji": "雪",
+    "kana": "ゆき",
+    "meaning": "snow",
+    "explanation": "A JLPT N5 noun meaning \"snow\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雪",
+        "meanings": [
+          "snow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は雪です。",
+      "english": "It's snowy today.",
+      "furigana": [
+        {
+          "text": "今日",
+          "reading": "きょう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "雪",
+          "highlight": true,
+          "reading": "ゆき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "171563",
+        "englishSentenceId": "242911",
+        "url": "https://tatoeba.org/en/sentences/show/171563"
+      }
+    },
+    "acceptedJapanese": [
+      "雪",
+      "ゆき"
+    ],
+    "acceptedEnglish": [
+      "snow",
+      "snowfall"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-to-dash-over-oneself-1777217253272",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "浴びる",
+    "kanji": "浴びる",
+    "kana": "あびる",
+    "meaning": "to dash over oneself",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to dash over oneself\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "浴",
+        "meanings": [
+          "to dash over oneself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "シャワーを浴びる。",
+      "english": "I'll take a shower.",
+      "furigana": [
+        {
+          "text": "シャワーを"
+        },
+        {
+          "text": "浴びる",
+          "highlight": true,
+          "reading": "あびる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8468049",
+        "englishSentenceId": "53048",
+        "url": "https://tatoeba.org/en/sentences/show/8468049"
+      }
+    },
+    "acceptedJapanese": [
+      "浴びる",
+      "あびる"
+    ],
+    "acceptedEnglish": [
+      "to dash over oneself",
+      "to take",
+      "to bask in",
+      "to bathe in",
+      "to be flooded with",
+      "to be covered in"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-nature-weather-flower-1777217253602",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "花",
+    "kanji": "花",
+    "kana": "はな",
+    "meaning": "flower",
+    "explanation": "A JLPT N5 noun meaning \"flower\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "花",
+        "meanings": [
+          "flower"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは花です。",
+      "english": "This is a flower.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "花",
+          "highlight": true,
+          "reading": "はな"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10327458",
+        "englishSentenceId": "8362679",
+        "url": "https://tatoeba.org/en/sentences/show/10327458"
+      }
+    },
+    "acceptedJapanese": [
+      "花",
+      "はな"
+    ],
+    "acceptedEnglish": [
+      "flower",
+      "blossom",
+      "bloom",
+      "petal",
+      "cherry blossom",
+      "beauty"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-rain-1777217253641",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "雨",
+    "kanji": "雨",
+    "kana": "あめ",
+    "meaning": "rain",
+    "explanation": "A JLPT N5 noun meaning \"rain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雨",
+        "meanings": [
+          "rain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "雨が降った。",
+      "english": "It rained.",
+      "furigana": [
+        {
+          "text": "雨",
+          "highlight": true,
+          "reading": "あめ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "降",
+          "reading": "ふ"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2481831",
+        "englishSentenceId": "1435651",
+        "url": "https://tatoeba.org/en/sentences/show/2481831"
+      }
+    },
+    "acceptedJapanese": [
+      "雨",
+      "あめ"
+    ],
+    "acceptedEnglish": [
+      "rain",
+      "rainy day",
+      "rainy weather",
+      "the November suit"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-nature-weather-cloudiness-1777217253752",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "曇り",
+    "kanji": "曇り",
+    "kana": "くもり",
+    "meaning": "cloudiness",
+    "explanation": "A JLPT N5 noun meaning \"cloudiness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "曇",
+        "meanings": [
+          "cloudiness"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "曇りの日です。",
+      "english": "It's a cloudy day.",
+      "furigana": [
+        {
+          "text": "曇り",
+          "highlight": true,
+          "reading": "くもり"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123255",
+        "englishSentenceId": "280744",
+        "url": "https://tatoeba.org/en/sentences/show/123255"
+      }
+    },
+    "acceptedJapanese": [
+      "曇り",
+      "くもり"
+    ],
+    "acceptedEnglish": [
+      "cloudiness",
+      "cloudy weather",
+      "fog",
+      "cloud",
+      "blur",
+      "mist"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-nature-weather-wind-1777217253791",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "風",
+    "kanji": "風",
+    "kana": "かぜ",
+    "meaning": "wind",
+    "explanation": "A JLPT N5 noun meaning \"wind\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "風",
+        "meanings": [
+          "wind"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風が吹く。",
+      "english": "The wind blows.",
+      "furigana": [
+        {
+          "text": "風",
+          "highlight": true,
+          "reading": "かぜ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "吹く",
+          "reading": "ふく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "670057",
+        "englishSentenceId": "462984",
+        "url": "https://tatoeba.org/en/sentences/show/670057"
+      }
+    },
+    "acceptedJapanese": [
+      "風",
+      "かぜ"
+    ],
+    "acceptedEnglish": [
+      "wind",
+      "breeze",
+      "draught",
+      "draft",
+      "cold",
+      "influenza"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-nature-weather-cold-1777217253938",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "風邪",
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "meaning": "cold",
+    "explanation": "A JLPT N5 noun meaning \"cold\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "風",
+        "meanings": [
+          "cold"
+        ]
+      },
+      {
+        "kanji": "邪",
+        "meanings": [
+          "cold"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風邪ですね。",
+      "english": "It's just a cold.",
+      "furigana": [
+        {
+          "text": "風邪",
+          "highlight": true,
+          "reading": "かぜ"
+        },
+        {
+          "text": "ですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83981",
+        "englishSentenceId": "319735",
+        "url": "https://tatoeba.org/en/sentences/show/83981"
+      }
+    },
+    "acceptedJapanese": [
+      "風邪",
+      "かぜ"
+    ],
+    "acceptedEnglish": [
+      "cold",
+      "influenza",
+      "flu",
+      "ague",
+      "inflammatory respiratory system illness"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-nature-weather-river-1777217254088",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "川",
+    "kanji": "川",
+    "kana": "かわ",
+    "meaning": "river",
+    "explanation": "A JLPT N5 noun meaning \"river\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "川",
+        "meanings": [
+          "river"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その川は長いです。",
+      "english": "That river is long.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "川",
+          "highlight": true,
+          "reading": "かわ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "長い",
+          "reading": "ながい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2242464",
+        "englishSentenceId": "2782490",
+        "url": "https://tatoeba.org/en/sentences/show/2242464"
+      }
+    },
+    "acceptedJapanese": [
+      "川",
+      "かわ"
+    ],
+    "acceptedEnglish": [
+      "river",
+      "stream"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-nature-weather-weather-1777217254217",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "天気",
+    "kanji": "天気",
+    "kana": "てんき",
+    "meaning": "weather",
+    "explanation": "A JLPT N5 noun meaning \"weather\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "天",
+        "meanings": [
+          "weather"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "weather"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いい天気です。",
+      "english": "It's nice weather.",
+      "furigana": [
+        {
+          "text": "いい"
+        },
+        {
+          "text": "天気",
+          "highlight": true,
+          "reading": "てんき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2173966",
+        "englishSentenceId": "12437432",
+        "url": "https://tatoeba.org/en/sentences/show/2173966"
+      }
+    },
+    "acceptedJapanese": [
+      "天気",
+      "てんき"
+    ],
+    "acceptedEnglish": [
+      "weather",
+      "fair weather",
+      "fine weather"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-nature-weather-sea-1777217254286",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "海",
+    "kanji": "海",
+    "kana": "うみ",
+    "meaning": "sea",
+    "explanation": "A JLPT N5 noun meaning \"sea\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "海",
+        "meanings": [
+          "sea"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "海は静かだった。",
+      "english": "The ocean was calm.",
+      "furigana": [
+        {
+          "text": "海",
+          "highlight": true,
+          "reading": "うみ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "静か",
+          "reading": "しずか"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185090",
+        "englishSentenceId": "22221",
+        "url": "https://tatoeba.org/en/sentences/show/185090"
+      }
+    },
+    "acceptedJapanese": [
+      "海",
+      "うみ"
+    ],
+    "acceptedEnglish": [
+      "sea",
+      "ocean",
+      "waters"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "id": "n5-people-roles-girl-1777217252732",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "女の子",
+    "kanji": "女の子",
+    "kana": "おんなのこ",
+    "meaning": "girl",
+    "explanation": "A JLPT N5 expression, noun meaning \"girl\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "女",
+        "meanings": [
+          "girl"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "girl"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この女の子は誰？",
+      "english": "Who is this girl?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "女の子",
+          "highlight": true,
+          "reading": "おんなのこ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "誰",
+          "reading": "だれ"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9069111",
+        "englishSentenceId": "58453",
+        "url": "https://tatoeba.org/en/sentences/show/9069111"
+      }
+    },
+    "acceptedJapanese": [
+      "女の子",
+      "おんなのこ"
+    ],
+    "acceptedEnglish": [
+      "girl",
+      "daughter",
+      "baby girl",
+      "young woman"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-people-roles-everyone-1777217252759",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "皆",
+    "kanji": "皆",
+    "kana": "みな",
+    "meaning": "everyone",
+    "explanation": "A JLPT N5 noun, pronoun, adverb meaning \"everyone\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "皆",
+        "meanings": [
+          "everyone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "皆はいかがですか？",
+      "english": "How is everyone?",
+      "furigana": [
+        {
+          "text": "皆",
+          "highlight": true,
+          "reading": "みな"
+        },
+        {
+          "text": "はいかがですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1680799",
+        "englishSentenceId": "22110",
+        "url": "https://tatoeba.org/en/sentences/show/1680799"
+      }
+    },
+    "acceptedJapanese": [
+      "皆",
+      "みな"
+    ],
+    "acceptedEnglish": [
+      "everyone",
+      "everybody",
+      "all"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-people-roles-boy-1777217252828",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "男の子",
+    "kanji": "男の子",
+    "kana": "おとこのこ",
+    "meaning": "boy",
+    "explanation": "A JLPT N5 expression, noun meaning \"boy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "男",
+        "meanings": [
+          "boy"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "boy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "君たちは若い男の子だ。",
+      "english": "You are young boys.",
+      "furigana": [
+        {
+          "text": "君たち",
+          "reading": "きみたち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "若い",
+          "reading": "わかい"
+        },
+        {
+          "text": "男の子",
+          "highlight": true,
+          "reading": "おとこのこ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "178782",
+        "englishSentenceId": "17635",
+        "url": "https://tatoeba.org/en/sentences/show/178782"
+      }
+    },
+    "acceptedJapanese": [
+      "男の子",
+      "おとこのこ"
+    ],
+    "acceptedEnglish": [
+      "boy",
+      "son",
+      "baby boy",
+      "young man"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-people-roles-who-1777217252861",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "誰",
+    "kanji": "誰",
+    "kana": "だれ",
+    "meaning": "who",
+    "explanation": "A JLPT N5 pronoun meaning \"who\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "誰",
+        "meanings": [
+          "who"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "誰？",
+      "english": "Who?",
+      "furigana": [
+        {
+          "text": "誰",
+          "highlight": true,
+          "reading": "だれ"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "638666",
+        "englishSentenceId": "2083030",
+        "url": "https://tatoeba.org/en/sentences/show/638666"
+      }
+    },
+    "acceptedJapanese": [
+      "誰",
+      "だれ"
+    ],
+    "acceptedEnglish": [
+      "who"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-people-roles-you-1777217252894",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "貴方",
+    "kanji": "貴方",
+    "kana": "あなた",
+    "meaning": "you",
+    "explanation": "A JLPT N5 pronoun meaning \"you\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "貴",
+        "meanings": [
+          "you"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "you"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "犬は貴方のです。",
+      "english": "The dog is yours.",
+      "furigana": [
+        {
+          "text": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "貴方",
+          "highlight": true,
+          "reading": "あなた"
+        },
+        {
+          "text": "のです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "769958",
+        "englishSentenceId": "897307",
+        "url": "https://tatoeba.org/en/sentences/show/769958"
+      }
+    },
+    "acceptedJapanese": [
+      "貴方",
+      "あなた"
+    ],
+    "acceptedEnglish": [
+      "you",
+      "dear",
+      "honey"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-people-roles-friend-1777217253293",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "友達",
+    "kanji": "友達",
+    "kana": "ともだち",
+    "meaning": "friend",
+    "explanation": "A JLPT N5 noun meaning \"friend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "友",
+        "meanings": [
+          "friend"
+        ]
+      },
+      {
+        "kanji": "達",
+        "meanings": [
+          "friend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "友達ですか？",
+      "english": "Is he a friend?",
+      "furigana": [
+        {
+          "text": "友達",
+          "highlight": true,
+          "reading": "ともだち"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11518465",
+        "englishSentenceId": "2684425",
+        "url": "https://tatoeba.org/en/sentences/show/11518465"
+      }
+    },
+    "acceptedJapanese": [
+      "友達",
+      "ともだち"
+    ],
+    "acceptedEnglish": [
+      "friend",
+      "companion"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-people-roles-police-officer-1777217253401",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "警官",
+    "kanji": "警官",
+    "kana": "けいかん",
+    "meaning": "police officer",
+    "explanation": "A JLPT N5 noun meaning \"police officer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "警",
+        "meanings": [
+          "police officer"
+        ]
+      },
+      {
+        "kanji": "官",
+        "meanings": [
+          "police officer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "警官みたいですね。",
+      "english": "You look like a policeman.",
+      "furigana": [
+        {
+          "text": "警官",
+          "highlight": true,
+          "reading": "けいかん"
+        },
+        {
+          "text": "みたいですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3385029",
+        "englishSentenceId": "3385341",
+        "url": "https://tatoeba.org/en/sentences/show/3385029"
+      }
+    },
+    "acceptedJapanese": [
+      "警官",
+      "けいかん"
+    ],
+    "acceptedEnglish": [
+      "police officer",
+      "policeman",
+      "constable"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-people-roles-someone-1777217253473",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "誰か",
+    "kanji": "誰か",
+    "kana": "だれか",
+    "meaning": "someone",
+    "explanation": "A JLPT N5 pronoun meaning \"someone\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "誰",
+        "meanings": [
+          "someone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "誰か来る。",
+      "english": "Someone's coming.",
+      "furigana": [
+        {
+          "text": "誰か",
+          "highlight": true,
+          "reading": "だれか"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "る。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11610218",
+        "englishSentenceId": "1799691",
+        "url": "https://tatoeba.org/en/sentences/show/11610218"
+      }
+    },
+    "acceptedJapanese": [
+      "誰か",
+      "だれか"
+    ],
+    "acceptedEnglish": [
+      "someone",
+      "somebody"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-people-roles-foreigner-1777217253488",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "外国人",
+    "kanji": "外国人",
+    "kana": "がいこくじん",
+    "meaning": "foreigner",
+    "explanation": "A JLPT N5 noun meaning \"foreigner\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "外",
+        "meanings": [
+          "foreigner"
+        ]
+      },
+      {
+        "kanji": "国",
+        "meanings": [
+          "foreigner"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "foreigner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "外国人って面白いなあ。",
+      "english": "Foreign people intrigue me.",
+      "furigana": [
+        {
+          "text": "外国人",
+          "highlight": true,
+          "reading": "がいこくじん"
+        },
+        {
+          "text": "って"
+        },
+        {
+          "text": "面白い",
+          "reading": "おもしろい"
+        },
+        {
+          "text": "なあ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4888",
+        "englishSentenceId": "1471",
+        "url": "https://tatoeba.org/en/sentences/show/4888"
+      }
+    },
+    "acceptedJapanese": [
+      "外国人",
+      "がいこくじん"
+    ],
+    "acceptedEnglish": [
+      "foreigner",
+      "foreign citizen",
+      "foreign national",
+      "alien",
+      "non-Japanese"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n5-people-roles-woman-1777217253584",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "女",
+    "kanji": "女",
+    "kana": "おんな",
+    "meaning": "woman",
+    "explanation": "A JLPT N5 noun, noun, used as a prefix meaning \"woman\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "女",
+        "meanings": [
+          "woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "女です。",
+      "english": "I'm a woman.",
+      "furigana": [
+        {
+          "text": "女",
+          "highlight": true,
+          "reading": "おんな"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13756243",
+        "englishSentenceId": "1122514",
+        "url": "https://tatoeba.org/en/sentences/show/13756243"
+      }
+    },
+    "acceptedJapanese": [
+      "女",
+      "おんな"
+    ],
+    "acceptedEnglish": [
+      "woman",
+      "female"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-people-roles-crowd-of-people-1777217253698",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "大勢",
+    "kanji": "大勢",
+    "kana": "おおぜい",
+    "meaning": "crowd of people",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"crowd of people\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "crowd of people"
+        ]
+      },
+      {
+        "kanji": "勢",
+        "meanings": [
+          "crowd of people"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大勢の人が見てた？",
+      "english": "Were there many people watching?",
+      "furigana": [
+        {
+          "text": "大勢",
+          "highlight": true,
+          "reading": "おおぜい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "てた？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10759951",
+        "englishSentenceId": "10758643",
+        "url": "https://tatoeba.org/en/sentences/show/10759951"
+      }
+    },
+    "acceptedJapanese": [
+      "大勢",
+      "おおぜい"
+    ],
+    "acceptedEnglish": [
+      "crowd of people",
+      "great number of people"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-people-roles-police-officer-1777217254148",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "お巡りさん",
+    "kanji": "お巡りさん",
+    "kana": "おまわりさん",
+    "meaning": "police officer",
+    "explanation": "A JLPT N5 noun meaning \"police officer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "巡",
+        "meanings": [
+          "police officer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お巡りさんに聞け！",
+      "english": "Ask a policeman!",
+      "furigana": [
+        {
+          "text": "お巡りさん",
+          "highlight": true,
+          "reading": "おまわりさん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        },
+        {
+          "text": "け！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "837427",
+        "englishSentenceId": "698195",
+        "url": "https://tatoeba.org/en/sentences/show/837427"
+      }
+    },
+    "acceptedJapanese": [
+      "お巡りさん",
+      "おまわりさん"
+    ],
+    "acceptedEnglish": [
+      "police officer"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-people-roles-man-1777217254259",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "男",
+    "kanji": "男",
+    "kana": "おとこ",
+    "meaning": "man",
+    "explanation": "A JLPT N5 noun, noun, used as a prefix meaning \"man\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "男",
+        "meanings": [
+          "man"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ボーイとは、男の子のことです。",
+      "english": "A boy is a male child.",
+      "furigana": [
+        {
+          "text": "ボーイとは、"
+        },
+        {
+          "text": "男",
+          "highlight": true,
+          "reading": "おとこ"
+        },
+        {
+          "text": "の子",
+          "reading": "のこ"
+        },
+        {
+          "text": "のことです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11064129",
+        "englishSentenceId": "2951072",
+        "url": "https://tatoeba.org/en/sentences/show/11064129"
+      }
+    },
+    "acceptedJapanese": [
+      "男",
+      "おとこ"
+    ],
+    "acceptedEnglish": [
+      "man",
+      "male"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-people-roles-myself-1777217254412",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "自分",
+    "kanji": "自分",
+    "kana": "じぶん",
+    "meaning": "myself",
+    "explanation": "A JLPT N5 pronoun meaning \"myself\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "自",
+        "meanings": [
+          "myself"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "myself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "自分でします。",
+      "english": "I will do it myself.",
+      "furigana": [
+        {
+          "text": "自分",
+          "highlight": true,
+          "reading": "じぶん"
+        },
+        {
+          "text": "でします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "156296",
+        "englishSentenceId": "254816",
+        "url": "https://tatoeba.org/en/sentences/show/156296"
+      }
+    },
+    "acceptedJapanese": [
+      "自分",
+      "じぶん"
+    ],
+    "acceptedEnglish": [
+      "myself",
+      "yourself",
+      "oneself",
+      "himself",
+      "herself",
+      "I"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

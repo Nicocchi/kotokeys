@@ -1,0 +1,2314 @@
+[
+  {
+    "id": "n5-numbers-counting-six-1777217252714",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "六",
+    "kanji": "六",
+    "kana": "ろく",
+    "meaning": "six",
+    "explanation": "A JLPT N5 numeric meaning \"six\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "六",
+        "meanings": [
+          "six"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "九引く六はいくつですか。",
+      "english": "How many is nine minus six?",
+      "furigana": [
+        {
+          "text": "九",
+          "reading": "きゅう"
+        },
+        {
+          "text": "引く",
+          "reading": "ひく"
+        },
+        {
+          "text": "六",
+          "highlight": true,
+          "reading": "ろく"
+        },
+        {
+          "text": "はいくつですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "519104",
+        "englishSentenceId": "519105",
+        "url": "https://tatoeba.org/en/sentences/show/519104"
+      }
+    },
+    "acceptedJapanese": [
+      "六",
+      "ろく"
+    ],
+    "acceptedEnglish": [
+      "six",
+      "6"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-number-1777217252768",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "番号",
+    "kanji": "番号",
+    "kana": "ばんごう",
+    "meaning": "number",
+    "explanation": "A JLPT N5 noun meaning \"number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "番",
+        "meanings": [
+          "number"
+        ]
+      },
+      {
+        "kanji": "号",
+        "meanings": [
+          "number"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "番号が違いますよ。",
+      "english": "You have the wrong number.",
+      "furigana": [
+        {
+          "text": "番号",
+          "highlight": true,
+          "reading": "ばんごう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "違い",
+          "reading": "ちがい"
+        },
+        {
+          "text": "ますよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121175",
+        "englishSentenceId": "20854",
+        "url": "https://tatoeba.org/en/sentences/show/121175"
+      }
+    },
+    "acceptedJapanese": [
+      "番号",
+      "ばんごう"
+    ],
+    "acceptedEnglish": [
+      "number",
+      "series of digits"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-six-1777217252852",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "六つ",
+    "kanji": "六つ",
+    "kana": "むっつ",
+    "meaning": "six",
+    "explanation": "A JLPT N5 numeric meaning \"six\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "六",
+        "meanings": [
+          "six"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "english": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "furigana": [
+        {
+          "text": "一つ",
+          "reading": "ひとつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "二つ",
+          "reading": "ふたつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "三つ",
+          "reading": "みっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "四つ",
+          "reading": "よっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "五つ",
+          "reading": "いつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "六つ",
+          "highlight": true,
+          "reading": "むっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "七つ",
+          "reading": "ななつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "八つ",
+          "reading": "やっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "九つ",
+          "reading": "ここのつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "十",
+          "reading": "じゅう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "349891",
+        "englishSentenceId": "413731",
+        "url": "https://tatoeba.org/en/sentences/show/349891"
+      }
+    },
+    "acceptedJapanese": [
+      "六つ",
+      "むっつ"
+    ],
+    "acceptedEnglish": [
+      "six"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-five-1777217252924",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "五つ",
+    "kanji": "五つ",
+    "kana": "いつ",
+    "meaning": "five",
+    "explanation": "A JLPT N5 numeric meaning \"five\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "五",
+        "meanings": [
+          "five"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女はケーキを五つに分けた。",
+      "english": "She divided the cake into five pieces.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "はケーキを"
+        },
+        {
+          "text": "五つ",
+          "highlight": true,
+          "reading": "いつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "分け",
+          "reading": "わけ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "92925",
+        "englishSentenceId": "310784",
+        "url": "https://tatoeba.org/en/sentences/show/92925"
+      }
+    },
+    "acceptedJapanese": [
+      "五つ",
+      "いつ"
+    ],
+    "acceptedEnglish": [
+      "five"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-two-1777217253011",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "二つ",
+    "kanji": "二つ",
+    "kana": "ふたつ",
+    "meaning": "two",
+    "explanation": "A JLPT N5 numeric meaning \"two\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "二",
+        "meanings": [
+          "two"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "姉は二つ上です。",
+      "english": "My sister is two years older than me.",
+      "furigana": [
+        {
+          "text": "姉",
+          "reading": "あね"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "二つ",
+          "highlight": true,
+          "reading": "ふたつ"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11047983",
+        "englishSentenceId": "11064008",
+        "url": "https://tatoeba.org/en/sentences/show/11047983"
+      }
+    },
+    "acceptedJapanese": [
+      "二つ",
+      "ふたつ"
+    ],
+    "acceptedEnglish": [
+      "two"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-mountain-1777217253014",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "山",
+    "kanji": "山",
+    "kana": "やま",
+    "meaning": "mountain",
+    "explanation": "A JLPT N5 noun, counter meaning \"mountain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "山",
+        "meanings": [
+          "mountain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その山は緑です。",
+      "english": "The mountain is green.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "山",
+          "highlight": true,
+          "reading": "やま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "緑",
+          "reading": "みどり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "963704",
+        "englishSentenceId": "963699",
+        "url": "https://tatoeba.org/en/sentences/show/963704"
+      }
+    },
+    "acceptedJapanese": [
+      "山",
+      "やま"
+    ],
+    "acceptedEnglish": [
+      "mountain",
+      "hill",
+      "mine",
+      "forest",
+      "heap",
+      "pile"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-four-1777217253047",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "四",
+    "kanji": "四",
+    "kana": "し",
+    "meaning": "four",
+    "explanation": "A JLPT N5 numeric meaning \"four\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "見て！四つ葉！",
+      "english": "Look! A four-leaf clover!",
+      "furigana": [
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "て！"
+        },
+        {
+          "text": "四",
+          "highlight": true,
+          "reading": "し"
+        },
+        {
+          "text": "つ葉",
+          "reading": "つば"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10746415",
+        "englishSentenceId": "9723101",
+        "url": "https://tatoeba.org/en/sentences/show/10746415"
+      }
+    },
+    "acceptedJapanese": [
+      "四",
+      "し"
+    ],
+    "acceptedEnglish": [
+      "four",
+      "4"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-how-many-1777217253074",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "幾つ",
+    "kanji": "幾つ",
+    "kana": "いくつ",
+    "meaning": "how many",
+    "explanation": "A JLPT N5 adverb meaning \"how many\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "幾",
+        "meanings": [
+          "how many"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お幾つですか？",
+      "english": "How old are you?",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "幾つ",
+          "highlight": true,
+          "reading": "いくつ"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12890884",
+        "englishSentenceId": "436243",
+        "url": "https://tatoeba.org/en/sentences/show/12890884"
+      }
+    },
+    "acceptedJapanese": [
+      "幾つ",
+      "いくつ"
+    ],
+    "acceptedEnglish": [
+      "how many",
+      "how old"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-eight-1777217253191",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "八つ",
+    "kanji": "八つ",
+    "kana": "やっつ",
+    "meaning": "eight",
+    "explanation": "A JLPT N5 numeric meaning \"eight\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "八",
+        "meanings": [
+          "eight"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は八つだ。",
+      "english": "She is eight.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "八つ",
+          "highlight": true,
+          "reading": "やっつ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1151917",
+        "englishSentenceId": "310214",
+        "url": "https://tatoeba.org/en/sentences/show/1151917"
+      }
+    },
+    "acceptedJapanese": [
+      "八つ",
+      "やっつ"
+    ],
+    "acceptedEnglish": [
+      "eight"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-ten-1777217253314",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "十",
+    "kanji": "十",
+    "kana": "じゅう",
+    "meaning": "ten",
+    "explanation": "A JLPT N5 numeric meaning \"ten\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "十",
+        "meanings": [
+          "ten"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "全部で十あります。",
+      "english": "There are ten in total.",
+      "furigana": [
+        {
+          "text": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "十",
+          "highlight": true,
+          "reading": "じゅう"
+        },
+        {
+          "text": "あります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10979889",
+        "englishSentenceId": "12599216",
+        "url": "https://tatoeba.org/en/sentences/show/10979889"
+      }
+    },
+    "acceptedJapanese": [
+      "十",
+      "じゅう"
+    ],
+    "acceptedEnglish": [
+      "ten",
+      "10"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-20-years-old-1777217253335",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "２０歳",
+    "kanji": "２０歳",
+    "kana": "２０はたち",
+    "meaning": "20 years old",
+    "explanation": "A JLPT N5 noun meaning \"20 years old\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歳",
+        "meanings": [
+          "20 years old"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は多く見ても２０歳というところだ。",
+      "english": "She's at most 20 years old.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ても"
+        },
+        {
+          "text": "２０歳",
+          "highlight": true,
+          "reading": "２０はたち"
+        },
+        {
+          "text": "というところだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "88068",
+        "englishSentenceId": "315638",
+        "url": "https://tatoeba.org/en/sentences/show/88068"
+      }
+    },
+    "acceptedJapanese": [
+      "２０歳",
+      "２０はたち"
+    ],
+    "acceptedEnglish": [
+      "20 years old"
+    ]
+  },
+  {
+    "id": "n5-numbers-counting-nine-1777217253377",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "九",
+    "kanji": "九",
+    "kana": "きゅう",
+    "meaning": "nine",
+    "explanation": "A JLPT N5 numeric meaning \"nine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "九",
+        "meanings": [
+          "nine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "新二は九つのココナッツを食べました。",
+      "english": "Shinji ate nine coconuts.",
+      "furigana": [
+        {
+          "text": "新",
+          "reading": "あたら"
+        },
+        {
+          "text": "二",
+          "reading": "に"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "九",
+          "highlight": true,
+          "reading": "きゅう"
+        },
+        {
+          "text": "つのココナッツを"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "べました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1856656",
+        "englishSentenceId": "1856667",
+        "url": "https://tatoeba.org/en/sentences/show/1856656"
+      }
+    },
+    "acceptedJapanese": [
+      "九",
+      "きゅう"
+    ],
+    "acceptedEnglish": [
+      "nine",
+      "9"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-one-1777217253455",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "一つ",
+    "kanji": "一つ",
+    "kana": "ひとつ",
+    "meaning": "one",
+    "explanation": "A JLPT N5 numeric meaning \"one\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一つは青。",
+      "english": "One is blue.",
+      "furigana": [
+        {
+          "text": "一つ",
+          "highlight": true,
+          "reading": "ひとつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "青",
+          "reading": "あお"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3507479",
+        "englishSentenceId": "2249741",
+        "url": "https://tatoeba.org/en/sentences/show/3507479"
+      }
+    },
+    "acceptedJapanese": [
+      "一つ",
+      "ひとつ"
+    ],
+    "acceptedEnglish": [
+      "one"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-half-1777217253500",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "半",
+    "kanji": "半",
+    "kana": "はん",
+    "meaning": "half",
+    "explanation": "A JLPT N5 noun, used as a prefix, noun meaning \"half\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "半",
+        "meanings": [
+          "half"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "肉を半㌔ください。",
+      "english": "Give me a half-kilo of meat.",
+      "furigana": [
+        {
+          "text": "肉",
+          "reading": "にく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "半",
+          "highlight": true,
+          "reading": "はん"
+        },
+        {
+          "text": "㌔ください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1490062",
+        "englishSentenceId": "1113260",
+        "url": "https://tatoeba.org/en/sentences/show/1490062"
+      }
+    },
+    "acceptedJapanese": [
+      "半",
+      "はん"
+    ],
+    "acceptedEnglish": [
+      "half",
+      "semi-",
+      "partial"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-half-1777217253527",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "半分",
+    "kanji": "半分",
+    "kana": "はんぶん",
+    "meaning": "half",
+    "explanation": "A JLPT N5 adverb, noun meaning \"half\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "半",
+        "meanings": [
+          "half"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "half"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "半分よこせ。",
+      "english": "Give me half.",
+      "furigana": [
+        {
+          "text": "半分",
+          "highlight": true,
+          "reading": "はんぶん"
+        },
+        {
+          "text": "よこせ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121255",
+        "englishSentenceId": "2043700",
+        "url": "https://tatoeba.org/en/sentences/show/121255"
+      }
+    },
+    "acceptedJapanese": [
+      "半分",
+      "はんぶん"
+    ],
+    "acceptedEnglish": [
+      "half"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-one-person-1777217253632",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "一人",
+    "kanji": "一人",
+    "kana": "ひとり",
+    "meaning": "one person",
+    "explanation": "A JLPT N5 noun meaning \"one person\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one person"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "one person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一人だ。",
+      "english": "I'm alone.",
+      "furigana": [
+        {
+          "text": "一人",
+          "highlight": true,
+          "reading": "ひとり"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2560046",
+        "englishSentenceId": "2111761",
+        "url": "https://tatoeba.org/en/sentences/show/2560046"
+      }
+    },
+    "acceptedJapanese": [
+      "一人",
+      "ひとり"
+    ],
+    "acceptedEnglish": [
+      "one person",
+      "being alone",
+      "being by oneself",
+      "being single",
+      "being unmarried"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-eight-1777217253854",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "八",
+    "kanji": "八",
+    "kana": "はち",
+    "meaning": "eight",
+    "explanation": "A JLPT N5 numeric meaning \"eight\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "八",
+        "meanings": [
+          "eight"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "孫は八つだよ。",
+      "english": "My grandchild is eight.",
+      "furigana": [
+        {
+          "text": "孫",
+          "reading": "まご"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "八",
+          "highlight": true,
+          "reading": "はち"
+        },
+        {
+          "text": "つだよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10798105",
+        "englishSentenceId": "11223742",
+        "url": "https://tatoeba.org/en/sentences/show/10798105"
+      }
+    },
+    "acceptedJapanese": [
+      "八",
+      "はち"
+    ],
+    "acceptedEnglish": [
+      "eight",
+      "8"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-seven-1777217253893",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "七",
+    "kanji": "七",
+    "kana": "しち",
+    "meaning": "seven",
+    "explanation": "A JLPT N5 numeric meaning \"seven\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "七",
+        "meanings": [
+          "seven"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "二かける七は十四です。",
+      "english": "Two times seven is fourteen.",
+      "furigana": [
+        {
+          "text": "二",
+          "reading": "に"
+        },
+        {
+          "text": "かける"
+        },
+        {
+          "text": "七",
+          "highlight": true,
+          "reading": "しち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "十四",
+          "reading": "じゅうし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3454067",
+        "englishSentenceId": "945547",
+        "url": "https://tatoeba.org/en/sentences/show/3454067"
+      }
+    },
+    "acceptedJapanese": [
+      "七",
+      "しち"
+    ],
+    "acceptedEnglish": [
+      "seven"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-zero-1777217253896",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "０",
+    "kanji": "０",
+    "kana": "０ゼロ",
+    "meaning": "zero",
+    "explanation": "A JLPT N5 noun meaning \"zero\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "「０」は日本語の言葉です。",
+      "english": "\"zero\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "０",
+          "reading": "０ゼロ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "０",
+      "０ゼロ"
+    ],
+    "acceptedEnglish": [
+      "zero",
+      "0",
+      "nought",
+      "nil",
+      "nothing",
+      "zilch"
+    ]
+  },
+  {
+    "id": "n5-numbers-counting-thousand-1777217253941",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "千",
+    "kanji": "千",
+    "kana": "せん",
+    "meaning": "thousand",
+    "explanation": "A JLPT N5 numeric meaning \"thousand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "千",
+        "meanings": [
+          "thousand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "千に百を加えると千百になる。",
+      "english": "If you add one hundred to one thousand, you get eleven hundred.",
+      "furigana": [
+        {
+          "text": "千",
+          "highlight": true,
+          "reading": "せん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "百",
+          "reading": "ひゃく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "加える",
+          "reading": "くわえる"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "千",
+          "reading": "せん"
+        },
+        {
+          "text": "百",
+          "reading": "ひゃく"
+        },
+        {
+          "text": "になる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141436",
+        "englishSentenceId": "273135",
+        "url": "https://tatoeba.org/en/sentences/show/141436"
+      }
+    },
+    "acceptedJapanese": [
+      "千",
+      "せん"
+    ],
+    "acceptedEnglish": [
+      "thousand",
+      "1",
+      "000"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-two-1777217253953",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "二",
+    "kanji": "二",
+    "kana": "に",
+    "meaning": "two",
+    "explanation": "A JLPT N5 numeric meaning \"two\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "二",
+        "meanings": [
+          "two"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "猫には耳が二つあります。",
+      "english": "Cats have two ears.",
+      "furigana": [
+        {
+          "text": "猫",
+          "reading": "ねこ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "耳",
+          "reading": "みみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "二",
+          "highlight": true,
+          "reading": "に"
+        },
+        {
+          "text": "つあります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12604355",
+        "englishSentenceId": "4492739",
+        "url": "https://tatoeba.org/en/sentences/show/12604355"
+      }
+    },
+    "acceptedJapanese": [
+      "二",
+      "に"
+    ],
+    "acceptedEnglish": [
+      "two",
+      "2"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-number-one-1777217253977",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "一番",
+    "kanji": "一番",
+    "kana": "いちばん",
+    "meaning": "number one",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"number one\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "number one"
+        ]
+      },
+      {
+        "kanji": "番",
+        "meanings": [
+          "number one"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私が一番。",
+      "english": "I'm first.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "一番",
+          "highlight": true,
+          "reading": "いちばん"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2562498",
+        "englishSentenceId": "2202863",
+        "url": "https://tatoeba.org/en/sentences/show/2562498"
+      }
+    },
+    "acceptedJapanese": [
+      "一番",
+      "いちばん"
+    ],
+    "acceptedEnglish": [
+      "number one",
+      "first",
+      "first place"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-kilogram-1777217253980",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "瓩",
+    "kanji": "瓩",
+    "kana": "キログラム",
+    "meaning": "kilogram",
+    "explanation": "A JLPT N5 noun meaning \"kilogram\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "瓩",
+        "meanings": [
+          "kilogram"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「瓩」は日本語の言葉です。",
+      "english": "\"kilogram\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "瓩",
+          "reading": "キログラム",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "瓩",
+      "キログラム"
+    ],
+    "acceptedEnglish": [
+      "kilogram",
+      "kilogramme"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-two-persons-1777217254100",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "二人",
+    "kanji": "二人",
+    "kana": "ふたり",
+    "meaning": "two persons",
+    "explanation": "A JLPT N5 noun meaning \"two persons\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "二",
+        "meanings": [
+          "two persons"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "two persons"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "二人とも知ってるよ。",
+      "english": "I know both persons.",
+      "furigana": [
+        {
+          "text": "二人",
+          "highlight": true,
+          "reading": "ふたり"
+        },
+        {
+          "text": "とも"
+        },
+        {
+          "text": "知",
+          "reading": "ち"
+        },
+        {
+          "text": "ってるよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10619229",
+        "englishSentenceId": "8969203",
+        "url": "https://tatoeba.org/en/sentences/show/10619229"
+      }
+    },
+    "acceptedJapanese": [
+      "二人",
+      "ふたり"
+    ],
+    "acceptedEnglish": [
+      "two persons",
+      "two people",
+      "pair",
+      "couple"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-page-1777217254112",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "頁",
+    "kanji": "頁",
+    "kana": "ページ",
+    "meaning": "page",
+    "explanation": "A JLPT N5 noun, counter meaning \"page\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頁",
+        "meanings": [
+          "page"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "１０頁を参照してください。",
+      "english": "Please refer to page ten.",
+      "furigana": [
+        {
+          "text": "１０"
+        },
+        {
+          "text": "頁",
+          "highlight": true,
+          "reading": "ページ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "参照",
+          "reading": "さんしょう"
+        },
+        {
+          "text": "してください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235985",
+        "englishSentenceId": "73367",
+        "url": "https://tatoeba.org/en/sentences/show/235985"
+      }
+    },
+    "acceptedJapanese": [
+      "頁",
+      "ページ"
+    ],
+    "acceptedEnglish": [
+      "page"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-numbers-counting-three-1777217254115",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "三",
+    "kanji": "三",
+    "kana": "さん",
+    "meaning": "three",
+    "explanation": "A JLPT N5 numeric meaning \"three\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "三",
+        "meanings": [
+          "three"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これを三つください。",
+      "english": "I'd like three of these.",
+      "furigana": [
+        {
+          "text": "これを"
+        },
+        {
+          "text": "三",
+          "highlight": true,
+          "reading": "さん"
+        },
+        {
+          "text": "つください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217647",
+        "englishSentenceId": "54957",
+        "url": "https://tatoeba.org/en/sentences/show/217647"
+      }
+    },
+    "acceptedJapanese": [
+      "三",
+      "さん"
+    ],
+    "acceptedEnglish": [
+      "three",
+      "3"
+    ]
+  },
+  {
+    "id": "n5-numbers-counting-how-much-1777217254118",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "幾ら",
+    "kanji": "幾ら",
+    "kana": "いくら",
+    "meaning": "how much",
+    "explanation": "A JLPT N5 noun, adverb meaning \"how much\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "幾",
+        "meanings": [
+          "how much"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "幾らするの？",
+      "english": "How much is it?",
+      "furigana": [
+        {
+          "text": "幾ら",
+          "highlight": true,
+          "reading": "いくら"
+        },
+        {
+          "text": "するの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12296457",
+        "englishSentenceId": "2418",
+        "url": "https://tatoeba.org/en/sentences/show/12296457"
+      }
+    },
+    "acceptedJapanese": [
+      "幾ら",
+      "いくら"
+    ],
+    "acceptedEnglish": [
+      "how much"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-hundred-1777217254130",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "百",
+    "kanji": "百",
+    "kana": "ひゃく",
+    "meaning": "hundred",
+    "explanation": "A JLPT N5 numeric meaning \"hundred\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "百",
+        "meanings": [
+          "hundred"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "百も承知です。",
+      "english": "You're telling me.",
+      "furigana": [
+        {
+          "text": "百",
+          "highlight": true,
+          "reading": "ひゃく"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "承知",
+          "reading": "しょうち"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5437138",
+        "englishSentenceId": "716497",
+        "url": "https://tatoeba.org/en/sentences/show/5437138"
+      }
+    },
+    "acceptedJapanese": [
+      "百",
+      "ひゃく"
+    ],
+    "acceptedEnglish": [
+      "hundred",
+      "100"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-one-1777217254169",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "一",
+    "kanji": "一",
+    "kana": "いち",
+    "meaning": "one",
+    "explanation": "A JLPT N5 numeric, prefix meaning \"one\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一の前はゼロです。",
+      "english": "Zero comes before one.",
+      "furigana": [
+        {
+          "text": "一",
+          "highlight": true,
+          "reading": "いち"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "はゼロです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "904998",
+        "englishSentenceId": "682520",
+        "url": "https://tatoeba.org/en/sentences/show/904998"
+      }
+    },
+    "acceptedJapanese": [
+      "一",
+      "いち"
+    ],
+    "acceptedEnglish": [
+      "one",
+      "1"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-zero-1777217254187",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "零",
+    "kanji": "零",
+    "kana": "れい",
+    "meaning": "zero",
+    "explanation": "A JLPT N5 noun meaning \"zero\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "零",
+        "meanings": [
+          "zero"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "零、一、二、三、四、五、六、七、八、九、十。",
+      "english": "Zero, one, two, three, four, five, six, seven, eight, nine, ten.",
+      "furigana": [
+        {
+          "text": "零",
+          "highlight": true,
+          "reading": "れい"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "一",
+          "reading": "いち"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "二",
+          "reading": "に"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "三",
+          "reading": "さん"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "四",
+          "reading": "し"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "五",
+          "reading": "ご"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "六",
+          "reading": "ろく"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "七",
+          "reading": "しち"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "八",
+          "reading": "はち"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "九",
+          "reading": "きゅう"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "十",
+          "reading": "じゅう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9714208",
+        "englishSentenceId": "2025467",
+        "url": "https://tatoeba.org/en/sentences/show/9714208"
+      }
+    },
+    "acceptedJapanese": [
+      "零",
+      "れい"
+    ],
+    "acceptedEnglish": [
+      "zero",
+      "nought"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-kilometre-1777217254322",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "粁",
+    "kanji": "粁",
+    "kana": "キロメートル",
+    "meaning": "kilometre",
+    "explanation": "A JLPT N5 noun meaning \"kilometre\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "粁",
+        "meanings": [
+          "kilometre"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「粁」は日本語の言葉です。",
+      "english": "\"kilometre\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "粁",
+          "reading": "キロメートル",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "粁",
+      "キロメートル"
+    ],
+    "acceptedEnglish": [
+      "kilometre"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-seven-1777217254340",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "七つ",
+    "kanji": "七つ",
+    "kana": "ななつ",
+    "meaning": "seven",
+    "explanation": "A JLPT N5 numeric meaning \"seven\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "七",
+        "meanings": [
+          "seven"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "english": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "furigana": [
+        {
+          "text": "一つ",
+          "reading": "ひとつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "二つ",
+          "reading": "ふたつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "三つ",
+          "reading": "みっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "四つ",
+          "reading": "よっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "五つ",
+          "reading": "いつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "六つ",
+          "reading": "むっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "七つ",
+          "highlight": true,
+          "reading": "ななつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "八つ",
+          "reading": "やっつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "九つ",
+          "reading": "ここのつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "十",
+          "reading": "じゅう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "349891",
+        "englishSentenceId": "413731",
+        "url": "https://tatoeba.org/en/sentences/show/349891"
+      }
+    },
+    "acceptedJapanese": [
+      "七つ",
+      "ななつ"
+    ],
+    "acceptedEnglish": [
+      "seven"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-numbers-counting-four-1777217254355",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "四つ",
+    "kanji": "四つ",
+    "kana": "よっつ",
+    "meaning": "four",
+    "explanation": "A JLPT N5 numeric meaning \"four\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "見て！四つ葉のクローバーよ！",
+      "english": "Look! A four-leaf clover!",
+      "furigana": [
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "て！"
+        },
+        {
+          "text": "四つ",
+          "highlight": true,
+          "reading": "よっつ"
+        },
+        {
+          "text": "葉",
+          "reading": "は"
+        },
+        {
+          "text": "のクローバーよ！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10746416",
+        "englishSentenceId": "9723101",
+        "url": "https://tatoeba.org/en/sentences/show/10746416"
+      }
+    },
+    "acceptedJapanese": [
+      "四つ",
+      "よっつ"
+    ],
+    "acceptedEnglish": [
+      "four",
+      "4"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-three-1777217254475",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "三つ",
+    "kanji": "三つ",
+    "kana": "みっつ",
+    "meaning": "three",
+    "explanation": "A JLPT N5 numeric meaning \"three\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "三",
+        "meanings": [
+          "three"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "コーヒー三つおねがいします。",
+      "english": "Three coffees, please.",
+      "furigana": [
+        {
+          "text": "コーヒー"
+        },
+        {
+          "text": "三つ",
+          "highlight": true,
+          "reading": "みっつ"
+        },
+        {
+          "text": "おねがいします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224844",
+        "englishSentenceId": "62180",
+        "url": "https://tatoeba.org/en/sentences/show/224844"
+      }
+    },
+    "acceptedJapanese": [
+      "三つ",
+      "みっつ"
+    ],
+    "acceptedEnglish": [
+      "three"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-numbers-counting-five-1777217254493",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "五",
+    "kanji": "五",
+    "kana": "ご",
+    "meaning": "five",
+    "explanation": "A JLPT N5 numeric meaning \"five\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "五",
+        "meanings": [
+          "five"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "五の五倍は二十五。",
+      "english": "Five times five is twenty-five.",
+      "furigana": [
+        {
+          "text": "五",
+          "highlight": true,
+          "reading": "ご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "五",
+          "reading": "ご"
+        },
+        {
+          "text": "倍",
+          "reading": "ばい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "二",
+          "reading": "に"
+        },
+        {
+          "text": "十五",
+          "reading": "じゅうご"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1954017",
+        "englishSentenceId": "2053933",
+        "url": "https://tatoeba.org/en/sentences/show/1954017"
+      }
+    },
+    "acceptedJapanese": [
+      "五",
+      "ご"
+    ],
+    "acceptedEnglish": [
+      "five",
+      "5"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-numbers-counting-kilo-1777217254499",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "キロ",
+    "kanji": "キロ",
+    "kana": "キロ",
+    "meaning": "kilo-",
+    "explanation": "A JLPT N5 prefix meaning \"kilo-\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "約３．２キロです。",
+      "english": "It's about two miles.",
+      "furigana": [
+        {
+          "text": "約",
+          "reading": "やく"
+        },
+        {
+          "text": "３．２"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "キロ"
+        },
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "キロ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10140594",
+        "englishSentenceId": "72903",
+        "url": "https://tatoeba.org/en/sentences/show/10140594"
+      }
+    },
+    "acceptedJapanese": [
+      "キロ"
+    ],
+    "acceptedEnglish": [
+      "kilo-",
+      "1000",
+      "1024",
+      "2^10"
+    ]
+  },
+  {
+    "id": "n5-numbers-counting-nine-1777217254565",
+    "jlpt": "N5",
+    "subcategory": "Numbers/Counting",
+    "name": "九つ",
+    "kanji": "九つ",
+    "kana": "ここのつ",
+    "meaning": "nine",
+    "explanation": "A JLPT N5 numeric meaning \"nine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "九",
+        "meanings": [
+          "nine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "新二は九つのココナッツを食べました。",
+      "english": "Shinji ate nine coconuts.",
+      "furigana": [
+        {
+          "text": "新",
+          "reading": "あたら"
+        },
+        {
+          "text": "二",
+          "reading": "に"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "九つ",
+          "highlight": true,
+          "reading": "ここのつ"
+        },
+        {
+          "text": "のココナッツを"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "べました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1856656",
+        "englishSentenceId": "1856667",
+        "url": "https://tatoeba.org/en/sentences/show/1856656"
+      }
+    },
+    "acceptedJapanese": [
+      "九つ",
+      "ここのつ"
+    ],
+    "acceptedEnglish": [
+      "nine"
+    ],
+    "pitchAccentNumber": 2
+  }
+]

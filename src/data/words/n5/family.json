@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "n5-family-aunt-1777217252786",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "伯母さん",
+    "kanji": "伯母さん",
+    "kana": "おばさん",
+    "meaning": "aunt",
+    "explanation": "A JLPT N5 noun meaning \"aunt\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "伯",
+        "meanings": [
+          "aunt"
+        ]
+      },
+      {
+        "kanji": "母",
+        "meanings": [
+          "aunt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「伯母さん」は日本語の言葉です。",
+      "english": "\"aunt\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "伯母さん",
+          "reading": "おばさん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "伯母さん",
+      "おばさん"
+    ],
+    "acceptedEnglish": [
+      "aunt"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-family-father-1777217252813",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お父さん",
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "meaning": "father",
+    "explanation": "A JLPT N5 noun meaning \"father\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "父",
+        "meanings": [
+          "father"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お父さんはどこですか。",
+      "english": "Where is Father?",
+      "furigana": [
+        {
+          "text": "お父さん",
+          "highlight": true,
+          "reading": "おとうさん"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "226727",
+        "englishSentenceId": "64072",
+        "url": "https://tatoeba.org/en/sentences/show/226727"
+      }
+    },
+    "acceptedJapanese": [
+      "お父さん",
+      "おとうさん"
+    ],
+    "acceptedEnglish": [
+      "father",
+      "dad",
+      "papa",
+      "pa",
+      "pop",
+      "daddy"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-family-parents-1777217252945",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "両親",
+    "kanji": "両親",
+    "kana": "りょうしん",
+    "meaning": "parents",
+    "explanation": "A JLPT N5 noun meaning \"parents\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "両",
+        "meanings": [
+          "parents"
+        ]
+      },
+      {
+        "kanji": "親",
+        "meanings": [
+          "parents"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご両親は元気ですか。",
+      "english": "How are your parents?",
+      "furigana": [
+        {
+          "text": "ご"
+        },
+        {
+          "text": "両親",
+          "highlight": true,
+          "reading": "りょうしん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "元気",
+          "reading": "げんき"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1174885",
+        "englishSentenceId": "984500",
+        "url": "https://tatoeba.org/en/sentences/show/1174885"
+      }
+    },
+    "acceptedJapanese": [
+      "両親",
+      "りょうしん"
+    ],
+    "acceptedEnglish": [
+      "parents",
+      "both parents"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-family-family-1777217252984",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "家族",
+    "kanji": "家族",
+    "kana": "かぞく",
+    "meaning": "family",
+    "explanation": "A JLPT N5 noun meaning \"family\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "family"
+        ]
+      },
+      {
+        "kanji": "族",
+        "meanings": [
+          "family"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家族は４人です。",
+      "english": "We are a family of four.",
+      "furigana": [
+        {
+          "text": "家族",
+          "highlight": true,
+          "reading": "かぞく"
+        },
+        {
+          "text": "は４"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186941",
+        "englishSentenceId": "24078",
+        "url": "https://tatoeba.org/en/sentences/show/186941"
+      }
+    },
+    "acceptedJapanese": [
+      "家族",
+      "かぞく"
+    ],
+    "acceptedEnglish": [
+      "family"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-family-older-brother-1777217253008",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お兄さん",
+    "kanji": "お兄さん",
+    "kana": "おにいさん",
+    "meaning": "older brother",
+    "explanation": "A JLPT N5 noun meaning \"older brother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "兄",
+        "meanings": [
+          "older brother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お兄さんは何歳ですか？",
+      "english": "How old is your brother?",
+      "furigana": [
+        {
+          "text": "お兄さん",
+          "highlight": true,
+          "reading": "おにいさん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何",
+          "reading": "なに"
+        },
+        {
+          "text": "歳",
+          "reading": "とし"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11140874",
+        "englishSentenceId": "5656546",
+        "url": "https://tatoeba.org/en/sentences/show/11140874"
+      }
+    },
+    "acceptedJapanese": [
+      "お兄さん",
+      "おにいさん"
+    ],
+    "acceptedEnglish": [
+      "older brother",
+      "elder brother",
+      "young man",
+      "buddy",
+      "fella",
+      "laddie"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-family-marriage-1777217253029",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "結婚",
+    "kanji": "結婚",
+    "kana": "けっこん",
+    "meaning": "marriage",
+    "explanation": "A JLPT N5 noun, suru noun, intransitive verb meaning \"marriage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "結",
+        "meanings": [
+          "marriage"
+        ]
+      },
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marriage"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "結婚に反対です。",
+      "english": "I'm against marriage.",
+      "furigana": [
+        {
+          "text": "結婚",
+          "highlight": true,
+          "reading": "けっこん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12378545",
+        "englishSentenceId": "4094782",
+        "url": "https://tatoeba.org/en/sentences/show/12378545"
+      }
+    },
+    "acceptedJapanese": [
+      "結婚",
+      "けっこん"
+    ],
+    "acceptedEnglish": [
+      "marriage"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-family-wife-1777217253131",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "奥さん",
+    "kanji": "奥さん",
+    "kana": "おくさん",
+    "meaning": "wife",
+    "explanation": "A JLPT N5 noun meaning \"wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "奥",
+        "meanings": [
+          "wife"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "奥さんはお元気？",
+      "english": "How's the wife?",
+      "furigana": [
+        {
+          "text": "奥さん",
+          "highlight": true,
+          "reading": "おくさん"
+        },
+        {
+          "text": "はお"
+        },
+        {
+          "text": "元気",
+          "reading": "げんき"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188552",
+        "englishSentenceId": "4489148",
+        "url": "https://tatoeba.org/en/sentences/show/188552"
+      }
+    },
+    "acceptedJapanese": [
+      "奥さん",
+      "おくさん"
+    ],
+    "acceptedEnglish": [
+      "wife",
+      "your wife",
+      "his wife",
+      "married lady",
+      "madam"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-family-grandmother-1777217253146",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お祖母さん",
+    "kanji": "お祖母さん",
+    "kana": "おばあさん",
+    "meaning": "grandmother",
+    "explanation": "A JLPT N5 noun meaning \"grandmother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祖",
+        "meanings": [
+          "grandmother"
+        ]
+      },
+      {
+        "kanji": "母",
+        "meanings": [
+          "grandmother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お祖母さんが座布団の上にちんまりとすわっていました。",
+      "english": "The old woman was snugly sitting on a cushion.",
+      "furigana": [
+        {
+          "text": "お祖母さん",
+          "highlight": true,
+          "reading": "おばあさん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "座布団",
+          "reading": "ざぶとん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "にちんまりとすわっていました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76808",
+        "englishSentenceId": "326912",
+        "url": "https://tatoeba.org/en/sentences/show/76808"
+      }
+    },
+    "acceptedJapanese": [
+      "お祖母さん",
+      "おばあさん"
+    ],
+    "acceptedEnglish": [
+      "grandmother",
+      "old woman",
+      "female senior citizen"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-family-child-1777217253176",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "子供",
+    "kanji": "子供",
+    "kana": "こども",
+    "meaning": "child",
+    "explanation": "A JLPT N5 noun meaning \"child\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "子",
+        "meanings": [
+          "child"
+        ]
+      },
+      {
+        "kanji": "供",
+        "meanings": [
+          "child"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "子供がいますか。",
+      "english": "Do you have a child?",
+      "furigana": [
+        {
+          "text": "子供",
+          "highlight": true,
+          "reading": "こども"
+        },
+        {
+          "text": "がいますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1484854",
+        "englishSentenceId": "852857",
+        "url": "https://tatoeba.org/en/sentences/show/1484854"
+      }
+    },
+    "acceptedJapanese": [
+      "子供",
+      "こども"
+    ],
+    "acceptedEnglish": [
+      "child",
+      "children"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-family-uncle-1777217253392",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "伯父さん",
+    "kanji": "伯父さん",
+    "kana": "おじさん",
+    "meaning": "uncle",
+    "explanation": "A JLPT N5 noun meaning \"uncle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "伯",
+        "meanings": [
+          "uncle"
+        ]
+      },
+      {
+        "kanji": "父",
+        "meanings": [
+          "uncle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お父さんじゃなくて、伯父さんよ。",
+      "english": "He's my uncle, not my father.",
+      "furigana": [
+        {
+          "text": "お父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "text": "じゃなくて、"
+        },
+        {
+          "text": "伯父さん",
+          "highlight": true,
+          "reading": "おじさん"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12164691",
+        "englishSentenceId": "10178478",
+        "url": "https://tatoeba.org/en/sentences/show/12164691"
+      }
+    },
+    "acceptedJapanese": [
+      "伯父さん",
+      "おじさん"
+    ],
+    "acceptedEnglish": [
+      "uncle",
+      "old man",
+      "mister",
+      "manybar goatfish"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-family-younger-sister-1777217253410",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "妹",
+    "kanji": "妹",
+    "kana": "いもうと",
+    "meaning": "younger sister",
+    "explanation": "A JLPT N5 noun meaning \"younger sister\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "妹",
+        "meanings": [
+          "younger sister"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは妹の物です。",
+      "english": "This is my sister's.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "妹",
+          "highlight": true,
+          "reading": "いもうと"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "物",
+          "reading": "もの"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10179156",
+        "englishSentenceId": "9966245",
+        "url": "https://tatoeba.org/en/sentences/show/10179156"
+      }
+    },
+    "acceptedJapanese": [
+      "妹",
+      "いもうと"
+    ],
+    "acceptedEnglish": [
+      "younger sister"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n5-family-older-sister-1777217253560",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お姉さん",
+    "kanji": "お姉さん",
+    "kana": "おねえさん",
+    "meaning": "older sister",
+    "explanation": "A JLPT N5 noun meaning \"older sister\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "姉",
+        "meanings": [
+          "older sister"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お姉さんはお元気ですか。",
+      "english": "How's your sister?",
+      "furigana": [
+        {
+          "text": "お姉さん",
+          "highlight": true,
+          "reading": "おねえさん"
+        },
+        {
+          "text": "はお"
+        },
+        {
+          "text": "元気",
+          "reading": "げんき"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2196428",
+        "englishSentenceId": "322300",
+        "url": "https://tatoeba.org/en/sentences/show/2196428"
+      }
+    },
+    "acceptedJapanese": [
+      "お姉さん",
+      "おねえさん"
+    ],
+    "acceptedEnglish": [
+      "older sister",
+      "elder sister",
+      "young lady",
+      "miss",
+      "ma'am",
+      "older girl"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-family-older-brother-1777217253686",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "兄",
+    "kanji": "兄",
+    "kana": "あに",
+    "meaning": "older brother",
+    "explanation": "A JLPT N5 noun meaning \"older brother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "兄",
+        "meanings": [
+          "older brother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "兄がいます。",
+      "english": "I have a brother.",
+      "furigana": [
+        {
+          "text": "兄",
+          "highlight": true,
+          "reading": "あに"
+        },
+        {
+          "text": "がいます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176635",
+        "englishSentenceId": "2358668",
+        "url": "https://tatoeba.org/en/sentences/show/176635"
+      }
+    },
+    "acceptedJapanese": [
+      "兄",
+      "あに"
+    ],
+    "acceptedEnglish": [
+      "older brother",
+      "elder brother",
+      "brother-in-law"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-family-siblings-1777217253881",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "兄弟",
+    "kanji": "兄弟",
+    "kana": "きょうだい",
+    "meaning": "siblings",
+    "explanation": "A JLPT N5 noun meaning \"siblings\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "兄",
+        "meanings": [
+          "siblings"
+        ]
+      },
+      {
+        "kanji": "弟",
+        "meanings": [
+          "siblings"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは兄弟ですか。",
+      "english": "Are they brothers?",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "兄弟",
+          "highlight": true,
+          "reading": "きょうだい"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6619676",
+        "englishSentenceId": "3738521",
+        "url": "https://tatoeba.org/en/sentences/show/6619676"
+      }
+    },
+    "acceptedJapanese": [
+      "兄弟",
+      "きょうだい"
+    ],
+    "acceptedEnglish": [
+      "siblings",
+      "brothers and sisters",
+      "brothers",
+      "siblings-in-law",
+      "brothers-in-law",
+      "sisters-in-law"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-family-mother-1777217254064",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お母さん",
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "meaning": "mother",
+    "explanation": "A JLPT N5 noun meaning \"mother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "母",
+        "meanings": [
+          "mother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お母さんはどこ？",
+      "english": "Where is mother?",
+      "furigana": [
+        {
+          "text": "お母さん",
+          "highlight": true,
+          "reading": "おかあさん"
+        },
+        {
+          "text": "はどこ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "226610",
+        "englishSentenceId": "63954",
+        "url": "https://tatoeba.org/en/sentences/show/226610"
+      }
+    },
+    "acceptedJapanese": [
+      "お母さん",
+      "おかあさん"
+    ],
+    "acceptedEnglish": [
+      "mother",
+      "mom",
+      "mum",
+      "ma",
+      "wife"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-family-older-sister-1777217254370",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "姉",
+    "kanji": "姉",
+    "kana": "あね",
+    "meaning": "older sister",
+    "explanation": "A JLPT N5 noun meaning \"older sister\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "姉",
+        "meanings": [
+          "older sister"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "姉は大学生です。",
+      "english": "My sister is in college.",
+      "furigana": [
+        {
+          "text": "姉",
+          "highlight": true,
+          "reading": "あね"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大学生",
+          "reading": "だいがくせい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10778223",
+        "englishSentenceId": "9194445",
+        "url": "https://tatoeba.org/en/sentences/show/10778223"
+      }
+    },
+    "acceptedJapanese": [
+      "姉",
+      "あね"
+    ],
+    "acceptedEnglish": [
+      "older sister",
+      "elder sister"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-family-grandfather-1777217254451",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "お祖父さん",
+    "kanji": "お祖父さん",
+    "kana": "おじいさん",
+    "meaning": "grandfather",
+    "explanation": "A JLPT N5 noun meaning \"grandfather\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祖",
+        "meanings": [
+          "grandfather"
+        ]
+      },
+      {
+        "kanji": "父",
+        "meanings": [
+          "grandfather"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お祖父さんがかなり老衰している。",
+      "english": "Grandfather is quite senile.",
+      "furigana": [
+        {
+          "text": "お祖父さん",
+          "highlight": true,
+          "reading": "おじいさん"
+        },
+        {
+          "text": "がかなり"
+        },
+        {
+          "text": "老衰",
+          "reading": "ろうすい"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76809",
+        "englishSentenceId": "326911",
+        "url": "https://tatoeba.org/en/sentences/show/76809"
+      }
+    },
+    "acceptedJapanese": [
+      "お祖父さん",
+      "おじいさん"
+    ],
+    "acceptedEnglish": [
+      "grandfather",
+      "male senior-citizen",
+      "old man"
+    ],
+    "pitchAccentNumber": 2
+  }
+]

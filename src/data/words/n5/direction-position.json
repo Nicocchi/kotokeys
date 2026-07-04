@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "n5-direction-position-direction-1777217252729",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "方",
+    "kanji": "方",
+    "kana": "ほう",
+    "meaning": "direction",
+    "explanation": "A JLPT N5 noun meaning \"direction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "弱い方に味方する。",
+      "english": "I side with a weaker party.",
+      "furigana": [
+        {
+          "text": "弱い",
+          "reading": "よわい"
+        },
+        {
+          "text": "方",
+          "highlight": true,
+          "reading": "ほう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "味方",
+          "reading": "みかた"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148720",
+        "englishSentenceId": "265839",
+        "url": "https://tatoeba.org/en/sentences/show/148720"
+      }
+    },
+    "acceptedJapanese": [
+      "方",
+      "ほう"
+    ],
+    "acceptedEnglish": [
+      "direction",
+      "way",
+      "side",
+      "area",
+      "one's part",
+      "type"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-direction-position-south-1777217252783",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "南",
+    "kanji": "南",
+    "kana": "みなみ",
+    "meaning": "south",
+    "explanation": "A JLPT N5 noun meaning \"south\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "南",
+        "meanings": [
+          "south"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風は南へ吹く。",
+      "english": "The wind blows south.",
+      "furigana": [
+        {
+          "text": "風",
+          "reading": "かぜ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "南",
+          "highlight": true,
+          "reading": "みなみ"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "吹く",
+          "reading": "ふく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "84005",
+        "englishSentenceId": "319710",
+        "url": "https://tatoeba.org/en/sentences/show/84005"
+      }
+    },
+    "acceptedJapanese": [
+      "南",
+      "みなみ"
+    ],
+    "acceptedEnglish": [
+      "south"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-west-1777217252951",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "西",
+    "kanji": "西",
+    "kana": "にし",
+    "meaning": "west",
+    "explanation": "A JLPT N5 noun meaning \"west\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "西",
+        "meanings": [
+          "west"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日は西に沈む。",
+      "english": "The sun sets in the west.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "西",
+          "highlight": true,
+          "reading": "にし"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "沈む",
+          "reading": "しずむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122904",
+        "englishSentenceId": "275141",
+        "url": "https://tatoeba.org/en/sentences/show/122904"
+      }
+    },
+    "acceptedJapanese": [
+      "西",
+      "にし"
+    ],
+    "acceptedEnglish": [
+      "west"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-near-1777217253044",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "近く",
+    "kanji": "近く",
+    "kana": "ちかく",
+    "meaning": "near",
+    "explanation": "A JLPT N5 noun, no adjective, adverb meaning \"near\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "近",
+        "meanings": [
+          "near"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "近くにいる？",
+      "english": "Are you nearby?",
+      "furigana": [
+        {
+          "text": "近く",
+          "highlight": true,
+          "reading": "ちかく"
+        },
+        {
+          "text": "にいる？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12962651",
+        "englishSentenceId": "11897820",
+        "url": "https://tatoeba.org/en/sentences/show/12962651"
+      }
+    },
+    "acceptedJapanese": [
+      "近く",
+      "ちかく"
+    ],
+    "acceptedEnglish": [
+      "near",
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-direction-position-left-1777217253068",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "左",
+    "kanji": "左",
+    "kana": "ひだり",
+    "meaning": "left",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"left\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "左",
+        "meanings": [
+          "left"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "左に曲がって。",
+      "english": "Turn left.",
+      "furigana": [
+        {
+          "text": "左",
+          "highlight": true,
+          "reading": "ひだり"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "曲",
+          "reading": "ま"
+        },
+        {
+          "text": "がって。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5253128",
+        "englishSentenceId": "464284",
+        "url": "https://tatoeba.org/en/sentences/show/5253128"
+      }
+    },
+    "acceptedJapanese": [
+      "左",
+      "ひだり"
+    ],
+    "acceptedEnglish": [
+      "left",
+      "left-hand side"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-which-way-1777217253275",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "何方",
+    "kanji": "何方",
+    "kana": "どちら",
+    "meaning": "which way",
+    "explanation": "A JLPT N5 pronoun meaning \"which way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "何",
+        "meanings": [
+          "which way"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "which way"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「何方」は日本語の言葉です。",
+      "english": "\"which way\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "何方",
+          "reading": "どちら",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "何方",
+      "どちら"
+    ],
+    "acceptedEnglish": [
+      "which way",
+      "which direction",
+      "where",
+      "which one",
+      "who"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-direction-position-this-way-1777217253278",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "此方",
+    "kanji": "此方",
+    "kana": "こちら",
+    "meaning": "this way",
+    "explanation": "A JLPT N5 pronoun meaning \"this way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "此",
+        "meanings": [
+          "this way"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "this way"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「此方」は日本語の言葉です。",
+      "english": "\"this way\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "此方",
+          "reading": "こちら",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "此方",
+      "こちら"
+    ],
+    "acceptedEnglish": [
+      "this way",
+      "this direction",
+      "here",
+      "this",
+      "I",
+      "me"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-north-1777217253644",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "北",
+    "kanji": "北",
+    "kana": "きた",
+    "meaning": "north",
+    "explanation": "A JLPT N5 noun meaning \"north\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "北",
+        "meanings": [
+          "north"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "北って、どっち？",
+      "english": "Which direction is north?",
+      "furigana": [
+        {
+          "text": "北",
+          "highlight": true,
+          "reading": "きた"
+        },
+        {
+          "text": "って、どっち？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11589034",
+        "englishSentenceId": "10022979",
+        "url": "https://tatoeba.org/en/sentences/show/11589034"
+      }
+    },
+    "acceptedJapanese": [
+      "北",
+      "きた"
+    ],
+    "acceptedEnglish": [
+      "north",
+      "the North",
+      "northern territories",
+      "North Korea"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-opposite-side-1777217253647",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "向こう",
+    "kanji": "向こう",
+    "kana": "むこう",
+    "meaning": "opposite side",
+    "explanation": "A JLPT N5 noun meaning \"opposite side\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "向",
+        "meanings": [
+          "opposite side"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "向こうへ行け！",
+      "english": "Go over there.",
+      "furigana": [
+        {
+          "text": "向こう",
+          "highlight": true,
+          "reading": "むこう"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "け！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173836",
+        "englishSentenceId": "2763588",
+        "url": "https://tatoeba.org/en/sentences/show/173836"
+      }
+    },
+    "acceptedJapanese": [
+      "向こう",
+      "むこう"
+    ],
+    "acceptedEnglish": [
+      "opposite side",
+      "other side",
+      "over there",
+      "ahead",
+      "beyond",
+      "distance"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-direction-position-horizontal-1777217253797",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "横",
+    "kanji": "横",
+    "kana": "よこ",
+    "meaning": "horizontal",
+    "explanation": "A JLPT N5 noun meaning \"horizontal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "横",
+        "meanings": [
+          "horizontal"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "横に座って。",
+      "english": "Sit beside me.",
+      "furigana": [
+        {
+          "text": "横",
+          "highlight": true,
+          "reading": "よこ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "座",
+          "reading": "ざ"
+        },
+        {
+          "text": "って。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9732763",
+        "englishSentenceId": "250344",
+        "url": "https://tatoeba.org/en/sentences/show/9732763"
+      }
+    },
+    "acceptedJapanese": [
+      "横",
+      "よこ"
+    ],
+    "acceptedEnglish": [
+      "horizontal",
+      "side-to-side",
+      "width",
+      "breadth",
+      "side",
+      "beside"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-next-1777217253956",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "隣",
+    "kanji": "隣",
+    "kana": "となり",
+    "meaning": "next",
+    "explanation": "A JLPT N5 no adjective, noun meaning \"next\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "隣",
+        "meanings": [
+          "next"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "隣どうぞ。",
+      "english": "Come sit next to me.",
+      "furigana": [
+        {
+          "text": "隣",
+          "highlight": true,
+          "reading": "となり"
+        },
+        {
+          "text": "どうぞ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8553952",
+        "englishSentenceId": "8553859",
+        "url": "https://tatoeba.org/en/sentences/show/8553952"
+      }
+    },
+    "acceptedJapanese": [
+      "隣",
+      "となり"
+    ],
+    "acceptedEnglish": [
+      "next",
+      "adjoining",
+      "adjacent"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-that-way-1777217254022",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "彼方",
+    "kanji": "彼方",
+    "kana": "あちら",
+    "meaning": "that way",
+    "explanation": "A JLPT N5 pronoun meaning \"that way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "彼",
+        "meanings": [
+          "that way"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "that way"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "はるか彼方に明かりが見えた。",
+      "english": "We saw a light far away.",
+      "furigana": [
+        {
+          "text": "はるか"
+        },
+        {
+          "text": "彼方",
+          "highlight": true,
+          "reading": "あちら"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "明かり",
+          "reading": "あかり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "見え",
+          "reading": "みえ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10667317",
+        "englishSentenceId": "51956",
+        "url": "https://tatoeba.org/en/sentences/show/10667317"
+      }
+    },
+    "acceptedJapanese": [
+      "彼方",
+      "あちら"
+    ],
+    "acceptedEnglish": [
+      "that way",
+      "that direction",
+      "over there",
+      "yonder",
+      "that",
+      "that person"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-right-1777217254061",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "右",
+    "kanji": "右",
+    "kana": "みぎ",
+    "meaning": "right",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"right\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "右",
+        "meanings": [
+          "right"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "右に曲がって。",
+      "english": "Turn right.",
+      "furigana": [
+        {
+          "text": "右",
+          "highlight": true,
+          "reading": "みぎ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "曲",
+          "reading": "ま"
+        },
+        {
+          "text": "がって。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5253130",
+        "englishSentenceId": "464290",
+        "url": "https://tatoeba.org/en/sentences/show/5253130"
+      }
+    },
+    "acceptedJapanese": [
+      "右",
+      "みぎ"
+    ],
+    "acceptedEnglish": [
+      "right",
+      "right-hand side",
+      "the above",
+      "above-mentioned"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-outside-1777217254067",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "外",
+    "kanji": "外",
+    "kana": "そと",
+    "meaning": "outside",
+    "explanation": "A JLPT N5 noun meaning \"outside\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "外",
+        "meanings": [
+          "outside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "外は暑いです。",
+      "english": "It's hot outside.",
+      "furigana": [
+        {
+          "text": "外",
+          "highlight": true,
+          "reading": "そと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "暑い",
+          "reading": "あつい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10191415",
+        "englishSentenceId": "9741408",
+        "url": "https://tatoeba.org/en/sentences/show/10191415"
+      }
+    },
+    "acceptedJapanese": [
+      "外",
+      "そと"
+    ],
+    "acceptedEnglish": [
+      "outside",
+      "exterior",
+      "the open",
+      "other place",
+      "somewhere else",
+      "outside one's group"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-direction-position-that-way-1777217254220",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "其方",
+    "kanji": "其方",
+    "kana": "そちら",
+    "meaning": "that way",
+    "explanation": "A JLPT N5 pronoun meaning \"that way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "其",
+        "meanings": [
+          "that way"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "that way"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「其方」は日本語の言葉です。",
+      "english": "\"that way\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "其方",
+          "reading": "そちら",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "其方",
+      "そちら"
+    ],
+    "acceptedEnglish": [
+      "that way",
+      "that direction",
+      "there",
+      "that",
+      "you",
+      "your family"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-back-1777217254472",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "後ろ",
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "meaning": "back",
+    "explanation": "A JLPT N5 noun, no adjective meaning \"back\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "後",
+        "meanings": [
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "後ろを見ろ。",
+      "english": "Look back!",
+      "furigana": [
+        {
+          "text": "後ろ",
+          "highlight": true,
+          "reading": "うしろ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ろ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "174302",
+        "englishSentenceId": "240166",
+        "url": "https://tatoeba.org/en/sentences/show/174302"
+      }
+    },
+    "acceptedJapanese": [
+      "後ろ",
+      "うしろ"
+    ],
+    "acceptedEnglish": [
+      "back",
+      "behind",
+      "rear"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-direction-position-the-vertical-1777217254517",
+    "jlpt": "N5",
+    "subcategory": "Direction/Position",
+    "name": "縦",
+    "kanji": "縦",
+    "kana": "たて",
+    "meaning": "the vertical",
+    "explanation": "A JLPT N5 noun meaning \"the vertical\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "縦",
+        "meanings": [
+          "the vertical"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "プールを縦に二回泳いだ。",
+      "english": "I swam two pool lengths.",
+      "furigana": [
+        {
+          "text": "プールを"
+        },
+        {
+          "text": "縦",
+          "highlight": true,
+          "reading": "たて"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "二回",
+          "reading": "にかい"
+        },
+        {
+          "text": "泳",
+          "reading": "およ"
+        },
+        {
+          "text": "いだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "197215",
+        "englishSentenceId": "34397",
+        "url": "https://tatoeba.org/en/sentences/show/197215"
+      }
+    },
+    "acceptedJapanese": [
+      "縦",
+      "たて"
+    ],
+    "acceptedEnglish": [
+      "the vertical",
+      "height",
+      "front-to-back",
+      "length",
+      "north-to-south",
+      "warp"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

@@ -1,0 +1,6222 @@
+[
+  {
+    "id": "n5-action-verb-to-take-off-1777217252705",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "脱ぐ",
+    "kanji": "脱ぐ",
+    "kana": "ぬぐ",
+    "meaning": "to take off",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to take off\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "脱",
+        "meanings": [
+          "to take off"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家に入る時は、靴を脱ぐよ。",
+      "english": "I take off my shoes when I go in my house.",
+      "furigana": [
+        {
+          "text": "家",
+          "reading": "いえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "る"
+        },
+        {
+          "text": "時",
+          "reading": "とき"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "靴",
+          "reading": "くつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "脱ぐ",
+          "highlight": true,
+          "reading": "ぬぐ"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10128949",
+        "englishSentenceId": "10128921",
+        "url": "https://tatoeba.org/en/sentences/show/10128949"
+      }
+    },
+    "acceptedJapanese": [
+      "脱ぐ",
+      "ぬぐ"
+    ],
+    "acceptedEnglish": [
+      "to take off",
+      "to undress"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-wear-1777217252726",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "着る",
+    "kanji": "着る",
+    "kana": "きる",
+    "meaning": "to wear",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to wear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "着",
+        "meanings": [
+          "to wear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "着る物がないの。",
+      "english": "I don't have a thing to wear.",
+      "furigana": [
+        {
+          "text": "着る",
+          "highlight": true,
+          "reading": "きる"
+        },
+        {
+          "text": "物",
+          "reading": "もの"
+        },
+        {
+          "text": "がないの。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126602",
+        "englishSentenceId": "277446",
+        "url": "https://tatoeba.org/en/sentences/show/126602"
+      }
+    },
+    "acceptedJapanese": [
+      "着る",
+      "きる"
+    ],
+    "acceptedEnglish": [
+      "to wear",
+      "to put on",
+      "to take",
+      "to bear"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-disappear-1777217252777",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "消える",
+    "kanji": "消える",
+    "kana": "きえる",
+    "meaning": "to disappear",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to disappear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "to disappear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "雪はすぐに消えるだろう。",
+      "english": "The snow will soon disappear.",
+      "furigana": [
+        {
+          "text": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "text": "はすぐに"
+        },
+        {
+          "text": "消える",
+          "highlight": true,
+          "reading": "きえる"
+        },
+        {
+          "text": "だろう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141975",
+        "englishSentenceId": "272595",
+        "url": "https://tatoeba.org/en/sentences/show/141975"
+      }
+    },
+    "acceptedJapanese": [
+      "消える",
+      "きえる"
+    ],
+    "acceptedEnglish": [
+      "to disappear",
+      "to vanish",
+      "to go out of sight",
+      "to go away",
+      "to become lost",
+      "to go out"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-hang-up-1777217252780",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "掛ける",
+    "kanji": "掛ける",
+    "kana": "かける",
+    "meaning": "to hang up",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to hang up\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "掛",
+        "meanings": [
+          "to hang up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "４掛ける２は８だ。",
+      "english": "Four multiplied by two is eight.",
+      "furigana": [
+        {
+          "text": "４"
+        },
+        {
+          "text": "掛ける",
+          "highlight": true,
+          "reading": "かける"
+        },
+        {
+          "text": "２は８だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235225",
+        "englishSentenceId": "72604",
+        "url": "https://tatoeba.org/en/sentences/show/235225"
+      }
+    },
+    "acceptedJapanese": [
+      "掛ける",
+      "かける"
+    ],
+    "acceptedEnglish": [
+      "to hang up",
+      "to let hang",
+      "to suspend",
+      "to hoist",
+      "to raise",
+      "to put on"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-forget-1777217252789",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "忘れる",
+    "kanji": "忘れる",
+    "kana": "わすれる",
+    "meaning": "to forget",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to forget\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "忘",
+        "meanings": [
+          "to forget"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "死を忘れるな。",
+      "english": "Don't forget death.",
+      "furigana": [
+        {
+          "text": "死",
+          "reading": "し"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "忘れる",
+          "highlight": true,
+          "reading": "わすれる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "389696",
+        "englishSentenceId": "534705",
+        "url": "https://tatoeba.org/en/sentences/show/389696"
+      }
+    },
+    "acceptedJapanese": [
+      "忘れる",
+      "わすれる"
+    ],
+    "acceptedEnglish": [
+      "to forget",
+      "to leave carelessly",
+      "to be forgetful of",
+      "to forget about"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-do-1777217252819",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "為る",
+    "kanji": "為る",
+    "kana": "する",
+    "meaning": "to do",
+    "explanation": "A JLPT N5 suru verb - included meaning \"to do\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "為",
+        "meanings": [
+          "to do"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日、東京はとても寒く為るでしょう。",
+      "english": "Today, Tokyo will get very cold.",
+      "furigana": [
+        {
+          "text": "今日",
+          "reading": "きょう"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "text": "はとても"
+        },
+        {
+          "text": "寒",
+          "reading": "さむ"
+        },
+        {
+          "text": "く"
+        },
+        {
+          "text": "為る",
+          "highlight": true,
+          "reading": "する"
+        },
+        {
+          "text": "でしょう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1602127",
+        "englishSentenceId": "1602137",
+        "url": "https://tatoeba.org/en/sentences/show/1602127"
+      }
+    },
+    "acceptedJapanese": [
+      "為る",
+      "する"
+    ],
+    "acceptedEnglish": [
+      "to do",
+      "to carry out",
+      "to perform",
+      "to cause to become",
+      "to make",
+      "to turn"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-swim-1777217252825",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "泳ぐ",
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "meaning": "to swim",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to swim\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "泳",
+        "meanings": [
+          "to swim"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は泳ぐのが好きです。",
+      "english": "He likes to swim.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "泳ぐ",
+          "highlight": true,
+          "reading": "およぐ"
+        },
+        {
+          "text": "のが"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "109756",
+        "englishSentenceId": "434964",
+        "url": "https://tatoeba.org/en/sentences/show/109756"
+      }
+    },
+    "acceptedJapanese": [
+      "泳ぐ",
+      "およぐ"
+    ],
+    "acceptedEnglish": [
+      "to swim",
+      "to struggle through",
+      "to make one's way through the world",
+      "to get along",
+      "to totter",
+      "to lose one's balance"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-buy-1777217252831",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "買う",
+    "kanji": "買う",
+    "kana": "かう",
+    "meaning": "to buy",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to buy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "買",
+        "meanings": [
+          "to buy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それ買うよ。",
+      "english": "I'll buy it.",
+      "furigana": [
+        {
+          "text": "それ"
+        },
+        {
+          "text": "買う",
+          "highlight": true,
+          "reading": "かう"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9119413",
+        "englishSentenceId": "2160876",
+        "url": "https://tatoeba.org/en/sentences/show/9119413"
+      }
+    },
+    "acceptedJapanese": [
+      "買う",
+      "かう"
+    ],
+    "acceptedEnglish": [
+      "to buy",
+      "to purchase",
+      "to value",
+      "to think highly of",
+      "to have a high opinion of",
+      "to appreciate"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-leave-1777217252870",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "出る",
+    "kanji": "出る",
+    "kana": "でる",
+    "meaning": "to leave",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to leave\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "to leave"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どこから出るんですか。",
+      "english": "Where does it leave from?",
+      "furigana": [
+        {
+          "text": "どこから"
+        },
+        {
+          "text": "出る",
+          "highlight": true,
+          "reading": "でる"
+        },
+        {
+          "text": "んですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "201017",
+        "englishSentenceId": "38222",
+        "url": "https://tatoeba.org/en/sentences/show/201017"
+      }
+    },
+    "acceptedJapanese": [
+      "出る",
+      "でる"
+    ],
+    "acceptedEnglish": [
+      "to leave",
+      "to exit",
+      "to go out",
+      "to come out",
+      "to get out",
+      "to depart"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-begin-1777217252873",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "始まる",
+    "kanji": "始まる",
+    "kana": "はじまる",
+    "meaning": "to begin",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to begin\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "始",
+        "meanings": [
+          "to begin"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "始まる！",
+      "english": "It begins!",
+      "furigana": [
+        {
+          "text": "始まる",
+          "highlight": true,
+          "reading": "はじまる"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8858163",
+        "englishSentenceId": "11877839",
+        "url": "https://tatoeba.org/en/sentences/show/8858163"
+      }
+    },
+    "acceptedJapanese": [
+      "始まる",
+      "はじまる"
+    ],
+    "acceptedEnglish": [
+      "to begin",
+      "to start",
+      "to commence",
+      "to happen",
+      "to date",
+      "to originate"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-take-1777217252885",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "撮る",
+    "kanji": "撮る",
+    "kana": "とる",
+    "meaning": "to take",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to take\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "撮",
+        "meanings": [
+          "to take"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "写真を撮ることができますか。",
+      "english": "Can you take a picture?",
+      "furigana": [
+        {
+          "text": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "撮る",
+          "highlight": true,
+          "reading": "とる"
+        },
+        {
+          "text": "ことができますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2199352",
+        "englishSentenceId": "2202496",
+        "url": "https://tatoeba.org/en/sentences/show/2199352"
+      }
+    },
+    "acceptedJapanese": [
+      "撮る",
+      "とる"
+    ],
+    "acceptedEnglish": [
+      "to take",
+      "to record",
+      "to film",
+      "to shoot"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-return-1777217252903",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "返す",
+    "kanji": "返す",
+    "kana": "かえす",
+    "meaning": "to return",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to return\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "返",
+        "meanings": [
+          "to return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "恩をあだで返すな。",
+      "english": "Don't return evil for good.",
+      "furigana": [
+        {
+          "text": "恩",
+          "reading": "おん"
+        },
+        {
+          "text": "をあだで"
+        },
+        {
+          "text": "返す",
+          "highlight": true,
+          "reading": "かえす"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188338",
+        "englishSentenceId": "13079747",
+        "url": "https://tatoeba.org/en/sentences/show/188338"
+      }
+    },
+    "acceptedJapanese": [
+      "返す",
+      "かえす"
+    ],
+    "acceptedEnglish": [
+      "to return",
+      "to restore",
+      "to put back",
+      "to turn over",
+      "to turn upside down",
+      "to overturn"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-polish-1777217252909",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "磨く",
+    "kanji": "磨く",
+    "kana": "みがく",
+    "meaning": "to polish",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to polish\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "磨",
+        "meanings": [
+          "to polish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "男の人は歯を磨く。",
+      "english": "The man brushes his teeth.",
+      "furigana": [
+        {
+          "text": "男",
+          "reading": "おとこ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "歯",
+          "reading": "は"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "磨く",
+          "highlight": true,
+          "reading": "みがく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "492913",
+        "englishSentenceId": "462784",
+        "url": "https://tatoeba.org/en/sentences/show/492913"
+      }
+    },
+    "acceptedJapanese": [
+      "磨く",
+      "みがく"
+    ],
+    "acceptedEnglish": [
+      "to polish",
+      "to shine",
+      "to burnish",
+      "to scour",
+      "to scrub",
+      "to brush"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-request-1777217252918",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "頼む",
+    "kanji": "頼む",
+    "kana": "たのむ",
+    "meaning": "to request",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to request\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頼",
+        "meanings": [
+          "to request"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "後で頼むよ。",
+      "english": "I'll order it later.",
+      "furigana": [
+        {
+          "text": "後",
+          "reading": "あと"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "頼む",
+          "highlight": true,
+          "reading": "たのむ"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12662546",
+        "englishSentenceId": "10032745",
+        "url": "https://tatoeba.org/en/sentences/show/12662546"
+      }
+    },
+    "acceptedJapanese": [
+      "頼む",
+      "たのむ"
+    ],
+    "acceptedEnglish": [
+      "to request",
+      "to beg",
+      "to ask",
+      "to call",
+      "to order",
+      "to reserve"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-be-able-to-do-1777217252996",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "出来る",
+    "kanji": "出来る",
+    "kana": "できる",
+    "meaning": "to be able to do",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to be able to do\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "to be able to do"
+        ]
+      },
+      {
+        "kanji": "来",
+        "meanings": [
+          "to be able to do"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "出来ると思います。",
+      "english": "I think it's possible.",
+      "furigana": [
+        {
+          "text": "出来る",
+          "highlight": true,
+          "reading": "できる"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "思い",
+          "reading": "おもい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147673",
+        "englishSentenceId": "1084091",
+        "url": "https://tatoeba.org/en/sentences/show/147673"
+      }
+    },
+    "acceptedJapanese": [
+      "出来る",
+      "できる"
+    ],
+    "acceptedEnglish": [
+      "to be able to do",
+      "to be possible",
+      "to be permitted",
+      "to be good at",
+      "to do well",
+      "to be proficient"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-open-1777217253065",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "開ける",
+    "kanji": "開ける",
+    "kana": "あける",
+    "meaning": "to open",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to open\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "開",
+        "meanings": [
+          "to open"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "窓を開けるな。",
+      "english": "Don't open the window.",
+      "furigana": [
+        {
+          "text": "窓",
+          "reading": "まど"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "開ける",
+          "highlight": true,
+          "reading": "あける"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140344",
+        "englishSentenceId": "274217",
+        "url": "https://tatoeba.org/en/sentences/show/140344"
+      }
+    },
+    "acceptedJapanese": [
+      "開ける",
+      "あける"
+    ],
+    "acceptedEnglish": [
+      "to open",
+      "to unwrap",
+      "to unlock",
+      "to empty",
+      "to remove",
+      "to make space"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-work-1777217253095",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "働く",
+    "kanji": "働く",
+    "kana": "はたらく",
+    "meaning": "to work",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "働",
+        "meanings": [
+          "to work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女はよく働く。",
+      "english": "She works hard.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "はよく"
+        },
+        {
+          "text": "働く",
+          "highlight": true,
+          "reading": "はたらく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "91309",
+        "englishSentenceId": "312405",
+        "url": "https://tatoeba.org/en/sentences/show/91309"
+      }
+    },
+    "acceptedJapanese": [
+      "働く",
+      "はたらく"
+    ],
+    "acceptedEnglish": [
+      "to work",
+      "to labour",
+      "to function",
+      "to operate",
+      "to be effective",
+      "to come into play"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-arrive-at-1777217253101",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "着く",
+    "kanji": "着く",
+    "kana": "つく",
+    "meaning": "to arrive at",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to arrive at\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "着",
+        "meanings": [
+          "to arrive at"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いつ着くの？",
+      "english": "When do we arrive?",
+      "furigana": [
+        {
+          "text": "いつ"
+        },
+        {
+          "text": "着く",
+          "highlight": true,
+          "reading": "つく"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5111",
+        "englishSentenceId": "1709",
+        "url": "https://tatoeba.org/en/sentences/show/5111"
+      }
+    },
+    "acceptedJapanese": [
+      "着く",
+      "つく"
+    ],
+    "acceptedEnglish": [
+      "to arrive at",
+      "to reach",
+      "to sit on",
+      "to sit at"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-shine-1777217253119",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "差す",
+    "kanji": "差す",
+    "kana": "さす",
+    "meaning": "to shine",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to shine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "差",
+        "meanings": [
+          "to shine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の言動には嫌気が差す。",
+      "english": "His behavior makes me sick.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言動",
+          "reading": "げんどう"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "嫌気",
+          "reading": "いやけ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "差す",
+          "highlight": true,
+          "reading": "さす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "117538",
+        "englishSentenceId": "286126",
+        "url": "https://tatoeba.org/en/sentences/show/117538"
+      }
+    },
+    "acceptedJapanese": [
+      "差す",
+      "さす"
+    ],
+    "acceptedEnglish": [
+      "to shine",
+      "to be visible",
+      "to be tinged with",
+      "to rise",
+      "to flow in",
+      "to be felt"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-be-born-1777217253197",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "生まれる",
+    "kanji": "生まれる",
+    "kana": "うまれる",
+    "meaning": "to be born",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to be born\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "生",
+        "meanings": [
+          "to be born"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "もうすぐ子供が生まれるんです。",
+      "english": "We're about to have a baby.",
+      "furigana": [
+        {
+          "text": "もうすぐ"
+        },
+        {
+          "text": "子供",
+          "reading": "こども"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "生まれる",
+          "highlight": true,
+          "reading": "うまれる"
+        },
+        {
+          "text": "んです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11328061",
+        "englishSentenceId": "5737643",
+        "url": "https://tatoeba.org/en/sentences/show/11328061"
+      }
+    },
+    "acceptedJapanese": [
+      "生まれる",
+      "うまれる"
+    ],
+    "acceptedEnglish": [
+      "to be born"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-take-out-1777217253203",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "出す",
+    "kanji": "出す",
+    "kana": "だす",
+    "meaning": "to take out",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to take out\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "to take out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "二度と顔を出すな。",
+      "english": "Don't show your face around here again.",
+      "furigana": [
+        {
+          "text": "二度と",
+          "reading": "にどと"
+        },
+        {
+          "text": "顔",
+          "reading": "かお"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "出す",
+          "highlight": true,
+          "reading": "だす"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123031",
+        "englishSentenceId": "541986",
+        "url": "https://tatoeba.org/en/sentences/show/123031"
+      }
+    },
+    "acceptedJapanese": [
+      "出す",
+      "だす"
+    ],
+    "acceptedEnglish": [
+      "to take out",
+      "to get out",
+      "to put out",
+      "to reveal",
+      "to show",
+      "to submit"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-smoke-1777217253221",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "吸う",
+    "kanji": "吸う",
+    "kana": "すう",
+    "meaning": "to smoke",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to smoke\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吸",
+        "meanings": [
+          "to smoke"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そんなに吸うな。",
+      "english": "Don't smoke so much.",
+      "furigana": [
+        {
+          "text": "そんなに"
+        },
+        {
+          "text": "吸う",
+          "highlight": true,
+          "reading": "すう"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10657603",
+        "englishSentenceId": "4948416",
+        "url": "https://tatoeba.org/en/sentences/show/10657603"
+      }
+    },
+    "acceptedJapanese": [
+      "吸う",
+      "すう"
+    ],
+    "acceptedEnglish": [
+      "to smoke",
+      "to breathe in",
+      "to inhale",
+      "to suck",
+      "to sip",
+      "to slurp"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-be-shut-1777217253230",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "閉まる",
+    "kanji": "閉まる",
+    "kana": "しまる",
+    "meaning": "to be shut",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to be shut\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "閉",
+        "meanings": [
+          "to be shut"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "2時半に閉まる。",
+      "english": "We close at 2:30.",
+      "furigana": [
+        {
+          "text": "2時",
+          "reading": "にじ"
+        },
+        {
+          "text": "半",
+          "reading": "はん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "閉まる",
+          "highlight": true,
+          "reading": "しまる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7486229",
+        "englishSentenceId": "3312559",
+        "url": "https://tatoeba.org/en/sentences/show/7486229"
+      }
+    },
+    "acceptedJapanese": [
+      "閉まる",
+      "しまる"
+    ],
+    "acceptedEnglish": [
+      "to be shut",
+      "to close",
+      "to be closed",
+      "to be firm",
+      "to be well-knit",
+      "to be locked"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-be-needed-1777217253260",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "要る",
+    "kanji": "要る",
+    "kana": "いる",
+    "meaning": "to be needed",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to be needed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "要",
+        "meanings": [
+          "to be needed"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "要る？",
+      "english": "Want it?",
+      "furigana": [
+        {
+          "text": "要る",
+          "highlight": true,
+          "reading": "いる"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3219284",
+        "englishSentenceId": "8736464",
+        "url": "https://tatoeba.org/en/sentences/show/3219284"
+      }
+    },
+    "acceptedJapanese": [
+      "要る",
+      "いる"
+    ],
+    "acceptedEnglish": [
+      "to be needed",
+      "to be necessary",
+      "to be required",
+      "to be wanted",
+      "to need",
+      "to want"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-drink-1777217253299",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "飲む",
+    "kanji": "飲む",
+    "kana": "のむ",
+    "meaning": "to drink",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to drink\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飲",
+        "meanings": [
+          "to drink"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "何か飲む？",
+      "english": "Want a drink?",
+      "furigana": [
+        {
+          "text": "何か",
+          "reading": "なにか"
+        },
+        {
+          "text": "飲む",
+          "highlight": true,
+          "reading": "のむ"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "890127",
+        "englishSentenceId": "27379",
+        "url": "https://tatoeba.org/en/sentences/show/890127"
+      }
+    },
+    "acceptedJapanese": [
+      "飲む",
+      "のむ"
+    ],
+    "acceptedEnglish": [
+      "to drink",
+      "to swallow",
+      "to take",
+      "to smoke",
+      "to swallow up",
+      "to engulf"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-make-1777217253353",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "作る",
+    "kanji": "作る",
+    "kana": "つくる",
+    "meaning": "to make",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to make\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "作",
+        "meanings": [
+          "to make"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "農民は作物を作る。",
+      "english": "Farmers produce crops.",
+      "furigana": [
+        {
+          "text": "農民",
+          "reading": "のうみん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "作",
+          "reading": "さく"
+        },
+        {
+          "text": "物",
+          "reading": "もの"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "作る",
+          "highlight": true,
+          "reading": "つくる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121675",
+        "englishSentenceId": "282330",
+        "url": "https://tatoeba.org/en/sentences/show/121675"
+      }
+    },
+    "acceptedJapanese": [
+      "作る",
+      "つくる"
+    ],
+    "acceptedEnglish": [
+      "to make",
+      "to produce",
+      "to manufacture",
+      "to build",
+      "to construct",
+      "to prepare"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-stand-1777217253365",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "立つ",
+    "kanji": "立つ",
+    "kana": "たつ",
+    "meaning": "to stand",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to stand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "立",
+        "meanings": [
+          "to stand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "先生は私に、立つように言った。",
+      "english": "The teacher told me to stand up.",
+      "furigana": [
+        {
+          "text": "先生",
+          "reading": "せんせい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "に、"
+        },
+        {
+          "text": "立つ",
+          "highlight": true,
+          "reading": "たつ"
+        },
+        {
+          "text": "ように"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141604",
+        "englishSentenceId": "272966",
+        "url": "https://tatoeba.org/en/sentences/show/141604"
+      }
+    },
+    "acceptedJapanese": [
+      "立つ",
+      "たつ"
+    ],
+    "acceptedEnglish": [
+      "to stand",
+      "to rise",
+      "to get to one's feet",
+      "to stand on end",
+      "to stick up",
+      "to be situated"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-clear-up-1777217253368",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "晴れる",
+    "kanji": "晴れる",
+    "kana": "はれる",
+    "meaning": "to clear up",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to clear up\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "晴",
+        "meanings": [
+          "to clear up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "すぐ晴れるだろうか。",
+      "english": "Will it clear up soon?",
+      "furigana": [
+        {
+          "text": "すぐ"
+        },
+        {
+          "text": "晴れる",
+          "highlight": true,
+          "reading": "はれる"
+        },
+        {
+          "text": "だろうか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214764",
+        "englishSentenceId": "52058",
+        "url": "https://tatoeba.org/en/sentences/show/214764"
+      }
+    },
+    "acceptedJapanese": [
+      "晴れる",
+      "はれる"
+    ],
+    "acceptedEnglish": [
+      "to clear up",
+      "to clear away",
+      "to be sunny",
+      "to stop raining",
+      "to refresh",
+      "to be cleared"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-lose-1777217253383",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "無くす",
+    "kanji": "無くす",
+    "kana": "なくす",
+    "meaning": "to lose",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to lose\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "無",
+        "meanings": [
+          "to lose"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大事な書類を無くすとはあなたも不注意でしたね。",
+      "english": "It was careless of you to lose the important documents.",
+      "furigana": [
+        {
+          "text": "大事",
+          "reading": "だいじ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "無くす",
+          "highlight": true,
+          "reading": "なくす"
+        },
+        {
+          "text": "とはあなたも"
+        },
+        {
+          "text": "不注意",
+          "reading": "ふちゅうい"
+        },
+        {
+          "text": "でしたね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137521",
+        "englishSentenceId": "275715",
+        "url": "https://tatoeba.org/en/sentences/show/137521"
+      }
+    },
+    "acceptedJapanese": [
+      "無くす",
+      "なくす"
+    ],
+    "acceptedEnglish": [
+      "to lose",
+      "to get rid of",
+      "to eliminate",
+      "to remove",
+      "to eradicate",
+      "to abolish"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-read-1777217253428",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "読む",
+    "kanji": "読む",
+    "kana": "よむ",
+    "meaning": "to read",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to read\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "読",
+        "meanings": [
+          "to read"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "本を読むのが好きです。",
+      "english": "I like to read books.",
+      "furigana": [
+        {
+          "text": "本",
+          "reading": "ほん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "読む",
+          "highlight": true,
+          "reading": "よむ"
+        },
+        {
+          "text": "のが"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10883885",
+        "englishSentenceId": "2377504",
+        "url": "https://tatoeba.org/en/sentences/show/10883885"
+      }
+    },
+    "acceptedJapanese": [
+      "読む",
+      "よむ"
+    ],
+    "acceptedEnglish": [
+      "to read",
+      "to recite",
+      "to chant",
+      "to predict",
+      "to guess",
+      "to forecast"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-run-1777217253440",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "走る",
+    "kanji": "走る",
+    "kana": "はしる",
+    "meaning": "to run",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to run\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "走",
+        "meanings": [
+          "to run"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "悪事千里を走る",
+      "english": "Bad news travels fast.",
+      "furigana": [
+        {
+          "text": "悪事",
+          "reading": "あくじ"
+        },
+        {
+          "text": "千里",
+          "reading": "せんり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "走る",
+          "highlight": true,
+          "reading": "はしる"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9958670",
+        "englishSentenceId": "28625",
+        "url": "https://tatoeba.org/en/sentences/show/9958670"
+      }
+    },
+    "acceptedJapanese": [
+      "走る",
+      "はしる"
+    ],
+    "acceptedEnglish": [
+      "to run",
+      "to drive",
+      "to travel",
+      "to move",
+      "to sail",
+      "to rush"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-eat-1777217253443",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "食べる",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "meaning": "to eat",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to eat\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "食",
+        "meanings": [
+          "to eat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "食べる。",
+      "english": "I eat.",
+      "furigana": [
+        {
+          "text": "食べる",
+          "highlight": true,
+          "reading": "たべる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5254850",
+        "englishSentenceId": "1120797",
+        "url": "https://tatoeba.org/en/sentences/show/5254850"
+      }
+    },
+    "acceptedJapanese": [
+      "食べる",
+      "たべる"
+    ],
+    "acceptedEnglish": [
+      "to eat",
+      "to live on",
+      "to live off",
+      "to subsist on"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-line-up-1777217253506",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "並ぶ",
+    "kanji": "並ぶ",
+    "kana": "ならぶ",
+    "meaning": "to line up",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to line up\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "並",
+        "meanings": [
+          "to line up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "英国人は列を作って並ぶのに慣れている。",
+      "english": "British people are used to standing in queues.",
+      "furigana": [
+        {
+          "text": "英国",
+          "reading": "えいこく"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "列",
+          "reading": "れつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "作",
+          "reading": "さく"
+        },
+        {
+          "text": "って"
+        },
+        {
+          "text": "並ぶ",
+          "highlight": true,
+          "reading": "ならぶ"
+        },
+        {
+          "text": "のに"
+        },
+        {
+          "text": "慣れ",
+          "reading": "なれ"
+        },
+        {
+          "text": "ている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188983",
+        "englishSentenceId": "26130",
+        "url": "https://tatoeba.org/en/sentences/show/188983"
+      }
+    },
+    "acceptedJapanese": [
+      "並ぶ",
+      "ならぶ"
+    ],
+    "acceptedEnglish": [
+      "to line up",
+      "to stand in a line",
+      "to rival",
+      "to match",
+      "to equal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-blow-1777217253518",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "吹く",
+    "kanji": "吹く",
+    "kana": "ふく",
+    "meaning": "to blow",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to blow\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吹",
+        "meanings": [
+          "to blow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "吹く!",
+      "english": "Blow!",
+      "furigana": [
+        {
+          "text": "吹く",
+          "highlight": true,
+          "reading": "ふく"
+        },
+        {
+          "text": "!"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13611144",
+        "englishSentenceId": "13582034",
+        "url": "https://tatoeba.org/en/sentences/show/13611144"
+      }
+    },
+    "acceptedJapanese": [
+      "吹く",
+      "ふく"
+    ],
+    "acceptedEnglish": [
+      "to blow",
+      "to burst out laughing",
+      "to burst into laughter"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-cross-over-1777217253524",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "渡る",
+    "kanji": "渡る",
+    "kana": "わたる",
+    "meaning": "to cross over",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to cross over\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "渡",
+        "meanings": [
+          "to cross over"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "通りを渡るな。",
+      "english": "Don't cross the street!",
+      "furigana": [
+        {
+          "text": "通り",
+          "reading": "とおり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "渡る",
+          "highlight": true,
+          "reading": "わたる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1213001",
+        "englishSentenceId": "882917",
+        "url": "https://tatoeba.org/en/sentences/show/1213001"
+      }
+    },
+    "acceptedJapanese": [
+      "渡る",
+      "わたる"
+    ],
+    "acceptedEnglish": [
+      "to cross over",
+      "to go across",
+      "to extend",
+      "to cover",
+      "to range",
+      "to span"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-get-tired-1777217253557",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "疲れる",
+    "kanji": "疲れる",
+    "kana": "つかれる",
+    "meaning": "to get tired",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to get tired\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "疲",
+        "meanings": [
+          "to get tired"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はすぐに疲れる。",
+      "english": "He tires easily.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はすぐに"
+        },
+        {
+          "text": "疲れる",
+          "highlight": true,
+          "reading": "つかれる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2234707",
+        "englishSentenceId": "997850",
+        "url": "https://tatoeba.org/en/sentences/show/2234707"
+      }
+    },
+    "acceptedJapanese": [
+      "疲れる",
+      "つかれる"
+    ],
+    "acceptedEnglish": [
+      "to get tired",
+      "to tire",
+      "to get fatigued",
+      "to become exhausted",
+      "to grow weary",
+      "to become worn out"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-action-verb-to-hear-1777217253569",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "聞く",
+    "kanji": "聞く",
+    "kana": "きく",
+    "meaning": "to hear",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to hear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "聞",
+        "meanings": [
+          "to hear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あなたは聞くべきだ。",
+      "english": "You should listen.",
+      "furigana": [
+        {
+          "text": "あなたは"
+        },
+        {
+          "text": "聞く",
+          "highlight": true,
+          "reading": "きく"
+        },
+        {
+          "text": "べきだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8579873",
+        "englishSentenceId": "12534046",
+        "url": "https://tatoeba.org/en/sentences/show/8579873"
+      }
+    },
+    "acceptedJapanese": [
+      "聞く",
+      "きく"
+    ],
+    "acceptedEnglish": [
+      "to hear",
+      "to listen",
+      "to ask",
+      "to enquire",
+      "to query",
+      "to hear about"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-end-1777217253572",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "終わる",
+    "kanji": "終わる",
+    "kana": "おわる",
+    "meaning": "to end",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to end\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "終",
+        "meanings": [
+          "to end"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "もうすぐ終わる？",
+      "english": "Are you almost finished?",
+      "furigana": [
+        {
+          "text": "もうすぐ"
+        },
+        {
+          "text": "終わる",
+          "highlight": true,
+          "reading": "おわる"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8727067",
+        "englishSentenceId": "3737674",
+        "url": "https://tatoeba.org/en/sentences/show/8727067"
+      }
+    },
+    "acceptedJapanese": [
+      "終わる",
+      "おわる"
+    ],
+    "acceptedEnglish": [
+      "to end",
+      "to come to an end",
+      "to finish",
+      "to close",
+      "to be over",
+      "to be past its prime"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-teach-1777217253575",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "教える",
+    "kanji": "教える",
+    "kana": "おしえる",
+    "meaning": "to teach",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to teach\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "教",
+        "meanings": [
+          "to teach"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼に教えるな。",
+      "english": "Don't tell him.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "教える",
+          "highlight": true,
+          "reading": "おしえる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4203396",
+        "englishSentenceId": "3908657",
+        "url": "https://tatoeba.org/en/sentences/show/4203396"
+      }
+    },
+    "acceptedJapanese": [
+      "教える",
+      "おしえる"
+    ],
+    "acceptedEnglish": [
+      "to teach",
+      "to instruct",
+      "to tell",
+      "to inform",
+      "to show",
+      "to preach"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-stick-1777217253581",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "張る",
+    "kanji": "張る",
+    "kana": "はる",
+    "meaning": "to stick",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to stick\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "張",
+        "meanings": [
+          "to stick"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "言い張るな。",
+      "english": "Don't insist.",
+      "furigana": [
+        {
+          "text": "言い",
+          "reading": "いい"
+        },
+        {
+          "text": "張る",
+          "highlight": true,
+          "reading": "はる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9974795",
+        "englishSentenceId": "9564902",
+        "url": "https://tatoeba.org/en/sentences/show/9974795"
+      }
+    },
+    "acceptedJapanese": [
+      "張る",
+      "はる"
+    ],
+    "acceptedEnglish": [
+      "to stick",
+      "to paste",
+      "to affix",
+      "to stick out",
+      "to push out",
+      "to post"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-meet-1777217253587",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "会う",
+    "kanji": "会う",
+    "kana": "あう",
+    "meaning": "to meet",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to meet\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "会",
+        "meanings": [
+          "to meet"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女と会うつもりですか。",
+      "english": "Will you meet her?",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "会う",
+          "highlight": true,
+          "reading": "あう"
+        },
+        {
+          "text": "つもりですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "95100",
+        "englishSentenceId": "308606",
+        "url": "https://tatoeba.org/en/sentences/show/95100"
+      }
+    },
+    "acceptedJapanese": [
+      "会う",
+      "あう"
+    ],
+    "acceptedEnglish": [
+      "to meet",
+      "to encounter",
+      "to see",
+      "to have an accident",
+      "to have a bad experience"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-cut-1777217253620",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "切る",
+    "kanji": "切る",
+    "kana": "きる",
+    "meaning": "to cut",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to cut\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "切",
+        "meanings": [
+          "to cut"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そろそろ切るぞ？",
+      "english": "Should we hang up soon?",
+      "furigana": [
+        {
+          "text": "そろそろ"
+        },
+        {
+          "text": "切る",
+          "highlight": true,
+          "reading": "きる"
+        },
+        {
+          "text": "ぞ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11001465",
+        "englishSentenceId": "12603453",
+        "url": "https://tatoeba.org/en/sentences/show/11001465"
+      }
+    },
+    "acceptedJapanese": [
+      "切る",
+      "きる"
+    ],
+    "acceptedEnglish": [
+      "to cut",
+      "to cut through",
+      "to perform",
+      "to sever",
+      "to turn off",
+      "to terminate"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-go-out-1777217253623",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "出かける",
+    "kanji": "出かける",
+    "kana": "でかける",
+    "meaning": "to go out",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to go out\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "to go out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "出かける時間だ。",
+      "english": "It's time for us to leave.",
+      "furigana": [
+        {
+          "text": "出かける",
+          "highlight": true,
+          "reading": "でかける"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1251874",
+        "englishSentenceId": "2644531",
+        "url": "https://tatoeba.org/en/sentences/show/1251874"
+      }
+    },
+    "acceptedJapanese": [
+      "出かける",
+      "でかける"
+    ],
+    "acceptedEnglish": [
+      "to go out",
+      "to leave",
+      "to depart",
+      "to start",
+      "to set out",
+      "to be about to leave"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-be-1777217253656",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "有る",
+    "kanji": "有る",
+    "kana": "ある",
+    "meaning": "to be",
+    "explanation": "A JLPT N5 Godan verb with 'ru' ending (irregular verb), intransitive verb meaning \"to be\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "有",
+        "meanings": [
+          "to be"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は学生に人気が有る。",
+      "english": "He's popular with the students.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "人気",
+          "reading": "にんき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "有る",
+          "highlight": true,
+          "reading": "ある"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108834",
+        "englishSentenceId": "294856",
+        "url": "https://tatoeba.org/en/sentences/show/108834"
+      }
+    },
+    "acceptedJapanese": [
+      "有る",
+      "ある"
+    ],
+    "acceptedEnglish": [
+      "to be",
+      "to exist",
+      "to live",
+      "to have",
+      "to be located",
+      "to be equipped with"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-washing-1777217253659",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "洗濯",
+    "kanji": "洗濯",
+    "kana": "せんたく",
+    "meaning": "washing",
+    "explanation": "A JLPT N5 noun, suru noun, transitive verb meaning \"washing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "洗",
+        "meanings": [
+          "washing"
+        ]
+      },
+      {
+        "kanji": "濯",
+        "meanings": [
+          "washing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "洗濯は私の仕事です。",
+      "english": "Washing is my work.",
+      "furigana": [
+        {
+          "text": "洗濯",
+          "highlight": true,
+          "reading": "せんたく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141215",
+        "englishSentenceId": "569804",
+        "url": "https://tatoeba.org/en/sentences/show/141215"
+      }
+    },
+    "acceptedJapanese": [
+      "洗濯",
+      "せんたく"
+    ],
+    "acceptedEnglish": [
+      "washing",
+      "laundry"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-come-1777217253665",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "さあ",
+    "kanji": "さあ",
+    "kana": "さあ",
+    "meaning": "come",
+    "explanation": "A JLPT N5 interjection meaning \"come\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "さあ、来たまえ。",
+      "english": "Come along.",
+      "furigana": [
+        {
+          "text": "さ",
+          "highlight": true,
+          "reading": "さあ"
+        },
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "さあ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "たまえ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "216917",
+        "englishSentenceId": "54223",
+        "url": "https://tatoeba.org/en/sentences/show/216917"
+      }
+    },
+    "acceptedJapanese": [
+      "さあ"
+    ],
+    "acceptedEnglish": [
+      "come",
+      "come now",
+      "come along",
+      "here",
+      "all right",
+      "right"
+    ]
+  },
+  {
+    "id": "n5-action-verb-to-erase-1777217253683",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "消す",
+    "kanji": "消す",
+    "kana": "けす",
+    "meaning": "to erase",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to erase\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "to erase"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "電気を消すな。",
+      "english": "Don't turn off the light.",
+      "furigana": [
+        {
+          "text": "電気",
+          "reading": "でんき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "消す",
+          "highlight": true,
+          "reading": "けす"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124839",
+        "englishSentenceId": "279154",
+        "url": "https://tatoeba.org/en/sentences/show/124839"
+      }
+    },
+    "acceptedJapanese": [
+      "消す",
+      "けす"
+    ],
+    "acceptedEnglish": [
+      "to erase",
+      "to rub out",
+      "to rub off",
+      "to cross out",
+      "to delete",
+      "to turn off"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-fall-1777217253701",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "降る",
+    "kanji": "降る",
+    "kana": "ふる",
+    "meaning": "to fall",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to fall\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "降",
+        "meanings": [
+          "to fall"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "概してひょうは夏に降る。",
+      "english": "As a rule, hail falls in the summer.",
+      "furigana": [
+        {
+          "text": "概して",
+          "reading": "がいして"
+        },
+        {
+          "text": "ひょうは"
+        },
+        {
+          "text": "夏",
+          "reading": "なつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "降る",
+          "highlight": true,
+          "reading": "ふる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184679",
+        "englishSentenceId": "21807",
+        "url": "https://tatoeba.org/en/sentences/show/184679"
+      }
+    },
+    "acceptedJapanese": [
+      "降る",
+      "ふる"
+    ],
+    "acceptedEnglish": [
+      "to fall",
+      "to come down",
+      "to form",
+      "to beam down",
+      "to pour in",
+      "to visit"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-go-1777217253704",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "行く",
+    "kanji": "行く",
+    "kana": "いく",
+    "meaning": "to go",
+    "explanation": "A JLPT N5 Godan verb - Iku/Yuku special class, intransitive verb meaning \"to go\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "行",
+        "meanings": [
+          "to go"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どこに行くところですか。",
+      "english": "Where are you headed for?",
+      "furigana": [
+        {
+          "text": "どこに"
+        },
+        {
+          "text": "行く",
+          "highlight": true,
+          "reading": "いく"
+        },
+        {
+          "text": "ところですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "200932",
+        "englishSentenceId": "37922",
+        "url": "https://tatoeba.org/en/sentences/show/200932"
+      }
+    },
+    "acceptedJapanese": [
+      "行く",
+      "いく"
+    ],
+    "acceptedEnglish": [
+      "to go",
+      "to move",
+      "to head",
+      "to leave",
+      "to move through",
+      "to travel across"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-raise-1777217253707",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "上げる",
+    "kanji": "上げる",
+    "kana": "あげる",
+    "meaning": "to raise",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to raise\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "to raise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "明明後日にまた上げる。",
+      "english": "And I will raise it again in three days.",
+      "furigana": [
+        {
+          "text": "明明後日",
+          "reading": "しあさって"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "また"
+        },
+        {
+          "text": "上",
+          "highlight": true,
+          "reading": "あげる"
+        },
+        {
+          "text": "げ",
+          "highlight": true,
+          "reading": "あげる"
+        },
+        {
+          "text": "る",
+          "highlight": true,
+          "reading": "あげる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1678456",
+        "englishSentenceId": "29058",
+        "url": "https://tatoeba.org/en/sentences/show/1678456"
+      }
+    },
+    "acceptedJapanese": [
+      "上げる",
+      "あげる"
+    ],
+    "acceptedEnglish": [
+      "to raise",
+      "to elevate",
+      "to move something",
+      "to put onto",
+      "to increase",
+      "to show someone"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-die-1777217253755",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "死ぬ",
+    "kanji": "死ぬ",
+    "kana": "しぬ",
+    "meaning": "to die",
+    "explanation": "A JLPT N5 godan verb, irregular nu verb, intransitive verb meaning \"to die\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "死",
+        "meanings": [
+          "to die"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "死ぬな！",
+      "english": "Don't die.",
+      "furigana": [
+        {
+          "text": "死ぬ",
+          "highlight": true,
+          "reading": "しぬ"
+        },
+        {
+          "text": "な！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3983713",
+        "englishSentenceId": "1860499",
+        "url": "https://tatoeba.org/en/sentences/show/3983713"
+      }
+    },
+    "acceptedJapanese": [
+      "死ぬ",
+      "しぬ"
+    ],
+    "acceptedEnglish": [
+      "to die",
+      "to pass away",
+      "to lose spirit",
+      "to lose vigor",
+      "to look dead",
+      "to cease"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-get-cloudy-1777217253773",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "曇る",
+    "kanji": "曇る",
+    "kana": "くもる",
+    "meaning": "to get cloudy",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to get cloudy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "曇",
+        "meanings": [
+          "to get cloudy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "マスクをつけると眼鏡が曇る。",
+      "english": "When I wear a mask, my glasses fog up.",
+      "furigana": [
+        {
+          "text": "マスクをつけると"
+        },
+        {
+          "text": "眼鏡",
+          "reading": "めがね"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "曇る",
+          "highlight": true,
+          "reading": "くもる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7562208",
+        "englishSentenceId": "7562259",
+        "url": "https://tatoeba.org/en/sentences/show/7562208"
+      }
+    },
+    "acceptedJapanese": [
+      "曇る",
+      "くもる"
+    ],
+    "acceptedEnglish": [
+      "to get cloudy",
+      "to cloud over",
+      "to become overcast",
+      "to cloud up",
+      "to fog up",
+      "to mist up"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-line-up-1777217253779",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "並べる",
+    "kanji": "並べる",
+    "kana": "ならべる",
+    "meaning": "to line up",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to line up\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "並",
+        "meanings": [
+          "to line up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "エレクトロニクスの分野で彼に肩を並べる者はいない。",
+      "english": "He has no equal in the field of electronics.",
+      "furigana": [
+        {
+          "text": "エレクトロニクスの"
+        },
+        {
+          "text": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "肩",
+          "reading": "かた"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "並べる",
+          "highlight": true,
+          "reading": "ならべる"
+        },
+        {
+          "text": "者",
+          "reading": "もの"
+        },
+        {
+          "text": "はいない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227895",
+        "englishSentenceId": "65248",
+        "url": "https://tatoeba.org/en/sentences/show/227895"
+      }
+    },
+    "acceptedJapanese": [
+      "並べる",
+      "ならべる"
+    ],
+    "acceptedEnglish": [
+      "to line up",
+      "to set up",
+      "to arrange in a line",
+      "to enumerate",
+      "to itemize",
+      "to be equal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-wait-1777217253785",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "待つ",
+    "kanji": "待つ",
+    "kana": "まつ",
+    "meaning": "to wait",
+    "explanation": "A JLPT N5 godan verb, transitive verb, intransitive verb meaning \"to wait\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "待",
+        "meanings": [
+          "to wait"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "待つな。",
+      "english": "Don't wait.",
+      "furigana": [
+        {
+          "text": "待つ",
+          "highlight": true,
+          "reading": "まつ"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2293860",
+        "englishSentenceId": "1292208",
+        "url": "https://tatoeba.org/en/sentences/show/2293860"
+      }
+    },
+    "acceptedJapanese": [
+      "待つ",
+      "まつ"
+    ],
+    "acceptedEnglish": [
+      "to wait",
+      "to await",
+      "to look forward to",
+      "to anticipate",
+      "to depend on",
+      "to need"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-walk-1777217253824",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "歩く",
+    "kanji": "歩く",
+    "kana": "あるく",
+    "meaning": "to walk",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to walk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歩",
+        "meanings": [
+          "to walk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は歩く。",
+      "english": "She walks.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "歩く",
+          "highlight": true,
+          "reading": "あるく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "86784",
+        "englishSentenceId": "316925",
+        "url": "https://tatoeba.org/en/sentences/show/86784"
+      }
+    },
+    "acceptedJapanese": [
+      "歩く",
+      "あるく"
+    ],
+    "acceptedEnglish": [
+      "to walk"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-sell-1777217253827",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "売る",
+    "kanji": "売る",
+    "kana": "うる",
+    "meaning": "to sell",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to sell\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "売",
+        "meanings": [
+          "to sell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は果物を売る。",
+      "english": "He sells fruit.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "果物",
+          "reading": "くだもの"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "売る",
+          "highlight": true,
+          "reading": "うる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6037346",
+        "englishSentenceId": "434998",
+        "url": "https://tatoeba.org/en/sentences/show/6037346"
+      }
+    },
+    "acceptedJapanese": [
+      "売る",
+      "うる"
+    ],
+    "acceptedEnglish": [
+      "to sell",
+      "to betray",
+      "to sell out",
+      "to make known",
+      "to establish for oneself",
+      "to pick"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-show-1777217253830",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "見せる",
+    "kanji": "見せる",
+    "kana": "みせる",
+    "meaning": "to show",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to show\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "to show"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手の内を見せるな。",
+      "english": "Don't show them your hand.",
+      "furigana": [
+        {
+          "text": "手の内",
+          "reading": "てのうち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見せる",
+          "highlight": true,
+          "reading": "みせる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148646",
+        "englishSentenceId": "265913",
+        "url": "https://tatoeba.org/en/sentences/show/148646"
+      }
+    },
+    "acceptedJapanese": [
+      "見せる",
+      "みせる"
+    ],
+    "acceptedEnglish": [
+      "to show",
+      "to display",
+      "to make look ...",
+      "to present an appearance of ...",
+      "to make worth watching",
+      "to be entertaining"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-take-lessons-in-1777217253845",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "習う",
+    "kanji": "習う",
+    "kana": "ならう",
+    "meaning": "to take lessons in",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to take lessons in\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "習",
+        "meanings": [
+          "to take lessons in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "書道を習うのは楽しい。",
+      "english": "Learning calligraphy is fun.",
+      "furigana": [
+        {
+          "text": "書道",
+          "reading": "しょどう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "習う",
+          "highlight": true,
+          "reading": "ならう"
+        },
+        {
+          "text": "のは"
+        },
+        {
+          "text": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147412",
+        "englishSentenceId": "267148",
+        "url": "https://tatoeba.org/en/sentences/show/147412"
+      }
+    },
+    "acceptedJapanese": [
+      "習う",
+      "ならう"
+    ],
+    "acceptedEnglish": [
+      "to take lessons in",
+      "to be taught",
+      "to learn",
+      "to study",
+      "to get training in"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-get-up-1777217253848",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "起きる",
+    "kanji": "起きる",
+    "kana": "おきる",
+    "meaning": "to get up",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to get up\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "起",
+        "meanings": [
+          "to get up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "起きる時間よ。",
+      "english": "Time to get up.",
+      "furigana": [
+        {
+          "text": "起きる",
+          "highlight": true,
+          "reading": "おきる"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182969",
+        "englishSentenceId": "20090",
+        "url": "https://tatoeba.org/en/sentences/show/182969"
+      }
+    },
+    "acceptedJapanese": [
+      "起きる",
+      "おきる"
+    ],
+    "acceptedEnglish": [
+      "to get up",
+      "to rise",
+      "to blaze up",
+      "to wake up",
+      "to be awake",
+      "to stay awake"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-bloom-1777217253857",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "咲く",
+    "kanji": "咲く",
+    "kana": "さく",
+    "meaning": "to bloom",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, intransitive verb meaning \"to bloom\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "咲",
+        "meanings": [
+          "to bloom"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "花は咲く。",
+      "english": "Flowers bloom.",
+      "furigana": [
+        {
+          "text": "花",
+          "reading": "はな"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "咲く",
+          "highlight": true,
+          "reading": "さく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186613",
+        "englishSentenceId": "23749",
+        "url": "https://tatoeba.org/en/sentences/show/186613"
+      }
+    },
+    "acceptedJapanese": [
+      "咲く",
+      "さく"
+    ],
+    "acceptedEnglish": [
+      "to bloom",
+      "to flower",
+      "to blossom",
+      "to open"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-close-1777217253860",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "閉める",
+    "kanji": "閉める",
+    "kana": "しめる",
+    "meaning": "to close",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to close\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "閉",
+        "meanings": [
+          "to close"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ドアを閉めるね。",
+      "english": "I'll close the door.",
+      "furigana": [
+        {
+          "text": "ドアを"
+        },
+        {
+          "text": "閉める",
+          "highlight": true,
+          "reading": "しめる"
+        },
+        {
+          "text": "ね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13739047",
+        "englishSentenceId": "2548338",
+        "url": "https://tatoeba.org/en/sentences/show/13739047"
+      }
+    },
+    "acceptedJapanese": [
+      "閉める",
+      "しめる"
+    ],
+    "acceptedEnglish": [
+      "to close",
+      "to shut"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-play-1777217253863",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "遊ぶ",
+    "kanji": "遊ぶ",
+    "kana": "あそぶ",
+    "meaning": "to play",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to play\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遊",
+        "meanings": [
+          "to play"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここで遊ぶな。",
+      "english": "Don't play here.",
+      "furigana": [
+        {
+          "text": "ここで"
+        },
+        {
+          "text": "遊ぶ",
+          "highlight": true,
+          "reading": "あそぶ"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9550392",
+        "englishSentenceId": "61858",
+        "url": "https://tatoeba.org/en/sentences/show/9550392"
+      }
+    },
+    "acceptedJapanese": [
+      "遊ぶ",
+      "あそぶ"
+    ],
+    "acceptedEnglish": [
+      "to play",
+      "to enjoy oneself",
+      "to have a good time",
+      "to mess about",
+      "to be idle",
+      "to do nothing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-cleaning-1777217253866",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "掃除",
+    "kanji": "掃除",
+    "kana": "そうじ",
+    "meaning": "cleaning",
+    "explanation": "A JLPT N5 noun, suru noun, transitive verb meaning \"cleaning\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "掃",
+        "meanings": [
+          "cleaning"
+        ]
+      },
+      {
+        "kanji": "除",
+        "meanings": [
+          "cleaning"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は部屋の掃除が嫌いだ。",
+      "english": "He hates cleaning his room.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "掃除",
+          "highlight": true,
+          "reading": "そうじ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "嫌い",
+          "reading": "きらい"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "100296",
+        "englishSentenceId": "303401",
+        "url": "https://tatoeba.org/en/sentences/show/100296"
+      }
+    },
+    "acceptedJapanese": [
+      "掃除",
+      "そうじ"
+    ],
+    "acceptedEnglish": [
+      "cleaning",
+      "sweeping",
+      "dusting",
+      "scrubbing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-sit-1777217253872",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "座る",
+    "kanji": "座る",
+    "kana": "すわる",
+    "meaning": "to sit",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to sit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "座",
+        "meanings": [
+          "to sit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その上に座るな。",
+      "english": "Don't sit on it.",
+      "furigana": [
+        {
+          "text": "その上",
+          "reading": "そのうえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "座る",
+          "highlight": true,
+          "reading": "すわる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "208984",
+        "englishSentenceId": "46244",
+        "url": "https://tatoeba.org/en/sentences/show/208984"
+      }
+    },
+    "acceptedJapanese": [
+      "座る",
+      "すわる"
+    ],
+    "acceptedEnglish": [
+      "to sit",
+      "to have a seat",
+      "to be seated",
+      "to kneel",
+      "to assume",
+      "to take on"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-talk-1777217253932",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "話",
+    "kanji": "話",
+    "kana": "はなし",
+    "meaning": "talk",
+    "explanation": "A JLPT N5 noun meaning \"talk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "話",
+        "meanings": [
+          "talk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "話せよ！",
+      "english": "Talk!",
+      "furigana": [
+        {
+          "text": "話",
+          "highlight": true,
+          "reading": "はなし"
+        },
+        {
+          "text": "せよ！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1057281",
+        "englishSentenceId": "6102407",
+        "url": "https://tatoeba.org/en/sentences/show/1057281"
+      }
+    },
+    "acceptedJapanese": [
+      "話",
+      "はなし"
+    ],
+    "acceptedEnglish": [
+      "talk",
+      "speech",
+      "chat",
+      "conversation",
+      "topic",
+      "subject"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-action-verb-to-attach-1777217253968",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "付ける",
+    "kanji": "付ける",
+    "kana": "つける",
+    "meaning": "to attach",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to attach\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "付",
+        "meanings": [
+          "to attach"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "塩で味を付ける。",
+      "english": "We season with salt.",
+      "furigana": [
+        {
+          "text": "塩",
+          "reading": "しお"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "味",
+          "reading": "あじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "付ける",
+          "highlight": true,
+          "reading": "つける"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188611",
+        "englishSentenceId": "25756",
+        "url": "https://tatoeba.org/en/sentences/show/188611"
+      }
+    },
+    "acceptedJapanese": [
+      "付ける",
+      "つける"
+    ],
+    "acceptedEnglish": [
+      "to attach",
+      "to join",
+      "to connect",
+      "to add",
+      "to append",
+      "to affix"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-memorise-1777217254019",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "覚える",
+    "kanji": "覚える",
+    "kana": "おぼえる",
+    "meaning": "to memorise",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to memorise\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "覚",
+        "meanings": [
+          "to memorise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの日をよく覚える。",
+      "english": "Well do I remember the day.",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "をよく"
+        },
+        {
+          "text": "覚える",
+          "highlight": true,
+          "reading": "おぼえる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1678510",
+        "englishSentenceId": "29954",
+        "url": "https://tatoeba.org/en/sentences/show/1678510"
+      }
+    },
+    "acceptedJapanese": [
+      "覚える",
+      "おぼえる"
+    ],
+    "acceptedEnglish": [
+      "to memorise",
+      "to commit to memory",
+      "to learn by heart",
+      "to bear in mind",
+      "to remember",
+      "to learn"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-action-verb-to-work-1777217254031",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "勤める",
+    "kanji": "勤める",
+    "kana": "つとめる",
+    "meaning": "to work",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勤",
+        "meanings": [
+          "to work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はコンサルティングファームに勤める。",
+      "english": "He works for a consulting firm.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はコンサルティングファームに"
+        },
+        {
+          "text": "勤める",
+          "highlight": true,
+          "reading": "つとめる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8225016",
+        "englishSentenceId": "9988112",
+        "url": "https://tatoeba.org/en/sentences/show/8225016"
+      }
+    },
+    "acceptedJapanese": [
+      "勤める",
+      "つとめる"
+    ],
+    "acceptedEnglish": [
+      "to work",
+      "to be employed",
+      "to serve",
+      "to act",
+      "to fill",
+      "to play the role"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-action-verb-to-push-1777217254046",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "押す",
+    "kanji": "押す",
+    "kana": "おす",
+    "meaning": "to push",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to push\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "押",
+        "meanings": [
+          "to push"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "押すなよ。",
+      "english": "Don't push.",
+      "furigana": [
+        {
+          "text": "押す",
+          "highlight": true,
+          "reading": "おす"
+        },
+        {
+          "text": "なよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3488278",
+        "englishSentenceId": "2111910",
+        "url": "https://tatoeba.org/en/sentences/show/3488278"
+      }
+    },
+    "acceptedJapanese": [
+      "押す",
+      "おす"
+    ],
+    "acceptedEnglish": [
+      "to push",
+      "to thrust",
+      "to shove",
+      "to press",
+      "to exert pressure on",
+      "to stamp"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-use-1777217254049",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "使う",
+    "kanji": "使う",
+    "kana": "つかう",
+    "meaning": "to use",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to use\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "使",
+        "meanings": [
+          "to use"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は上手に英語を使うことができる。",
+      "english": "He can handle English well.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "英語",
+          "reading": "えいご"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "使う",
+          "highlight": true,
+          "reading": "つかう"
+        },
+        {
+          "text": "ことができる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104002",
+        "englishSentenceId": "299690",
+        "url": "https://tatoeba.org/en/sentences/show/104002"
+      }
+    },
+    "acceptedJapanese": [
+      "使う",
+      "つかう"
+    ],
+    "acceptedEnglish": [
+      "to use",
+      "to make use of",
+      "to put to use",
+      "to employ",
+      "to handle",
+      "to manage"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-write-1777217254082",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "書く",
+    "kanji": "書く",
+    "kana": "かく",
+    "meaning": "to write",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to write\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "書",
+        "meanings": [
+          "to write"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は手紙を書く。",
+      "english": "He writes a letter.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "書く",
+          "highlight": true,
+          "reading": "かく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1572989",
+        "englishSentenceId": "1572976",
+        "url": "https://tatoeba.org/en/sentences/show/1572989"
+      }
+    },
+    "acceptedJapanese": [
+      "書く",
+      "かく"
+    ],
+    "acceptedEnglish": [
+      "to write",
+      "to compose",
+      "to pen",
+      "to draw",
+      "to paint"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-know-1777217254091",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "知る",
+    "kanji": "知る",
+    "kana": "しる",
+    "meaning": "to know",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to know\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "知",
+        "meanings": [
+          "to know"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "誰が知るものか。",
+      "english": "Who knows?",
+      "furigana": [
+        {
+          "text": "誰",
+          "reading": "だれ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "知る",
+          "highlight": true,
+          "reading": "しる"
+        },
+        {
+          "text": "ものか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "136867",
+        "englishSentenceId": "276369",
+        "url": "https://tatoeba.org/en/sentences/show/136867"
+      }
+    },
+    "acceptedJapanese": [
+      "知る",
+      "しる"
+    ],
+    "acceptedEnglish": [
+      "to know",
+      "to be aware",
+      "to be conscious",
+      "to learn",
+      "to find out",
+      "to discover"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-put-on-1777217254097",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "履く",
+    "kanji": "履く",
+    "kana": "はく",
+    "meaning": "to put on",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to put on\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "履",
+        "meanings": [
+          "to put on"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "木靴を履くのが好きだ。",
+      "english": "I like to wear clogs.",
+      "furigana": [
+        {
+          "text": "木靴",
+          "reading": "きぐつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "履く",
+          "highlight": true,
+          "reading": "はく"
+        },
+        {
+          "text": "のが"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3452320",
+        "englishSentenceId": "807955",
+        "url": "https://tatoeba.org/en/sentences/show/3452320"
+      }
+    },
+    "acceptedJapanese": [
+      "履く",
+      "はく"
+    ],
+    "acceptedEnglish": [
+      "to put on",
+      "to wear",
+      "to affix"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-sing-1777217254127",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "歌う",
+    "kanji": "歌う",
+    "kana": "うたう",
+    "meaning": "to sing",
+    "explanation": "A JLPT N5 godan verb, transitive verb, intransitive verb meaning \"to sing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歌",
+        "meanings": [
+          "to sing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歌うのが好きです。",
+      "english": "I like singing.",
+      "furigana": [
+        {
+          "text": "歌う",
+          "highlight": true,
+          "reading": "うたう"
+        },
+        {
+          "text": "のが"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12483323",
+        "englishSentenceId": "256533",
+        "url": "https://tatoeba.org/en/sentences/show/12483323"
+      }
+    },
+    "acceptedJapanese": [
+      "歌う",
+      "うたう"
+    ],
+    "acceptedEnglish": [
+      "to sing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-fly-1777217254181",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "飛ぶ",
+    "kanji": "飛ぶ",
+    "kana": "とぶ",
+    "meaning": "to fly",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to fly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飛",
+        "meanings": [
+          "to fly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "飛ぶ前に見よ。",
+      "english": "Look before you leap.",
+      "furigana": [
+        {
+          "text": "飛ぶ",
+          "highlight": true,
+          "reading": "とぶ"
+        },
+        {
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "85749",
+        "englishSentenceId": "272230",
+        "url": "https://tatoeba.org/en/sentences/show/85749"
+      }
+    },
+    "acceptedJapanese": [
+      "飛ぶ",
+      "とぶ"
+    ],
+    "acceptedEnglish": [
+      "to fly",
+      "to soar",
+      "to jump",
+      "to leap",
+      "to spring",
+      "to bound"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-wash-1777217254223",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "洗う",
+    "kanji": "洗う",
+    "kana": "あらう",
+    "meaning": "to wash",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to wash\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "洗",
+        "meanings": [
+          "to wash"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お皿は洗うから。",
+      "english": "I'm going to wash the dishes.",
+      "furigana": [
+        {
+          "text": "お皿",
+          "reading": "おさら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "洗う",
+          "highlight": true,
+          "reading": "あらう"
+        },
+        {
+          "text": "から。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8885672",
+        "englishSentenceId": "5629410",
+        "url": "https://tatoeba.org/en/sentences/show/8885672"
+      }
+    },
+    "acceptedJapanese": [
+      "洗う",
+      "あらう"
+    ],
+    "acceptedEnglish": [
+      "to wash",
+      "to cleanse",
+      "to rinse",
+      "to inquire into",
+      "to investigate",
+      "to purify"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-take-1777217254226",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "掛かる",
+    "kanji": "掛かる",
+    "kana": "かかる",
+    "meaning": "to take",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to take\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "掛",
+        "meanings": [
+          "to take"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "サム、これをやるのに何時間も掛かるぞ。",
+      "english": "Sam, this is gonna take you hours.",
+      "furigana": [
+        {
+          "text": "サム、これをやるのに"
+        },
+        {
+          "text": "何時間",
+          "reading": "なんじかん"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "掛かる",
+          "highlight": true,
+          "reading": "かかる"
+        },
+        {
+          "text": "ぞ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "216736",
+        "englishSentenceId": "54042",
+        "url": "https://tatoeba.org/en/sentences/show/216736"
+      }
+    },
+    "acceptedJapanese": [
+      "掛かる",
+      "かかる"
+    ],
+    "acceptedEnglish": [
+      "to take"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-lend-1777217254232",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "貸す",
+    "kanji": "貸す",
+    "kana": "かす",
+    "meaning": "to lend",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to lend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "貸",
+        "meanings": [
+          "to lend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "金を貸す。",
+      "english": "I lend money.",
+      "furigana": [
+        {
+          "text": "金",
+          "reading": "かね"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "貸す",
+          "highlight": true,
+          "reading": "かす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1484647",
+        "englishSentenceId": "252234",
+        "url": "https://tatoeba.org/en/sentences/show/1484647"
+      }
+    },
+    "acceptedJapanese": [
+      "貸す",
+      "かす"
+    ],
+    "acceptedEnglish": [
+      "to lend",
+      "to loan",
+      "to rent out",
+      "to hire out",
+      "to hand",
+      "to give"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-say-1777217254247",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "言う",
+    "kanji": "言う",
+    "kana": "いう",
+    "meaning": "to say",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to say\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "言",
+        "meanings": [
+          "to say"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この鳥は何て言うの？",
+      "english": "What do you call this bird?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "鳥",
+          "reading": "とり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何て",
+          "reading": "なんて"
+        },
+        {
+          "text": "言う",
+          "highlight": true,
+          "reading": "いう"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9921625",
+        "englishSentenceId": "57816",
+        "url": "https://tatoeba.org/en/sentences/show/9921625"
+      }
+    },
+    "acceptedJapanese": [
+      "言う",
+      "いう"
+    ],
+    "acceptedEnglish": [
+      "to say",
+      "to utter",
+      "to declare",
+      "to name",
+      "to call"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-ascend-1777217254250",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "上る",
+    "kanji": "上る",
+    "kana": "のぼる",
+    "meaning": "to ascend",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to ascend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "to ascend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "月は東から上る。",
+      "english": "The moon rises in the east.",
+      "furigana": [
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "東",
+          "reading": "ひがし"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "上る",
+          "highlight": true,
+          "reading": "のぼる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175628",
+        "englishSentenceId": "238836",
+        "url": "https://tatoeba.org/en/sentences/show/175628"
+      }
+    },
+    "acceptedJapanese": [
+      "上る",
+      "のぼる"
+    ],
+    "acceptedEnglish": [
+      "to ascend",
+      "to go up",
+      "to climb",
+      "to rise",
+      "to go to",
+      "to be promoted"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-differ-1777217254262",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "違う",
+    "kanji": "違う",
+    "kana": "ちがう",
+    "meaning": "to differ",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to differ\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "違",
+        "meanings": [
+          "to differ"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "何が違うの？",
+      "english": "What's the difference?",
+      "furigana": [
+        {
+          "text": "何",
+          "reading": "なに"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "違う",
+          "highlight": true,
+          "reading": "ちがう"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8580425",
+        "englishSentenceId": "38325",
+        "url": "https://tatoeba.org/en/sentences/show/8580425"
+      }
+    },
+    "acceptedJapanese": [
+      "違う",
+      "ちがう"
+    ],
+    "acceptedEnglish": [
+      "to differ",
+      "to be different",
+      "to be distinct",
+      "to be unlike",
+      "to vary",
+      "to disagree"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-hold-1777217254265",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "持つ",
+    "kanji": "持つ",
+    "kana": "もつ",
+    "meaning": "to hold",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to hold\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "持",
+        "meanings": [
+          "to hold"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それ持つよ。",
+      "english": "Let me carry it for you.",
+      "furigana": [
+        {
+          "text": "それ"
+        },
+        {
+          "text": "持つ",
+          "highlight": true,
+          "reading": "もつ"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9940351",
+        "englishSentenceId": "6858496",
+        "url": "https://tatoeba.org/en/sentences/show/9940351"
+      }
+    },
+    "acceptedJapanese": [
+      "持つ",
+      "もつ"
+    ],
+    "acceptedEnglish": [
+      "to hold",
+      "to take",
+      "to carry",
+      "to possess",
+      "to have",
+      "to own"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-become-1777217254274",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "成る",
+    "kanji": "成る",
+    "kana": "なる",
+    "meaning": "to become",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to become\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "成",
+        "meanings": [
+          "to become"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "成せば成る。",
+      "english": "Where there's a will, there's a way.",
+      "furigana": [
+        {
+          "text": "成",
+          "reading": "な"
+        },
+        {
+          "text": "せば"
+        },
+        {
+          "text": "成る",
+          "highlight": true,
+          "reading": "なる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143294",
+        "englishSentenceId": "1775",
+        "url": "https://tatoeba.org/en/sentences/show/143294"
+      }
+    },
+    "acceptedJapanese": [
+      "成る",
+      "なる"
+    ],
+    "acceptedEnglish": [
+      "to become",
+      "to get",
+      "to grow",
+      "to turn",
+      "to reach",
+      "to attain"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-understand-1777217254280",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "分かる",
+    "kanji": "分かる",
+    "kana": "わかる",
+    "meaning": "to understand",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to understand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "分",
+        "meanings": [
+          "to understand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "分かる。",
+      "english": "I understand.",
+      "furigana": [
+        {
+          "text": "分かる",
+          "highlight": true,
+          "reading": "わかる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7486095",
+        "englishSentenceId": "433468",
+        "url": "https://tatoeba.org/en/sentences/show/7486095"
+      }
+    },
+    "acceptedJapanese": [
+      "分かる",
+      "わかる"
+    ],
+    "acceptedEnglish": [
+      "to understand",
+      "to comprehend",
+      "to grasp",
+      "to see",
+      "to get",
+      "to follow"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-answer-1777217254304",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "答える",
+    "kanji": "答える",
+    "kana": "こたえる",
+    "meaning": "to answer",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to answer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "答",
+        "meanings": [
+          "to answer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "軽率に答えるな。",
+      "english": "Do not answer hastily.",
+      "furigana": [
+        {
+          "text": "軽率",
+          "reading": "けいそつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "答える",
+          "highlight": true,
+          "reading": "こたえる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176043",
+        "englishSentenceId": "238422",
+        "url": "https://tatoeba.org/en/sentences/show/176043"
+      }
+    },
+    "acceptedJapanese": [
+      "答える",
+      "こたえる"
+    ],
+    "acceptedEnglish": [
+      "to answer",
+      "to reply"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-action-verb-to-get-on-1777217254313",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "乗る",
+    "kanji": "乗る",
+    "kana": "のる",
+    "meaning": "to get on",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to get on\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "乗",
+        "meanings": [
+          "to get on"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "車に乗る。",
+      "english": "I'll take a car.",
+      "furigana": [
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗る",
+          "highlight": true,
+          "reading": "のる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11876554",
+        "englishSentenceId": "13057411",
+        "url": "https://tatoeba.org/en/sentences/show/11876554"
+      }
+    },
+    "acceptedJapanese": [
+      "乗る",
+      "のる"
+    ],
+    "acceptedEnglish": [
+      "to get on",
+      "to get in",
+      "to board",
+      "to take",
+      "to embark",
+      "to step on"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-descend-1777217254331",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "降りる",
+    "kanji": "降りる",
+    "kana": "おりる",
+    "meaning": "to descend",
+    "explanation": "A JLPT N5 Ichidan verb, intransitive verb meaning \"to descend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "降",
+        "meanings": [
+          "to descend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "終点で降りる。",
+      "english": "I'll get off at the last stop.",
+      "furigana": [
+        {
+          "text": "終点",
+          "reading": "しゅうてん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "降りる",
+          "highlight": true,
+          "reading": "おりる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9793312",
+        "englishSentenceId": "9793504",
+        "url": "https://tatoeba.org/en/sentences/show/9793312"
+      }
+    },
+    "acceptedJapanese": [
+      "降りる",
+      "おりる"
+    ],
+    "acceptedEnglish": [
+      "to descend",
+      "to go down",
+      "to come down",
+      "to alight",
+      "to get off",
+      "to disembark"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-borrow-1777217254358",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "借りる",
+    "kanji": "借りる",
+    "kana": "かりる",
+    "meaning": "to borrow",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to borrow\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "借",
+        "meanings": [
+          "to borrow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お金を借りることはできますか。",
+      "english": "Is it possible to borrow money?",
+      "furigana": [
+        {
+          "text": "お金",
+          "reading": "おかね"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "借りる",
+          "highlight": true,
+          "reading": "かりる"
+        },
+        {
+          "text": "ことはできますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227222",
+        "englishSentenceId": "64571",
+        "url": "https://tatoeba.org/en/sentences/show/227222"
+      }
+    },
+    "acceptedJapanese": [
+      "借りる",
+      "かりる"
+    ],
+    "acceptedEnglish": [
+      "to borrow",
+      "to rent",
+      "to hire",
+      "to make use of",
+      "to obtain",
+      "to receive"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-take-1777217254376",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "取る",
+    "kanji": "取る",
+    "kana": "とる",
+    "meaning": "to take",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to take\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "取",
+        "meanings": [
+          "to take"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どっち取る？",
+      "english": "Which one do you take?",
+      "furigana": [
+        {
+          "text": "どっち"
+        },
+        {
+          "text": "取る",
+          "highlight": true,
+          "reading": "とる"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2972338",
+        "englishSentenceId": "16479",
+        "url": "https://tatoeba.org/en/sentences/show/2972338"
+      }
+    },
+    "acceptedJapanese": [
+      "取る",
+      "とる"
+    ],
+    "acceptedEnglish": [
+      "to take",
+      "to pick up",
+      "to grab",
+      "to catch",
+      "to hold",
+      "to pass"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-pull-1777217254391",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "引く",
+    "kanji": "引く",
+    "kana": "ひく",
+    "meaning": "to pull",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to pull\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "引",
+        "meanings": [
+          "to pull"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "水車小屋は皆自分の水車に水を引く。",
+      "english": "Every miller draws water to his own mill.",
+      "furigana": [
+        {
+          "text": "水車小屋",
+          "reading": "すいしゃごや"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "皆",
+          "reading": "みな"
+        },
+        {
+          "text": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "水",
+          "reading": "みず"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "水",
+          "reading": "みず"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "引く",
+          "highlight": true,
+          "reading": "ひく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143671",
+        "englishSentenceId": "270896",
+        "url": "https://tatoeba.org/en/sentences/show/143671"
+      }
+    },
+    "acceptedJapanese": [
+      "引く",
+      "ひく"
+    ],
+    "acceptedEnglish": [
+      "to pull",
+      "to tug",
+      "to lead",
+      "to draw",
+      "to attract",
+      "to draw back"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-do-1777217254424",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "遣る",
+    "kanji": "遣る",
+    "kana": "やる",
+    "meaning": "to do",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to do\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遣",
+        "meanings": [
+          "to do"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「遣る」は日本語の言葉です。",
+      "english": "\"to do\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "遣る",
+          "reading": "やる",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "遣る",
+      "やる"
+    ],
+    "acceptedEnglish": [
+      "to do",
+      "to undertake",
+      "to perform",
+      "to play",
+      "to study",
+      "to send"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-see-1777217254430",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "見る",
+    "kanji": "見る",
+    "kana": "みる",
+    "meaning": "to see",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to see\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "to see"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "アニメ見る？",
+      "english": "Do you watch anime?",
+      "furigana": [
+        {
+          "text": "アニメ"
+        },
+        {
+          "text": "見る",
+          "highlight": true,
+          "reading": "みる"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13250220",
+        "englishSentenceId": "6995592",
+        "url": "https://tatoeba.org/en/sentences/show/13250220"
+      }
+    },
+    "acceptedJapanese": [
+      "見る",
+      "みる"
+    ],
+    "acceptedEnglish": [
+      "to see",
+      "to look",
+      "to watch",
+      "to view",
+      "to observe",
+      "to examine"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-put-1777217254445",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "置く",
+    "kanji": "置く",
+    "kana": "おく",
+    "meaning": "to put",
+    "explanation": "A JLPT N5 Godan verb with 'ku' ending, transitive verb meaning \"to put\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "置",
+        "meanings": [
+          "to put"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の手のひらに硬貨を置く。",
+      "english": "Place a coin in the palm of his hand.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手のひら",
+          "reading": "てのひら"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "硬貨",
+          "reading": "こうか"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "置く",
+          "highlight": true,
+          "reading": "おく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "117046",
+        "englishSentenceId": "286620",
+        "url": "https://tatoeba.org/en/sentences/show/117046"
+      }
+    },
+    "acceptedJapanese": [
+      "置く",
+      "おく"
+    ],
+    "acceptedEnglish": [
+      "to put",
+      "to place",
+      "to leave",
+      "to establish",
+      "to set up",
+      "to appoint"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-put-in-1777217254457",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "入れる",
+    "kanji": "入れる",
+    "kana": "いれる",
+    "meaning": "to put in",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to put in\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "入",
+        "meanings": [
+          "to put in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お金を先に入れるのですか。",
+      "english": "Should I insert coins first?",
+      "furigana": [
+        {
+          "text": "お金",
+          "reading": "おかね"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "先に",
+          "reading": "さきに"
+        },
+        {
+          "text": "入れる",
+          "highlight": true,
+          "reading": "いれる"
+        },
+        {
+          "text": "のですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227214",
+        "englishSentenceId": "64563",
+        "url": "https://tatoeba.org/en/sentences/show/227214"
+      }
+    },
+    "acceptedJapanese": [
+      "入れる",
+      "いれる"
+    ],
+    "acceptedEnglish": [
+      "to put in",
+      "to let in",
+      "to take in",
+      "to bring in",
+      "to insert",
+      "to install"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-bend-1777217254478",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "曲がる",
+    "kanji": "曲がる",
+    "kana": "まがる",
+    "meaning": "to bend",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to bend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "曲",
+        "meanings": [
+          "to bend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鉛は簡単に曲がる。",
+      "english": "Lead bends easily.",
+      "furigana": [
+        {
+          "text": "鉛",
+          "reading": "なまり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "曲がる",
+          "highlight": true,
+          "reading": "まがる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188632",
+        "englishSentenceId": "25778",
+        "url": "https://tatoeba.org/en/sentences/show/188632"
+      }
+    },
+    "acceptedJapanese": [
+      "曲がる",
+      "まがる"
+    ],
+    "acceptedEnglish": [
+      "to bend",
+      "to curve",
+      "to warp",
+      "to wind",
+      "to twist",
+      "to turn"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-be-absent-1777217254487",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "休む",
+    "kanji": "休む",
+    "kana": "やすむ",
+    "meaning": "to be absent",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to be absent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "to be absent"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は少し休むべきです。",
+      "english": "She ought to take a little rest.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "休む",
+          "highlight": true,
+          "reading": "やすむ"
+        },
+        {
+          "text": "べきです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "88679",
+        "englishSentenceId": "315028",
+        "url": "https://tatoeba.org/en/sentences/show/88679"
+      }
+    },
+    "acceptedJapanese": [
+      "休む",
+      "やすむ"
+    ],
+    "acceptedEnglish": [
+      "to be absent",
+      "to take a day off",
+      "to rest",
+      "to have a break",
+      "to go to bed",
+      "to sleep"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-live-1777217254505",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "住む",
+    "kanji": "住む",
+    "kana": "すむ",
+    "meaning": "to live",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to live\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "住",
+        "meanings": [
+          "to live"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼には住む家もない。",
+      "english": "He has no house to live in.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "住む",
+          "highlight": true,
+          "reading": "すむ"
+        },
+        {
+          "text": "家",
+          "reading": "いえ"
+        },
+        {
+          "text": "もない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "118823",
+        "englishSentenceId": "284840",
+        "url": "https://tatoeba.org/en/sentences/show/118823"
+      }
+    },
+    "acceptedJapanese": [
+      "住む",
+      "すむ"
+    ],
+    "acceptedEnglish": [
+      "to live",
+      "to reside",
+      "to inhabit",
+      "to dwell",
+      "to abide"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-tie-1777217254508",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "締める",
+    "kanji": "締める",
+    "kana": "しめる",
+    "meaning": "to tie",
+    "explanation": "A JLPT N5 Ichidan verb, transitive verb meaning \"to tie\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "締",
+        "meanings": [
+          "to tie"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "必ずシートベルトを締めること。",
+      "english": "Always fasten your seatbelt.",
+      "furigana": [
+        {
+          "text": "必ず",
+          "reading": "かならず"
+        },
+        {
+          "text": "シートベルトを"
+        },
+        {
+          "text": "締める",
+          "highlight": true,
+          "reading": "しめる"
+        },
+        {
+          "text": "こと。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11655068",
+        "englishSentenceId": "10506424",
+        "url": "https://tatoeba.org/en/sentences/show/11655068"
+      }
+    },
+    "acceptedJapanese": [
+      "締める",
+      "しめる"
+    ],
+    "acceptedEnglish": [
+      "to tie",
+      "to fasten",
+      "to tighten",
+      "to wear",
+      "to put on",
+      "to total"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-return-1777217254547",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "帰る",
+    "kanji": "帰る",
+    "kana": "かえる",
+    "meaning": "to return",
+    "explanation": "A JLPT N5 godan verb, intransitive verb meaning \"to return\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "帰",
+        "meanings": [
+          "to return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家に帰るよ。",
+      "english": "I leave to go home.",
+      "furigana": [
+        {
+          "text": "家",
+          "reading": "いえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "帰る",
+          "highlight": true,
+          "reading": "かえる"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "187096",
+        "englishSentenceId": "24233",
+        "url": "https://tatoeba.org/en/sentences/show/187096"
+      }
+    },
+    "acceptedJapanese": [
+      "帰る",
+      "かえる"
+    ],
+    "acceptedEnglish": [
+      "to return",
+      "to come home",
+      "to go home",
+      "to go back",
+      "to leave",
+      "to get home"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-action-verb-to-call-out-1777217254550",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "呼ぶ",
+    "kanji": "呼ぶ",
+    "kana": "よぶ",
+    "meaning": "to call out",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to call out\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "呼",
+        "meanings": [
+          "to call out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "人々は彼をデイブと呼ぶ。",
+      "english": "People call him Dave.",
+      "furigana": [
+        {
+          "text": "人々",
+          "reading": "ひとびと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "をデイブと"
+        },
+        {
+          "text": "呼ぶ",
+          "highlight": true,
+          "reading": "よぶ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144070",
+        "englishSentenceId": "270495",
+        "url": "https://tatoeba.org/en/sentences/show/144070"
+      }
+    },
+    "acceptedJapanese": [
+      "呼ぶ",
+      "よぶ"
+    ],
+    "acceptedEnglish": [
+      "to call out",
+      "to call",
+      "to invoke",
+      "to summon",
+      "to invite",
+      "to designate"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-action-verb-to-talk-1777217254568",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "話す",
+    "kanji": "話す",
+    "kana": "はなす",
+    "meaning": "to talk",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to talk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "話",
+        "meanings": [
+          "to talk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "話す。",
+      "english": "Speak.",
+      "furigana": [
+        {
+          "text": "話す",
+          "highlight": true,
+          "reading": "はなす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8858173",
+        "englishSentenceId": "11827700",
+        "url": "https://tatoeba.org/en/sentences/show/8858173"
+      }
+    },
+    "acceptedJapanese": [
+      "話す",
+      "はなす"
+    ],
+    "acceptedEnglish": [
+      "to talk",
+      "to speak",
+      "to converse",
+      "to chat",
+      "to tell",
+      "to explain"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-action-verb-to-ferry-across-1777217254574",
+    "jlpt": "N5",
+    "subcategory": "Action/Verb",
+    "name": "渡す",
+    "kanji": "渡す",
+    "kana": "わたす",
+    "meaning": "to ferry across",
+    "explanation": "A JLPT N5 godan verb, transitive verb meaning \"to ferry across\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "渡",
+        "meanings": [
+          "to ferry across"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その橋を渡すのには３年近くかかりました。",
+      "english": "It took nearly three years to build that bridge.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "橋",
+          "reading": "はし"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "渡す",
+          "highlight": true,
+          "reading": "わたす"
+        },
+        {
+          "text": "のには３"
+        },
+        {
+          "text": "年",
+          "reading": "とし"
+        },
+        {
+          "text": "近く",
+          "reading": "ちかく"
+        },
+        {
+          "text": "かかりました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9740909",
+        "englishSentenceId": "9740888",
+        "url": "https://tatoeba.org/en/sentences/show/9740909"
+      }
+    },
+    "acceptedJapanese": [
+      "渡す",
+      "わたす"
+    ],
+    "acceptedEnglish": [
+      "to ferry across",
+      "to carry across",
+      "to traverse",
+      "to lay across",
+      "to build across",
+      "to hand over"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

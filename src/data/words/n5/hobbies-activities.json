@@ -1,0 +1,781 @@
+[
+  {
+    "id": "n5-hobbies-activities-match-1777217253020",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "マッチ",
+    "kanji": "マッチ",
+    "kana": "マッチ",
+    "meaning": "match",
+    "explanation": "A JLPT N5 noun meaning \"match\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "マッチありますか。",
+      "english": "Do you have a match?",
+      "furigana": [
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "ありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "195351",
+        "englishSentenceId": "32525",
+        "url": "https://tatoeba.org/en/sentences/show/195351"
+      }
+    },
+    "acceptedJapanese": [
+      "マッチ"
+    ],
+    "acceptedEnglish": [
+      "match"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-hobbies-activities-guitar-1777217253413",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "ギター",
+    "kanji": "ギター",
+    "kana": "ギター",
+    "meaning": "guitar",
+    "explanation": "A JLPT N5 noun meaning \"guitar\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ギターが欲しいです。",
+      "english": "I want a guitar.",
+      "furigana": [
+        {
+          "text": "ギ",
+          "highlight": true,
+          "reading": "ギター"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "ギター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ギター"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "欲しい",
+          "reading": "ほしい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "226063",
+        "englishSentenceId": "63403",
+        "url": "https://tatoeba.org/en/sentences/show/226063"
+      }
+    },
+    "acceptedJapanese": [
+      "ギター"
+    ],
+    "acceptedEnglish": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "n5-hobbies-activities-song-1777217253416",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "歌",
+    "kanji": "歌",
+    "kana": "うた",
+    "meaning": "song",
+    "explanation": "A JLPT N5 noun meaning \"song\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歌",
+        "meanings": [
+          "song"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歌を書きます。",
+      "english": "I write songs.",
+      "furigana": [
+        {
+          "text": "歌",
+          "highlight": true,
+          "reading": "うた"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "書",
+          "reading": "か"
+        },
+        {
+          "text": "きます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13894077",
+        "englishSentenceId": "7956597",
+        "url": "https://tatoeba.org/en/sentences/show/13894077"
+      }
+    },
+    "acceptedJapanese": [
+      "歌",
+      "うた"
+    ],
+    "acceptedEnglish": [
+      "song",
+      "singing",
+      "classical Japanese poem",
+      "modern poetry"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-hobbies-activities-music-1777217253476",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "音楽",
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "meaning": "music",
+    "explanation": "A JLPT N5 noun meaning \"music\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "音",
+        "meanings": [
+          "music"
+        ]
+      },
+      {
+        "kanji": "楽",
+        "meanings": [
+          "music"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "音楽が好きです。",
+      "english": "I like music.",
+      "furigana": [
+        {
+          "text": "音楽",
+          "highlight": true,
+          "reading": "おんがく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13254283",
+        "englishSentenceId": "2318277",
+        "url": "https://tatoeba.org/en/sentences/show/13254283"
+      }
+    },
+    "acceptedJapanese": [
+      "音楽",
+      "おんがく"
+    ],
+    "acceptedEnglish": [
+      "music"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-hobbies-activities-sport-1777217253668",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "スポーツ",
+    "kanji": "スポーツ",
+    "kana": "スポーツ",
+    "meaning": "sport",
+    "explanation": "A JLPT N5 noun meaning \"sport\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スポーツが好きです。",
+      "english": "I like sport.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スポーツ"
+        },
+        {
+          "text": "ポ",
+          "highlight": true,
+          "reading": "スポーツ"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スポーツ"
+        },
+        {
+          "text": "ツ",
+          "highlight": true,
+          "reading": "スポーツ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6203890",
+        "englishSentenceId": "51618",
+        "url": "https://tatoeba.org/en/sentences/show/6203890"
+      }
+    },
+    "acceptedJapanese": [
+      "スポーツ"
+    ],
+    "acceptedEnglish": [
+      "sport",
+      "sports"
+    ]
+  },
+  {
+    "id": "n5-hobbies-activities-photograph-1777217253767",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "写真",
+    "kanji": "写真",
+    "kana": "しゃしん",
+    "meaning": "photograph",
+    "explanation": "A JLPT N5 noun meaning \"photograph\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "写",
+        "meanings": [
+          "photograph"
+        ]
+      },
+      {
+        "kanji": "真",
+        "meanings": [
+          "photograph"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "写真が要りますよ。",
+      "english": "You need a photograph.",
+      "furigana": [
+        {
+          "text": "写真",
+          "highlight": true,
+          "reading": "しゃしん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "要り",
+          "reading": "いり"
+        },
+        {
+          "text": "ますよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11178849",
+        "englishSentenceId": "5222475",
+        "url": "https://tatoeba.org/en/sentences/show/11178849"
+      }
+    },
+    "acceptedJapanese": [
+      "写真",
+      "しゃしん"
+    ],
+    "acceptedEnglish": [
+      "photograph",
+      "photo",
+      "picture",
+      "photography",
+      "moving picture",
+      "movie"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-hobbies-activities-walk-1777217254043",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "散歩",
+    "kanji": "散歩",
+    "kana": "さんぽ",
+    "meaning": "walk",
+    "explanation": "A JLPT N5 noun, suru noun, intransitive verb meaning \"walk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "散",
+        "meanings": [
+          "walk"
+        ]
+      },
+      {
+        "kanji": "歩",
+        "meanings": [
+          "walk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "散歩をした。",
+      "english": "I took a walk.",
+      "furigana": [
+        {
+          "text": "散歩",
+          "highlight": true,
+          "reading": "さんぽ"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "169326",
+        "englishSentenceId": "245159",
+        "url": "https://tatoeba.org/en/sentences/show/169326"
+      }
+    },
+    "acceptedJapanese": [
+      "散歩",
+      "さんぽ"
+    ],
+    "acceptedEnglish": [
+      "walk",
+      "stroll"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-hobbies-activities-shopping-1777217254070",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "買い物",
+    "kanji": "買い物",
+    "kana": "かいもの",
+    "meaning": "shopping",
+    "explanation": "A JLPT N5 noun, suru noun, intransitive verb meaning \"shopping\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "買",
+        "meanings": [
+          "shopping"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "shopping"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "買い物に行ってくる。",
+      "english": "I'm going shopping.",
+      "furigana": [
+        {
+          "text": "買い物",
+          "highlight": true,
+          "reading": "かいもの"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "ってくる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11256176",
+        "englishSentenceId": "2248018",
+        "url": "https://tatoeba.org/en/sentences/show/11256176"
+      }
+    },
+    "acceptedJapanese": [
+      "買い物",
+      "かいもの"
+    ],
+    "acceptedEnglish": [
+      "shopping",
+      "purchased goods"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-hobbies-activities-travel-1777217254085",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "旅行",
+    "kanji": "旅行",
+    "kana": "りょこう",
+    "meaning": "travel",
+    "explanation": "A JLPT N5 noun, suru noun, intransitive verb meaning \"travel\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "旅",
+        "meanings": [
+          "travel"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "travel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "旅行が好きです。",
+      "english": "I love trips.",
+      "furigana": [
+        {
+          "text": "旅行",
+          "highlight": true,
+          "reading": "りょこう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "961432",
+        "englishSentenceId": "2311",
+        "url": "https://tatoeba.org/en/sentences/show/961432"
+      }
+    },
+    "acceptedJapanese": [
+      "旅行",
+      "りょこう"
+    ],
+    "acceptedEnglish": [
+      "travel",
+      "trip",
+      "journey",
+      "excursion",
+      "tour"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-hobbies-activities-movie-1777217254124",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "映画",
+    "kanji": "映画",
+    "kana": "えいが",
+    "meaning": "movie",
+    "explanation": "A JLPT N5 noun meaning \"movie\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "映",
+        "meanings": [
+          "movie"
+        ]
+      },
+      {
+        "kanji": "画",
+        "meanings": [
+          "movie"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "映画が始まります。",
+      "english": "The movie starts.",
+      "furigana": [
+        {
+          "text": "映画",
+          "highlight": true,
+          "reading": "えいが"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "始まり",
+          "reading": "はじまり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "189340",
+        "englishSentenceId": "26488",
+        "url": "https://tatoeba.org/en/sentences/show/189340"
+      }
+    },
+    "acceptedJapanese": [
+      "映画",
+      "えいが"
+    ],
+    "acceptedEnglish": [
+      "movie",
+      "film",
+      "motion picture"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-hobbies-activities-picture-1777217254238",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "絵",
+    "kanji": "絵",
+    "kana": "え",
+    "meaning": "picture",
+    "explanation": "A JLPT N5 noun meaning \"picture\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "絵",
+        "meanings": [
+          "picture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは絵ですよ。",
+      "english": "This is a picture.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "絵",
+          "highlight": true,
+          "reading": "え"
+        },
+        {
+          "text": "ですよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "218471",
+        "englishSentenceId": "55783",
+        "url": "https://tatoeba.org/en/sentences/show/218471"
+      }
+    },
+    "acceptedJapanese": [
+      "絵",
+      "え"
+    ],
+    "acceptedEnglish": [
+      "picture",
+      "drawing",
+      "painting",
+      "sketch",
+      "image",
+      "footage"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-hobbies-activities-party-1777217254289",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "パーティー",
+    "kanji": "パーティー",
+    "kana": "パーティー",
+    "meaning": "party",
+    "explanation": "A JLPT N5 noun meaning \"party\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼はパーティー人間です。",
+      "english": "He's a party animal.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "パ",
+          "highlight": true,
+          "reading": "パーティー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "パーティー"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "パーティー"
+        },
+        {
+          "text": "ィ",
+          "highlight": true,
+          "reading": "パーティー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "パーティー"
+        },
+        {
+          "text": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "111330",
+        "englishSentenceId": "292353",
+        "url": "https://tatoeba.org/en/sentences/show/111330"
+      }
+    },
+    "acceptedJapanese": [
+      "パーティー"
+    ],
+    "acceptedEnglish": [
+      "party"
+    ]
+  },
+  {
+    "id": "n5-hobbies-activities-record-1777217254367",
+    "jlpt": "N5",
+    "subcategory": "Hobbies/Activities",
+    "name": "レコード",
+    "kanji": "レコード",
+    "kana": "レコード",
+    "meaning": "record",
+    "explanation": "A JLPT N5 noun meaning \"record\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼らは、レコードを買います。",
+      "english": "They will buy a record.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "レコード"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "レコード"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "レコード"
+        },
+        {
+          "text": "ド",
+          "highlight": true,
+          "reading": "レコード"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "買い",
+          "reading": "かい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "98359",
+        "englishSentenceId": "305343",
+        "url": "https://tatoeba.org/en/sentences/show/98359"
+      }
+    },
+    "acceptedJapanese": [
+      "レコード"
+    ],
+    "acceptedEnglish": [
+      "record"
+    ]
+  }
+]
