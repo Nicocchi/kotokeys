@@ -1,6 +1,14 @@
 @import "tailwindcss";
 @import "@heroui/styles";
 
+@font-face {
+  font-family: "Japanese Radicals";
+  src: url("/kanjialive/fonts/JapaneseRadicals-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 @layer base {
   * {
     box-sizing: border-box;
@@ -45,6 +53,17 @@
   input,
   select {
     font: inherit;
+  }
+
+  /* Some radicals only exist as private-use glyphs in the Kanji alive radicals font. */
+  .radical-text {
+    font-family:
+      "Japanese Radicals",
+      "Noto Sans JP",
+      "Yu Gothic",
+      "Hiragino Sans",
+      "Meiryo",
+      sans-serif;
   }
 }
 

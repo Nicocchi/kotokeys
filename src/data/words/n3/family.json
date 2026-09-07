@@ -1,1 +1,1065 @@
-[]
+[
+  {
+    "id": "n3-family-housework-1777217246501",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "家事",
+    "kanji": "家事",
+    "kana": "かじ",
+    "meaning": "housework",
+    "explanation": "A JLPT N3 noun meaning \"housework\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家事も大切な仕事です。",
+      "english": "Housework is also an important job.",
+      "furigana": [
+        {
+          "text": "家事",
+          "highlight": true,
+          "reading": "かじ"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "大",
+          "reading": "だい"
+        },
+        {
+          "text": "切",
+          "reading": "せつ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11596184",
+        "englishSentenceId": "11596192",
+        "url": "https://tatoeba.org/en/sentences/show/11596184"
+      }
+    },
+    "acceptedJapanese": [
+      "家事",
+      "かじ"
+    ],
+    "acceptedEnglish": [
+      "housework",
+      "domestic chores",
+      "family affairs",
+      "household matters"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-family-grandchild-1777217247230",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "孫",
+    "kanji": "孫",
+    "kana": "まご",
+    "meaning": "grandchild",
+    "explanation": "A JLPT N3 noun meaning \"grandchild\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "孫",
+        "meanings": [
+          "grandchild"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "孫はいないよ。",
+      "english": "I have no grandchildren.",
+      "furigana": [
+        {
+          "text": "孫",
+          "highlight": true,
+          "reading": "まご"
+        },
+        {
+          "text": "はいないよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9529124",
+        "englishSentenceId": "9186292",
+        "url": "https://tatoeba.org/en/sentences/show/9529124"
+      }
+    },
+    "acceptedJapanese": [
+      "孫",
+      "まご"
+    ],
+    "acceptedEnglish": [
+      "grandchild"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-family-father-1777217247296",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "父親",
+    "kanji": "父親",
+    "kana": "ちちおや",
+    "meaning": "father",
+    "explanation": "A JLPT N3 noun meaning \"father\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "父",
+        "meanings": [
+          "father"
+        ]
+      },
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の父親は医者ですか。",
+      "english": "Is his father a doctor?",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "父親",
+          "highlight": true,
+          "reading": "ちちおや"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "医者",
+          "reading": "いしゃ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1089522",
+        "englishSentenceId": "287430",
+        "url": "https://tatoeba.org/en/sentences/show/1089522"
+      }
+    },
+    "acceptedJapanese": [
+      "父親",
+      "ちちおや"
+    ],
+    "acceptedEnglish": [
+      "father"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-sisters-1777217247566",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "姉妹",
+    "kanji": "姉妹",
+    "kana": "しまい",
+    "meaning": "sisters",
+    "explanation": "A JLPT N3 noun meaning \"sisters\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "姉",
+        "meanings": [
+          "older sister"
+        ]
+      },
+      {
+        "kanji": "妹",
+        "meanings": [
+          "younger sister"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "姉妹はいますか？",
+      "english": "Do you have any sisters?",
+      "furigana": [
+        {
+          "text": "姉妹",
+          "highlight": true,
+          "reading": "しまい"
+        },
+        {
+          "text": "はいますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "168885",
+        "englishSentenceId": "470858",
+        "url": "https://tatoeba.org/en/sentences/show/168885"
+      }
+    },
+    "acceptedJapanese": [
+      "姉妹",
+      "しまい"
+    ],
+    "acceptedEnglish": [
+      "sisters"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-family-married-couple-1777217247833",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "夫婦",
+    "kanji": "夫婦",
+    "kana": "ふうふ",
+    "meaning": "married couple",
+    "explanation": "A JLPT N3 noun meaning \"married couple\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夫",
+        "meanings": [
+          "husband",
+          "man laborer"
+        ]
+      },
+      {
+        "kanji": "婦",
+        "meanings": [
+          "adult woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは夫婦だ。",
+      "english": "They're a couple.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "夫婦",
+          "highlight": true,
+          "reading": "ふうふ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3366800",
+        "englishSentenceId": "3365391",
+        "url": "https://tatoeba.org/en/sentences/show/3366800"
+      }
+    },
+    "acceptedJapanese": [
+      "夫婦",
+      "ふうふ"
+    ],
+    "acceptedEnglish": [
+      "married couple",
+      "husband and wife",
+      "man and wife"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-family-relative-1777217247845",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "親戚",
+    "kanji": "親戚",
+    "kana": "しんせき",
+    "meaning": "relative",
+    "explanation": "A JLPT N3 noun meaning \"relative\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      },
+      {
+        "kanji": "戚",
+        "meanings": [
+          "grieve",
+          "relatives"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "外国に親戚はいますか？",
+      "english": "Do you have relatives abroad?",
+      "furigana": [
+        {
+          "text": "外国",
+          "reading": "がいこく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "親戚",
+          "highlight": true,
+          "reading": "しんせき"
+        },
+        {
+          "text": "はいますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9469244",
+        "englishSentenceId": "9469253",
+        "url": "https://tatoeba.org/en/sentences/show/9469244"
+      }
+    },
+    "acceptedJapanese": [
+      "親戚",
+      "しんせき"
+    ],
+    "acceptedEnglish": [
+      "relative",
+      "relation",
+      "kin"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-divorce-1777217248148",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "離婚",
+    "kanji": "離婚",
+    "kana": "りこん",
+    "meaning": "divorce",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"divorce\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "離",
+        "meanings": [
+          "separate",
+          "leave",
+          "keep apart"
+        ]
+      },
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "離婚しようか。",
+      "english": "Let's get divorced.",
+      "furigana": [
+        {
+          "text": "離婚",
+          "highlight": true,
+          "reading": "りこん"
+        },
+        {
+          "text": "しようか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8954588",
+        "englishSentenceId": "1140075",
+        "url": "https://tatoeba.org/en/sentences/show/8954588"
+      }
+    },
+    "acceptedJapanese": [
+      "離婚",
+      "りこん"
+    ],
+    "acceptedEnglish": [
+      "divorce"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-mother-1777217248421",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "母親",
+    "kanji": "母親",
+    "kana": "ははおや",
+    "meaning": "mother",
+    "explanation": "A JLPT N3 noun meaning \"mother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "母",
+        "meanings": [
+          "mother"
+        ]
+      },
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は母親です。",
+      "english": "I'm a mother.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "母親",
+          "highlight": true,
+          "reading": "ははおや"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10225071",
+        "englishSentenceId": "7022770",
+        "url": "https://tatoeba.org/en/sentences/show/10225071"
+      }
+    },
+    "acceptedJapanese": [
+      "母親",
+      "ははおや"
+    ],
+    "acceptedEnglish": [
+      "mother"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-a-family-1777217248538",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "一家",
+    "kanji": "一家",
+    "kana": "いっか",
+    "meaning": "a family",
+    "explanation": "A JLPT N3 noun meaning \"a family\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女が一家を支えている。",
+      "english": "She supports her family.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "一家",
+          "highlight": true,
+          "reading": "いっか"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "支",
+          "reading": "ささ"
+        },
+        {
+          "text": "えている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "91176",
+        "englishSentenceId": "312538",
+        "url": "https://tatoeba.org/en/sentences/show/91176"
+      }
+    },
+    "acceptedJapanese": [
+      "一家",
+      "いっか"
+    ],
+    "acceptedEnglish": [
+      "a family",
+      "a household",
+      "a home",
+      "one's family",
+      "whole family",
+      "style"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-family-twins-1777217249141",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "双子",
+    "kanji": "双子",
+    "kana": "ふたご",
+    "meaning": "twins",
+    "explanation": "A JLPT N3 noun meaning \"twins\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "双",
+        "meanings": [
+          "set of two",
+          "pair",
+          "both"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は双子です。",
+      "english": "She is a twin.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "双子",
+          "highlight": true,
+          "reading": "ふたご"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "88195",
+        "englishSentenceId": "315511",
+        "url": "https://tatoeba.org/en/sentences/show/88195"
+      }
+    },
+    "acceptedJapanese": [
+      "双子",
+      "ふたご"
+    ],
+    "acceptedEnglish": [
+      "twins",
+      "twin"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-cousin-1777217249150",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "従兄弟",
+    "kanji": "従兄弟",
+    "kana": "いとこ",
+    "meaning": "cousin",
+    "explanation": "A JLPT N3 noun meaning \"cousin\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "従",
+        "meanings": [
+          "follow",
+          "obey",
+          "conquer"
+        ]
+      },
+      {
+        "kanji": "兄",
+        "meanings": [
+          "older brother"
+        ]
+      },
+      {
+        "kanji": "弟",
+        "meanings": [
+          "younger brother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "従兄弟が３人います。",
+      "english": "I have three cousins.",
+      "furigana": [
+        {
+          "text": "従兄弟",
+          "highlight": true,
+          "reading": "いとこ"
+        },
+        {
+          "text": "が３"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "います。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10050032",
+        "englishSentenceId": "249766",
+        "url": "https://tatoeba.org/en/sentences/show/10050032"
+      }
+    },
+    "acceptedJapanese": [
+      "従兄弟",
+      "いとこ"
+    ],
+    "acceptedEnglish": [
+      "cousin"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-family-engagement-1777217249465",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "婚約",
+    "kanji": "婚約",
+    "kana": "こんやく",
+    "meaning": "engagement",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb, no adjective meaning \"engagement\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marry"
+        ]
+      },
+      {
+        "kanji": "約",
+        "meanings": [
+          "promise",
+          "contract",
+          "approximately"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "２人は婚約を発表した。",
+      "english": "They've announced their engagement.",
+      "furigana": [
+        {
+          "text": "２"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "婚約",
+          "highlight": true,
+          "reading": "こんやく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "発表",
+          "reading": "はっぴょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235434",
+        "englishSentenceId": "9649530",
+        "url": "https://tatoeba.org/en/sentences/show/235434"
+      }
+    },
+    "acceptedJapanese": [
+      "婚約",
+      "こんやく"
+    ],
+    "acceptedEnglish": [
+      "engagement",
+      "betrothal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-mom-1777217249780",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "ママ",
+    "kanji": "ママ",
+    "kana": "ママ",
+    "meaning": "mom",
+    "explanation": "A JLPT N3 noun meaning \"mom\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ママはどこ？",
+      "english": "Where's mommy?",
+      "furigana": [
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "ママ"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "ママ"
+        },
+        {
+          "text": "はどこ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10157623",
+        "englishSentenceId": "1548212",
+        "url": "https://tatoeba.org/en/sentences/show/10157623"
+      }
+    },
+    "acceptedJapanese": [
+      "ママ"
+    ],
+    "acceptedEnglish": [
+      "mom",
+      "mommy",
+      "mum",
+      "mummy",
+      "mother",
+      "mama"
+    ]
+  },
+  {
+    "id": "n3-family-bride-1777217249879",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "嫁",
+    "kanji": "嫁",
+    "kana": "よめ",
+    "meaning": "bride",
+    "explanation": "A JLPT N3 noun meaning \"bride\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嫁",
+        "meanings": [
+          "marry into",
+          "bride"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女が嫁だ。",
+      "english": "She's a bride.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "嫁",
+          "highlight": true,
+          "reading": "よめ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4562216",
+        "englishSentenceId": "4703068",
+        "url": "https://tatoeba.org/en/sentences/show/4562216"
+      }
+    },
+    "acceptedJapanese": [
+      "嫁",
+      "よめ"
+    ],
+    "acceptedEnglish": [
+      "bride",
+      "daughter-in-law",
+      "wife"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-wife-1777217249987",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "夫人",
+    "kanji": "夫人",
+    "kana": "ふじん",
+    "meaning": "wife",
+    "explanation": "A JLPT N3 noun meaning \"wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夫",
+        "meanings": [
+          "husband",
+          "man laborer"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は第二のキュリー夫人だ。",
+      "english": "She is another Madame Curie.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "第二",
+          "reading": "だいに"
+        },
+        {
+          "text": "のキュリー"
+        },
+        {
+          "text": "夫人",
+          "highlight": true,
+          "reading": "ふじん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87988",
+        "englishSentenceId": "315719",
+        "url": "https://tatoeba.org/en/sentences/show/87988"
+      }
+    },
+    "acceptedJapanese": [
+      "夫人",
+      "ふじん"
+    ],
+    "acceptedEnglish": [
+      "wife",
+      "Mrs",
+      "madam"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-unmarried-1777217249996",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "独身",
+    "kanji": "独身",
+    "kana": "どくしん",
+    "meaning": "unmarried",
+    "explanation": "A JLPT N3 no adjective, noun meaning \"unmarried\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "独",
+        "meanings": [
+          "alone",
+          "Germany"
+        ]
+      },
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "独身です。",
+      "english": "I'm single.",
+      "furigana": [
+        {
+          "text": "独身",
+          "highlight": true,
+          "reading": "どくしん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3488397",
+        "englishSentenceId": "2111685",
+        "url": "https://tatoeba.org/en/sentences/show/3488397"
+      }
+    },
+    "acceptedJapanese": [
+      "独身",
+      "どくしん"
+    ],
+    "acceptedEnglish": [
+      "unmarried",
+      "single"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-family-housewife-1777217250542",
+    "jlpt": "N3",
+    "subcategory": "Family",
+    "name": "主婦",
+    "kanji": "主婦",
+    "kana": "しゅふ",
+    "meaning": "housewife",
+    "explanation": "A JLPT N3 noun meaning \"housewife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "婦",
+        "meanings": [
+          "adult woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は主婦です。",
+      "english": "I'm a housewife.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "主婦",
+          "highlight": true,
+          "reading": "しゅふ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "156092",
+        "englishSentenceId": "1764900",
+        "url": "https://tatoeba.org/en/sentences/show/156092"
+      }
+    },
+    "acceptedJapanese": [
+      "主婦",
+      "しゅふ"
+    ],
+    "acceptedEnglish": [
+      "housewife",
+      "mistress",
+      "homemaker"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

@@ -69,7 +69,9 @@
       {
         "kanji": "熱",
         "meanings": [
-          "hot"
+          "heat",
+          "hot",
+          "fever"
         ]
       }
     ],
@@ -109,6 +111,68 @@
     "pitchAccentNumber": 2
   },
   {
+    "id": "n5-nature-weather-mountain-1777217253014",
+    "jlpt": "N5",
+    "subcategory": "Nature/Weather",
+    "name": "山",
+    "kanji": "山",
+    "kana": "やま",
+    "meaning": "mountain",
+    "explanation": "A JLPT N5 noun, counter meaning \"mountain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "山",
+        "meanings": [
+          "mountain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その山は緑です。",
+      "english": "The mountain is green.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "山",
+          "highlight": true,
+          "reading": "やま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "緑",
+          "reading": "みどり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "963704",
+        "englishSentenceId": "963699",
+        "url": "https://tatoeba.org/en/sentences/show/963704"
+      }
+    },
+    "acceptedJapanese": [
+      "山",
+      "やま"
+    ],
+    "acceptedEnglish": [
+      "mountain",
+      "hill",
+      "mine",
+      "forest",
+      "heap",
+      "pile"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
     "id": "n5-nature-weather-clear-weather-1777217253092",
     "jlpt": "N5",
     "subcategory": "Nature/Weather",
@@ -121,7 +185,8 @@
       {
         "kanji": "晴",
         "meanings": [
-          "clear weather"
+          "fine weather",
+          "clear up"
         ]
       }
     ],
@@ -169,7 +234,8 @@
       {
         "kanji": "木",
         "meanings": [
-          "tree"
+          "tree",
+          "wood"
         ]
       }
     ],
@@ -279,7 +345,9 @@
       {
         "kanji": "浴",
         "meanings": [
-          "to dash over oneself"
+          "bathe",
+          "pour over",
+          "shower"
         ]
       }
     ],
@@ -446,7 +514,7 @@
       {
         "kanji": "曇",
         "meanings": [
-          "cloudiness"
+          "cloudy"
         ]
       }
     ],
@@ -505,7 +573,8 @@
       {
         "kanji": "風",
         "meanings": [
-          "wind"
+          "wind",
+          "manner"
         ]
       }
     ],
@@ -548,63 +617,6 @@
       "draft",
       "cold",
       "influenza"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
-    "id": "n5-nature-weather-cold-1777217253938",
-    "jlpt": "N5",
-    "subcategory": "Nature/Weather",
-    "name": "風邪",
-    "kanji": "風邪",
-    "kana": "かぜ",
-    "meaning": "cold",
-    "explanation": "A JLPT N5 noun meaning \"cold\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "風",
-        "meanings": [
-          "cold"
-        ]
-      },
-      {
-        "kanji": "邪",
-        "meanings": [
-          "cold"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "風邪ですね。",
-      "english": "It's just a cold.",
-      "furigana": [
-        {
-          "text": "風邪",
-          "highlight": true,
-          "reading": "かぜ"
-        },
-        {
-          "text": "ですね。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "83981",
-        "englishSentenceId": "319735",
-        "url": "https://tatoeba.org/en/sentences/show/83981"
-      }
-    },
-    "acceptedJapanese": [
-      "風邪",
-      "かぜ"
-    ],
-    "acceptedEnglish": [
-      "cold",
-      "influenza",
-      "flu",
-      "ague",
-      "inflammatory respiratory system illness"
     ],
     "pitchAccentNumber": 0
   },
@@ -679,13 +691,14 @@
       {
         "kanji": "天",
         "meanings": [
-          "weather"
+          "heaven"
         ]
       },
       {
         "kanji": "気",
         "meanings": [
-          "weather"
+          "gas",
+          "spirit"
         ]
       }
     ],
@@ -737,7 +750,8 @@
       {
         "kanji": "海",
         "meanings": [
-          "sea"
+          "sea",
+          "ocean"
         ]
       }
     ],

@@ -12,13 +12,16 @@
       {
         "kanji": "伯",
         "meanings": [
-          "aunt"
+          "chief",
+          "count",
+          "earl",
+          "uncle"
         ]
       },
       {
         "kanji": "母",
         "meanings": [
-          "aunt"
+          "mother"
         ]
       }
     ],
@@ -127,13 +130,15 @@
       {
         "kanji": "両",
         "meanings": [
-          "parents"
+          "both"
         ]
       },
       {
         "kanji": "親",
         "meanings": [
-          "parents"
+          "parent",
+          "relatives",
+          "intimate"
         ]
       }
     ],
@@ -191,13 +196,15 @@
       {
         "kanji": "家",
         "meanings": [
+          "house",
           "family"
         ]
       },
       {
         "kanji": "族",
         "meanings": [
-          "family"
+          "family",
+          "tribe"
         ]
       }
     ],
@@ -314,13 +321,14 @@
       {
         "kanji": "結",
         "meanings": [
-          "marriage"
+          "tie",
+          "conclude"
         ]
       },
       {
         "kanji": "婚",
         "meanings": [
-          "marriage"
+          "marry"
         ]
       }
     ],
@@ -374,7 +382,7 @@
       {
         "kanji": "奥",
         "meanings": [
-          "wife"
+          "inner part"
         ]
       }
     ],
@@ -432,13 +440,13 @@
       {
         "kanji": "祖",
         "meanings": [
-          "grandmother"
+          "ancestor"
         ]
       },
       {
         "kanji": "母",
         "meanings": [
-          "grandmother"
+          "mother"
         ]
       }
     ],
@@ -501,13 +509,15 @@
       {
         "kanji": "子",
         "meanings": [
-          "child"
+          "child",
+          "noun suffix"
         ]
       },
       {
         "kanji": "供",
         "meanings": [
-          "child"
+          "offer",
+          "accompany"
         ]
       }
     ],
@@ -555,13 +565,16 @@
       {
         "kanji": "伯",
         "meanings": [
+          "chief",
+          "count",
+          "earl",
           "uncle"
         ]
       },
       {
         "kanji": "父",
         "meanings": [
-          "uncle"
+          "father"
         ]
       }
     ],
@@ -771,6 +784,78 @@
     "pitchAccentNumber": 1
   },
   {
+    "id": "n5-family-home-1777217253812",
+    "jlpt": "N5",
+    "subcategory": "Family",
+    "name": "家庭",
+    "kanji": "家庭",
+    "kana": "かてい",
+    "meaning": "home",
+    "explanation": "A JLPT N5 noun meaning \"home\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "庭",
+        "meanings": [
+          "court",
+          "garden"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "愛は家庭から始まる。",
+      "english": "Charity begins at home.",
+      "furigana": [
+        {
+          "text": "愛",
+          "reading": "あい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "家庭",
+          "highlight": true,
+          "reading": "かてい"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "始まる",
+          "reading": "はじまる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "191552",
+        "englishSentenceId": "28714",
+        "url": "https://tatoeba.org/en/sentences/show/191552"
+      }
+    },
+    "acceptedJapanese": [
+      "家庭",
+      "かてい"
+    ],
+    "acceptedEnglish": [
+      "home",
+      "household",
+      "family",
+      "hearth"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
     "id": "n5-family-siblings-1777217253881",
     "jlpt": "N5",
     "subcategory": "Family",
@@ -783,13 +868,13 @@
       {
         "kanji": "兄",
         "meanings": [
-          "siblings"
+          "older brother"
         ]
       },
       {
         "kanji": "弟",
         "meanings": [
-          "siblings"
+          "younger brother"
         ]
       }
     ],
@@ -954,13 +1039,13 @@
       {
         "kanji": "祖",
         "meanings": [
-          "grandfather"
+          "ancestor"
         ]
       },
       {
         "kanji": "父",
         "meanings": [
-          "grandfather"
+          "father"
         ]
       }
     ],

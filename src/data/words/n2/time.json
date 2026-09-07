@@ -1,1 +1,4092 @@
-[]
+[
+  {
+    "id": "n2-time-first-10-days-of-the-month-1777217241032",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "初旬",
+    "kanji": "初旬",
+    "kana": "しょじゅん",
+    "meaning": "first 10 days of the month",
+    "explanation": "A JLPT N2 adverb, noun meaning \"first 10 days of the month\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "初",
+        "meanings": [
+          "first"
+        ]
+      },
+      {
+        "kanji": "旬",
+        "meanings": [
+          "decameron",
+          "ten-day period",
+          "season (for specific products)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「初旬」は日本語の言葉です。",
+      "english": "\"first 10 days of the month\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "初旬",
+          "reading": "しょじゅん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "初旬",
+      "しょじゅん"
+    ],
+    "acceptedEnglish": [
+      "first 10 days of the month"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-night-1777217241095",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "夜間",
+    "kanji": "夜間",
+    "kana": "やかん",
+    "meaning": "night",
+    "explanation": "A JLPT N2 noun, adverb meaning \"night\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夜",
+        "meanings": [
+          "night"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夜間の外出は禁止です。",
+      "english": "You must not go out at night.",
+      "furigana": [
+        {
+          "text": "夜間",
+          "highlight": true,
+          "reading": "やかん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "外",
+          "reading": "はず"
+        },
+        {
+          "text": "出は"
+        },
+        {
+          "text": "禁止",
+          "reading": "きんし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11836892",
+        "englishSentenceId": "68887",
+        "url": "https://tatoeba.org/en/sentences/show/11836892"
+      }
+    },
+    "acceptedJapanese": [
+      "夜間",
+      "やかん"
+    ],
+    "acceptedEnglish": [
+      "night",
+      "nighttime"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-first-third-of-a-month-1777217241113",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "上旬",
+    "kanji": "上旬",
+    "kana": "じょうじゅん",
+    "meaning": "first third of a month",
+    "explanation": "A JLPT N2 noun meaning \"first third of a month\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      },
+      {
+        "kanji": "旬",
+        "meanings": [
+          "decameron",
+          "ten-day period",
+          "season (for specific products)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "７月の上旬は、海に行くのは早いかな？",
+      "english": "I wonder if the first week or so of July is too early to go to the beach.",
+      "furigana": [
+        {
+          "text": "７月",
+          "reading": "しちがつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "上旬",
+          "highlight": true,
+          "reading": "じょうじゅん"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "海",
+          "reading": "うみ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "くのは"
+        },
+        {
+          "text": "早い",
+          "reading": "はやい"
+        },
+        {
+          "text": "かな？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "234994",
+        "englishSentenceId": "72371",
+        "url": "https://tatoeba.org/en/sentences/show/234994"
+      }
+    },
+    "acceptedJapanese": [
+      "上旬",
+      "じょうじゅん"
+    ],
+    "acceptedEnglish": [
+      "first third of a month",
+      "first ten days of a month"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-continuously-1777217241299",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "始終",
+    "kanji": "始終",
+    "kana": "しじゅう",
+    "meaning": "continuously",
+    "explanation": "A JLPT N2 adverb, noun meaning \"continuously\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "始",
+        "meanings": [
+          "begin"
+        ]
+      },
+      {
+        "kanji": "終",
+        "meanings": [
+          "end"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "俺らは始終、つるんでいる。",
+      "english": "We hang out together all the time.",
+      "furigana": [
+        {
+          "text": "俺",
+          "reading": "おれ"
+        },
+        {
+          "text": "らは"
+        },
+        {
+          "text": "始終",
+          "highlight": true,
+          "reading": "しじゅう"
+        },
+        {
+          "text": "、つるんでいる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3402153",
+        "englishSentenceId": "3402144",
+        "url": "https://tatoeba.org/en/sentences/show/3402153"
+      }
+    },
+    "acceptedJapanese": [
+      "始終",
+      "しじゅう"
+    ],
+    "acceptedEnglish": [
+      "continuously",
+      "from beginning to end",
+      "from first to last"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-fiscal-year-1777217241338",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "年度",
+    "kanji": "年度",
+    "kana": "ねんど",
+    "meaning": "fiscal year",
+    "explanation": "A JLPT N2 noun, noun, used as a suffix meaning \"fiscal year\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は、平成20年度（2008年）の終業式でした。",
+      "english": "Today was the school closing ceremony for 2008.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "平成",
+          "reading": "へいせい"
+        },
+        {
+          "text": "20"
+        },
+        {
+          "text": "年度",
+          "highlight": true,
+          "reading": "ねんど"
+        },
+        {
+          "text": "（2008年）の"
+        },
+        {
+          "text": "終業式",
+          "reading": "しゅうぎょうしき"
+        },
+        {
+          "text": "でした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "509189",
+        "englishSentenceId": "509507",
+        "url": "https://tatoeba.org/en/sentences/show/509189"
+      }
+    },
+    "acceptedJapanese": [
+      "年度",
+      "ねんど"
+    ],
+    "acceptedEnglish": [
+      "fiscal year",
+      "financial year",
+      "academic year",
+      "school year",
+      "product year"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-academic-year-1777217241422",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "学年",
+    "kanji": "学年",
+    "kana": "がくねん",
+    "meaning": "academic year",
+    "explanation": "A JLPT N2 noun meaning \"academic year\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "第１学年には５つクラスがあった。",
+      "english": "There were five classes in the first year.",
+      "furigana": [
+        {
+          "text": "第１",
+          "reading": "だいいち"
+        },
+        {
+          "text": "学年",
+          "highlight": true,
+          "reading": "がくねん"
+        },
+        {
+          "text": "には５つクラスがあった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137233",
+        "englishSentenceId": "276003",
+        "url": "https://tatoeba.org/en/sentences/show/137233"
+      }
+    },
+    "acceptedJapanese": [
+      "学年",
+      "がくねん"
+    ],
+    "acceptedEnglish": [
+      "academic year",
+      "school year",
+      "year in school",
+      "grade in school"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-once-1777217241578",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "一旦",
+    "kanji": "一旦",
+    "kana": "いったん",
+    "meaning": "once",
+    "explanation": "A JLPT N2 adverb meaning \"once\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "旦",
+        "meanings": [
+          "daybreak",
+          "dawn",
+          "morning"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「一旦」は日本語の言葉です。",
+      "english": "\"once\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "一旦",
+          "reading": "いったん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "一旦",
+      "いったん"
+    ],
+    "acceptedEnglish": [
+      "once",
+      "for a short time",
+      "briefly",
+      "temporarily"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-middle-ages-1777217241797",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "中世",
+    "kanji": "中世",
+    "kana": "ちゅうせい",
+    "meaning": "Middle Ages",
+    "explanation": "A JLPT N2 noun meaning \"Middle Ages\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "世",
+        "meanings": [
+          "world",
+          "era"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の専門は中世ヨーロッパ史です。",
+      "english": "My major is medieval European history.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "専門",
+          "reading": "せんもん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "中世",
+          "highlight": true,
+          "reading": "ちゅうせい"
+        },
+        {
+          "text": "ヨーロッパ史です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "163192",
+        "englishSentenceId": "251320",
+        "url": "https://tatoeba.org/en/sentences/show/163192"
+      }
+    },
+    "acceptedJapanese": [
+      "中世",
+      "ちゅうせい"
+    ],
+    "acceptedEnglish": [
+      "Middle Ages",
+      "medieval times",
+      "mediaeval times"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-term-1777217241812",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "期限",
+    "kanji": "期限",
+    "kana": "きげん",
+    "meaning": "term",
+    "explanation": "A JLPT N2 noun meaning \"term\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "期",
+        "meanings": [
+          "term",
+          "time",
+          "expect"
+        ]
+      },
+      {
+        "kanji": "限",
+        "meanings": [
+          "limit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "期限に間に合わなかった。",
+      "english": "The deadline was not met.",
+      "furigana": [
+        {
+          "text": "期限",
+          "highlight": true,
+          "reading": "きげん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "間",
+          "reading": "あいだ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "合",
+          "reading": "ごう"
+        },
+        {
+          "text": "わなかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10907932",
+        "englishSentenceId": "10907916",
+        "url": "https://tatoeba.org/en/sentences/show/10907932"
+      }
+    },
+    "acceptedJapanese": [
+      "期限",
+      "きげん"
+    ],
+    "acceptedEnglish": [
+      "term",
+      "period",
+      "time frame",
+      "time limit",
+      "deadline",
+      "cutoff"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-rest-1777217241929",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "一休み",
+    "kanji": "一休み",
+    "kana": "ひとやすみ",
+    "meaning": "rest",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"rest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一休みしよう。",
+      "english": "Let's take a rest.",
+      "furigana": [
+        {
+          "text": "一休み",
+          "highlight": true,
+          "reading": "ひとやすみ"
+        },
+        {
+          "text": "しよう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190670",
+        "englishSentenceId": "27830",
+        "url": "https://tatoeba.org/en/sentences/show/190670"
+      }
+    },
+    "acceptedJapanese": [
+      "一休み",
+      "ひとやすみ"
+    ],
+    "acceptedEnglish": [
+      "rest",
+      "breather",
+      "break"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-time-sunset-1777217242076",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日の入り",
+    "kanji": "日の入り",
+    "kana": "ひのいり",
+    "meaning": "sunset",
+    "explanation": "A JLPT N2 noun meaning \"sunset\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "こんな美しい日の入りを見たことがありますか。",
+      "english": "Have you ever seen such a beautiful sunset?",
+      "furigana": [
+        {
+          "text": "こんな"
+        },
+        {
+          "text": "美しい",
+          "reading": "うつくしい"
+        },
+        {
+          "text": "日の入り",
+          "highlight": true,
+          "reading": "ひのいり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "たことがありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217320",
+        "englishSentenceId": "54628",
+        "url": "https://tatoeba.org/en/sentences/show/217320"
+      }
+    },
+    "acceptedJapanese": [
+      "日の入り",
+      "ひのいり"
+    ],
+    "acceptedEnglish": [
+      "sunset"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-each-time-1777217242139",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "毎度",
+    "kanji": "毎度",
+    "kana": "まいど",
+    "meaning": "each time",
+    "explanation": "A JLPT N2 noun, adverb meaning \"each time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "毎",
+        "meanings": [
+          "every"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "毎度、またいらっしゃい。",
+      "english": "Thanks, please come again.",
+      "furigana": [
+        {
+          "text": "毎度",
+          "highlight": true,
+          "reading": "まいど"
+        },
+        {
+          "text": "、またいらっしゃい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74890",
+        "englishSentenceId": "328827",
+        "url": "https://tatoeba.org/en/sentences/show/74890"
+      }
+    },
+    "acceptedJapanese": [
+      "毎度",
+      "まいど"
+    ],
+    "acceptedEnglish": [
+      "each time",
+      "always",
+      "often",
+      "thank you for your continued patronage"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-daily-routine-1777217242238",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日課",
+    "kanji": "日課",
+    "kana": "にっか",
+    "meaning": "daily routine",
+    "explanation": "A JLPT N2 noun meaning \"daily routine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "課",
+        "meanings": [
+          "section",
+          "lesson"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "朝の日課です。",
+      "english": "It's part of my morning routine.",
+      "furigana": [
+        {
+          "text": "朝の"
+        },
+        {
+          "text": "日課",
+          "highlight": true,
+          "reading": "にっか"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12170480",
+        "englishSentenceId": "10156692",
+        "url": "https://tatoeba.org/en/sentences/show/12170480"
+      }
+    },
+    "acceptedJapanese": [
+      "日課",
+      "にっか"
+    ],
+    "acceptedEnglish": [
+      "daily routine",
+      "daily work",
+      "daily lesson"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-long-ago-1777217242325",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "疾っくに",
+    "kanji": "疾っくに",
+    "kana": "とっくに",
+    "meaning": "long ago",
+    "explanation": "A JLPT N2 adverb meaning \"long ago\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "疾",
+        "meanings": [
+          "rapidly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「疾っくに」は日本語の言葉です。",
+      "english": "\"long ago\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "疾っくに",
+          "reading": "とっくに",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "疾っくに",
+      "とっくに"
+    ],
+    "acceptedEnglish": [
+      "long ago",
+      "a long time ago",
+      "already"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-soon-1777217242433",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "近々",
+    "kanji": "近々",
+    "kana": "ちかぢか",
+    "meaning": "soon",
+    "explanation": "A JLPT N2 adverb meaning \"soon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "近",
+        "meanings": [
+          "near",
+          "recent"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ではまた近々。",
+      "english": "See you soon.",
+      "furigana": [
+        {
+          "text": "ではまた"
+        },
+        {
+          "text": "近々",
+          "highlight": true,
+          "reading": "ちかぢか"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3506689",
+        "englishSentenceId": "456665",
+        "url": "https://tatoeba.org/en/sentences/show/3506689"
+      }
+    },
+    "acceptedJapanese": [
+      "近々",
+      "ちかぢか"
+    ],
+    "acceptedEnglish": [
+      "soon",
+      "before long",
+      "shortly",
+      "in the near future"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-time-at-once-1777217242514",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "早速",
+    "kanji": "早速",
+    "kana": "さっそく",
+    "meaning": "at once",
+    "explanation": "A JLPT N2 adverb meaning \"at once\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "早",
+        "meanings": [
+          "early",
+          "quick"
+        ]
+      },
+      {
+        "kanji": "速",
+        "meanings": [
+          "quick",
+          "fast",
+          "prompt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "早速には返事をしかねます。",
+      "english": "I can't give you an immediate answer.",
+      "furigana": [
+        {
+          "text": "早速",
+          "highlight": true,
+          "reading": "さっそく"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "返事",
+          "reading": "へんじ"
+        },
+        {
+          "text": "をしかねます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1619943",
+        "englishSentenceId": "1991713",
+        "url": "https://tatoeba.org/en/sentences/show/1619943"
+      }
+    },
+    "acceptedJapanese": [
+      "早速",
+      "さっそく"
+    ],
+    "acceptedEnglish": [
+      "at once",
+      "immediately",
+      "without delay",
+      "promptly"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-immediately-following-1777217242529",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "直後",
+    "kanji": "直後",
+    "kana": "ちょくご",
+    "meaning": "immediately following",
+    "explanation": "A JLPT N2 noun, adverb meaning \"immediately following\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      },
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夏休みの直後に試験です。",
+      "english": "Exams are right after summer vacation.",
+      "furigana": [
+        {
+          "text": "夏休み",
+          "reading": "なつやすみ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "直後",
+          "highlight": true,
+          "reading": "ちょくご"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "試験",
+          "reading": "しけん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "187178",
+        "englishSentenceId": "1230883",
+        "url": "https://tatoeba.org/en/sentences/show/187178"
+      }
+    },
+    "acceptedJapanese": [
+      "直後",
+      "ちょくご"
+    ],
+    "acceptedEnglish": [
+      "immediately following"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-rest-1777217242688",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "休息",
+    "kanji": "休息",
+    "kana": "きゅうそく",
+    "meaning": "rest",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb, no adjective meaning \"rest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      },
+      {
+        "kanji": "息",
+        "meanings": [
+          "breath"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "休息しろ。",
+      "english": "Take a rest.",
+      "furigana": [
+        {
+          "text": "休息",
+          "highlight": true,
+          "reading": "きゅうそく"
+        },
+        {
+          "text": "しろ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182633",
+        "englishSentenceId": "19766",
+        "url": "https://tatoeba.org/en/sentences/show/182633"
+      }
+    },
+    "acceptedJapanese": [
+      "休息",
+      "きゅうそく"
+    ],
+    "acceptedEnglish": [
+      "rest",
+      "relief",
+      "relaxation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-soon-1777217242721",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "間もなく",
+    "kanji": "間もなく",
+    "kana": "まもなく",
+    "meaning": "soon",
+    "explanation": "A JLPT N2 adverb meaning \"soon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "間もなく日没だ。",
+      "english": "The sunset is soon.",
+      "furigana": [
+        {
+          "text": "間もなく",
+          "highlight": true,
+          "reading": "まもなく"
+        },
+        {
+          "text": "日没",
+          "reading": "にちぼつ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "553916",
+        "englishSentenceId": "558998",
+        "url": "https://tatoeba.org/en/sentences/show/553916"
+      }
+    },
+    "acceptedJapanese": [
+      "間もなく",
+      "まもなく"
+    ],
+    "acceptedEnglish": [
+      "soon",
+      "shortly",
+      "before long",
+      "in a short time",
+      "in a little while",
+      "having no time to ..."
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-time-lifespan-1777217243132",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "寿命",
+    "kanji": "寿命",
+    "kana": "じゅみょう",
+    "meaning": "lifespan",
+    "explanation": "A JLPT N2 noun meaning \"lifespan\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "寿",
+        "meanings": [
+          "longevity",
+          "congratulations",
+          "one's natural life"
+        ]
+      },
+      {
+        "kanji": "命",
+        "meanings": [
+          "order",
+          "life"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "海がめは寿命が長い。",
+      "english": "Sea turtles have a long lifespan.",
+      "furigana": [
+        {
+          "text": "海がめ",
+          "reading": "うみがめ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "寿命",
+          "highlight": true,
+          "reading": "じゅみょう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "長い",
+          "reading": "ながい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1075121",
+        "englishSentenceId": "1075518",
+        "url": "https://tatoeba.org/en/sentences/show/1075121"
+      }
+    },
+    "acceptedJapanese": [
+      "寿命",
+      "じゅみょう"
+    ],
+    "acceptedEnglish": [
+      "lifespan",
+      "life",
+      "lifetime",
+      "service life",
+      "end of an object's life"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-end-of-the-month-1777217243198",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "月末",
+    "kanji": "月末",
+    "kana": "げつまつ",
+    "meaning": "end of the month",
+    "explanation": "A JLPT N2 noun, adverb meaning \"end of the month\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      },
+      {
+        "kanji": "末",
+        "meanings": [
+          "last part",
+          "end"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "月末にお支払いします。",
+      "english": "I'll pay you at the end of the month.",
+      "furigana": [
+        {
+          "text": "月末",
+          "highlight": true,
+          "reading": "げつまつ"
+        },
+        {
+          "text": "にお"
+        },
+        {
+          "text": "支払い",
+          "reading": "しはらい"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11332123",
+        "englishSentenceId": "2549948",
+        "url": "https://tatoeba.org/en/sentences/show/11332123"
+      }
+    },
+    "acceptedJapanese": [
+      "月末",
+      "げつまつ"
+    ],
+    "acceptedEnglish": [
+      "end of the month"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-month-before-last-1777217243381",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "先々月",
+    "kanji": "先々月",
+    "kana": "せんせんげつ",
+    "meaning": "month before last",
+    "explanation": "A JLPT N2 noun, adverb meaning \"month before last\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      },
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「先々月」は日本語の言葉です。",
+      "english": "\"month before last\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "先々月",
+          "reading": "せんせんげつ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "先々月",
+      "せんせんげつ"
+    ],
+    "acceptedEnglish": [
+      "month before last"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-schedule-1777217243495",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "スケジュール",
+    "kanji": "スケジュール",
+    "kana": "スケジュール",
+    "meaning": "schedule",
+    "explanation": "A JLPT N2 noun meaning \"schedule\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スケジュール変えたよ。",
+      "english": "I rescheduled.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "ケ",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "ュ",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "スケジュール"
+        },
+        {
+          "text": "変え",
+          "reading": "かえ"
+        },
+        {
+          "text": "たよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10666305",
+        "englishSentenceId": "2111798",
+        "url": "https://tatoeba.org/en/sentences/show/10666305"
+      }
+    },
+    "acceptedJapanese": [
+      "スケジュール"
+    ],
+    "acceptedEnglish": [
+      "schedule",
+      "program",
+      "calendar"
+    ]
+  },
+  {
+    "id": "n2-time-for-now-1777217243537",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "一先ず",
+    "kanji": "一先ず",
+    "kana": "ひとまず",
+    "meaning": "for now",
+    "explanation": "A JLPT N2 adverb meaning \"for now\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このコート、結構するのよ。でも、めっちゃ気に入ってるし一先ず買っちゃおっと。",
+      "english": "I know that this coat's very expensive. But I really like it, so I'm going to buy it anyway.",
+      "furigana": [
+        {
+          "text": "このコート、"
+        },
+        {
+          "text": "結構",
+          "reading": "けっこう"
+        },
+        {
+          "text": "するのよ。でも、めっちゃ"
+        },
+        {
+          "text": "気",
+          "reading": "き"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "ってるし"
+        },
+        {
+          "text": "一先ず",
+          "highlight": true,
+          "reading": "ひとまず"
+        },
+        {
+          "text": "買っちゃおっと。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11700116",
+        "englishSentenceId": "11632805",
+        "url": "https://tatoeba.org/en/sentences/show/11700116"
+      }
+    },
+    "acceptedJapanese": [
+      "一先ず",
+      "ひとまず"
+    ],
+    "acceptedEnglish": [
+      "for now",
+      "for the time being",
+      "for the present",
+      "though not quite satisfactorily",
+      "after a fashion"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-time-in-an-instant-1777217243573",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "忽ち",
+    "kanji": "忽ち",
+    "kana": "たちまち",
+    "meaning": "in an instant",
+    "explanation": "A JLPT N2 adverb meaning \"in an instant\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "忽",
+        "meanings": [
+          "in a moment",
+          "instantly",
+          "all of a sudden",
+          "neglect"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「忽ち」は日本語の言葉です。",
+      "english": "\"in an instant\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "忽ち",
+          "reading": "たちまち",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "忽ち",
+      "たちまち"
+    ],
+    "acceptedEnglish": [
+      "in an instant",
+      "in a moment",
+      "immediately",
+      "right away",
+      "at once",
+      "suddenly"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-another-time-1777217243615",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "改めて",
+    "kanji": "改めて",
+    "kana": "あらためて",
+    "meaning": "another time",
+    "explanation": "A JLPT N2 adverb meaning \"another time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "改",
+        "meanings": [
+          "reform"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "改めて、ごめんね。",
+      "english": "Once again, sorry.",
+      "furigana": [
+        {
+          "text": "改めて",
+          "highlight": true,
+          "reading": "あらためて"
+        },
+        {
+          "text": "、ごめんね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10651830",
+        "englishSentenceId": "3898469",
+        "url": "https://tatoeba.org/en/sentences/show/10651830"
+      }
+    },
+    "acceptedJapanese": [
+      "改めて",
+      "あらためて"
+    ],
+    "acceptedEnglish": [
+      "another time",
+      "again",
+      "over again",
+      "once again",
+      "anew",
+      "formally"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-national-holiday-1777217243762",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "祝日",
+    "kanji": "祝日",
+    "kana": "しゅくじつ",
+    "meaning": "national holiday",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"national holiday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祝",
+        "meanings": [
+          "celebrate"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は祝日です。",
+      "english": "Today is a holiday.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "祝日",
+          "highlight": true,
+          "reading": "しゅくじつ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "171596",
+        "englishSentenceId": "1345341",
+        "url": "https://tatoeba.org/en/sentences/show/171596"
+      }
+    },
+    "acceptedJapanese": [
+      "祝日",
+      "しゅくじつ"
+    ],
+    "acceptedEnglish": [
+      "national holiday",
+      "public holiday"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-birth-date-1777217243807",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "生年月日",
+    "kanji": "生年月日",
+    "kana": "せいねんがっぴ",
+    "meaning": "birth date",
+    "explanation": "A JLPT N2 noun meaning \"birth date\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "生",
+        "meanings": [
+          "life",
+          "be born",
+          "student"
+        ]
+      },
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      },
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "生年月日はいつ？",
+      "english": "What's your date of birth?",
+      "furigana": [
+        {
+          "text": "生年月日",
+          "highlight": true,
+          "reading": "せいねんがっぴ"
+        },
+        {
+          "text": "はいつ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1446302",
+        "englishSentenceId": "3730767",
+        "url": "https://tatoeba.org/en/sentences/show/1446302"
+      }
+    },
+    "acceptedJapanese": [
+      "生年月日",
+      "せいねんがっぴ"
+    ],
+    "acceptedEnglish": [
+      "birth date",
+      "date of birth",
+      "DOB"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-time-after-this-1777217243822",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "以後",
+    "kanji": "以後",
+    "kana": "いご",
+    "meaning": "after this",
+    "explanation": "A JLPT N2 noun, adverb meaning \"after this\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あれ以後は災難続きです。",
+      "english": "I have had a series of misfortunes since then.",
+      "furigana": [
+        {
+          "text": "あれ"
+        },
+        {
+          "text": "以後",
+          "highlight": true,
+          "reading": "いご"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "災難",
+          "reading": "さいなん"
+        },
+        {
+          "text": "続き",
+          "reading": "つづき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "229631",
+        "englishSentenceId": "66992",
+        "url": "https://tatoeba.org/en/sentences/show/229631"
+      }
+    },
+    "acceptedJapanese": [
+      "以後",
+      "いご"
+    ],
+    "acceptedEnglish": [
+      "after this",
+      "from now on",
+      "hereafter",
+      "thereafter",
+      "since",
+      "after"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-dawn-1777217243936",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "明け方",
+    "kanji": "明け方",
+    "kana": "あけがた",
+    "meaning": "dawn",
+    "explanation": "A JLPT N2 noun, adverb meaning \"dawn\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "明",
+        "meanings": [
+          "bright",
+          "clear"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その事故は明け方に起こった。",
+      "english": "The accident occurred at dawn.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "事故",
+          "reading": "じこ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "明け方",
+          "highlight": true,
+          "reading": "あけがた"
+        },
+        {
+          "text": "に起こった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "209818",
+        "englishSentenceId": "47081",
+        "url": "https://tatoeba.org/en/sentences/show/209818"
+      }
+    },
+    "acceptedJapanese": [
+      "明け方",
+      "あけがた"
+    ],
+    "acceptedEnglish": [
+      "dawn",
+      "daybreak"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-before-one-knows-1777217243990",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "いつの間にか",
+    "kanji": "いつの間にか",
+    "kana": "いつのまにか",
+    "meaning": "before one knows",
+    "explanation": "A JLPT N2 adverb meaning \"before one knows\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いつの間にかボブは外へ出ていた。",
+      "english": "Bob went out before I knew it.",
+      "furigana": [
+        {
+          "text": "いつの間にか",
+          "highlight": true,
+          "reading": "いつのまにか"
+        },
+        {
+          "text": "ボブは"
+        },
+        {
+          "text": "外",
+          "reading": "はず"
+        },
+        {
+          "text": "へ出ていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "228807",
+        "englishSentenceId": "66165",
+        "url": "https://tatoeba.org/en/sentences/show/228807"
+      }
+    },
+    "acceptedJapanese": [
+      "いつの間にか",
+      "いつのまにか"
+    ],
+    "acceptedEnglish": [
+      "before one knows",
+      "before one becomes aware of",
+      "unnoticed",
+      "unawares"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-time-season-1777217244044",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "シーズン",
+    "kanji": "シーズン",
+    "kana": "シーズン",
+    "meaning": "season",
+    "explanation": "A JLPT N2 noun meaning \"season\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スキーシーズンです。",
+      "english": "It's the ski season.",
+      "furigana": [
+        {
+          "text": "スキー"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "シーズン"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "シーズン"
+        },
+        {
+          "text": "ズ",
+          "highlight": true,
+          "reading": "シーズン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "シーズン"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10635148",
+        "englishSentenceId": "10625114",
+        "url": "https://tatoeba.org/en/sentences/show/10635148"
+      }
+    },
+    "acceptedJapanese": [
+      "シーズン"
+    ],
+    "acceptedEnglish": [
+      "season"
+    ]
+  },
+  {
+    "id": "n2-time-week-before-last-1777217244062",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "先々週",
+    "kanji": "先々週",
+    "kana": "せんせんしゅう",
+    "meaning": "week before last",
+    "explanation": "A JLPT N2 noun, adverb meaning \"week before last\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      },
+      {
+        "kanji": "週",
+        "meanings": [
+          "week"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「先々週」は日本語の言葉です。",
+      "english": "\"week before last\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "先々週",
+          "reading": "せんせんしゅう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "先々週",
+      "せんせんしゅう"
+    ],
+    "acceptedEnglish": [
+      "week before last"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-middle-ten-days-of-a-month-1777217244080",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "中旬",
+    "kanji": "中旬",
+    "kana": "ちゅうじゅん",
+    "meaning": "middle ten days of a month",
+    "explanation": "A JLPT N2 noun meaning \"middle ten days of a month\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "旬",
+        "meanings": [
+          "decameron",
+          "ten-day period",
+          "season (for specific products)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「中旬」は日本語の言葉です。",
+      "english": "\"middle ten days of a month\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "中旬",
+          "reading": "ちゅうじゅん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "中旬",
+      "ちゅうじゅん"
+    ],
+    "acceptedEnglish": [
+      "middle ten days of a month",
+      "11th to 20th day of a month"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-common-era-1777217244197",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "西暦",
+    "kanji": "西暦",
+    "kana": "せいれき",
+    "meaning": "Common Era",
+    "explanation": "A JLPT N2 noun meaning \"Common Era\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "西",
+        "meanings": [
+          "west"
+        ]
+      },
+      {
+        "kanji": "暦",
+        "meanings": [
+          "calendar",
+          "almanac"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "昭和１０年は西暦１９３５年です。",
+      "english": "The 10th year of Showa is 1935 in the Western calendar.",
+      "furigana": [
+        {
+          "text": "昭和",
+          "reading": "しょうわ"
+        },
+        {
+          "text": "１０年は"
+        },
+        {
+          "text": "西暦",
+          "highlight": true,
+          "reading": "せいれき"
+        },
+        {
+          "text": "１９３５年です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "531350",
+        "englishSentenceId": "531351",
+        "url": "https://tatoeba.org/en/sentences/show/531350"
+      }
+    },
+    "acceptedJapanese": [
+      "西暦",
+      "せいれき"
+    ],
+    "acceptedEnglish": [
+      "Common Era",
+      "CE",
+      "Christian Era",
+      "anno domini",
+      "AD",
+      "Western calendar"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-night-travel-1777217244206",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "夜行",
+    "kanji": "夜行",
+    "kana": "やこう",
+    "meaning": "night travel",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"night travel\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夜",
+        "meanings": [
+          "night"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夜行ったことは昼現れる。",
+      "english": "What is done by night appears by day.",
+      "furigana": [
+        {
+          "text": "夜行",
+          "highlight": true,
+          "reading": "やこう"
+        },
+        {
+          "text": "ったことは"
+        },
+        {
+          "text": "昼",
+          "reading": "ひる"
+        },
+        {
+          "text": "現れる",
+          "reading": "あらわれる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79688",
+        "englishSentenceId": "324030",
+        "url": "https://tatoeba.org/en/sentences/show/79688"
+      }
+    },
+    "acceptedJapanese": [
+      "夜行",
+      "やこう"
+    ],
+    "acceptedEnglish": [
+      "night travel",
+      "walking around at night"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-date-and-time-1777217244350",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日時",
+    "kanji": "日時",
+    "kana": "にちじ",
+    "meaning": "date and time",
+    "explanation": "A JLPT N2 noun meaning \"date and time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "時",
+        "meanings": [
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私達は試合の日時を決めた。",
+      "english": "We set the time and date for the game.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "達は"
+        },
+        {
+          "text": "試合",
+          "reading": "しあい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "日時",
+          "highlight": true,
+          "reading": "にちじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "決め",
+          "reading": "きめ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "151498",
+        "englishSentenceId": "263058",
+        "url": "https://tatoeba.org/en/sentences/show/151498"
+      }
+    },
+    "acceptedJapanese": [
+      "日時",
+      "にちじ"
+    ],
+    "acceptedEnglish": [
+      "date and time",
+      "days and hours"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-late-at-night-1777217244362",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "深夜",
+    "kanji": "深夜",
+    "kana": "しんや",
+    "meaning": "late at night",
+    "explanation": "A JLPT N2 noun, adverb meaning \"late at night\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "深",
+        "meanings": [
+          "deep"
+        ]
+      },
+      {
+        "kanji": "夜",
+        "meanings": [
+          "night"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ボストンの昼時は日本の深夜です。",
+      "english": "Boston's noon is Japan's late night.",
+      "furigana": [
+        {
+          "text": "ボストンの"
+        },
+        {
+          "text": "昼時",
+          "reading": "ひるどき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本の",
+          "reading": "ほんの"
+        },
+        {
+          "text": "深夜",
+          "highlight": true,
+          "reading": "しんや"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10042781",
+        "englishSentenceId": "10248759",
+        "url": "https://tatoeba.org/en/sentences/show/10042781"
+      }
+    },
+    "acceptedJapanese": [
+      "深夜",
+      "しんや"
+    ],
+    "acceptedEnglish": [
+      "late at night"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-the-other-day-1777217244383",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "此間",
+    "kanji": "此間",
+    "kana": "こないだ",
+    "meaning": "the other day",
+    "explanation": "A JLPT N2 noun, adverb meaning \"the other day\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "此",
+        "meanings": [
+          "this",
+          "current",
+          "next",
+          "coming"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「此間」は日本語の言葉です。",
+      "english": "\"the other day\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "此間",
+          "reading": "こないだ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "此間",
+      "こないだ"
+    ],
+    "acceptedEnglish": [
+      "the other day",
+      "lately",
+      "recently"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-time-national-holiday-1777217244425",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "祭日",
+    "kanji": "祭日",
+    "kana": "さいじつ",
+    "meaning": "national holiday",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"national holiday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祭",
+        "meanings": [
+          "festival"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今度の祭日は日曜日と重なります。",
+      "english": "The next holiday falls on a Sunday.",
+      "furigana": [
+        {
+          "text": "今度",
+          "reading": "こんど"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "祭日",
+          "highlight": true,
+          "reading": "さいじつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "日曜日",
+          "reading": "にちようび"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "重なり",
+          "reading": "かさなり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "172166",
+        "englishSentenceId": "242309",
+        "url": "https://tatoeba.org/en/sentences/show/172166"
+      }
+    },
+    "acceptedJapanese": [
+      "祭日",
+      "さいじつ"
+    ],
+    "acceptedEnglish": [
+      "national holiday",
+      "festival day"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-sunrise-1777217244578",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日の出",
+    "kanji": "日の出",
+    "kana": "ひので",
+    "meaning": "sunrise",
+    "explanation": "A JLPT N2 noun meaning \"sunrise\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "オンドリは日の出に鳴く。",
+      "english": "The rooster crows at sunrise.",
+      "furigana": [
+        {
+          "text": "オンドリは"
+        },
+        {
+          "text": "日の出",
+          "highlight": true,
+          "reading": "ひので"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "鳴く",
+          "reading": "なく"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2137333",
+        "englishSentenceId": "895240",
+        "url": "https://tatoeba.org/en/sentences/show/2137333"
+      }
+    },
+    "acceptedJapanese": [
+      "日の出",
+      "ひので"
+    ],
+    "acceptedEnglish": [
+      "sunrise"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-holiday-1777217244605",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "お休み",
+    "kanji": "お休み",
+    "kana": "おやすみ",
+    "meaning": "holiday",
+    "explanation": "A JLPT N2 noun meaning \"holiday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "明日はお休みです。",
+      "english": "It's a holiday tomorrow.",
+      "furigana": [
+        {
+          "text": "明"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "お休み",
+          "highlight": true,
+          "reading": "おやすみ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "80475",
+        "englishSentenceId": "9471789",
+        "url": "https://tatoeba.org/en/sentences/show/80475"
+      }
+    },
+    "acceptedJapanese": [
+      "お休み",
+      "おやすみ"
+    ],
+    "acceptedEnglish": [
+      "holiday",
+      "day off",
+      "absence",
+      "sleep",
+      "rest"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-a-short-while-ago-1777217244632",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "先ほど",
+    "kanji": "先ほど",
+    "kana": "さきほど",
+    "meaning": "a short while ago",
+    "explanation": "A JLPT N2 noun, adverb meaning \"a short while ago\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "つい先ほど君のお父さんに会いました。",
+      "english": "I met your father just now.",
+      "furigana": [
+        {
+          "text": "つい"
+        },
+        {
+          "text": "先ほど",
+          "highlight": true,
+          "reading": "さきほど"
+        },
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "お父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "会",
+          "reading": "かい"
+        },
+        {
+          "text": "いました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202596",
+        "englishSentenceId": "39830",
+        "url": "https://tatoeba.org/en/sentences/show/202596"
+      }
+    },
+    "acceptedJapanese": [
+      "先ほど",
+      "さきほど"
+    ],
+    "acceptedEnglish": [
+      "a short while ago",
+      "a moment ago",
+      "just now",
+      "some time ago"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-regular-holiday-1777217244836",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "定休日",
+    "kanji": "定休日",
+    "kana": "ていきゅうび",
+    "meaning": "regular holiday",
+    "explanation": "A JLPT N2 noun meaning \"regular holiday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      },
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "定休日は、毎月曜日・第３日曜日です。",
+      "english": "Closed regularly, every Monday and 3rd Sunday.",
+      "furigana": [
+        {
+          "text": "定休日",
+          "highlight": true,
+          "reading": "ていきゅうび"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "毎",
+          "reading": "まい"
+        },
+        {
+          "text": "月曜日",
+          "reading": "げつようび"
+        },
+        {
+          "text": "・"
+        },
+        {
+          "text": "第３",
+          "reading": "だいさん"
+        },
+        {
+          "text": "日曜日",
+          "reading": "にちようび"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9453493",
+        "englishSentenceId": "10262634",
+        "url": "https://tatoeba.org/en/sentences/show/9453493"
+      }
+    },
+    "acceptedJapanese": [
+      "定休日",
+      "ていきゅうび"
+    ],
+    "acceptedEnglish": [
+      "regular holiday",
+      "fixed day off",
+      "regular closing day"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-wednesday-1777217244872",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "水曜",
+    "kanji": "水曜",
+    "kana": "すいよう",
+    "meaning": "Wednesday",
+    "explanation": "A JLPT N2 noun meaning \"Wednesday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      },
+      {
+        "kanji": "曜",
+        "meanings": [
+          "day of the week"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は、水曜だよね？",
+      "english": "It's Wednesday today, isn't it?",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "水曜",
+          "highlight": true,
+          "reading": "すいよう"
+        },
+        {
+          "text": "だよね？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11682689",
+        "englishSentenceId": "8589970",
+        "url": "https://tatoeba.org/en/sentences/show/11682689"
+      }
+    },
+    "acceptedJapanese": [
+      "水曜",
+      "すいよう"
+    ],
+    "acceptedEnglish": [
+      "Wednesday"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-day-in-question-1777217244989",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "当日",
+    "kanji": "当日",
+    "kana": "とうじつ",
+    "meaning": "day in question",
+    "explanation": "A JLPT N2 noun, adverb meaning \"day in question\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "当",
+        "meanings": [
+          "present",
+          "hit"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "チケットは、当日でも買えますか？",
+      "english": "Can I buy tickets on the day of the tour?",
+      "furigana": [
+        {
+          "text": "チケットは、"
+        },
+        {
+          "text": "当日",
+          "highlight": true,
+          "reading": "とうじつ"
+        },
+        {
+          "text": "でも買えますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202998",
+        "englishSentenceId": "40233",
+        "url": "https://tatoeba.org/en/sentences/show/202998"
+      }
+    },
+    "acceptedJapanese": [
+      "当日",
+      "とうじつ"
+    ],
+    "acceptedEnglish": [
+      "day in question",
+      "appointed day",
+      "that very day",
+      "the day"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-just-before-1777217245001",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "直前",
+    "kanji": "直前",
+    "kana": "ちょくぜん",
+    "meaning": "just before",
+    "explanation": "A JLPT N2 noun, adverb meaning \"just before\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      },
+      {
+        "kanji": "前",
+        "meanings": [
+          "before",
+          "front"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "試合の直前にはいつもあがっています。",
+      "english": "I always get nervous just before a match.",
+      "furigana": [
+        {
+          "text": "試合",
+          "reading": "しあい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "直前",
+          "highlight": true,
+          "reading": "ちょくぜん"
+        },
+        {
+          "text": "にはいつもあがっています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "151037",
+        "englishSentenceId": "263519",
+        "url": "https://tatoeba.org/en/sentences/show/151037"
+      }
+    },
+    "acceptedJapanese": [
+      "直前",
+      "ちょくぜん"
+    ],
+    "acceptedEnglish": [
+      "just before",
+      "just prior to",
+      "right in front of",
+      "just in front of"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-deadline-1777217245277",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "締め切り",
+    "kanji": "締め切り",
+    "kana": "しめきり",
+    "meaning": "deadline",
+    "explanation": "A JLPT N2 noun meaning \"deadline\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "締",
+        "meanings": [
+          "tighten",
+          "tie",
+          "shut",
+          "lock"
+        ]
+      },
+      {
+        "kanji": "切",
+        "meanings": [
+          "cut"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "締め切りはいつですか？",
+      "english": "When is the deadline?",
+      "furigana": [
+        {
+          "text": "締め切り",
+          "highlight": true,
+          "reading": "しめきり"
+        },
+        {
+          "text": "はいつですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11140910",
+        "englishSentenceId": "11016067",
+        "url": "https://tatoeba.org/en/sentences/show/11140910"
+      }
+    },
+    "acceptedJapanese": [
+      "締め切り",
+      "しめきり"
+    ],
+    "acceptedEnglish": [
+      "deadline",
+      "closing",
+      "cut-off",
+      "cofferdam"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-on-and-after-1777217245307",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "以降",
+    "kanji": "以降",
+    "kana": "いこう",
+    "meaning": "on and after",
+    "explanation": "A JLPT N2 noun, adverb meaning \"on and after\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "降",
+        "meanings": [
+          "descend",
+          "fall",
+          "get off"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それ以降、町は大きく変わった。",
+      "english": "The town has changed a lot since then.",
+      "furigana": [
+        {
+          "text": "それ"
+        },
+        {
+          "text": "以降",
+          "highlight": true,
+          "reading": "いこう"
+        },
+        {
+          "text": "、町は"
+        },
+        {
+          "text": "大きく",
+          "reading": "おおきく"
+        },
+        {
+          "text": "変",
+          "reading": "へん"
+        },
+        {
+          "text": "わった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11257854",
+        "englishSentenceId": "1442387",
+        "url": "https://tatoeba.org/en/sentences/show/11257854"
+      }
+    },
+    "acceptedJapanese": [
+      "以降",
+      "いこう"
+    ],
+    "acceptedEnglish": [
+      "on and after",
+      "from ... onward",
+      "since"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-last-third-of-a-month-1777217245385",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "下旬",
+    "kanji": "下旬",
+    "kana": "げじゅん",
+    "meaning": "last third of a month",
+    "explanation": "A JLPT N2 noun meaning \"last third of a month\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "旬",
+        "meanings": [
+          "decameron",
+          "ten-day period",
+          "season (for specific products)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「下旬」は日本語の言葉です。",
+      "english": "\"last third of a month\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "下旬",
+          "reading": "げじゅん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "下旬",
+      "げじゅん"
+    ],
+    "acceptedEnglish": [
+      "last third of a month",
+      "21st to the last day of a month"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-schedule-1777217245412",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日程",
+    "kanji": "日程",
+    "kana": "にってい",
+    "meaning": "schedule",
+    "explanation": "A JLPT N2 noun meaning \"schedule\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日程を確認する必要がありますね。",
+      "english": "We need to check our schedules.",
+      "furigana": [
+        {
+          "text": "日程",
+          "highlight": true,
+          "reading": "にってい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "text": "する"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "がありますね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11358035",
+        "englishSentenceId": "10032532",
+        "url": "https://tatoeba.org/en/sentences/show/11358035"
+      }
+    },
+    "acceptedJapanese": [
+      "日程",
+      "にってい"
+    ],
+    "acceptedEnglish": [
+      "schedule",
+      "program",
+      "programme",
+      "agenda"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-two-days-before-yesterday-1777217245427",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "一昨昨日",
+    "kanji": "一昨昨日",
+    "kana": "いっさくさくじつ",
+    "meaning": "two days before yesterday",
+    "explanation": "A JLPT N2 noun, adverb meaning \"two days before yesterday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "昨",
+        "meanings": [
+          "yesterday",
+          "last"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「一昨昨日」は日本語の言葉です。",
+      "english": "\"two days before yesterday\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "一昨昨日",
+          "reading": "いっさくさくじつ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "一昨昨日",
+      "いっさくさくじつ"
+    ],
+    "acceptedEnglish": [
+      "two days before yesterday",
+      "three days back"
+    ],
+    "pitchAccentNumber": 6
+  },
+  {
+    "id": "n2-time-weekday-1777217245451",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "平日",
+    "kanji": "平日",
+    "kana": "へいじつ",
+    "meaning": "weekday",
+    "explanation": "A JLPT N2 adverb, noun meaning \"weekday\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "平日はいつも人がまばらです。",
+      "english": "On weekdays, there are always fewer people.",
+      "furigana": [
+        {
+          "text": "平日",
+          "highlight": true,
+          "reading": "へいじつ"
+        },
+        {
+          "text": "はいつも"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "がまばらです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11283958",
+        "englishSentenceId": "10321558",
+        "url": "https://tatoeba.org/en/sentences/show/11283958"
+      }
+    },
+    "acceptedJapanese": [
+      "平日",
+      "へいじつ"
+    ],
+    "acceptedEnglish": [
+      "weekday",
+      "ordinary days"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-at-that-time-1777217245586",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "その頃",
+    "kanji": "その頃",
+    "kana": "そのころ",
+    "meaning": "at that time",
+    "explanation": "A JLPT N2 expression, noun, no adjective meaning \"at that time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頃",
+        "meanings": [
+          "time",
+          "period"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その頃は、まだ学生だったわ。",
+      "english": "At that time, I was still a student.",
+      "furigana": [
+        {
+          "text": "その頃",
+          "highlight": true,
+          "reading": "そのころ"
+        },
+        {
+          "text": "は、まだ"
+        },
+        {
+          "text": "学",
+          "reading": "がく"
+        },
+        {
+          "text": "生",
+          "reading": "は"
+        },
+        {
+          "text": "だったわ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10745109",
+        "englishSentenceId": "10744688",
+        "url": "https://tatoeba.org/en/sentences/show/10745109"
+      }
+    },
+    "acceptedJapanese": [
+      "その頃",
+      "そのころ"
+    ],
+    "acceptedEnglish": [
+      "at that time",
+      "in those days",
+      "at that moment",
+      "then"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-the-four-seasons-1777217245640",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "四季",
+    "kanji": "四季",
+    "kana": "しき",
+    "meaning": "the four seasons",
+    "explanation": "A JLPT N2 noun meaning \"the four seasons\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      },
+      {
+        "kanji": "季",
+        "meanings": [
+          "season"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日本には四季があります。",
+      "english": "We have four seasons in Japan.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本には"
+        },
+        {
+          "text": "四季",
+          "highlight": true,
+          "reading": "しき"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122716",
+        "englishSentenceId": "281286",
+        "url": "https://tatoeba.org/en/sentences/show/122716"
+      }
+    },
+    "acceptedJapanese": [
+      "四季",
+      "しき"
+    ],
+    "acceptedEnglish": [
+      "the four seasons"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-time-short-term-1777217245769",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "短期",
+    "kanji": "短期",
+    "kana": "たんき",
+    "meaning": "short-term",
+    "explanation": "A JLPT N2 no adjective, noun meaning \"short-term\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "短",
+        "meanings": [
+          "short"
+        ]
+      },
+      {
+        "kanji": "期",
+        "meanings": [
+          "term",
+          "time",
+          "expect"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どんな語学も短期では無理だ。",
+      "english": "Whatever language you study, it takes time.",
+      "furigana": [
+        {
+          "text": "どんな"
+        },
+        {
+          "text": "語学",
+          "reading": "ごがく"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "短期",
+          "highlight": true,
+          "reading": "たんき"
+        },
+        {
+          "text": "では"
+        },
+        {
+          "text": "無理",
+          "reading": "むり"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "199451",
+        "englishSentenceId": "36653",
+        "url": "https://tatoeba.org/en/sentences/show/199451"
+      }
+    },
+    "acceptedJapanese": [
+      "短期",
+      "たんき"
+    ],
+    "acceptedEnglish": [
+      "short-term"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-day-trip-1777217245778",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日帰り",
+    "kanji": "日帰り",
+    "kana": "ひがえり",
+    "meaning": "day trip",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"day trip\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "帰",
+        "meanings": [
+          "return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は日帰り旅行に行った。",
+      "english": "He went on a one-day trip.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "日帰り",
+          "highlight": true,
+          "reading": "ひがえり"
+        },
+        {
+          "text": "旅行",
+          "reading": "りょこう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "101495",
+        "englishSentenceId": "302200",
+        "url": "https://tatoeba.org/en/sentences/show/101495"
+      }
+    },
+    "acceptedJapanese": [
+      "日帰り",
+      "ひがえり"
+    ],
+    "acceptedEnglish": [
+      "day trip"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-constantly-1777217245793",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "絶えず",
+    "kanji": "絶えず",
+    "kana": "たえず",
+    "meaning": "constantly",
+    "explanation": "A JLPT N2 adverb meaning \"constantly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "絶",
+        "meanings": [
+          "break off",
+          "come to an end"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは絶えずけんかばかりしていた。",
+      "english": "They were constantly quarreling.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "絶えず",
+          "highlight": true,
+          "reading": "たえず"
+        },
+        {
+          "text": "けんかばかりしていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "96708",
+        "englishSentenceId": "306996",
+        "url": "https://tatoeba.org/en/sentences/show/96708"
+      }
+    },
+    "acceptedJapanese": [
+      "絶えず",
+      "たえず"
+    ],
+    "acceptedEnglish": [
+      "constantly",
+      "always",
+      "continually",
+      "steadily"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-time-date-1777217245823",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "日にち",
+    "kanji": "日にち",
+    "kana": "ひにち",
+    "meaning": "date",
+    "explanation": "A JLPT N2 noun meaning \"date\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日にちを選んで。",
+      "english": "Pick a date.",
+      "furigana": [
+        {
+          "text": "日にち",
+          "highlight": true,
+          "reading": "ひにち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "選",
+          "reading": "せん"
+        },
+        {
+          "text": "んで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3244969",
+        "englishSentenceId": "2249760",
+        "url": "https://tatoeba.org/en/sentences/show/3244969"
+      }
+    },
+    "acceptedJapanese": [
+      "日にち",
+      "ひにち"
+    ],
+    "acceptedEnglish": [
+      "date",
+      "day",
+      "days"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-time-in-three-days-time-1777217245880",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "明々後日",
+    "kanji": "明々後日",
+    "kana": "しあさって",
+    "meaning": "in three days' time",
+    "explanation": "A JLPT N2 noun, adverb meaning \"in three days' time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "明",
+        "meanings": [
+          "bright",
+          "clear"
+        ]
+      },
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      },
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "会議は明々後日に延期された。",
+      "english": "The meeting was postponed to three days from today.",
+      "furigana": [
+        {
+          "text": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "明々後日",
+          "highlight": true,
+          "reading": "しあさって"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "延期",
+          "reading": "えんき"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13714031",
+        "englishSentenceId": "13714032",
+        "url": "https://tatoeba.org/en/sentences/show/13714031"
+      }
+    },
+    "acceptedJapanese": [
+      "明々後日",
+      "しあさって"
+    ],
+    "acceptedEnglish": [
+      "in three days' time",
+      "two days after tomorrow"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-time-rush-hour-1777217245991",
+    "jlpt": "N2",
+    "subcategory": "Time",
+    "name": "ラッシュアワー",
+    "kanji": "ラッシュアワー",
+    "kana": "ラッシュアワー",
+    "meaning": "rush hour",
+    "explanation": "A JLPT N2 noun meaning \"rush hour\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "もうすぐラッシュアワーの時間帯に入る。",
+      "english": "It's almost rush hour.",
+      "furigana": [
+        {
+          "text": "もうすぐ"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "ュ",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "ア",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "ワ",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ラッシュアワー"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "時間帯",
+          "reading": "じかんたい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "る。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "194441",
+        "englishSentenceId": "31613",
+        "url": "https://tatoeba.org/en/sentences/show/194441"
+      }
+    },
+    "acceptedJapanese": [
+      "ラッシュアワー"
+    ],
+    "acceptedEnglish": [
+      "rush hour"
+    ]
+  }
+]

@@ -1,1 +1,391 @@
-[]
+[
+  {
+    "id": "n4-numbers-counting-one-cup-1777217251247",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "一杯",
+    "kanji": "一杯",
+    "kana": "いっぱい",
+    "meaning": "one cup",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"one cup\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "杯",
+        "meanings": [
+          "cup",
+          "sake cup"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "水を一杯いただけますか。",
+      "english": "May I have a glass of water?",
+      "furigana": [
+        {
+          "text": "水を"
+        },
+        {
+          "text": "一杯",
+          "highlight": true,
+          "reading": "いっぱい"
+        },
+        {
+          "text": "いただけますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143714",
+        "englishSentenceId": "64354",
+        "url": "https://tatoeba.org/en/sentences/show/143714"
+      }
+    },
+    "acceptedJapanese": [
+      "一杯",
+      "いっぱい"
+    ],
+    "acceptedEnglish": [
+      "one cup",
+      "one glass",
+      "one bowl",
+      "cupful",
+      "glassful",
+      "bowlful"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-numbers-counting-double-1777217251328",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "倍",
+    "kanji": "倍",
+    "kana": "ばい",
+    "meaning": "double",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"double\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "倍",
+        "meanings": [
+          "times",
+          "double"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "２の２倍は４です。",
+      "english": "Twice two is four.",
+      "furigana": [
+        {
+          "text": "２の"
+        },
+        {
+          "text": "２",
+          "reading": "に"
+        },
+        {
+          "text": "倍",
+          "highlight": true,
+          "reading": "ばい"
+        },
+        {
+          "text": "は４です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235530",
+        "englishSentenceId": "72908",
+        "url": "https://tatoeba.org/en/sentences/show/235530"
+      }
+    },
+    "acceptedJapanese": [
+      "倍",
+      "ばい"
+    ],
+    "acceptedEnglish": [
+      "double",
+      "twice"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-numbers-counting-rate-1777217251538",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "割合",
+    "kanji": "割合",
+    "kana": "わりあい",
+    "meaning": "rate",
+    "explanation": "A JLPT N4 noun meaning \"rate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "割",
+        "meanings": [
+          "divide",
+          "split"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは１時間３マイルの割合で歩いた。",
+      "english": "They walked at the rate of three miles an hour.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は１"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "３マイルの"
+        },
+        {
+          "text": "割合",
+          "highlight": true,
+          "reading": "わりあい"
+        },
+        {
+          "text": "で歩いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "98294",
+        "englishSentenceId": "305408",
+        "url": "https://tatoeba.org/en/sentences/show/98294"
+      }
+    },
+    "acceptedJapanese": [
+      "割合",
+      "わりあい"
+    ],
+    "acceptedEnglish": [
+      "rate",
+      "ratio",
+      "percentage",
+      "proportion"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-numbers-counting-population-1777217251619",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "人口",
+    "kanji": "人口",
+    "kana": "じんこう",
+    "meaning": "population",
+    "explanation": "A JLPT N4 noun meaning \"population\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      },
+      {
+        "kanji": "口",
+        "meanings": [
+          "mouth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "人口は増加しつつある。",
+      "english": "The population is increasing.",
+      "furigana": [
+        {
+          "text": "人口",
+          "highlight": true,
+          "reading": "じんこう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "増加",
+          "reading": "ぞうか"
+        },
+        {
+          "text": "しつつある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144216",
+        "englishSentenceId": "270349",
+        "url": "https://tatoeba.org/en/sentences/show/144216"
+      }
+    },
+    "acceptedJapanese": [
+      "人口",
+      "じんこう"
+    ],
+    "acceptedEnglish": [
+      "population",
+      "common talk"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-numbers-counting-hundred-million-1777217252090",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "億",
+    "kanji": "億",
+    "kana": "おく",
+    "meaning": "hundred million",
+    "explanation": "A JLPT N4 numeric meaning \"hundred million\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "億",
+        "meanings": [
+          "hundred million"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日本の人口は約1億2000万人です。",
+      "english": "The population of Japan is about 120 million.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本の",
+          "reading": "ほんの"
+        },
+        {
+          "text": "人口",
+          "reading": "じんこう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "約",
+          "reading": "やく"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "億",
+          "highlight": true,
+          "reading": "おく"
+        },
+        {
+          "text": "2000万"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122572",
+        "englishSentenceId": "281431",
+        "url": "https://tatoeba.org/en/sentences/show/122572"
+      }
+    },
+    "acceptedJapanese": [
+      "億",
+      "おく"
+    ],
+    "acceptedEnglish": [
+      "hundred million",
+      "100",
+      "000",
+      "10^8"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-numbers-counting-price-1777217252261",
+    "jlpt": "N4",
+    "subcategory": "Numbers/Counting",
+    "name": "値段",
+    "kanji": "値段",
+    "kana": "ねだん",
+    "meaning": "price",
+    "explanation": "A JLPT N4 noun meaning \"price\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "値",
+        "meanings": [
+          "value",
+          "price"
+        ]
+      },
+      {
+        "kanji": "段",
+        "meanings": [
+          "step",
+          "stairs",
+          "rank"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "値段はいくらですか。",
+      "english": "What is the price?",
+      "furigana": [
+        {
+          "text": "値段",
+          "highlight": true,
+          "reading": "ねだん"
+        },
+        {
+          "text": "はいくらですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "127127",
+        "englishSentenceId": "24426",
+        "url": "https://tatoeba.org/en/sentences/show/127127"
+      }
+    },
+    "acceptedJapanese": [
+      "値段",
+      "ねだん"
+    ],
+    "acceptedEnglish": [
+      "price",
+      "cost"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

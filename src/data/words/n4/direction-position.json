@@ -1,1 +1,503 @@
-[]
+[
+  {
+    "id": "n4-direction-position-circumference-1777217250926",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "周り",
+    "kanji": "周り",
+    "kana": "まわり",
+    "meaning": "circumference",
+    "explanation": "A JLPT N4 noun meaning \"circumference\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "周",
+        "meanings": [
+          "lap",
+          "periphery",
+          "circumference"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "周りの人に聞いてみて。",
+      "english": "Ask around.",
+      "furigana": [
+        {
+          "text": "周り",
+          "highlight": true,
+          "reading": "まわり"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        },
+        {
+          "text": "いてみて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10329999",
+        "englishSentenceId": "2111967",
+        "url": "https://tatoeba.org/en/sentences/show/10329999"
+      }
+    },
+    "acceptedJapanese": [
+      "周り",
+      "まわり"
+    ],
+    "acceptedEnglish": [
+      "circumference",
+      "girth",
+      "surroundings",
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-direction-position-neighbourhood-1777217251046",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "近所",
+    "kanji": "近所",
+    "kana": "きんじょ",
+    "meaning": "neighbourhood",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"neighbourhood\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "近",
+        "meanings": [
+          "near",
+          "recent"
+        ]
+      },
+      {
+        "kanji": "所",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は近所に住んでいる。",
+      "english": "He lives in the neighborhood.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "近所",
+          "highlight": true,
+          "reading": "きんじょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "住",
+          "reading": "じゅう"
+        },
+        {
+          "text": "んでいる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11104623",
+        "englishSentenceId": "8316632",
+        "url": "https://tatoeba.org/en/sentences/show/11104623"
+      }
+    },
+    "acceptedJapanese": [
+      "近所",
+      "きんじょ"
+    ],
+    "acceptedEnglish": [
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-direction-position-corner-1777217251223",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "隅",
+    "kanji": "隅",
+    "kana": "すみ",
+    "meaning": "corner",
+    "explanation": "A JLPT N4 noun, noun, used as a suffix meaning \"corner\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "隅",
+        "meanings": [
+          "nook",
+          "corner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "隅っこに置いといて。",
+      "english": "Put it in the corner.",
+      "furigana": [
+        {
+          "text": "隅",
+          "highlight": true,
+          "reading": "すみ"
+        },
+        {
+          "text": "っこに置いといて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11741570",
+        "englishSentenceId": "10762326",
+        "url": "https://tatoeba.org/en/sentences/show/11741570"
+      }
+    },
+    "acceptedJapanese": [
+      "隅",
+      "すみ"
+    ],
+    "acceptedEnglish": [
+      "corner",
+      "nook",
+      "recess"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-direction-position-middle-1777217251325",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "真ん中",
+    "kanji": "真ん中",
+    "kana": "まんなか",
+    "meaning": "middle",
+    "explanation": "A JLPT N4 noun meaning \"middle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "町の真ん中に公園があります。",
+      "english": "There's a park in the town centre.",
+      "furigana": [
+        {
+          "text": "町の"
+        },
+        {
+          "text": "真ん中",
+          "highlight": true,
+          "reading": "まんなか"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11584315",
+        "englishSentenceId": "10982461",
+        "url": "https://tatoeba.org/en/sentences/show/11584315"
+      }
+    },
+    "acceptedJapanese": [
+      "真ん中",
+      "まんなか"
+    ],
+    "acceptedEnglish": [
+      "middle",
+      "centre",
+      "midpoint",
+      "heart"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-direction-position-on-the-way-1777217251466",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "途中",
+    "kanji": "途中",
+    "kana": "とちゅう",
+    "meaning": "on the way",
+    "explanation": "A JLPT N4 noun, adverb meaning \"on the way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "途",
+        "meanings": [
+          "way",
+          "road"
+        ]
+      },
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "途中であきらめるな。",
+      "english": "Don't give up halfway.",
+      "furigana": [
+        {
+          "text": "途中",
+          "highlight": true,
+          "reading": "とちゅう"
+        },
+        {
+          "text": "であきらめるな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124585",
+        "englishSentenceId": "279409",
+        "url": "https://tatoeba.org/en/sentences/show/124585"
+      }
+    },
+    "acceptedJapanese": [
+      "途中",
+      "とちゅう"
+    ],
+    "acceptedEnglish": [
+      "on the way",
+      "en route",
+      "in the middle of",
+      "midway",
+      "halfway"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-direction-position-inside-1777217251592",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "内",
+    "kanji": "内",
+    "kana": "うち",
+    "meaning": "inside",
+    "explanation": "A JLPT N4 noun, adverb meaning \"inside\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "内",
+        "meanings": [
+          "inside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は内へ入っていきました。",
+      "english": "She went inside.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "内",
+          "highlight": true,
+          "reading": "うち"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "っていきました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87662",
+        "englishSentenceId": "316046",
+        "url": "https://tatoeba.org/en/sentences/show/87662"
+      }
+    },
+    "acceptedJapanese": [
+      "内",
+      "うち"
+    ],
+    "acceptedEnglish": [
+      "inside",
+      "within",
+      "while",
+      "during",
+      "in the course of",
+      "among"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-direction-position-opposite-side-1777217252309",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "裏",
+    "kanji": "裏",
+    "kana": "うら",
+    "meaning": "opposite side",
+    "explanation": "A JLPT N4 noun meaning \"opposite side\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "裏",
+        "meanings": [
+          "rear",
+          "reverse side",
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今、何回の裏ですか。",
+      "english": "This is the bottom of what inning?",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "何回",
+          "reading": "なんかい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "裏",
+          "highlight": true,
+          "reading": "うら"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "172924",
+        "englishSentenceId": "241549",
+        "url": "https://tatoeba.org/en/sentences/show/172924"
+      }
+    },
+    "acceptedJapanese": [
+      "裏",
+      "うら"
+    ],
+    "acceptedEnglish": [
+      "opposite side",
+      "bottom",
+      "other side",
+      "side hidden from view",
+      "undersurface",
+      "reverse side"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-direction-position-far-away-1777217252453",
+    "jlpt": "N4",
+    "subcategory": "Direction/Position",
+    "name": "遠く",
+    "kanji": "遠く",
+    "kana": "とおく",
+    "meaning": "far away",
+    "explanation": "A JLPT N4 noun, adverb, no adjective meaning \"far away\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遠",
+        "meanings": [
+          "distant",
+          "far"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "遠くにいる？",
+      "english": "Are you guys far away?",
+      "furigana": [
+        {
+          "text": "遠く",
+          "highlight": true,
+          "reading": "とおく"
+        },
+        {
+          "text": "にいる？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13266378",
+        "englishSentenceId": "11516556",
+        "url": "https://tatoeba.org/en/sentences/show/13266378"
+      }
+    },
+    "acceptedJapanese": [
+      "遠く",
+      "とおく"
+    ],
+    "acceptedEnglish": [
+      "far away",
+      "distant place",
+      "a distance",
+      "a long way off",
+      "afar"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

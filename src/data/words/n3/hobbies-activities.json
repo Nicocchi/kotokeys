@@ -1,1 +1,2111 @@
-[]
+[
+  {
+    "id": "n3-hobbies-activities-play-1777217246183",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "芝居",
+    "kanji": "芝居",
+    "kana": "しばい",
+    "meaning": "play",
+    "explanation": "A JLPT N3 noun meaning \"play\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "芝",
+        "meanings": [
+          "lawn"
+        ]
+      },
+      {
+        "kanji": "居",
+        "meanings": [
+          "reside",
+          "exist"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それはどんな芝居ですか。",
+      "english": "What kind of play is it?",
+      "furigana": [
+        {
+          "text": "それはどんな"
+        },
+        {
+          "text": "芝居",
+          "highlight": true,
+          "reading": "しばい"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "205419",
+        "englishSentenceId": "42663",
+        "url": "https://tatoeba.org/en/sentences/show/205419"
+      }
+    },
+    "acceptedJapanese": [
+      "芝居",
+      "しばい"
+    ],
+    "acceptedEnglish": [
+      "play",
+      "drama"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-game-1777217246378",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "競技",
+    "kanji": "競技",
+    "kana": "きょうぎ",
+    "meaning": "game",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"game\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "競",
+        "meanings": [
+          "compete"
+        ]
+      },
+      {
+        "kanji": "技",
+        "meanings": [
+          "skill",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あなたは競技に参加しましたか。",
+      "english": "Did you take part in the game?",
+      "furigana": [
+        {
+          "text": "あなたは"
+        },
+        {
+          "text": "競技",
+          "highlight": true,
+          "reading": "きょうぎ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "参加",
+          "reading": "さんか"
+        },
+        {
+          "text": "しましたか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "232117",
+        "englishSentenceId": "69487",
+        "url": "https://tatoeba.org/en/sentences/show/232117"
+      }
+    },
+    "acceptedJapanese": [
+      "競技",
+      "きょうぎ"
+    ],
+    "acceptedEnglish": [
+      "game",
+      "match",
+      "contest",
+      "competition",
+      "sport",
+      "event"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-composition-1777217246423",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "作曲",
+    "kanji": "作曲",
+    "kana": "さっきょく",
+    "meaning": "composition",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb, intransitive verb meaning \"composition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      },
+      {
+        "kanji": "曲",
+        "meanings": [
+          "curve",
+          "musical composition"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この音楽はバッハによって作曲された。",
+      "english": "This music was composed by Bach.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "text": "はバッハによって"
+        },
+        {
+          "text": "作曲",
+          "highlight": true,
+          "reading": "さっきょく"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222882",
+        "englishSentenceId": "454475",
+        "url": "https://tatoeba.org/en/sentences/show/222882"
+      }
+    },
+    "acceptedJapanese": [
+      "作曲",
+      "さっきょく"
+    ],
+    "acceptedEnglish": [
+      "composition",
+      "setting",
+      "writing music"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-classical-music-1777217246477",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "クラシック",
+    "kanji": "クラシック",
+    "kana": "クラシック",
+    "meaning": "classical music",
+    "explanation": "A JLPT N3 noun meaning \"classical music\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "クラシック音楽が好きです。",
+      "english": "I like classical music.",
+      "furigana": [
+        {
+          "text": "クラシック",
+          "highlight": true
+        },
+        {
+          "text": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "225606",
+        "englishSentenceId": "62942",
+        "url": "https://tatoeba.org/en/sentences/show/225606"
+      }
+    },
+    "acceptedJapanese": [
+      "クラシック"
+    ],
+    "acceptedEnglish": [
+      "classical music",
+      "classic",
+      "the classics"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-camp-1777217246609",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "キャンプ",
+    "kanji": "キャンプ",
+    "kana": "キャンプ",
+    "meaning": "camp",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"camp\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "月でキャンプするのは無理です。",
+      "english": "You can't camp on the moon.",
+      "furigana": [
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "キャンプ"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "キャンプ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "キャンプ"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "キャンプ"
+        },
+        {
+          "text": "するのは"
+        },
+        {
+          "text": "無理",
+          "reading": "むり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3429256",
+        "englishSentenceId": "3429252",
+        "url": "https://tatoeba.org/en/sentences/show/3429256"
+      }
+    },
+    "acceptedJapanese": [
+      "キャンプ"
+    ],
+    "acceptedEnglish": [
+      "camp",
+      "camping"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-overall-victory-1777217246663",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "優勝",
+    "kanji": "優勝",
+    "kana": "ゆうしょう",
+    "meaning": "overall victory",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"overall victory\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "優",
+        "meanings": [
+          "superior",
+          "actor",
+          "gentle",
+          "excel"
+        ]
+      },
+      {
+        "kanji": "勝",
+        "meanings": [
+          "win",
+          "excel",
+          "be superior"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "優勝おめでとう。",
+      "english": "Congratulations on the victory!",
+      "furigana": [
+        {
+          "text": "優勝",
+          "highlight": true,
+          "reading": "ゆうしょう"
+        },
+        {
+          "text": "おめでとう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79420",
+        "englishSentenceId": "324297",
+        "url": "https://tatoeba.org/en/sentences/show/79420"
+      }
+    },
+    "acceptedJapanese": [
+      "優勝",
+      "ゆうしょう"
+    ],
+    "acceptedEnglish": [
+      "overall victory",
+      "championship",
+      "winning the title",
+      "heaven",
+      "bliss",
+      "perfect contentment"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-swimming-1777217246672",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "泳ぎ",
+    "kanji": "泳ぎ",
+    "kana": "およぎ",
+    "meaning": "swimming",
+    "explanation": "A JLPT N3 noun meaning \"swimming\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "泳",
+        "meanings": [
+          "swim"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は泳ぎがうまい。",
+      "english": "He's good at swimming.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "泳ぎ",
+          "highlight": true,
+          "reading": "およぎ"
+        },
+        {
+          "text": "がうまい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "109767",
+        "englishSentenceId": "2840698",
+        "url": "https://tatoeba.org/en/sentences/show/109767"
+      }
+    },
+    "acceptedJapanese": [
+      "泳ぎ",
+      "およぎ"
+    ],
+    "acceptedEnglish": [
+      "swimming"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-hobbies-activities-dance-1777217246828",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ダンス",
+    "kanji": "ダンス",
+    "kana": "ダンス",
+    "meaning": "dance",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"dance\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ダンスは好きですか。",
+      "english": "Do you like dancing?",
+      "furigana": [
+        {
+          "text": "ダ",
+          "highlight": true,
+          "reading": "ダンス"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ダンス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ダンス"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "203074",
+        "englishSentenceId": "40311",
+        "url": "https://tatoeba.org/en/sentences/show/203074"
+      }
+    },
+    "acceptedJapanese": [
+      "ダンス"
+    ],
+    "acceptedEnglish": [
+      "dance",
+      "dancing"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-magic-1777217246834",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "手品",
+    "kanji": "手品",
+    "kana": "てじな",
+    "meaning": "magic",
+    "explanation": "A JLPT N3 noun meaning \"magic\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "品",
+        "meanings": [
+          "article",
+          "goods"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手品できるよ。",
+      "english": "I can do magic tricks.",
+      "furigana": [
+        {
+          "text": "手品",
+          "highlight": true,
+          "reading": "てじな"
+        },
+        {
+          "text": "できるよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8621633",
+        "englishSentenceId": "5964418",
+        "url": "https://tatoeba.org/en/sentences/show/8621633"
+      }
+    },
+    "acceptedJapanese": [
+      "手品",
+      "てじな"
+    ],
+    "acceptedEnglish": [
+      "magic",
+      "conjuring",
+      "magic trick",
+      "conjuring trick",
+      "sleight of hand"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-playing-cards-1777217246903",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "トランプ",
+    "kanji": "トランプ",
+    "kana": "トランプ",
+    "meaning": "playing cards",
+    "explanation": "A JLPT N3 noun meaning \"playing cards\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "トランプは好きですか？",
+      "english": "Do you like playing cards?",
+      "furigana": [
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "トランプ"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "トランプ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "トランプ"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "トランプ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9812296",
+        "englishSentenceId": "6949893",
+        "url": "https://tatoeba.org/en/sentences/show/9812296"
+      }
+    },
+    "acceptedJapanese": [
+      "トランプ"
+    ],
+    "acceptedEnglish": [
+      "playing cards"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-violin-1777217246975",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "バイオリン",
+    "kanji": "バイオリン",
+    "kana": "バイオリン",
+    "meaning": "violin",
+    "explanation": "A JLPT N3 noun meaning \"violin\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼はバイオリンがうまい。",
+      "english": "He is a good violinist.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "バイオリン"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "バイオリン"
+        },
+        {
+          "text": "オ",
+          "highlight": true,
+          "reading": "バイオリン"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "バイオリン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "バイオリン"
+        },
+        {
+          "text": "がうまい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "111323",
+        "englishSentenceId": "292360",
+        "url": "https://tatoeba.org/en/sentences/show/111323"
+      }
+    },
+    "acceptedJapanese": [
+      "バイオリン"
+    ],
+    "acceptedEnglish": [
+      "violin"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-picnic-1777217247089",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ピクニック",
+    "kanji": "ピクニック",
+    "kana": "ピクニック",
+    "meaning": "picnic",
+    "explanation": "A JLPT N3 noun meaning \"picnic\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ピクニックに行きたい。",
+      "english": "I want to have a picnic.",
+      "furigana": [
+        {
+          "text": "ピ",
+          "highlight": true,
+          "reading": "ピクニック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "ピクニック"
+        },
+        {
+          "text": "ニ",
+          "highlight": true,
+          "reading": "ピクニック"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ピクニック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "ピクニック"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行き",
+          "reading": "いき"
+        },
+        {
+          "text": "たい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11545978",
+        "englishSentenceId": "11272725",
+        "url": "https://tatoeba.org/en/sentences/show/11545978"
+      }
+    },
+    "acceptedJapanese": [
+      "ピクニック"
+    ],
+    "acceptedEnglish": [
+      "picnic",
+      "outing",
+      "hike"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-painting-1777217247161",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "絵画",
+    "kanji": "絵画",
+    "kana": "かいが",
+    "meaning": "painting",
+    "explanation": "A JLPT N3 noun meaning \"painting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "絵",
+        "meanings": [
+          "picture"
+        ]
+      },
+      {
+        "kanji": "画",
+        "meanings": [
+          "picture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは絵画だ。",
+      "english": "This is a painting.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "絵画",
+          "highlight": true,
+          "reading": "かいが"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "218470",
+        "englishSentenceId": "55781",
+        "url": "https://tatoeba.org/en/sentences/show/218470"
+      }
+    },
+    "acceptedJapanese": [
+      "絵画",
+      "かいが"
+    ],
+    "acceptedEnglish": [
+      "painting",
+      "picture"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-flute-1777217247245",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "笛",
+    "kanji": "笛",
+    "kana": "ふえ",
+    "meaning": "flute",
+    "explanation": "A JLPT N3 noun meaning \"flute\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "笛",
+        "meanings": [
+          "flute",
+          "whistle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "合図の笛がなった。",
+      "english": "The whistle blew.",
+      "furigana": [
+        {
+          "text": "合図",
+          "reading": "あいず"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "笛",
+          "highlight": true,
+          "reading": "ふえ"
+        },
+        {
+          "text": "がなった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173133",
+        "englishSentenceId": "241338",
+        "url": "https://tatoeba.org/en/sentences/show/173133"
+      }
+    },
+    "acceptedJapanese": [
+      "笛",
+      "ふえ"
+    ],
+    "acceptedEnglish": [
+      "flute",
+      "fife",
+      "pipe",
+      "recorder",
+      "flageolet",
+      "shakuhachi"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-date-1777217247377",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "デート",
+    "kanji": "デート",
+    "kana": "デート",
+    "meaning": "date",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"date\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "これってデートなの？",
+      "english": "Is this a date?",
+      "furigana": [
+        {
+          "text": "これって"
+        },
+        {
+          "text": "デ",
+          "highlight": true,
+          "reading": "デート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "デート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "デート"
+        },
+        {
+          "text": "なの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8716598",
+        "englishSentenceId": "3385960",
+        "url": "https://tatoeba.org/en/sentences/show/8716598"
+      }
+    },
+    "acceptedJapanese": [
+      "デート"
+    ],
+    "acceptedEnglish": [
+      "date",
+      "outing",
+      "date night"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-mountain-climbing-1777217247911",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "登山",
+    "kanji": "登山",
+    "kana": "とざん",
+    "meaning": "mountain climbing",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"mountain climbing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "登",
+        "meanings": [
+          "climb"
+        ]
+      },
+      {
+        "kanji": "山",
+        "meanings": [
+          "mountain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "登山が好きなんだ。",
+      "english": "I like climbing mountains.",
+      "furigana": [
+        {
+          "text": "登山",
+          "highlight": true,
+          "reading": "とざん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "なんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11007953",
+        "englishSentenceId": "257880",
+        "url": "https://tatoeba.org/en/sentences/show/11007953"
+      }
+    },
+    "acceptedJapanese": [
+      "登山",
+      "とざん"
+    ],
+    "acceptedEnglish": [
+      "mountain climbing",
+      "mountaineering",
+      "ascent of a mountain"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-fishing-1777217248715",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "釣り",
+    "kanji": "釣り",
+    "kana": "つり",
+    "meaning": "fishing",
+    "explanation": "A JLPT N3 noun meaning \"fishing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "釣",
+        "meanings": [
+          "angling",
+          "fish",
+          "catch",
+          "allure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お釣りはいいです。",
+      "english": "Keep the change.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "釣り",
+          "highlight": true,
+          "reading": "つり"
+        },
+        {
+          "text": "はいいです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9314776",
+        "englishSentenceId": "357219",
+        "url": "https://tatoeba.org/en/sentences/show/9314776"
+      }
+    },
+    "acceptedJapanese": [
+      "釣り",
+      "つり"
+    ],
+    "acceptedEnglish": [
+      "fishing",
+      "angling",
+      "change",
+      "clickbaiting",
+      "trolling",
+      "bait"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-goal-1777217249030",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ゴール",
+    "kanji": "ゴール",
+    "kana": "ゴール",
+    "meaning": "goal",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"goal\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ゴール！",
+      "english": "Goal!",
+      "furigana": [
+        {
+          "text": "ゴ",
+          "highlight": true,
+          "reading": "ゴール"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ゴール"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "ゴール"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9842779",
+        "englishSentenceId": "1387090",
+        "url": "https://tatoeba.org/en/sentences/show/9842779"
+      }
+    },
+    "acceptedJapanese": [
+      "ゴール"
+    ],
+    "acceptedEnglish": [
+      "goal",
+      "basket",
+      "reaching the finish line",
+      "finishing"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-drama-1777217249162",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "劇",
+    "kanji": "劇",
+    "kana": "げき",
+    "meaning": "drama",
+    "explanation": "A JLPT N3 noun meaning \"drama\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "劇",
+        "meanings": [
+          "drama",
+          "play"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "劇はいつ始まりますか。",
+      "english": "When does the play start?",
+      "furigana": [
+        {
+          "text": "劇",
+          "highlight": true,
+          "reading": "げき"
+        },
+        {
+          "text": "はいつ"
+        },
+        {
+          "text": "始まり",
+          "reading": "はじまり"
+        },
+        {
+          "text": "ますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176000",
+        "englishSentenceId": "13490498",
+        "url": "https://tatoeba.org/en/sentences/show/176000"
+      }
+    },
+    "acceptedJapanese": [
+      "劇",
+      "げき"
+    ],
+    "acceptedEnglish": [
+      "drama",
+      "play",
+      "powerful drug"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-drive-1777217249363",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ドライブ",
+    "kanji": "ドライブ",
+    "kana": "ドライブ",
+    "meaning": "drive",
+    "explanation": "A JLPT N3 noun meaning \"drive\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ドライブはいかがですか。",
+      "english": "How about going for a drive?",
+      "furigana": [
+        {
+          "text": "ド",
+          "highlight": true,
+          "reading": "ドライブ"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ドライブ"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "ドライブ"
+        },
+        {
+          "text": "ブ",
+          "highlight": true,
+          "reading": "ドライブ"
+        },
+        {
+          "text": "はいかがですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "199756",
+        "englishSentenceId": "36959",
+        "url": "https://tatoeba.org/en/sentences/show/199756"
+      }
+    },
+    "acceptedJapanese": [
+      "ドライブ"
+    ],
+    "acceptedEnglish": [
+      "drive",
+      "trip by car",
+      "driving"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-television-series-1777217249552",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ドラマ",
+    "kanji": "ドラマ",
+    "kana": "ドラマ",
+    "meaning": "television series",
+    "explanation": "A JLPT N3 noun meaning \"television series\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "韓国ドラマを見ますか？",
+      "english": "Do you watch Korean dramas?",
+      "furigana": [
+        {
+          "text": "韓国",
+          "reading": "かんこく"
+        },
+        {
+          "text": "ド",
+          "highlight": true,
+          "reading": "ドラマ"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ドラマ"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "ドラマ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13254158",
+        "englishSentenceId": "13254154",
+        "url": "https://tatoeba.org/en/sentences/show/13254158"
+      }
+    },
+    "acceptedJapanese": [
+      "ドラマ"
+    ],
+    "acceptedEnglish": [
+      "television series",
+      "TV drama",
+      "teledrama",
+      "play",
+      "drama",
+      "dramatic incident"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-travel-1777217249642",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "旅",
+    "kanji": "旅",
+    "kana": "たび",
+    "meaning": "travel",
+    "explanation": "A JLPT N3 noun meaning \"travel\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "旅",
+        "meanings": [
+          "travel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "楽しい旅を。",
+      "english": "Enjoy your trip.",
+      "furigana": [
+        {
+          "text": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "text": "旅",
+          "highlight": true,
+          "reading": "たび"
+        },
+        {
+          "text": "を。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184164",
+        "englishSentenceId": "21287",
+        "url": "https://tatoeba.org/en/sentences/show/184164"
+      }
+    },
+    "acceptedJapanese": [
+      "旅",
+      "たび"
+    ],
+    "acceptedEnglish": [
+      "travel",
+      "trip",
+      "journey"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-hobbies-activities-skiing-1777217249804",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "スキー",
+    "kanji": "スキー",
+    "kana": "スキー",
+    "meaning": "skiing",
+    "explanation": "A JLPT N3 noun meaning \"skiing\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スキーは大変楽しい。",
+      "english": "I really enjoy skiing.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スキー"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "スキー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スキー"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "text": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "215008",
+        "englishSentenceId": "52304",
+        "url": "https://tatoeba.org/en/sentences/show/215008"
+      }
+    },
+    "acceptedJapanese": [
+      "スキー"
+    ],
+    "acceptedEnglish": [
+      "skiing",
+      "ski",
+      "skis"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-poem-1777217249894",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "詩",
+    "kanji": "詩",
+    "kana": "し",
+    "meaning": "poem",
+    "explanation": "A JLPT N3 noun meaning \"poem\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "詩",
+        "meanings": [
+          "poetry",
+          "poem"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この詩、いいね。",
+      "english": "I like this poem.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "詩",
+          "highlight": true,
+          "reading": "し"
+        },
+        {
+          "text": "、いいね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11851900",
+        "englishSentenceId": "10005794",
+        "url": "https://tatoeba.org/en/sentences/show/11851900"
+      }
+    },
+    "acceptedJapanese": [
+      "詩",
+      "し"
+    ],
+    "acceptedEnglish": [
+      "poem",
+      "poetry",
+      "verse",
+      "Chinese poem"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-festival-1777217249939",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "祭り",
+    "kanji": "祭り",
+    "kana": "まつり",
+    "meaning": "festival",
+    "explanation": "A JLPT N3 noun meaning \"festival\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祭",
+        "meanings": [
+          "festival"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そのお祭りを見たいのですが。",
+      "english": "I'd like to see the festival.",
+      "furigana": [
+        {
+          "text": "そのお"
+        },
+        {
+          "text": "祭り",
+          "highlight": true,
+          "reading": "まつり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "たいのですが。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "160417",
+        "englishSentenceId": "7780527",
+        "url": "https://tatoeba.org/en/sentences/show/160417"
+      }
+    },
+    "acceptedJapanese": [
+      "祭り",
+      "まつり"
+    ],
+    "acceptedEnglish": [
+      "festival",
+      "feast",
+      "matsuri",
+      "harassment by an Internet pitchfork mob",
+      "online shaming",
+      "flaming"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-game-1777217249999",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ゲーム",
+    "kanji": "ゲーム",
+    "kana": "ゲーム",
+    "meaning": "game",
+    "explanation": "A JLPT N3 noun meaning \"game\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ゲームで負けた。",
+      "english": "I lost the game.",
+      "furigana": [
+        {
+          "text": "ゲ",
+          "highlight": true,
+          "reading": "ゲーム"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ゲーム"
+        },
+        {
+          "text": "ム",
+          "highlight": true,
+          "reading": "ゲーム"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "負け",
+          "reading": "まけ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12696376",
+        "englishSentenceId": "644990",
+        "url": "https://tatoeba.org/en/sentences/show/12696376"
+      }
+    },
+    "acceptedJapanese": [
+      "ゲーム"
+    ],
+    "acceptedEnglish": [
+      "game"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-acting-1777217250011",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "演技",
+    "kanji": "演技",
+    "kana": "えんぎ",
+    "meaning": "acting",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"acting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      },
+      {
+        "kanji": "技",
+        "meanings": [
+          "skill",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は演技の才能がある。",
+      "english": "She has a genius for acting.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "演技",
+          "highlight": true,
+          "reading": "えんぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "才能",
+          "reading": "さいのう"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "91001",
+        "englishSentenceId": "312713",
+        "url": "https://tatoeba.org/en/sentences/show/91001"
+      }
+    },
+    "acceptedJapanese": [
+      "演技",
+      "えんぎ"
+    ],
+    "acceptedEnglish": [
+      "acting",
+      "performance"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-art-1777217250080",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "芸術",
+    "kanji": "芸術",
+    "kana": "げいじゅつ",
+    "meaning": "art",
+    "explanation": "A JLPT N3 noun meaning \"art\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "芸",
+        "meanings": [
+          "art",
+          "craft"
+        ]
+      },
+      {
+        "kanji": "術",
+        "meanings": [
+          "practical art",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "芸術が大好きだね。",
+      "english": "I am a big fan of the arts.",
+      "furigana": [
+        {
+          "text": "芸術",
+          "highlight": true,
+          "reading": "げいじゅつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "大好き",
+          "reading": "だいすき"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1356796",
+        "englishSentenceId": "1361658",
+        "url": "https://tatoeba.org/en/sentences/show/1356796"
+      }
+    },
+    "acceptedJapanese": [
+      "芸術",
+      "げいじゅつ"
+    ],
+    "acceptedEnglish": [
+      "art",
+      "the arts"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-skating-1777217250206",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "スケート",
+    "kanji": "スケート",
+    "kana": "スケート",
+    "meaning": "skating",
+    "explanation": "A JLPT N3 noun, suru noun meaning \"skating\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スケートの方が好きです。",
+      "english": "I like skating better.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スケート"
+        },
+        {
+          "text": "ケ",
+          "highlight": true,
+          "reading": "スケート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スケート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "スケート"
+        },
+        {
+          "text": "の方が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214744",
+        "englishSentenceId": "52038",
+        "url": "https://tatoeba.org/en/sentences/show/214744"
+      }
+    },
+    "acceptedJapanese": [
+      "スケート"
+    ],
+    "acceptedEnglish": [
+      "skating",
+      "skate",
+      "skates"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-hiking-1777217250260",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ハイキング",
+    "kanji": "ハイキング",
+    "kana": "ハイキング",
+    "meaning": "hiking",
+    "explanation": "A JLPT N3 noun meaning \"hiking\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ハイキングに行ったんだよ。",
+      "english": "I went hiking.",
+      "furigana": [
+        {
+          "text": "ハ",
+          "highlight": true,
+          "reading": "ハイキング"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "ハイキング"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "ハイキング"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ハイキング"
+        },
+        {
+          "text": "グ",
+          "highlight": true,
+          "reading": "ハイキング"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "ったんだよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "159147",
+        "englishSentenceId": "255378",
+        "url": "https://tatoeba.org/en/sentences/show/159147"
+      }
+    },
+    "acceptedJapanese": [
+      "ハイキング"
+    ],
+    "acceptedEnglish": [
+      "hiking"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-musical-performance-1777217250404",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "演奏",
+    "kanji": "演奏",
+    "kana": "えんそう",
+    "meaning": "musical performance",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"musical performance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      },
+      {
+        "kanji": "奏",
+        "meanings": [
+          "play music"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "楽器をなにか演奏しますか。",
+      "english": "Do you play a musical instrument?",
+      "furigana": [
+        {
+          "text": "楽器",
+          "reading": "がっき"
+        },
+        {
+          "text": "をなにか"
+        },
+        {
+          "text": "演奏",
+          "highlight": true,
+          "reading": "えんそう"
+        },
+        {
+          "text": "しますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184132",
+        "englishSentenceId": "21260",
+        "url": "https://tatoeba.org/en/sentences/show/184132"
+      }
+    },
+    "acceptedJapanese": [
+      "演奏",
+      "えんそう"
+    ],
+    "acceptedEnglish": [
+      "musical performance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-sightseeing-1777217250485",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "観光",
+    "kanji": "観光",
+    "kana": "かんこう",
+    "meaning": "sightseeing",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"sightseeing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "観",
+        "meanings": [
+          "view"
+        ]
+      },
+      {
+        "kanji": "光",
+        "meanings": [
+          "light"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "観光ビザを取りたいのですが。",
+      "english": "I want to get a sightseeing visa.",
+      "furigana": [
+        {
+          "text": "観光",
+          "highlight": true,
+          "reading": "かんこう"
+        },
+        {
+          "text": "ビザを"
+        },
+        {
+          "text": "取り",
+          "reading": "とり"
+        },
+        {
+          "text": "たいのですが。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183804",
+        "englishSentenceId": "20927",
+        "url": "https://tatoeba.org/en/sentences/show/183804"
+      }
+    },
+    "acceptedJapanese": [
+      "観光",
+      "かんこう"
+    ],
+    "acceptedEnglish": [
+      "sightseeing",
+      "tourism"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-hobbies-activities-racket-1777217250710",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "ラケット",
+    "kanji": "ラケット",
+    "kana": "ラケット",
+    "meaning": "racket",
+    "explanation": "A JLPT N3 noun meaning \"racket\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ラケットは借りれますか。",
+      "english": "Can I rent rackets?",
+      "furigana": [
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ラケット"
+        },
+        {
+          "text": "ケ",
+          "highlight": true,
+          "reading": "ラケット"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ラケット"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ラケット"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "借り",
+          "reading": "かり"
+        },
+        {
+          "text": "れますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192638",
+        "englishSentenceId": "29802",
+        "url": "https://tatoeba.org/en/sentences/show/192638"
+      }
+    },
+    "acceptedJapanese": [
+      "ラケット"
+    ],
+    "acceptedEnglish": [
+      "racket",
+      "paddle"
+    ]
+  },
+  {
+    "id": "n3-hobbies-activities-reading-1777217250782",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "読書",
+    "kanji": "読書",
+    "kana": "どくしょ",
+    "meaning": "reading",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"reading\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "読",
+        "meanings": [
+          "read"
+        ]
+      },
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "読書が好きです。",
+      "english": "I love reading books.",
+      "furigana": [
+        {
+          "text": "読書",
+          "highlight": true,
+          "reading": "どくしょ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123400",
+        "englishSentenceId": "259747",
+        "url": "https://tatoeba.org/en/sentences/show/123400"
+      }
+    },
+    "acceptedJapanese": [
+      "読書",
+      "どくしょ"
+    ],
+    "acceptedEnglish": [
+      "reading"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-hobbies-activities-story-1777217250842",
+    "jlpt": "N3",
+    "subcategory": "Hobbies/Activities",
+    "name": "物語",
+    "kanji": "物語",
+    "kana": "ものがたり",
+    "meaning": "story",
+    "explanation": "A JLPT N3 noun meaning \"story\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この物語は真実です。",
+      "english": "This story is true.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "物語",
+          "highlight": true,
+          "reading": "ものがたり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "真実",
+          "reading": "しんじつ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "219936",
+        "englishSentenceId": "57256",
+        "url": "https://tatoeba.org/en/sentences/show/219936"
+      }
+    },
+    "acceptedJapanese": [
+      "物語",
+      "ものがたり"
+    ],
+    "acceptedEnglish": [
+      "story",
+      "tale",
+      "narrative",
+      "account",
+      "fable",
+      "legend"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

@@ -1,1 +1,1458 @@
-[]
+[
+  {
+    "id": "n1-food-and-drinks-flavour-1777217232155",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "味わい",
+    "kanji": "味わい",
+    "kana": "あじわい",
+    "meaning": "flavour",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"flavour\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "味",
+        "meanings": [
+          "taste"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は口で味わい、食べ、そして飲む。",
+      "english": "I taste, eat and drink with my mouth.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "口",
+          "reading": "くち"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "味わい",
+          "highlight": true,
+          "reading": "あじわい"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "べ、そして"
+        },
+        {
+          "text": "飲む",
+          "reading": "のむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "157171",
+        "englishSentenceId": "257362",
+        "url": "https://tatoeba.org/en/sentences/show/157171"
+      }
+    },
+    "acceptedJapanese": [
+      "味わい",
+      "あじわい"
+    ],
+    "acceptedEnglish": [
+      "flavour",
+      "taste",
+      "charm",
+      "appeal",
+      "interest",
+      "meaning"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-honey-1777217232890",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "蜂蜜",
+    "kanji": "蜂蜜",
+    "kana": "はちみつ",
+    "meaning": "honey",
+    "explanation": "A JLPT N1 noun meaning \"honey\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "蜂",
+        "meanings": [
+          "bee",
+          "wasp",
+          "hornet"
+        ]
+      },
+      {
+        "kanji": "蜜",
+        "meanings": [
+          "honey",
+          "nectar",
+          "molasses"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "蜂は蜂蜜を作ります。",
+      "english": "Bees make honey.",
+      "furigana": [
+        {
+          "text": "蜂",
+          "reading": "はち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "蜂蜜",
+          "highlight": true,
+          "reading": "はちみつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "作り",
+          "reading": "つくり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3471529",
+        "englishSentenceId": "32263",
+        "url": "https://tatoeba.org/en/sentences/show/3471529"
+      }
+    },
+    "acceptedJapanese": [
+      "蜂蜜",
+      "はちみつ"
+    ],
+    "acceptedEnglish": [
+      "honey"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-lunch-1777217232974",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "昼飯",
+    "kanji": "昼飯",
+    "kana": "ひるめし",
+    "meaning": "lunch",
+    "explanation": "A JLPT N1 noun meaning \"lunch\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昼",
+        "meanings": [
+          "daytime"
+        ]
+      },
+      {
+        "kanji": "飯",
+        "meanings": [
+          "cooked rice",
+          "meal"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "昼飯でもいっしょにどうですか。",
+      "english": "Why don't we have lunch together?",
+      "furigana": [
+        {
+          "text": "昼飯",
+          "highlight": true,
+          "reading": "ひるめし"
+        },
+        {
+          "text": "でもいっしょにどうですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126366",
+        "englishSentenceId": "66318",
+        "url": "https://tatoeba.org/en/sentences/show/126366"
+      }
+    },
+    "acceptedJapanese": [
+      "昼飯",
+      "ひるめし"
+    ],
+    "acceptedEnglish": [
+      "lunch",
+      "midday meal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-salt-1777217232977",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "塩",
+    "kanji": "塩",
+    "kana": "えん",
+    "meaning": "salt",
+    "explanation": "A JLPT N1 noun meaning \"salt\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "塩",
+        "meanings": [
+          "salt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お塩とって。",
+      "english": "Pass the salt.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "塩",
+          "highlight": true,
+          "reading": "えん"
+        },
+        {
+          "text": "とって。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227398",
+        "englishSentenceId": "2249757",
+        "url": "https://tatoeba.org/en/sentences/show/227398"
+      }
+    },
+    "acceptedJapanese": [
+      "塩",
+      "えん"
+    ],
+    "acceptedEnglish": [
+      "salt",
+      "chloride"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-food-and-drinks-nectar-1777217233316",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "蜜",
+    "kanji": "蜜",
+    "kana": "みつ",
+    "meaning": "nectar",
+    "explanation": "A JLPT N1 noun meaning \"nectar\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "蜜",
+        "meanings": [
+          "honey",
+          "nectar",
+          "molasses"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "蜜蜂は蜜を供給してくれる。",
+      "english": "Bees provide honey for us.",
+      "furigana": [
+        {
+          "text": "蜜蜂",
+          "reading": "みつばち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "蜜",
+          "highlight": true,
+          "reading": "みつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "text": "してくれる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81045",
+        "englishSentenceId": "32265",
+        "url": "https://tatoeba.org/en/sentences/show/81045"
+      }
+    },
+    "acceptedJapanese": [
+      "蜜",
+      "みつ"
+    ],
+    "acceptedEnglish": [
+      "nectar",
+      "honey",
+      "honeydew",
+      "treacle",
+      "molasses",
+      "sorbitol"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-food-and-drinks-set-meal-1777217233886",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "定食",
+    "kanji": "定食",
+    "kana": "ていしょく",
+    "meaning": "set meal",
+    "explanation": "A JLPT N1 noun meaning \"set meal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      },
+      {
+        "kanji": "食",
+        "meanings": [
+          "eat",
+          "food"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日替わり定食にしませんか。",
+      "english": "How about getting the special of the day?",
+      "furigana": [
+        {
+          "text": "日替わり",
+          "reading": "ひがわり"
+        },
+        {
+          "text": "定食",
+          "highlight": true,
+          "reading": "ていしょく"
+        },
+        {
+          "text": "にしませんか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122849",
+        "englishSentenceId": "281153",
+        "url": "https://tatoeba.org/en/sentences/show/122849"
+      }
+    },
+    "acceptedJapanese": [
+      "定食",
+      "ていしょく"
+    ],
+    "acceptedEnglish": [
+      "set meal",
+      "special"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-thin-rice-porridge-1777217234012",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "粥",
+    "kanji": "粥",
+    "kana": "かゆ",
+    "meaning": "thin rice porridge",
+    "explanation": "A JLPT N1 noun meaning \"thin rice porridge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "粥",
+        "meanings": [
+          "rice gruel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お粥も作ってきました。チンして温めるだけですから。",
+      "english": "I also brought some gruel I made. It just needs warming up.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "粥",
+          "highlight": true,
+          "reading": "かゆ"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "作",
+          "reading": "さく"
+        },
+        {
+          "text": "ってきました。チンして"
+        },
+        {
+          "text": "温",
+          "reading": "ぬく"
+        },
+        {
+          "text": "めるだけですから。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "75609",
+        "englishSentenceId": "328109",
+        "url": "https://tatoeba.org/en/sentences/show/75609"
+      }
+    },
+    "acceptedJapanese": [
+      "粥",
+      "かゆ"
+    ],
+    "acceptedEnglish": [
+      "thin rice porridge",
+      "watery cooked rice",
+      "rice gruel",
+      "congee",
+      "breakfast"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-staple-food-1777217234441",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "主食",
+    "kanji": "主食",
+    "kana": "しゅしょく",
+    "meaning": "staple food",
+    "explanation": "A JLPT N1 noun meaning \"staple food\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "食",
+        "meanings": [
+          "eat",
+          "food"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日本では米が主食です。",
+      "english": "The main diet in Japan is rice.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本",
+          "reading": "ほん"
+        },
+        {
+          "text": "では米が"
+        },
+        {
+          "text": "主食",
+          "highlight": true,
+          "reading": "しゅしょく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122749",
+        "englishSentenceId": "281253",
+        "url": "https://tatoeba.org/en/sentences/show/122749"
+      }
+    },
+    "acceptedJapanese": [
+      "主食",
+      "しゅしょく"
+    ],
+    "acceptedEnglish": [
+      "staple food"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-milk-1777217234627",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "乳",
+    "kanji": "乳",
+    "kana": "ちち",
+    "meaning": "milk",
+    "explanation": "A JLPT N1 noun meaning \"milk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "乳",
+        "meanings": [
+          "milk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牛は乳が出る。",
+      "english": "Cows give milk.",
+      "furigana": [
+        {
+          "text": "牛は"
+        },
+        {
+          "text": "乳",
+          "highlight": true,
+          "reading": "ちち"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "出る",
+          "reading": "でる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182326",
+        "englishSentenceId": "619902",
+        "url": "https://tatoeba.org/en/sentences/show/182326"
+      }
+    },
+    "acceptedJapanese": [
+      "乳",
+      "ちち"
+    ],
+    "acceptedEnglish": [
+      "milk",
+      "breast",
+      "loop",
+      "decorative bump"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-food-and-drinks-provision-of-lunch-1777217234969",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "給食",
+    "kanji": "給食",
+    "kana": "きゅうしょく",
+    "meaning": "provision of lunch",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"provision of lunch\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "給",
+        "meanings": [
+          "supply",
+          "pay"
+        ]
+      },
+      {
+        "kanji": "食",
+        "meanings": [
+          "eat",
+          "food"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "給食はあるの？",
+      "english": "Do you have school lunch?",
+      "furigana": [
+        {
+          "text": "給食",
+          "highlight": true,
+          "reading": "きゅうしょく"
+        },
+        {
+          "text": "はあるの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182360",
+        "englishSentenceId": "1256702",
+        "url": "https://tatoeba.org/en/sentences/show/182360"
+      }
+    },
+    "acceptedJapanese": [
+      "給食",
+      "きゅうしょく"
+    ],
+    "acceptedEnglish": [
+      "provision of lunch",
+      "providing a meal",
+      "lunch service"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-cocktail-1777217236139",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "カクテル",
+    "kanji": "カクテル",
+    "kana": "カクテル",
+    "meaning": "cocktail",
+    "explanation": "A JLPT N1 noun meaning \"cocktail\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "カクテルパーティーは退屈なときもある。",
+      "english": "Cocktail parties can be boring.",
+      "furigana": [
+        {
+          "text": "カ",
+          "highlight": true,
+          "reading": "カクテル"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "カクテル"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "カクテル"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "カクテル"
+        },
+        {
+          "text": "パーティーは"
+        },
+        {
+          "text": "退屈",
+          "reading": "たいくつ"
+        },
+        {
+          "text": "なときもある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "226429",
+        "englishSentenceId": "63774",
+        "url": "https://tatoeba.org/en/sentences/show/226429"
+      }
+    },
+    "acceptedJapanese": [
+      "カクテル"
+    ],
+    "acceptedEnglish": [
+      "cocktail"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-liver-1777217236166",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "レバー",
+    "kanji": "レバー",
+    "kana": "レバー",
+    "meaning": "liver",
+    "explanation": "A JLPT N1 noun meaning \"liver\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "レバーを押しあげて下さい。",
+      "english": "Please push up the lever.",
+      "furigana": [
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "レバー"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "レバー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "レバー"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "押し",
+          "reading": "おし"
+        },
+        {
+          "text": "あげて"
+        },
+        {
+          "text": "下さい",
+          "reading": "ください"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192340",
+        "englishSentenceId": "3620497",
+        "url": "https://tatoeba.org/en/sentences/show/192340"
+      }
+    },
+    "acceptedJapanese": [
+      "レバー"
+    ],
+    "acceptedEnglish": [
+      "liver"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-dessert-1777217236433",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "デザート",
+    "kanji": "デザート",
+    "kana": "デザート",
+    "meaning": "dessert",
+    "explanation": "A JLPT N1 noun meaning \"dessert\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "デザートが欲しい。",
+      "english": "I want dessert.",
+      "furigana": [
+        {
+          "text": "デ",
+          "highlight": true,
+          "reading": "デザート"
+        },
+        {
+          "text": "ザ",
+          "highlight": true,
+          "reading": "デザート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "デザート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "デザート"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "欲しい",
+          "reading": "ほしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13611259",
+        "englishSentenceId": "8040672",
+        "url": "https://tatoeba.org/en/sentences/show/13611259"
+      }
+    },
+    "acceptedJapanese": [
+      "デザート"
+    ],
+    "acceptedEnglish": [
+      "dessert"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-jello-1777217236490",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "ゼリー",
+    "kanji": "ゼリー",
+    "kana": "ゼリー",
+    "meaning": "jello",
+    "explanation": "A JLPT N1 noun meaning \"jello\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼の好きなのはゼリーです。",
+      "english": "He likes jelly.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "なのは"
+        },
+        {
+          "text": "ゼ",
+          "highlight": true,
+          "reading": "ゼリー"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "ゼリー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ゼリー"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "117468",
+        "englishSentenceId": "354301",
+        "url": "https://tatoeba.org/en/sentences/show/117468"
+      }
+    },
+    "acceptedJapanese": [
+      "ゼリー"
+    ],
+    "acceptedEnglish": [
+      "jello",
+      "jelly",
+      "gelatin dessert",
+      "gel"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-sauce-1777217236508",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "ソース",
+    "kanji": "ソース",
+    "kana": "ソース",
+    "meaning": "sauce",
+    "explanation": "A JLPT N1 noun meaning \"sauce\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ソースとって！",
+      "english": "Pass the sauce!",
+      "furigana": [
+        {
+          "text": "ソ",
+          "highlight": true,
+          "reading": "ソース"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ソース"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ソース"
+        },
+        {
+          "text": "とって！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10006493",
+        "englishSentenceId": "7357057",
+        "url": "https://tatoeba.org/en/sentences/show/10006493"
+      }
+    },
+    "acceptedJapanese": [
+      "ソース"
+    ],
+    "acceptedEnglish": [
+      "sauce",
+      "Worcestershire sauce"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-boiling-water-1777217237201",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "熱湯",
+    "kanji": "熱湯",
+    "kana": "ねっとう",
+    "meaning": "boiling water",
+    "explanation": "A JLPT N1 noun meaning \"boiling water\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "熱",
+        "meanings": [
+          "heat",
+          "hot",
+          "fever"
+        ]
+      },
+      {
+        "kanji": "湯",
+        "meanings": [
+          "hot water"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "熱湯が突然吹き出した。",
+      "english": "Hot water burst out.",
+      "furigana": [
+        {
+          "text": "熱湯",
+          "highlight": true,
+          "reading": "ねっとう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "突然",
+          "reading": "とつぜん"
+        },
+        {
+          "text": "吹き出し",
+          "reading": "ふきだし"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121862",
+        "englishSentenceId": "282142",
+        "url": "https://tatoeba.org/en/sentences/show/121862"
+      }
+    },
+    "acceptedJapanese": [
+      "熱湯",
+      "ねっとう"
+    ],
+    "acceptedEnglish": [
+      "boiling water"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-sauce-1777217238023",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "垂れ",
+    "kanji": "垂れ",
+    "kana": "たれ",
+    "meaning": "sauce",
+    "explanation": "A JLPT N1 noun meaning \"sauce\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "垂",
+        "meanings": [
+          "hang down",
+          "drip"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鼻水が垂れてるよ。",
+      "english": "Your nose is running!",
+      "furigana": [
+        {
+          "text": "鼻水",
+          "reading": "はなみず"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "垂れ",
+          "highlight": true,
+          "reading": "たれ"
+        },
+        {
+          "text": "てるよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13028747",
+        "englishSentenceId": "5477142",
+        "url": "https://tatoeba.org/en/sentences/show/13028747"
+      }
+    },
+    "acceptedJapanese": [
+      "垂れ",
+      "たれ"
+    ],
+    "acceptedEnglish": [
+      "sauce",
+      "hanging",
+      "something hanging",
+      "loin guard",
+      "woman"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-food-and-drinks-rice-1777217238653",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "ライス",
+    "kanji": "ライス",
+    "kana": "ライス",
+    "meaning": "rice",
+    "explanation": "A JLPT N1 noun meaning \"rice\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "オムライスを食べた。",
+      "english": "I ate an Omurice.",
+      "furigana": [
+        {
+          "text": "オム"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ライス"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "ライス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ライス"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "べた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1771673",
+        "englishSentenceId": "1771904",
+        "url": "https://tatoeba.org/en/sentences/show/1771673"
+      }
+    },
+    "acceptedJapanese": [
+      "ライス"
+    ],
+    "acceptedEnglish": [
+      "rice"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-lye-1777217239799",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "灰汁",
+    "kanji": "灰汁",
+    "kana": "あく",
+    "meaning": "lye",
+    "explanation": "A JLPT N1 noun meaning \"lye\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "灰",
+        "meanings": [
+          "ash"
+        ]
+      },
+      {
+        "kanji": "汁",
+        "meanings": [
+          "soup",
+          "juice",
+          "broth",
+          "sap"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「灰汁」は日本語の言葉です。",
+      "english": "\"lye\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "灰汁",
+          "reading": "あく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "灰汁",
+      "あく"
+    ],
+    "acceptedEnglish": [
+      "lye",
+      "harsh taste",
+      "bitter taste",
+      "alkaline taste",
+      "astringency",
+      "scum"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-cooking-1777217240198",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "調理",
+    "kanji": "調理",
+    "kana": "ちょうり",
+    "meaning": "cooking",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"cooking\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "調",
+        "meanings": [
+          "tone",
+          "investigate",
+          "prepare"
+        ]
+      },
+      {
+        "kanji": "理",
+        "meanings": [
+          "reason",
+          "basic principle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は調理が好きです。",
+      "english": "He likes to cook.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "調理",
+          "highlight": true,
+          "reading": "ちょうり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "630417",
+        "englishSentenceId": "434962",
+        "url": "https://tatoeba.org/en/sentences/show/630417"
+      }
+    },
+    "acceptedJapanese": [
+      "調理",
+      "ちょうり"
+    ],
+    "acceptedEnglish": [
+      "cooking",
+      "food preparation"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-food-and-drinks-umeboshi-1777217240513",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "梅干し",
+    "kanji": "梅干し",
+    "kana": "うめぼし",
+    "meaning": "umeboshi",
+    "explanation": "A JLPT N1 noun meaning \"umeboshi\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "梅",
+        "meanings": [
+          "Japanese apricot",
+          "plum"
+        ]
+      },
+      {
+        "kanji": "干",
+        "meanings": [
+          "dry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この梅干し、塩辛いね。",
+      "english": "These umeboshi are really salty.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "梅干し",
+          "highlight": true,
+          "reading": "うめぼし"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "塩辛い",
+          "reading": "しおからい"
+        },
+        {
+          "text": "ね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9453628",
+        "englishSentenceId": "10081644",
+        "url": "https://tatoeba.org/en/sentences/show/9453628"
+      }
+    },
+    "acceptedJapanese": [
+      "梅干し",
+      "うめぼし"
+    ],
+    "acceptedEnglish": [
+      "umeboshi",
+      "pickled dried ume",
+      "pickled dried plum"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-food-and-drinks-orange-1777217240804",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "オレンジ",
+    "kanji": "オレンジ",
+    "kana": "オレンジ",
+    "meaning": "orange",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"orange\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "オレンジを食べますか。",
+      "english": "Do you eat oranges?",
+      "furigana": [
+        {
+          "text": "オ",
+          "highlight": true,
+          "reading": "オレンジ"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "オレンジ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "オレンジ"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "オレンジ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "べますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6828244",
+        "englishSentenceId": "10573693",
+        "url": "https://tatoeba.org/en/sentences/show/6828244"
+      }
+    },
+    "acceptedJapanese": [
+      "オレンジ"
+    ],
+    "acceptedEnglish": [
+      "orange"
+    ]
+  },
+  {
+    "id": "n1-food-and-drinks-spice-1777217240930",
+    "jlpt": "N1",
+    "subcategory": "Food and Drinks",
+    "name": "香辛料",
+    "kanji": "香辛料",
+    "kana": "こうしんりょう",
+    "meaning": "spice",
+    "explanation": "A JLPT N1 noun meaning \"spice\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "香",
+        "meanings": [
+          "sweet smell",
+          "fragrance",
+          "aroma"
+        ]
+      },
+      {
+        "kanji": "辛",
+        "meanings": [
+          "pungent",
+          "hard",
+          "spicy"
+        ]
+      },
+      {
+        "kanji": "料",
+        "meanings": [
+          "fee",
+          "materials"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "好きな香辛料は？",
+      "english": "What spices do you like?",
+      "furigana": [
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "香辛料",
+          "highlight": true,
+          "reading": "こうしんりょう"
+        },
+        {
+          "text": "は？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11733066",
+        "englishSentenceId": "11733084",
+        "url": "https://tatoeba.org/en/sentences/show/11733066"
+      }
+    },
+    "acceptedJapanese": [
+      "香辛料",
+      "こうしんりょう"
+    ],
+    "acceptedEnglish": [
+      "spice",
+      "spices",
+      "condiment"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

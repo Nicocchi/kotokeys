@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "id": "n4-animals-small-bird-1777217251598",
+    "jlpt": "N4",
+    "subcategory": "Animals",
+    "name": "小鳥",
+    "kanji": "小鳥",
+    "kana": "ことり",
+    "meaning": "small bird",
+    "explanation": "A JLPT N4 noun meaning \"small bird\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "小",
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "kanji": "鳥",
+        "meanings": [
+          "bird",
+          "fowl",
+          "poultry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "小鳥たちがいっせいにさえずりだした。",
+      "english": "The little birds broke forth in song.",
+      "furigana": [
+        {
+          "text": "小鳥",
+          "highlight": true,
+          "reading": "ことり"
+        },
+        {
+          "text": "たちがいっせいにさえずりだした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146918",
+        "englishSentenceId": "267643",
+        "url": "https://tatoeba.org/en/sentences/show/146918"
+      }
+    },
+    "acceptedJapanese": [
+      "小鳥",
+      "ことり"
+    ],
+    "acceptedEnglish": [
+      "small bird",
+      "little bird"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-animals-insect-1777217252480",
+    "jlpt": "N4",
+    "subcategory": "Animals",
+    "name": "虫",
+    "kanji": "虫",
+    "kana": "むし",
+    "meaning": "insect",
+    "explanation": "A JLPT N4 noun meaning \"insect\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "虫",
+        "meanings": [
+          "insect",
+          "bug"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "虫が怖いの？",
+      "english": "Are you afraid of insects?",
+      "furigana": [
+        {
+          "text": "虫",
+          "highlight": true,
+          "reading": "むし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "怖い",
+          "reading": "こわい"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8731231",
+        "englishSentenceId": "4872214",
+        "url": "https://tatoeba.org/en/sentences/show/8731231"
+      }
+    },
+    "acceptedJapanese": [
+      "虫",
+      "むし"
+    ],
+    "acceptedEnglish": [
+      "insect",
+      "bug",
+      "cricket",
+      "moth",
+      "worm",
+      "roundworm"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

@@ -1,1 +1,3003 @@
-[]
+[
+  {
+    "id": "n2-health-body-blood-transfusion-1777217241011",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "輸血",
+    "kanji": "輸血",
+    "kana": "ゆけつ",
+    "meaning": "blood transfusion",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb, intransitive verb meaning \"blood transfusion\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "輸",
+        "meanings": [
+          "transport"
+        ]
+      },
+      {
+        "kanji": "血",
+        "meanings": [
+          "blood"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "輸血が必要です。",
+      "english": "A blood transfusion is necessary.",
+      "furigana": [
+        {
+          "text": "輸血",
+          "highlight": true,
+          "reading": "ゆけつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79445",
+        "englishSentenceId": "324272",
+        "url": "https://tatoeba.org/en/sentences/show/79445"
+      }
+    },
+    "acceptedJapanese": [
+      "輸血",
+      "ゆけつ"
+    ],
+    "acceptedEnglish": [
+      "blood transfusion"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-digestion-1777217241089",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "消化",
+    "kanji": "消化",
+    "kana": "しょうか",
+    "meaning": "digestion",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"digestion\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
+        ]
+      },
+      {
+        "kanji": "化",
+        "meanings": [
+          "change into"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "自然食は人間の消化に合っている。",
+      "english": "A natural diet is suitable for human digestion.",
+      "furigana": [
+        {
+          "text": "自然",
+          "reading": "しぜん"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "人間",
+          "reading": "にんげん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "消化",
+          "highlight": true,
+          "reading": "しょうか"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "合",
+          "reading": "ごう"
+        },
+        {
+          "text": "っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150089",
+        "englishSentenceId": "264468",
+        "url": "https://tatoeba.org/en/sentences/show/150089"
+      }
+    },
+    "acceptedJapanese": [
+      "消化",
+      "しょうか"
+    ],
+    "acceptedEnglish": [
+      "digestion",
+      "assimilation",
+      "thorough understanding",
+      "consumption",
+      "absorption",
+      "using up"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-white-hair-1777217241128",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "白髪",
+    "kanji": "白髪",
+    "kana": "しらが",
+    "meaning": "white hair",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"white hair\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "白",
+        "meanings": [
+          "white"
+        ]
+      },
+      {
+        "kanji": "髪",
+        "meanings": [
+          "hair (on the head)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "白髪があった。",
+      "english": "I had gray hair.",
+      "furigana": [
+        {
+          "text": "白髪",
+          "highlight": true,
+          "reading": "しらが"
+        },
+        {
+          "text": "があった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11017667",
+        "englishSentenceId": "5187337",
+        "url": "https://tatoeba.org/en/sentences/show/11017667"
+      }
+    },
+    "acceptedJapanese": [
+      "白髪",
+      "しらが"
+    ],
+    "acceptedEnglish": [
+      "white hair",
+      "grey hair",
+      "gray hair"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-health-body-thumb-1777217241275",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "親指",
+    "kanji": "親指",
+    "kana": "おやゆび",
+    "meaning": "thumb",
+    "explanation": "A JLPT N2 noun meaning \"thumb\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      },
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "針で親指を刺しちゃった。",
+      "english": "I pricked my thumb with a needle.",
+      "furigana": [
+        {
+          "text": "針",
+          "reading": "はり"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "親指",
+          "highlight": true,
+          "reading": "おやゆび"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "刺し",
+          "reading": "さし"
+        },
+        {
+          "text": "ちゃった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11496600",
+        "englishSentenceId": "269858",
+        "url": "https://tatoeba.org/en/sentences/show/11496600"
+      }
+    },
+    "acceptedJapanese": [
+      "親指",
+      "おやゆび"
+    ],
+    "acceptedEnglish": [
+      "thumb",
+      "big toe"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-disinfection-1777217241443",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "消毒",
+    "kanji": "消毒",
+    "kana": "しょうどく",
+    "meaning": "disinfection",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"disinfection\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
+        ]
+      },
+      {
+        "kanji": "毒",
+        "meanings": [
+          "poison"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「消毒」は日本語の言葉です。",
+      "english": "\"disinfection\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "消毒",
+          "reading": "しょうどく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "消毒",
+      "しょうどく"
+    ],
+    "acceptedEnglish": [
+      "disinfection",
+      "sterilisation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-sneeze-1777217241467",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "嚏",
+    "kanji": "嚏",
+    "kana": "くしゃみ",
+    "meaning": "sneeze",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"sneeze\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嚏",
+        "meanings": [
+          "sneeze"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「嚏」は日本語の言葉です。",
+      "english": "\"sneeze\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "嚏",
+          "reading": "くしゃみ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "嚏",
+      "くしゃみ"
+    ],
+    "acceptedEnglish": [
+      "sneeze",
+      "sneezing"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-bandage-1777217241488",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "包帯",
+    "kanji": "包帯",
+    "kana": "ほうたい",
+    "meaning": "bandage",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"bandage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "包",
+        "meanings": [
+          "wrap",
+          "encompass"
+        ]
+      },
+      {
+        "kanji": "帯",
+        "meanings": [
+          "belt",
+          "wear",
+          "zone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "包帯をしなさい。",
+      "english": "Apply a bandage.",
+      "furigana": [
+        {
+          "text": "包帯",
+          "highlight": true,
+          "reading": "ほうたい"
+        },
+        {
+          "text": "をしなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "82761",
+        "englishSentenceId": "320955",
+        "url": "https://tatoeba.org/en/sentences/show/82761"
+      }
+    },
+    "acceptedJapanese": [
+      "包帯",
+      "ほうたい"
+    ],
+    "acceptedEnglish": [
+      "bandage",
+      "dressing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-nausea-1777217241527",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "吐き気",
+    "kanji": "吐き気",
+    "kana": "はきけ",
+    "meaning": "nausea",
+    "explanation": "A JLPT N2 noun meaning \"nausea\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吐",
+        "meanings": [
+          "spit",
+          "vomit",
+          "belch",
+          "confess"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "吐き気がします。",
+      "english": "I have nausea.",
+      "furigana": [
+        {
+          "text": "吐き気",
+          "highlight": true,
+          "reading": "はきけ"
+        },
+        {
+          "text": "がします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124615",
+        "englishSentenceId": "7549213",
+        "url": "https://tatoeba.org/en/sentences/show/124615"
+      }
+    },
+    "acceptedJapanese": [
+      "吐き気",
+      "はきけ"
+    ],
+    "acceptedEnglish": [
+      "nausea",
+      "feeling like throwing up",
+      "feeling sick"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-health-body-preservation-of-health-1777217241533",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "保健",
+    "kanji": "保健",
+    "kana": "ほけん",
+    "meaning": "preservation of health",
+    "explanation": "A JLPT N2 noun meaning \"preservation of health\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "保",
+        "meanings": [
+          "preserve"
+        ]
+      },
+      {
+        "kanji": "健",
+        "meanings": [
+          "robust",
+          "healthy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「保健」は日本語の言葉です。",
+      "english": "\"preservation of health\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "保健",
+          "reading": "ほけん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "保健",
+      "ほけん"
+    ],
+    "acceptedEnglish": [
+      "preservation of health",
+      "hygiene",
+      "sanitation",
+      "health education"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-medicine-1777217241545",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "薬品",
+    "kanji": "薬品",
+    "kana": "やくひん",
+    "meaning": "medicine",
+    "explanation": "A JLPT N2 noun meaning \"medicine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "薬",
+        "meanings": [
+          "drug",
+          "medicine"
+        ]
+      },
+      {
+        "kanji": "品",
+        "meanings": [
+          "article",
+          "goods"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この薬品は日光に当てないようにしなさい。",
+      "english": "Don't expose this chemical to direct sunlight.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "薬品",
+          "highlight": true,
+          "reading": "やくひん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "日光",
+          "reading": "にっこう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "当て",
+          "reading": "あて"
+        },
+        {
+          "text": "ないようにしなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "219236",
+        "englishSentenceId": "56552",
+        "url": "https://tatoeba.org/en/sentences/show/219236"
+      }
+    },
+    "acceptedJapanese": [
+      "薬品",
+      "やくひん"
+    ],
+    "acceptedEnglish": [
+      "medicine",
+      "drug",
+      "chemical",
+      "chemicals"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-little-finger-1777217241632",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "小指",
+    "kanji": "小指",
+    "kana": "こゆび",
+    "meaning": "little finger",
+    "explanation": "A JLPT N2 noun meaning \"little finger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "小",
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "小指がはれました。",
+      "english": "My little finger is swollen.",
+      "furigana": [
+        {
+          "text": "小指",
+          "highlight": true,
+          "reading": "こゆび"
+        },
+        {
+          "text": "がはれました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146961",
+        "englishSentenceId": "267600",
+        "url": "https://tatoeba.org/en/sentences/show/146961"
+      }
+    },
+    "acceptedJapanese": [
+      "小指",
+      "こゆび"
+    ],
+    "acceptedEnglish": [
+      "little finger",
+      "pinky",
+      "fourth finger",
+      "little toe"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-elbow-1777217241728",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "肘",
+    "kanji": "肘",
+    "kana": "ひじ",
+    "meaning": "elbow",
+    "explanation": "A JLPT N2 noun meaning \"elbow\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "肘",
+        "meanings": [
+          "elbow",
+          "arm"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "こうすると、肘が痛いんです。",
+      "english": "When I do this, my elbow hurts.",
+      "furigana": [
+        {
+          "text": "こうすると、"
+        },
+        {
+          "text": "肘",
+          "highlight": true,
+          "reading": "ひじ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "んです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11591641",
+        "englishSentenceId": "12418121",
+        "url": "https://tatoeba.org/en/sentences/show/11591641"
+      }
+    },
+    "acceptedJapanese": [
+      "肘",
+      "ひじ"
+    ],
+    "acceptedEnglish": [
+      "elbow"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-posture-1777217242223",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "姿勢",
+    "kanji": "姿勢",
+    "kana": "しせい",
+    "meaning": "posture",
+    "explanation": "A JLPT N2 noun meaning \"posture\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "姿",
+        "meanings": [
+          "figure",
+          "form",
+          "shape",
+          "appearance"
+        ]
+      },
+      {
+        "kanji": "勢",
+        "meanings": [
+          "power",
+          "force",
+          "vigor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はまっすぐな姿勢で立っていた。",
+      "english": "He stood in an upright position.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はまっすぐな"
+        },
+        {
+          "text": "姿勢",
+          "highlight": true,
+          "reading": "しせい"
+        },
+        {
+          "text": "で立っていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110793",
+        "englishSentenceId": "292893",
+        "url": "https://tatoeba.org/en/sentences/show/110793"
+      }
+    },
+    "acceptedJapanese": [
+      "姿勢",
+      "しせい"
+    ],
+    "acceptedEnglish": [
+      "posture",
+      "pose",
+      "position",
+      "stance",
+      "carriage",
+      "attitude"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-rest-1777217242250",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "休養",
+    "kanji": "休養",
+    "kana": "きゅうよう",
+    "meaning": "rest",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"rest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      },
+      {
+        "kanji": "養",
+        "meanings": [
+          "foster",
+          "rear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "休養が必要なんですよ。",
+      "english": "You just need a good rest.",
+      "furigana": [
+        {
+          "text": "休養",
+          "highlight": true,
+          "reading": "きゅうよう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "なんですよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182623",
+        "englishSentenceId": "19756",
+        "url": "https://tatoeba.org/en/sentences/show/182623"
+      }
+    },
+    "acceptedJapanese": [
+      "休養",
+      "きゅうよう"
+    ],
+    "acceptedEnglish": [
+      "rest",
+      "relaxation",
+      "recreation",
+      "recuperation",
+      "convalescence"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-blood-1777217242730",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "血液",
+    "kanji": "血液",
+    "kana": "けつえき",
+    "meaning": "blood",
+    "explanation": "A JLPT N2 noun meaning \"blood\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "血",
+        "meanings": [
+          "blood"
+        ]
+      },
+      {
+        "kanji": "液",
+        "meanings": [
+          "liquid",
+          "fluid"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "血液の循環。",
+      "english": "The cycle of blood is not regular.",
+      "furigana": [
+        {
+          "text": "血液",
+          "highlight": true,
+          "reading": "けつえき"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "循環",
+          "reading": "じゅんかん"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175697",
+        "englishSentenceId": "238768",
+        "url": "https://tatoeba.org/en/sentences/show/175697"
+      }
+    },
+    "acceptedJapanese": [
+      "血液",
+      "けつえき"
+    ],
+    "acceptedEnglish": [
+      "blood"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-surgery-1777217242853",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "外科",
+    "kanji": "外科",
+    "kana": "げか",
+    "meaning": "surgery",
+    "explanation": "A JLPT N2 noun meaning \"surgery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "外",
+        "meanings": [
+          "outside"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "外科へ行ってください。",
+      "english": "Please go to the Surgery Department.",
+      "furigana": [
+        {
+          "text": "外科",
+          "highlight": true,
+          "reading": "げか"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "ってください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "236996",
+        "englishSentenceId": "21986",
+        "url": "https://tatoeba.org/en/sentences/show/236996"
+      }
+    },
+    "acceptedJapanese": [
+      "外科",
+      "げか"
+    ],
+    "acceptedEnglish": [
+      "surgery",
+      "department of surgery"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-internal-medicine-1777217243045",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "内科",
+    "kanji": "内科",
+    "kana": "ないか",
+    "meaning": "internal medicine",
+    "explanation": "A JLPT N2 noun meaning \"internal medicine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "内",
+        "meanings": [
+          "inside"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "内科はどこですか。",
+      "english": "Where is the Internal Medicine Department?",
+      "furigana": [
+        {
+          "text": "内科",
+          "highlight": true,
+          "reading": "ないか"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123242",
+        "englishSentenceId": "280756",
+        "url": "https://tatoeba.org/en/sentences/show/123242"
+      }
+    },
+    "acceptedJapanese": [
+      "内科",
+      "ないか"
+    ],
+    "acceptedEnglish": [
+      "internal medicine",
+      "department of internal medicine"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-nail-1777217243156",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "爪",
+    "kanji": "爪",
+    "kana": "つめ",
+    "meaning": "nail",
+    "explanation": "A JLPT N2 noun meaning \"nail\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "爪",
+        "meanings": [
+          "claw",
+          "nail",
+          "talon"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "爪を切りなさい。",
+      "english": "Cut your nails.",
+      "furigana": [
+        {
+          "text": "爪",
+          "highlight": true,
+          "reading": "つめ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "切り",
+          "reading": "きり"
+        },
+        {
+          "text": "なさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10282161",
+        "englishSentenceId": "2939445",
+        "url": "https://tatoeba.org/en/sentences/show/10282161"
+      }
+    },
+    "acceptedJapanese": [
+      "爪",
+      "つめ"
+    ],
+    "acceptedEnglish": [
+      "nail",
+      "claw",
+      "talon",
+      "hoof",
+      "plectrum",
+      "pick"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-whole-1777217243267",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "全身",
+    "kanji": "全身",
+    "kana": "ぜんしん",
+    "meaning": "whole",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"whole\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "全",
+        "meanings": [
+          "whole"
+        ]
+      },
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は全身が痛い。",
+      "english": "My whole body hurts.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "全身",
+          "highlight": true,
+          "reading": "ぜんしん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "155397",
+        "englishSentenceId": "7923942",
+        "url": "https://tatoeba.org/en/sentences/show/155397"
+      }
+    },
+    "acceptedJapanese": [
+      "全身",
+      "ぜんしん"
+    ],
+    "acceptedEnglish": [
+      "whole",
+      "full-length"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-dizziness-1777217243330",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "眩暈",
+    "kanji": "眩暈",
+    "kana": "めまい",
+    "meaning": "dizziness",
+    "explanation": "A JLPT N2 noun meaning \"dizziness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "眩",
+        "meanings": [
+          "faint",
+          "dizzy"
+        ]
+      },
+      {
+        "kanji": "暈",
+        "meanings": [
+          "halo",
+          "corona",
+          "fade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「眩暈」は日本語の言葉です。",
+      "english": "\"dizziness\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "眩暈",
+          "reading": "めまい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "眩暈",
+      "めまい"
+    ],
+    "acceptedEnglish": [
+      "dizziness",
+      "giddiness",
+      "vertigo"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-pupil-1777217243333",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "瞳",
+    "kanji": "瞳",
+    "kana": "ひとみ",
+    "meaning": "pupil",
+    "explanation": "A JLPT N2 noun meaning \"pupil\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "瞳",
+        "meanings": [
+          "pupil (of eye)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "瞳は、太陽の光で縮瞳します。",
+      "english": "The pupils of the eyes contract in sunlight.",
+      "furigana": [
+        {
+          "text": "瞳",
+          "highlight": true,
+          "reading": "ひとみ"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "太陽",
+          "reading": "たいよう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "光",
+          "reading": "ひかり"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "縮瞳",
+          "reading": "しゅくどう"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12403326",
+        "englishSentenceId": "247412",
+        "url": "https://tatoeba.org/en/sentences/show/12403326"
+      }
+    },
+    "acceptedJapanese": [
+      "瞳",
+      "ひとみ"
+    ],
+    "acceptedEnglish": [
+      "pupil",
+      "one's eyes"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-skin-1777217243372",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "皮膚",
+    "kanji": "皮膚",
+    "kana": "ひふ",
+    "meaning": "skin",
+    "explanation": "A JLPT N2 noun meaning \"skin\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "皮",
+        "meanings": [
+          "skin",
+          "hide",
+          "rind",
+          "leather"
+        ]
+      },
+      {
+        "kanji": "膚",
+        "meanings": [
+          "skin"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日光は皮膚に作用する。",
+      "english": "Sunlight acts upon the skin.",
+      "furigana": [
+        {
+          "text": "日光",
+          "reading": "にっこう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "皮膚",
+          "highlight": true,
+          "reading": "ひふ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "作用",
+          "reading": "さよう"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122878",
+        "englishSentenceId": "12736816",
+        "url": "https://tatoeba.org/en/sentences/show/122878"
+      }
+    },
+    "acceptedJapanese": [
+      "皮膚",
+      "ひふ"
+    ],
+    "acceptedEnglish": [
+      "skin"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-head-1777217243471",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "頭脳",
+    "kanji": "頭脳",
+    "kana": "ずのう",
+    "meaning": "head",
+    "explanation": "A JLPT N2 noun meaning \"head\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頭",
+        "meanings": [
+          "head"
+        ]
+      },
+      {
+        "kanji": "脳",
+        "meanings": [
+          "brain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "二人の頭脳は一人の頭脳に勝る。",
+      "english": "Two heads are better than one.",
+      "furigana": [
+        {
+          "text": "二"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "頭脳",
+          "highlight": true,
+          "reading": "ずのう"
+        },
+        {
+          "text": "は一"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "頭脳",
+          "reading": "ずのう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "勝る",
+          "reading": "まさる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123082",
+        "englishSentenceId": "280841",
+        "url": "https://tatoeba.org/en/sentences/show/123082"
+      }
+    },
+    "acceptedJapanese": [
+      "頭脳",
+      "ずのう"
+    ],
+    "acceptedEnglish": [
+      "head",
+      "brains",
+      "intellect",
+      "understanding"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-washing-one-s-hands-1777217243582",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "手洗い",
+    "kanji": "手洗い",
+    "kana": "てあらい",
+    "meaning": "washing one's hands",
+    "explanation": "A JLPT N2 noun meaning \"washing one's hands\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "洗",
+        "meanings": [
+          "wash"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お手洗いはどこですか。",
+      "english": "Where's the restroom?",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "手洗い",
+          "highlight": true,
+          "reading": "てあらい"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227063",
+        "englishSentenceId": "38932",
+        "url": "https://tatoeba.org/en/sentences/show/227063"
+      }
+    },
+    "acceptedJapanese": [
+      "手洗い",
+      "てあらい"
+    ],
+    "acceptedEnglish": [
+      "washing one's hands",
+      "water for washing one's hands",
+      "restroom",
+      "lavatory",
+      "toilet",
+      "hand-washing"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-nutrient-1777217243885",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "養分",
+    "kanji": "養分",
+    "kana": "ようぶん",
+    "meaning": "nutrient",
+    "explanation": "A JLPT N2 noun meaning \"nutrient\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "養",
+        "meanings": [
+          "foster",
+          "rear"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「養分」は日本語の言葉です。",
+      "english": "\"nutrient\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "養分",
+          "reading": "ようぶん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "養分",
+      "ようぶん"
+    ],
+    "acceptedEnglish": [
+      "nutrient",
+      "nourishment"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-wrist-1777217243972",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "手首",
+    "kanji": "手首",
+    "kana": "てくび",
+    "meaning": "wrist",
+    "explanation": "A JLPT N2 noun meaning \"wrist\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "首",
+        "meanings": [
+          "head",
+          "neck",
+          "leader"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は彼の手首をつかまえた。",
+      "english": "I took him by the wrist.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手首",
+          "highlight": true,
+          "reading": "てくび"
+        },
+        {
+          "text": "をつかまえた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "153887",
+        "englishSentenceId": "260656",
+        "url": "https://tatoeba.org/en/sentences/show/153887"
+      }
+    },
+    "acceptedJapanese": [
+      "手首",
+      "てくび"
+    ],
+    "acceptedEnglish": [
+      "wrist"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-eyelid-1777217243993",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "瞼",
+    "kanji": "瞼",
+    "kana": "まぶた",
+    "meaning": "eyelid",
+    "explanation": "A JLPT N2 noun meaning \"eyelid\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "瞼",
+        "meanings": [
+          "eyelids"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "瞼が大きく開く。",
+      "english": "An eyelid opens wide.",
+      "furigana": [
+        {
+          "text": "瞼",
+          "highlight": true,
+          "reading": "まぶた"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "大きく",
+          "reading": "おおきく"
+        },
+        {
+          "text": "開く。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77087",
+        "englishSentenceId": "326632",
+        "url": "https://tatoeba.org/en/sentences/show/77087"
+      }
+    },
+    "acceptedJapanese": [
+      "瞼",
+      "まぶた"
+    ],
+    "acceptedEnglish": [
+      "eyelid"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-yawn-1777217244023",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "欠伸",
+    "kanji": "欠伸",
+    "kana": "あくび",
+    "meaning": "yawn",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"yawn\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "欠",
+        "meanings": [
+          "lack"
+        ]
+      },
+      {
+        "kanji": "伸",
+        "meanings": [
+          "stretch",
+          "lengthen",
+          "grow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「欠伸」は日本語の言葉です。",
+      "english": "\"yawn\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "欠伸",
+          "reading": "あくび",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "欠伸",
+      "あくび"
+    ],
+    "acceptedEnglish": [
+      "yawn",
+      "yawning"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-hiccup-1777217244173",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "吃逆",
+    "kanji": "吃逆",
+    "kana": "しゃっくり",
+    "meaning": "hiccup",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"hiccup\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吃",
+        "meanings": [
+          "stammer"
+        ]
+      },
+      {
+        "kanji": "逆",
+        "meanings": [
+          "reverse",
+          "be contrary"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「吃逆」は日本語の言葉です。",
+      "english": "\"hiccup\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "吃逆",
+          "reading": "しゃっくり",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "吃逆",
+      "しゃっくり"
+    ],
+    "acceptedEnglish": [
+      "hiccup",
+      "hiccough"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-dead-body-1777217244278",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "死体",
+    "kanji": "死体",
+    "kana": "したい",
+    "meaning": "dead body",
+    "explanation": "A JLPT N2 noun meaning \"dead body\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "死",
+        "meanings": [
+          "die",
+          "death"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "熊は死体には触れないものだ。",
+      "english": "A bear will not touch a corpse.",
+      "furigana": [
+        {
+          "text": "熊",
+          "reading": "くま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "死体",
+          "highlight": true,
+          "reading": "したい"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "触れ",
+          "reading": "ふれ"
+        },
+        {
+          "text": "ないものだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "179222",
+        "englishSentenceId": "1697747",
+        "url": "https://tatoeba.org/en/sentences/show/179222"
+      }
+    },
+    "acceptedJapanese": [
+      "死体",
+      "したい"
+    ],
+    "acceptedEnglish": [
+      "dead body",
+      "corpse",
+      "cadaver",
+      "carcass"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-serious-condition-1777217244353",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "重体",
+    "kanji": "重体",
+    "kana": "じゅうたい",
+    "meaning": "serious condition",
+    "explanation": "A JLPT N2 noun meaning \"serious condition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "重",
+        "meanings": [
+          "heavy"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "重体の赤ちゃんは医者の注意深い監視下に置かれていた。",
+      "english": "The very sick baby was under careful observation by the doctors.",
+      "furigana": [
+        {
+          "text": "重体",
+          "highlight": true,
+          "reading": "じゅうたい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "赤ちゃん",
+          "reading": "あかちゃん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "医者",
+          "reading": "いしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "注意深い",
+          "reading": "ちゅういぶかい"
+        },
+        {
+          "text": "監視",
+          "reading": "かんし"
+        },
+        {
+          "text": "下",
+          "reading": "くだ"
+        },
+        {
+          "text": "に置かれていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147972",
+        "englishSentenceId": "266587",
+        "url": "https://tatoeba.org/en/sentences/show/147972"
+      }
+    },
+    "acceptedJapanese": [
+      "重体",
+      "じゅうたい"
+    ],
+    "acceptedEnglish": [
+      "serious condition",
+      "critical condition"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-vitamin-1777217244620",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "ビタミン",
+    "kanji": "ビタミン",
+    "kana": "ビタミン",
+    "meaning": "vitamin",
+    "explanation": "A JLPT N2 noun meaning \"vitamin\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ビタミンは摂ってますか？",
+      "english": "Are you taking vitamins?",
+      "furigana": [
+        {
+          "text": "ビ",
+          "highlight": true,
+          "reading": "ビタミン"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "ビタミン"
+        },
+        {
+          "text": "ミ",
+          "highlight": true,
+          "reading": "ビタミン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ビタミン"
+        },
+        {
+          "text": "は摂ってますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8763882",
+        "englishSentenceId": "6841618",
+        "url": "https://tatoeba.org/en/sentences/show/8763882"
+      }
+    },
+    "acceptedJapanese": [
+      "ビタミン"
+    ],
+    "acceptedEnglish": [
+      "vitamin"
+    ]
+  },
+  {
+    "id": "n2-health-body-contagion-1777217244668",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "伝染",
+    "kanji": "伝染",
+    "kana": "でんせん",
+    "meaning": "contagion",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"contagion\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "伝",
+        "meanings": [
+          "transmit"
+        ]
+      },
+      {
+        "kanji": "染",
+        "meanings": [
+          "dye"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風邪は伝染する。",
+      "english": "Colds are contagious.",
+      "furigana": [
+        {
+          "text": "風"
+        },
+        {
+          "text": "邪",
+          "reading": "よこしま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "伝染",
+          "highlight": true,
+          "reading": "でんせん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83969",
+        "englishSentenceId": "319747",
+        "url": "https://tatoeba.org/en/sentences/show/83969"
+      }
+    },
+    "acceptedJapanese": [
+      "伝染",
+      "でんせん"
+    ],
+    "acceptedEnglish": [
+      "contagion",
+      "infection"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-mind-and-body-1777217244695",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "心身",
+    "kanji": "心身",
+    "kana": "しんしん",
+    "meaning": "mind and body",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"mind and body\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "心",
+        "meanings": [
+          "heart"
+        ]
+      },
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はまだ心身ともに健全だ。",
+      "english": "He is still sound in mind and body.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はまだ"
+        },
+        {
+          "text": "心身",
+          "highlight": true,
+          "reading": "しんしん"
+        },
+        {
+          "text": "ともに"
+        },
+        {
+          "text": "健全",
+          "reading": "けんぜん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110819",
+        "englishSentenceId": "292867",
+        "url": "https://tatoeba.org/en/sentences/show/110819"
+      }
+    },
+    "acceptedJapanese": [
+      "心身",
+      "しんしん"
+    ],
+    "acceptedEnglish": [
+      "mind and body"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-index-finger-1777217245010",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "人差し指",
+    "kanji": "人差し指",
+    "kana": "ひとさしゆび",
+    "meaning": "index finger",
+    "explanation": "A JLPT N2 noun meaning \"index finger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      },
+      {
+        "kanji": "差",
+        "meanings": [
+          "difference"
+        ]
+      },
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "人差し指が痛い。",
+      "english": "My index finger hurts.",
+      "furigana": [
+        {
+          "text": "人差し指",
+          "highlight": true,
+          "reading": "ひとさしゆび"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11875909",
+        "englishSentenceId": "11696245",
+        "url": "https://tatoeba.org/en/sentences/show/11875909"
+      }
+    },
+    "acceptedJapanese": [
+      "人差し指",
+      "ひとさしゆび"
+    ],
+    "acceptedEnglish": [
+      "index finger",
+      "forefinger",
+      "first finger",
+      "second toe"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-health-body-ring-finger-1777217245076",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "薬指",
+    "kanji": "薬指",
+    "kana": "くすりゆび",
+    "meaning": "ring finger",
+    "explanation": "A JLPT N2 noun meaning \"ring finger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "薬",
+        "meanings": [
+          "drug",
+          "medicine"
+        ]
+      },
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "薬指を曲げずに、小指だけを曲げれる？",
+      "english": "Can you bend your pinky without bending your ring finger?",
+      "furigana": [
+        {
+          "text": "薬指",
+          "highlight": true,
+          "reading": "くすりゆび"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "曲げ",
+          "reading": "まげ"
+        },
+        {
+          "text": "ずに、"
+        },
+        {
+          "text": "小指",
+          "reading": "こゆび"
+        },
+        {
+          "text": "だけを"
+        },
+        {
+          "text": "曲げ",
+          "reading": "まげ"
+        },
+        {
+          "text": "れる？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11883186",
+        "englishSentenceId": "11228598",
+        "url": "https://tatoeba.org/en/sentences/show/11883186"
+      }
+    },
+    "acceptedJapanese": [
+      "薬指",
+      "くすりゆび"
+    ],
+    "acceptedEnglish": [
+      "ring finger",
+      "third finger",
+      "fourth finger",
+      "fourth toe"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-health-body-dental-brushing-1777217245217",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "歯磨き",
+    "kanji": "歯磨き",
+    "kana": "はみがき",
+    "meaning": "dental brushing",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"dental brushing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歯",
+        "meanings": [
+          "tooth"
+        ]
+      },
+      {
+        "kanji": "磨",
+        "meanings": [
+          "polish",
+          "brush"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歯磨きをしなさい。",
+      "english": "Brush your teeth.",
+      "furigana": [
+        {
+          "text": "歯磨き",
+          "highlight": true,
+          "reading": "はみがき"
+        },
+        {
+          "text": "をしなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150919",
+        "englishSentenceId": "263638",
+        "url": "https://tatoeba.org/en/sentences/show/150919"
+      }
+    },
+    "acceptedJapanese": [
+      "歯磨き",
+      "はみがき"
+    ],
+    "acceptedEnglish": [
+      "dental brushing",
+      "brushing one's teeth"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-nursing-1777217245265",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "看病",
+    "kanji": "看病",
+    "kana": "かんびょう",
+    "meaning": "nursing",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"nursing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "看",
+        "meanings": [
+          "watch",
+          "care for"
+        ]
+      },
+      {
+        "kanji": "病",
+        "meanings": [
+          "illness",
+          "disease",
+          "sickness"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は病人を寝ずに看病した。",
+      "english": "He watched with the patient.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "病人",
+          "reading": "びょうにん"
+        },
+        {
+          "text": "を寝ずに"
+        },
+        {
+          "text": "看病",
+          "highlight": true,
+          "reading": "かんびょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "100532",
+        "englishSentenceId": "303166",
+        "url": "https://tatoeba.org/en/sentences/show/100532"
+      }
+    },
+    "acceptedJapanese": [
+      "看病",
+      "かんびょう"
+    ],
+    "acceptedEnglish": [
+      "nursing"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-health-body-blood-pressure-1777217245367",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "血圧",
+    "kanji": "血圧",
+    "kana": "けつあつ",
+    "meaning": "blood pressure",
+    "explanation": "A JLPT N2 noun meaning \"blood pressure\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "血",
+        "meanings": [
+          "blood"
+        ]
+      },
+      {
+        "kanji": "圧",
+        "meanings": [
+          "pressure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "血圧が低いですね。",
+      "english": "Your blood pressure's low.",
+      "furigana": [
+        {
+          "text": "血圧",
+          "highlight": true,
+          "reading": "けつあつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "低い",
+          "reading": "ひくい"
+        },
+        {
+          "text": "ですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10201231",
+        "englishSentenceId": "3831480",
+        "url": "https://tatoeba.org/en/sentences/show/10201231"
+      }
+    },
+    "acceptedJapanese": [
+      "血圧",
+      "けつあつ"
+    ],
+    "acceptedEnglish": [
+      "blood pressure"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-nap-1777217245631",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "昼寝",
+    "kanji": "昼寝",
+    "kana": "ひるね",
+    "meaning": "nap",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"nap\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昼",
+        "meanings": [
+          "daytime"
+        ]
+      },
+      {
+        "kanji": "寝",
+        "meanings": [
+          "go to sleep"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は昼寝します。",
+      "english": "I'm going to have a siesta.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "昼寝",
+          "highlight": true,
+          "reading": "ひるね"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "869820",
+        "englishSentenceId": "455893",
+        "url": "https://tatoeba.org/en/sentences/show/869820"
+      }
+    },
+    "acceptedJapanese": [
+      "昼寝",
+      "ひるね"
+    ],
+    "acceptedEnglish": [
+      "nap",
+      "sleeping during the day",
+      "siesta"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-middle-finger-1777217245808",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "中指",
+    "kanji": "中指",
+    "kana": "なかゆび",
+    "meaning": "middle finger",
+    "explanation": "A JLPT N2 noun meaning \"middle finger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "中指が一番長いです。",
+      "english": "The middle finger is the longest.",
+      "furigana": [
+        {
+          "text": "中指",
+          "highlight": true,
+          "reading": "なかゆび"
+        },
+        {
+          "text": "が一"
+        },
+        {
+          "text": "番長",
+          "reading": "ばんちょう"
+        },
+        {
+          "text": "いです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10627106",
+        "englishSentenceId": "715802",
+        "url": "https://tatoeba.org/en/sentences/show/10627106"
+      }
+    },
+    "acceptedJapanese": [
+      "中指",
+      "なかゆび"
+    ],
+    "acceptedEnglish": [
+      "middle finger",
+      "long finger",
+      "second finger",
+      "tall finger",
+      "middle toe",
+      "third toe"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-health-body-urine-1777217245931",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "小便",
+    "kanji": "小便",
+    "kana": "しょうべん",
+    "meaning": "urine",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"urine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "小",
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "kanji": "便",
+        "meanings": [
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「小便が琥珀色だと言われたら、脱水症状だ」",
+      "english": "\"When they say your pee is amber-colored, that means you're dehydrated.\"",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "小便",
+          "highlight": true,
+          "reading": "しょうべん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "琥珀色",
+          "reading": "こはくいろ"
+        },
+        {
+          "text": "だと"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "われたら、"
+        },
+        {
+          "text": "脱水症状",
+          "reading": "だっすいしょうじょう"
+        },
+        {
+          "text": "だ」"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8757931",
+        "englishSentenceId": "8757876",
+        "url": "https://tatoeba.org/en/sentences/show/8757931"
+      }
+    },
+    "acceptedJapanese": [
+      "小便",
+      "しょうべん"
+    ],
+    "acceptedEnglish": [
+      "urine",
+      "piss",
+      "pee",
+      "urination",
+      "breaking a contract"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-health-body-navel-1777217245934",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "臍",
+    "kanji": "臍",
+    "kana": "へそ",
+    "meaning": "navel",
+    "explanation": "A JLPT N2 noun meaning \"navel\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "臍",
+        "meanings": [
+          "navel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は臍を固めて一世一代の大事業に乗り出した。",
+      "english": "He resolved to embark on a once-in-a-lifetime enterprise.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "臍",
+          "highlight": true,
+          "reading": "へそ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "固め",
+          "reading": "かため"
+        },
+        {
+          "text": "て"
+        },
+        {
+          "text": "一世一代",
+          "reading": "いっせいちだい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "大事業",
+          "reading": "だいじぎょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗り",
+          "reading": "のり"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "75765",
+        "englishSentenceId": "327953",
+        "url": "https://tatoeba.org/en/sentences/show/75765"
+      }
+    },
+    "acceptedJapanese": [
+      "臍",
+      "へそ"
+    ],
+    "acceptedEnglish": [
+      "navel",
+      "belly button",
+      "centre",
+      "most important part",
+      "main point"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-diagnosis-1777217245985",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "診断",
+    "kanji": "診断",
+    "kana": "しんだん",
+    "meaning": "diagnosis",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"diagnosis\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "診",
+        "meanings": [
+          "checkup",
+          "seeing",
+          "diagnose",
+          "examine"
+        ]
+      },
+      {
+        "kanji": "断",
+        "meanings": [
+          "cut off",
+          "decision",
+          "refuse"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は医者の診断を受けた。",
+      "english": "He took medical advice.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "医者",
+          "reading": "いしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "診断",
+          "highlight": true,
+          "reading": "しんだん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "受け",
+          "reading": "うけ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110045",
+        "englishSentenceId": "293643",
+        "url": "https://tatoeba.org/en/sentences/show/110045"
+      }
+    },
+    "acceptedJapanese": [
+      "診断",
+      "しんだん"
+    ],
+    "acceptedEnglish": [
+      "diagnosis",
+      "medical examination"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-health-body-lip-1777217246069",
+    "jlpt": "N2",
+    "subcategory": "Health/Body",
+    "name": "唇",
+    "kanji": "唇",
+    "kana": "くちびる",
+    "meaning": "lip",
+    "explanation": "A JLPT N2 noun meaning \"lip\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "唇",
+        "meanings": [
+          "lips"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "唇が荒れています。",
+      "english": "I have chapped lips.",
+      "furigana": [
+        {
+          "text": "唇",
+          "highlight": true,
+          "reading": "くちびる"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "荒れ",
+          "reading": "あれ"
+        },
+        {
+          "text": "ています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145685",
+        "englishSentenceId": "268877",
+        "url": "https://tatoeba.org/en/sentences/show/145685"
+      }
+    },
+    "acceptedJapanese": [
+      "唇",
+      "くちびる"
+    ],
+    "acceptedEnglish": [
+      "lip",
+      "lips"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

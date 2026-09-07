@@ -64,13 +64,14 @@
       {
         "kanji": "食",
         "meanings": [
+          "eat",
           "food"
         ]
       },
       {
         "kanji": "物",
         "meanings": [
-          "food"
+          "thing"
         ]
       }
     ],
@@ -214,13 +215,13 @@
       {
         "kanji": "咖",
         "meanings": [
-          "curry"
+          "coffee"
         ]
       },
       {
         "kanji": "哩",
         "meanings": [
-          "curry"
+          "mile"
         ]
       }
     ],
@@ -277,7 +278,7 @@
       {
         "kanji": "卵",
         "meanings": [
-          "eggs"
+          "egg"
         ]
       }
     ],
@@ -336,13 +337,15 @@
       {
         "kanji": "料",
         "meanings": [
-          "cooking"
+          "fee",
+          "materials"
         ]
       },
       {
         "kanji": "理",
         "meanings": [
-          "cooking"
+          "reason",
+          "basic principle"
         ]
       }
     ],
@@ -401,13 +404,16 @@
       {
         "kanji": "牛",
         "meanings": [
-          "beef"
+          "cattle",
+          "cow",
+          "ox"
         ]
       },
       {
         "kanji": "肉",
         "meanings": [
-          "beef"
+          "flesh",
+          "meat"
         ]
       }
     ],
@@ -461,13 +467,15 @@
       {
         "kanji": "菓",
         "meanings": [
-          "confections"
+          "confectionery",
+          "cake"
         ]
       },
       {
         "kanji": "子",
         "meanings": [
-          "confections"
+          "child",
+          "noun suffix"
         ]
       }
     ],
@@ -583,7 +591,7 @@
       {
         "kanji": "物",
         "meanings": [
-          "drink"
+          "thing"
         ]
       }
     ],
@@ -626,6 +634,75 @@
     "pitchAccentNumber": 3
   },
   {
+    "id": "n5-food-and-drinks-black-tea-1777217253257",
+    "jlpt": "N5",
+    "subcategory": "Food and Drinks",
+    "name": "紅茶",
+    "kanji": "紅茶",
+    "kana": "こうちゃ",
+    "meaning": "black tea",
+    "explanation": "A JLPT N5 noun meaning \"black tea\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "紅",
+        "meanings": [
+          "crimson",
+          "deep red",
+          "rouge"
+        ]
+      },
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "緑茶と紅茶、どっちが好き？",
+      "english": "Do you prefer green tea or black tea?",
+      "furigana": [
+        {
+          "text": "緑茶",
+          "reading": "りょくちゃ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "紅茶",
+          "highlight": true,
+          "reading": "こうちゃ"
+        },
+        {
+          "text": "、どっちが"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10134451",
+        "englishSentenceId": "6942442",
+        "url": "https://tatoeba.org/en/sentences/show/10134451"
+      }
+    },
+    "acceptedJapanese": [
+      "紅茶",
+      "こうちゃ"
+    ],
+    "acceptedEnglish": [
+      "black tea"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
     "id": "n5-food-and-drinks-bento-1777217253302",
     "jlpt": "N5",
     "subcategory": "Food and Drinks",
@@ -638,13 +715,17 @@
       {
         "kanji": "弁",
         "meanings": [
-          "bento"
+          "speak eloquently",
+          "speech",
+          "valve",
+          "petal"
         ]
       },
       {
         "kanji": "当",
         "meanings": [
-          "bento"
+          "present",
+          "hit"
         ]
       }
     ],
@@ -720,7 +801,8 @@
       {
         "kanji": "肉",
         "meanings": [
-          "flesh"
+          "flesh",
+          "meat"
         ]
       }
     ],
@@ -779,7 +861,8 @@
       {
         "kanji": "朝",
         "meanings": [
-          "breakfast"
+          "morning",
+          "dynasty"
         ]
       }
     ],
@@ -821,75 +904,6 @@
     "pitchAccentNumber": 3
   },
   {
-    "id": "n5-food-and-drinks-rice-bowl-1777217253608",
-    "jlpt": "N5",
-    "subcategory": "Food and Drinks",
-    "name": "茶碗",
-    "kanji": "茶碗",
-    "kana": "ちゃわん",
-    "meaning": "rice bowl",
-    "explanation": "A JLPT N5 noun meaning \"rice bowl\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "茶",
-        "meanings": [
-          "rice bowl"
-        ]
-      },
-      {
-        "kanji": "碗",
-        "meanings": [
-          "rice bowl"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "彼は茶碗のふちを欠いた。",
-      "english": "He chipped the edge of the tea cup.",
-      "furigana": [
-        {
-          "text": "彼",
-          "reading": "かれ"
-        },
-        {
-          "text": "は"
-        },
-        {
-          "text": "茶碗",
-          "highlight": true,
-          "reading": "ちゃわん"
-        },
-        {
-          "text": "のふちを"
-        },
-        {
-          "text": "欠い",
-          "reading": "かい"
-        },
-        {
-          "text": "た。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "509438",
-        "englishSentenceId": "509472",
-        "url": "https://tatoeba.org/en/sentences/show/509438"
-      }
-    },
-    "acceptedJapanese": [
-      "茶碗",
-      "ちゃわん"
-    ],
-    "acceptedEnglish": [
-      "rice bowl",
-      "tea cup",
-      "teacup"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-food-and-drinks-evening-meal-1777217253650",
     "jlpt": "N5",
     "subcategory": "Food and Drinks",
@@ -902,13 +916,14 @@
       {
         "kanji": "夕",
         "meanings": [
-          "evening meal"
+          "evening"
         ]
       },
       {
         "kanji": "飯",
         "meanings": [
-          "evening meal"
+          "cooked rice",
+          "meal"
         ]
       }
     ],
@@ -957,7 +972,10 @@
       {
         "kanji": "酒",
         "meanings": [
-          "alcohol"
+          "alcoholic drink",
+          "sake",
+          "alcohol",
+          "liquor"
         ]
       }
     ],
@@ -1011,7 +1029,9 @@
       {
         "kanji": "牛",
         "meanings": [
-          "milk"
+          "cattle",
+          "cow",
+          "ox"
         ]
       },
       {
@@ -1071,13 +1091,14 @@
       {
         "kanji": "豚",
         "meanings": [
-          "pork"
+          "pig"
         ]
       },
       {
         "kanji": "肉",
         "meanings": [
-          "pork"
+          "flesh",
+          "meat"
         ]
       }
     ],
@@ -1131,13 +1152,14 @@
       {
         "kanji": "野",
         "meanings": [
-          "vegetable"
+          "field"
         ]
       },
       {
         "kanji": "菜",
         "meanings": [
-          "vegetable"
+          "vegetable",
+          "greens"
         ]
       }
     ],
@@ -1195,7 +1217,7 @@
       {
         "kanji": "物",
         "meanings": [
-          "fruit"
+          "thing"
         ]
       }
     ],
@@ -1249,6 +1271,7 @@
       {
         "kanji": "飴",
         "meanings": [
+          "rice jelly",
           "candy"
         ]
       }
@@ -1289,95 +1312,6 @@
     "pitchAccentNumber": 0
   },
   {
-    "id": "n5-food-and-drinks-greengrocer-1777217253878",
-    "jlpt": "N5",
-    "subcategory": "Food and Drinks",
-    "name": "八百屋",
-    "kanji": "八百屋",
-    "kana": "やおや",
-    "meaning": "greengrocer",
-    "explanation": "A JLPT N5 noun meaning \"greengrocer\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "八",
-        "meanings": [
-          "greengrocer"
-        ]
-      },
-      {
-        "kanji": "百",
-        "meanings": [
-          "greengrocer"
-        ]
-      },
-      {
-        "kanji": "屋",
-        "meanings": [
-          "greengrocer"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "私は八百屋の外で彼に出会った。",
-      "english": "I met him outside the greengrocer's.",
-      "furigana": [
-        {
-          "text": "私",
-          "reading": "わたし"
-        },
-        {
-          "text": "は"
-        },
-        {
-          "text": "八百屋",
-          "highlight": true,
-          "reading": "やおや"
-        },
-        {
-          "text": "の"
-        },
-        {
-          "text": "外",
-          "reading": "そと"
-        },
-        {
-          "text": "で"
-        },
-        {
-          "text": "彼",
-          "reading": "かれ"
-        },
-        {
-          "text": "に"
-        },
-        {
-          "text": "出会",
-          "reading": "しゅっかい"
-        },
-        {
-          "text": "った。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "154612",
-        "englishSentenceId": "259928",
-        "url": "https://tatoeba.org/en/sentences/show/154612"
-      }
-    },
-    "acceptedJapanese": [
-      "八百屋",
-      "やおや"
-    ],
-    "acceptedEnglish": [
-      "greengrocer",
-      "fruit and vegetable shop",
-      "jack of all trades"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-food-and-drinks-coffee-1777217253947",
     "jlpt": "N5",
     "subcategory": "Food and Drinks",
@@ -1390,13 +1324,13 @@
       {
         "kanji": "珈",
         "meanings": [
-          "coffee"
+          "ornamental hairpin"
         ]
       },
       {
         "kanji": "琲",
         "meanings": [
-          "coffee"
+          "string of many pearls"
         ]
       }
     ],
@@ -1467,7 +1401,7 @@
       {
         "kanji": "砂",
         "meanings": [
-          "sugar"
+          "sand"
         ]
       },
       {
@@ -1520,19 +1454,21 @@
       {
         "kanji": "晩",
         "meanings": [
-          "dinner"
+          "evening"
         ]
       },
       {
         "kanji": "御",
         "meanings": [
-          "dinner"
+          "general honorific term",
+          "polite prefix"
         ]
       },
       {
         "kanji": "飯",
         "meanings": [
-          "dinner"
+          "cooked rice",
+          "meal"
         ]
       }
     ],
@@ -1587,7 +1523,8 @@
       {
         "kanji": "飯",
         "meanings": [
-          "cooked rice"
+          "cooked rice",
+          "meal"
         ]
       }
     ],
@@ -1635,13 +1572,14 @@
       {
         "kanji": "鶏",
         "meanings": [
-          "chicken meat"
+          "chicken"
         ]
       },
       {
         "kanji": "肉",
         "meanings": [
-          "chicken meat"
+          "flesh",
+          "meat"
         ]
       }
     ],
@@ -1705,13 +1643,13 @@
       {
         "kanji": "醤",
         "meanings": [
-          "soy sauce"
+          "a kind of miso"
         ]
       },
       {
         "kanji": "油",
         "meanings": [
-          "soy sauce"
+          "oil"
         ]
       }
     ],
@@ -1758,76 +1696,6 @@
     "pitchAccentNumber": 0
   },
   {
-    "id": "n5-food-and-drinks-coffee-shop-1777217254427",
-    "jlpt": "N5",
-    "subcategory": "Food and Drinks",
-    "name": "喫茶店",
-    "kanji": "喫茶店",
-    "kana": "きっさてん",
-    "meaning": "coffee shop",
-    "explanation": "A JLPT N5 noun meaning \"coffee shop\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "喫",
-        "meanings": [
-          "coffee shop"
-        ]
-      },
-      {
-        "kanji": "茶",
-        "meanings": [
-          "coffee shop"
-        ]
-      },
-      {
-        "kanji": "店",
-        "meanings": [
-          "coffee shop"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "母は喫茶店をしています。",
-      "english": "Mother has a coffee shop.",
-      "furigana": [
-        {
-          "text": "母",
-          "reading": "はは"
-        },
-        {
-          "text": "は"
-        },
-        {
-          "text": "喫茶店",
-          "highlight": true,
-          "reading": "きっさてん"
-        },
-        {
-          "text": "をしています。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "83011",
-        "englishSentenceId": "320705",
-        "url": "https://tatoeba.org/en/sentences/show/83011"
-      }
-    },
-    "acceptedJapanese": [
-      "喫茶店",
-      "きっさてん"
-    ],
-    "acceptedEnglish": [
-      "coffee shop",
-      "tearoom",
-      "coffee lounge",
-      "coffeehouse",
-      "cafe"
-    ],
-    "pitchAccentNumber": 3
-  },
-  {
     "id": "n5-food-and-drinks-lunch-1777217254511",
     "jlpt": "N5",
     "subcategory": "Food and Drinks",
@@ -1840,13 +1708,14 @@
       {
         "kanji": "昼",
         "meanings": [
-          "lunch"
+          "daytime"
         ]
       },
       {
         "kanji": "飯",
         "meanings": [
-          "lunch"
+          "cooked rice",
+          "meal"
         ]
       }
     ],

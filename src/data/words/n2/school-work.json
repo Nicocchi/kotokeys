@@ -1,1 +1,8343 @@
-[]
+[
+  {
+    "id": "n2-school-work-first-class-1777217240948",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "一流",
+    "kanji": "一流",
+    "kana": "いちりゅう",
+    "meaning": "first-class",
+    "explanation": "A JLPT N2 no adjective, noun meaning \"first-class\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "流",
+        "meanings": [
+          "flow",
+          "current",
+          "style"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らはその作家を一流だと思った。",
+      "english": "They looked on the writer as first-rate.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "はその"
+        },
+        {
+          "text": "作家",
+          "reading": "さっか"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "一流",
+          "highlight": true,
+          "reading": "いちりゅう"
+        },
+        {
+          "text": "だと"
+        },
+        {
+          "text": "思",
+          "reading": "おも"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "97933",
+        "englishSentenceId": "305770",
+        "url": "https://tatoeba.org/en/sentences/show/97933"
+      }
+    },
+    "acceptedJapanese": [
+      "一流",
+      "いちりゅう"
+    ],
+    "acceptedEnglish": [
+      "first-class",
+      "first-rate",
+      "top-flight",
+      "top-ranking",
+      "leading",
+      "eminent"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-humanities-1777217241008",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "人文科学",
+    "kanji": "人文科学",
+    "kana": "じんぶんかがく",
+    "meaning": "humanities",
+    "explanation": "A JLPT N2 noun meaning \"humanities\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      },
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歴史学は人文科学の一部門である。",
+      "english": "History is a branch of the humanities.",
+      "furigana": [
+        {
+          "text": "歴史学",
+          "reading": "れきしがく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "人文科学",
+          "highlight": true,
+          "reading": "じんぶんかがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "text": "門である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77590",
+        "englishSentenceId": "326128",
+        "url": "https://tatoeba.org/en/sentences/show/77590"
+      }
+    },
+    "acceptedJapanese": [
+      "人文科学",
+      "じんぶんかがく"
+    ],
+    "acceptedEnglish": [
+      "humanities",
+      "arts"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-school-work-natural-science-1777217241092",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "自然科学",
+    "kanji": "自然科学",
+    "kana": "しぜんかがく",
+    "meaning": "natural science",
+    "explanation": "A JLPT N2 noun meaning \"natural science\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "自",
+        "meanings": [
+          "self"
+        ]
+      },
+      {
+        "kanji": "然",
+        "meanings": [
+          "modifier forming suffix",
+          "as"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "物理学は基本的な自然科学である。",
+      "english": "Physics is a fundamental natural science.",
+      "furigana": [
+        {
+          "text": "物理学",
+          "reading": "ぶつりがく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "基本的",
+          "reading": "きほんてき"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "自然科学",
+          "highlight": true,
+          "reading": "しぜんかがく"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83732",
+        "englishSentenceId": "487654",
+        "url": "https://tatoeba.org/en/sentences/show/83732"
+      }
+    },
+    "acceptedJapanese": [
+      "自然科学",
+      "しぜんかがく"
+    ],
+    "acceptedEnglish": [
+      "natural science"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-school-work-writing-down-from-other-written-material-1777217241206",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "書き取り",
+    "kanji": "書き取り",
+    "kana": "かきとり",
+    "meaning": "writing down from other written material",
+    "explanation": "A JLPT N2 noun meaning \"writing down from other written material\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      },
+      {
+        "kanji": "取",
+        "meanings": [
+          "take"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は漢字の書き取りがある。",
+      "english": "We have a kanji dictation test today.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "漢字",
+          "reading": "かんじ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "書き取り",
+          "highlight": true,
+          "reading": "かきとり"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76138",
+        "englishSentenceId": "327580",
+        "url": "https://tatoeba.org/en/sentences/show/76138"
+      }
+    },
+    "acceptedJapanese": [
+      "書き取り",
+      "かきとり"
+    ],
+    "acceptedEnglish": [
+      "writing down from other written material",
+      "writing kanji text from hiragana",
+      "transcription",
+      "dictation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-writing-1777217241281",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "執筆",
+    "kanji": "執筆",
+    "kana": "しっぴつ",
+    "meaning": "writing",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"writing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "執",
+        "meanings": [
+          "tenacious",
+          "take hold",
+          "grasp",
+          "take to heart"
+        ]
+      },
+      {
+        "kanji": "筆",
+        "meanings": [
+          "brush",
+          "writing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この小説は、有名なアメリカの作家が執筆したものです。",
+      "english": "This novel was written by a famous American writer.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "小説",
+          "reading": "しょうせつ"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "text": "なアメリカの"
+        },
+        {
+          "text": "作家",
+          "reading": "さっか"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "執筆",
+          "highlight": true,
+          "reading": "しっぴつ"
+        },
+        {
+          "text": "したものです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11584006",
+        "englishSentenceId": "838675",
+        "url": "https://tatoeba.org/en/sentences/show/11584006"
+      }
+    },
+    "acceptedJapanese": [
+      "執筆",
+      "しっぴつ"
+    ],
+    "acceptedEnglish": [
+      "writing",
+      "authoring"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-brackets-1777217241341",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "括弧",
+    "kanji": "括弧",
+    "kana": "かっこ",
+    "meaning": "brackets",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"brackets\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "括",
+        "meanings": [
+          "fasten",
+          "tie up",
+          "arrest",
+          "constrict"
+        ]
+      },
+      {
+        "kanji": "弧",
+        "meanings": [
+          "arc",
+          "arch",
+          "bow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この語句は、括弧で囲んだ方がいいよ。",
+      "english": "You should put this phrase in parentheses.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "語句",
+          "reading": "ごく"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "括弧",
+          "highlight": true,
+          "reading": "かっこ"
+        },
+        {
+          "text": "で囲んだ方がいいよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11165513",
+        "englishSentenceId": "3687966",
+        "url": "https://tatoeba.org/en/sentences/show/11165513"
+      }
+    },
+    "acceptedJapanese": [
+      "括弧",
+      "かっこ"
+    ],
+    "acceptedEnglish": [
+      "brackets",
+      "parentheses"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-class-1777217241365",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学級",
+    "kanji": "学級",
+    "kana": "がっきゅう",
+    "meaning": "class",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"class\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "級",
+        "meanings": [
+          "grade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼がその学級の担任だ。",
+      "english": "He is in charge of the class.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "がその"
+        },
+        {
+          "text": "学級",
+          "highlight": true,
+          "reading": "がっきゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "担任",
+          "reading": "たんにん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "120916",
+        "englishSentenceId": "283092",
+        "url": "https://tatoeba.org/en/sentences/show/120916"
+      }
+    },
+    "acceptedJapanese": [
+      "学級",
+      "がっきゅう"
+    ],
+    "acceptedEnglish": [
+      "class"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-introduction-1777217241425",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "概論",
+    "kanji": "概論",
+    "kana": "がいろん",
+    "meaning": "introduction",
+    "explanation": "A JLPT N2 noun, suru noun meaning \"introduction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "概",
+        "meanings": [
+          "general",
+          "approximate"
+        ]
+      },
+      {
+        "kanji": "論",
+        "meanings": [
+          "argue",
+          "theory",
+          "thesis"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「概論」は日本語の言葉です。",
+      "english": "\"introduction\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "概論",
+          "reading": "がいろん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "概論",
+      "がいろん"
+    ],
+    "acceptedEnglish": [
+      "introduction",
+      "outline",
+      "general remarks"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-letter-1777217241521",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "投書",
+    "kanji": "投書",
+    "kana": "とうしょ",
+    "meaning": "letter",
+    "explanation": "A JLPT N2 noun, suru noun meaning \"letter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "投",
+        "meanings": [
+          "throw",
+          "send in"
+        ]
+      },
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "投書は視聴者からの唯一の声です。",
+      "english": "Letters are the only voice from the audience.",
+      "furigana": [
+        {
+          "text": "投書",
+          "highlight": true,
+          "reading": "とうしょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "視聴者",
+          "reading": "しちょうしゃ"
+        },
+        {
+          "text": "からの"
+        },
+        {
+          "text": "唯",
+          "reading": "ただ"
+        },
+        {
+          "text": "一の"
+        },
+        {
+          "text": "声",
+          "reading": "こえ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "885563",
+        "englishSentenceId": "10906117",
+        "url": "https://tatoeba.org/en/sentences/show/885563"
+      }
+    },
+    "acceptedJapanese": [
+      "投書",
+      "とうしょ"
+    ],
+    "acceptedEnglish": [
+      "letter",
+      "letter to the editor",
+      "letter from a reader",
+      "contribution"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-katakana-1777217241674",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "片仮名",
+    "kanji": "片仮名",
+    "kana": "カタカナ",
+    "meaning": "katakana",
+    "explanation": "A JLPT N2 noun meaning \"katakana\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "片",
+        "meanings": [
+          "fragment",
+          "one (of two)",
+          "part"
+        ]
+      },
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
+      "english": "I can write hiragana, but I can't yet write katakana.",
+      "furigana": [
+        {
+          "text": "平仮名",
+          "reading": "ひらがな"
+        },
+        {
+          "text": "は書けるんだけど、"
+        },
+        {
+          "text": "片仮名",
+          "highlight": true,
+          "reading": "カタカナ"
+        },
+        {
+          "text": "はまだ書けないんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10989476",
+        "englishSentenceId": "10989430",
+        "url": "https://tatoeba.org/en/sentences/show/10989476"
+      }
+    },
+    "acceptedJapanese": [
+      "片仮名",
+      "カタカナ"
+    ],
+    "acceptedEnglish": [
+      "katakana"
+    ]
+  },
+  {
+    "id": "n2-school-work-pay-1777217241722",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "給与",
+    "kanji": "給与",
+    "kana": "きゅうよ",
+    "meaning": "pay",
+    "explanation": "A JLPT N2 noun meaning \"pay\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "給",
+        "meanings": [
+          "supply",
+          "pay"
+        ]
+      },
+      {
+        "kanji": "与",
+        "meanings": [
+          "give",
+          "grant"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は給与の５分の１を税金で取られてしまう。",
+      "english": "One-fifth of my wages go to taxes.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "給与",
+          "highlight": true,
+          "reading": "きゅうよ"
+        },
+        {
+          "text": "の５"
+        },
+        {
+          "text": "分",
+          "reading": "わ"
+        },
+        {
+          "text": "の１を"
+        },
+        {
+          "text": "税金",
+          "reading": "ぜいきん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "取",
+          "reading": "しゅ"
+        },
+        {
+          "text": "られてしまう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "157665",
+        "englishSentenceId": "256866",
+        "url": "https://tatoeba.org/en/sentences/show/157665"
+      }
+    },
+    "acceptedJapanese": [
+      "給与",
+      "きゅうよ"
+    ],
+    "acceptedEnglish": [
+      "pay",
+      "salary",
+      "wages"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-fishing-industry-1777217241773",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "漁業",
+    "kanji": "漁業",
+    "kana": "ぎょぎょう",
+    "meaning": "fishing industry",
+    "explanation": "A JLPT N2 noun meaning \"fishing industry\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "漁",
+        "meanings": [
+          "fish",
+          "fishing"
+        ]
+      },
+      {
+        "kanji": "業",
+        "meanings": [
+          "work",
+          "business",
+          "industry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "村人たちは主として漁業に従事している。",
+      "english": "The villagers are occupied mainly with fishing.",
+      "furigana": [
+        {
+          "text": "村人",
+          "reading": "むらびと"
+        },
+        {
+          "text": "たちは"
+        },
+        {
+          "text": "主として",
+          "reading": "しゅとして"
+        },
+        {
+          "text": "漁業",
+          "highlight": true,
+          "reading": "ぎょぎょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "従事",
+          "reading": "じゅうじ"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "138891",
+        "englishSentenceId": "274590",
+        "url": "https://tatoeba.org/en/sentences/show/138891"
+      }
+    },
+    "acceptedJapanese": [
+      "漁業",
+      "ぎょぎょう"
+    ],
+    "acceptedEnglish": [
+      "fishing industry",
+      "fishery"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-social-science-1777217241779",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "社会科学",
+    "kanji": "社会科学",
+    "kana": "しゃかいかがく",
+    "meaning": "social science",
+    "explanation": "A JLPT N2 noun meaning \"social science\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "社",
+        "meanings": [
+          "company",
+          "society"
+        ]
+      },
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その大学の課程は自然科学と社会科学から成り立っている。",
+      "english": "That university's curriculum covers natural science and social science.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "大学",
+          "reading": "だいがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "課程",
+          "reading": "かてい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "自然科学",
+          "reading": "しぜんかがく"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "社会科学",
+          "highlight": true,
+          "reading": "しゃかいかがく"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "成り",
+          "reading": "なり"
+        },
+        {
+          "text": "立っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "208250",
+        "englishSentenceId": "45507",
+        "url": "https://tatoeba.org/en/sentences/show/208250"
+      }
+    },
+    "acceptedJapanese": [
+      "社会科学",
+      "しゃかいかがく"
+    ],
+    "acceptedEnglish": [
+      "social science"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-school-work-department-1777217241791",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学部",
+    "kanji": "学部",
+    "kana": "がくぶ",
+    "meaning": "department",
+    "explanation": "A JLPT N2 noun meaning \"department\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "部",
+        "meanings": [
+          "section"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この学部は大学の主力学部です。",
+      "english": "This school is the flagship of the university.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "学部",
+          "highlight": true,
+          "reading": "がくぶ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大学",
+          "reading": "だいがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "主力",
+          "reading": "しゅりょく"
+        },
+        {
+          "text": "学部",
+          "reading": "がくぶ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11883558",
+        "englishSentenceId": "9948823",
+        "url": "https://tatoeba.org/en/sentences/show/11883558"
+      }
+    },
+    "acceptedJapanese": [
+      "学部",
+      "がくぶ"
+    ],
+    "acceptedEnglish": [
+      "department",
+      "faculty",
+      "school",
+      "college"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-honorific-1777217241821",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "敬語",
+    "kanji": "敬語",
+    "kana": "けいご",
+    "meaning": "honorific",
+    "explanation": "A JLPT N2 noun meaning \"honorific\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "敬",
+        "meanings": [
+          "respect"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日本語には敬語があります。",
+      "english": "The Japanese language has honorific expressions.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本語には"
+        },
+        {
+          "text": "敬語",
+          "highlight": true,
+          "reading": "けいご"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122356",
+        "englishSentenceId": "281647",
+        "url": "https://tatoeba.org/en/sentences/show/122356"
+      }
+    },
+    "acceptedJapanese": [
+      "敬語",
+      "けいご"
+    ],
+    "acceptedEnglish": [
+      "honorific",
+      "term of respect",
+      "polite expression",
+      "honorific language"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-training-1777217241830",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "研修",
+    "kanji": "研修",
+    "kana": "けんしゅう",
+    "meaning": "training",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"training\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "研",
+        "meanings": [
+          "sand",
+          "sharpen"
+        ]
+      },
+      {
+        "kanji": "修",
+        "meanings": [
+          "cultivate",
+          "repair",
+          "study",
+          "master"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "研修によって、従業員の非常事態への対応を迅速化できる。",
+      "english": "Training conditions workers to react quickly to an emergency.",
+      "furigana": [
+        {
+          "text": "研修",
+          "highlight": true,
+          "reading": "けんしゅう"
+        },
+        {
+          "text": "によって、"
+        },
+        {
+          "text": "従業員",
+          "reading": "じゅうぎょういん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "非常",
+          "reading": "ひじょう"
+        },
+        {
+          "text": "事態",
+          "reading": "じたい"
+        },
+        {
+          "text": "への"
+        },
+        {
+          "text": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "迅速",
+          "reading": "じんそく"
+        },
+        {
+          "text": "化",
+          "reading": "か"
+        },
+        {
+          "text": "できる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175208",
+        "englishSentenceId": "239258",
+        "url": "https://tatoeba.org/en/sentences/show/175208"
+      }
+    },
+    "acceptedJapanese": [
+      "研修",
+      "けんしゅう"
+    ],
+    "acceptedEnglish": [
+      "training",
+      "induction course"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-manuscript-1777217241950",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "原稿",
+    "kanji": "原稿",
+    "kana": "げんこう",
+    "meaning": "manuscript",
+    "explanation": "A JLPT N2 noun meaning \"manuscript\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "原",
+        "meanings": [
+          "plain",
+          "original"
+        ]
+      },
+      {
+        "kanji": "稿",
+        "meanings": [
+          "draft",
+          "copy",
+          "manuscript",
+          "straw"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "原稿を少し変えたいと思います。",
+      "english": "I'd like to make some changes in the draft.",
+      "furigana": [
+        {
+          "text": "原稿",
+          "highlight": true,
+          "reading": "げんこう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "変え",
+          "reading": "かえ"
+        },
+        {
+          "text": "たいと"
+        },
+        {
+          "text": "思い",
+          "reading": "おもい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175011",
+        "englishSentenceId": "239456",
+        "url": "https://tatoeba.org/en/sentences/show/175011"
+      }
+    },
+    "acceptedJapanese": [
+      "原稿",
+      "げんこう"
+    ],
+    "acceptedEnglish": [
+      "manuscript",
+      "copy",
+      "draft",
+      "notes",
+      "contribution"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-scholarly-ability-1777217242007",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学力",
+    "kanji": "学力",
+    "kana": "がくりょく",
+    "meaning": "scholarly ability",
+    "explanation": "A JLPT N2 noun meaning \"scholarly ability\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "力",
+        "meanings": [
+          "power",
+          "force"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "しかし、アメリカではふつう、スポーツチームは腕で選ばれ、学業のコースは学力によって選ばれます。",
+      "english": "However, in America, sports teams are generally chosen by skill, and academic courses by ability.",
+      "furigana": [
+        {
+          "text": "しかし、アメリカではふつう、スポーツチームは腕で"
+        },
+        {
+          "text": "選",
+          "reading": "せん"
+        },
+        {
+          "text": "ばれ、"
+        },
+        {
+          "text": "学業",
+          "reading": "がくぎょう"
+        },
+        {
+          "text": "のコースは"
+        },
+        {
+          "text": "学力",
+          "highlight": true,
+          "reading": "がくりょく"
+        },
+        {
+          "text": "によって"
+        },
+        {
+          "text": "選",
+          "reading": "せん"
+        },
+        {
+          "text": "ばれます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "216358",
+        "englishSentenceId": "53662",
+        "url": "https://tatoeba.org/en/sentences/show/216358"
+      }
+    },
+    "acceptedJapanese": [
+      "学力",
+      "がくりょく"
+    ],
+    "acceptedEnglish": [
+      "scholarly ability",
+      "scholarship",
+      "knowledge",
+      "literary ability"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-school-work-manufacture-1777217242136",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "製作",
+    "kanji": "製作",
+    "kana": "せいさく",
+    "meaning": "manufacture",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"manufacture\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "製",
+        "meanings": [
+          "manufacture",
+          "produce",
+          "make"
+        ]
+      },
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この工場では自動車の部品を製作している。",
+      "english": "This factory manufactures automobile parts.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "工",
+          "reading": "たくみ"
+        },
+        {
+          "text": "場では"
+        },
+        {
+          "text": "自動車",
+          "reading": "じどうしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "部品",
+          "reading": "ぶひん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "製作",
+          "highlight": true,
+          "reading": "せいさく"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "237007",
+        "englishSentenceId": "236776",
+        "url": "https://tatoeba.org/en/sentences/show/237007"
+      }
+    },
+    "acceptedJapanese": [
+      "製作",
+      "せいさく"
+    ],
+    "acceptedEnglish": [
+      "manufacture",
+      "production"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-stock-farming-1777217242190",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "牧畜",
+    "kanji": "牧畜",
+    "kana": "ぼくちく",
+    "meaning": "stock-farming",
+    "explanation": "A JLPT N2 noun meaning \"stock-farming\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "牧",
+        "meanings": [
+          "pasture"
+        ]
+      },
+      {
+        "kanji": "畜",
+        "meanings": [
+          "livestock",
+          "animal raising"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「牧畜」は日本語の言葉です。",
+      "english": "\"stock-farming\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "牧畜",
+          "reading": "ぼくちく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "牧畜",
+      "ぼくちく"
+    ],
+    "acceptedEnglish": [
+      "stock-farming",
+      "livestock farming",
+      "cattle breeding"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-surface-mail-1777217242211",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "船便",
+    "kanji": "船便",
+    "kana": "ふなびん",
+    "meaning": "surface mail",
+    "explanation": "A JLPT N2 noun meaning \"surface mail\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "船",
+        "meanings": [
+          "ship",
+          "boat",
+          "vessel"
+        ]
+      },
+      {
+        "kanji": "便",
+        "meanings": [
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "船便で出してください。",
+      "english": "Send this by sea mail.",
+      "furigana": [
+        {
+          "text": "船便",
+          "highlight": true,
+          "reading": "ふなびん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "てください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141052",
+        "englishSentenceId": "273520",
+        "url": "https://tatoeba.org/en/sentences/show/141052"
+      }
+    },
+    "acceptedJapanese": [
+      "船便",
+      "ふなびん"
+    ],
+    "acceptedEnglish": [
+      "surface mail",
+      "sea mail",
+      "ferry service",
+      "steamer service"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-adverb-1777217242301",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "副詞",
+    "kanji": "副詞",
+    "kana": "ふくし",
+    "meaning": "adverb",
+    "explanation": "A JLPT N2 noun meaning \"adverb\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "副",
+        "meanings": [
+          "secondary",
+          "assistant",
+          "accompany",
+          "supplement"
+        ]
+      },
+      {
+        "kanji": "詞",
+        "meanings": [
+          "words"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "副詞は何を修飾するでしょう？",
+      "english": "What do adverbs modify?",
+      "furigana": [
+        {
+          "text": "副詞",
+          "highlight": true,
+          "reading": "ふくし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何",
+          "reading": "なに"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "修飾",
+          "reading": "しゅうしょく"
+        },
+        {
+          "text": "するでしょう？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11988879",
+        "englishSentenceId": "3122461",
+        "url": "https://tatoeba.org/en/sentences/show/11988879"
+      }
+    },
+    "acceptedJapanese": [
+      "副詞",
+      "ふくし"
+    ],
+    "acceptedEnglish": [
+      "adverb"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-kanji-compound-1777217242334",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "熟語",
+    "kanji": "熟語",
+    "kana": "じゅくご",
+    "meaning": "kanji compound",
+    "explanation": "A JLPT N2 noun meaning \"kanji compound\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "熟",
+        "meanings": [
+          "mature",
+          "ripen"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "できるだけたくさん熟語を暗記しなさい。",
+      "english": "Learn as many idioms as possible by heart.",
+      "furigana": [
+        {
+          "text": "できるだけたくさん"
+        },
+        {
+          "text": "熟語",
+          "highlight": true,
+          "reading": "じゅくご"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "text": "しなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202342",
+        "englishSentenceId": "39553",
+        "url": "https://tatoeba.org/en/sentences/show/202342"
+      }
+    },
+    "acceptedJapanese": [
+      "熟語",
+      "じゅくご"
+    ],
+    "acceptedEnglish": [
+      "kanji compound",
+      "idiom",
+      "idiomatic phrase"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-sales-1777217242463",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "売れ行き",
+    "kanji": "売れ行き",
+    "kana": "うれゆき",
+    "meaning": "sales",
+    "explanation": "A JLPT N2 noun meaning \"sales\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "売",
+        "meanings": [
+          "sell"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "売れ行きはものすごく活発だ。",
+      "english": "Sales are amazingly brisk.",
+      "furigana": [
+        {
+          "text": "売れ行き",
+          "highlight": true,
+          "reading": "うれゆき"
+        },
+        {
+          "text": "はものすごく"
+        },
+        {
+          "text": "活発",
+          "reading": "かっぱつ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121475",
+        "englishSentenceId": "282531",
+        "url": "https://tatoeba.org/en/sentences/show/121475"
+      }
+    },
+    "acceptedJapanese": [
+      "売れ行き",
+      "うれゆき"
+    ],
+    "acceptedEnglish": [
+      "sales",
+      "demand"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-pronoun-1777217242481",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "代名詞",
+    "kanji": "代名詞",
+    "kana": "だいめいし",
+    "meaning": "pronoun",
+    "explanation": "A JLPT N2 noun meaning \"pronoun\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "代",
+        "meanings": [
+          "substitute",
+          "generation",
+          "charge"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      },
+      {
+        "kanji": "詞",
+        "meanings": [
+          "words"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「クレオパトラ」は美人の代名詞になっている。",
+      "english": "The name Cleopatra has become a byword for a beautiful woman.",
+      "furigana": [
+        {
+          "text": "「クレオパトラ」は"
+        },
+        {
+          "text": "美人",
+          "reading": "びじん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "代名詞",
+          "highlight": true,
+          "reading": "だいめいし"
+        },
+        {
+          "text": "になっている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74106",
+        "englishSentenceId": "329614",
+        "url": "https://tatoeba.org/en/sentences/show/74106"
+      }
+    },
+    "acceptedJapanese": [
+      "代名詞",
+      "だいめいし"
+    ],
+    "acceptedEnglish": [
+      "pronoun",
+      "synonym",
+      "classic example",
+      "pattern",
+      "byword",
+      "representative"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-work-1777217242490",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "制作",
+    "kanji": "制作",
+    "kana": "せいさく",
+    "meaning": "work",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "制",
+        "meanings": [
+          "system",
+          "control"
+        ]
+      },
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どなたが人形を制作したのですか？",
+      "english": "Who made the doll?",
+      "furigana": [
+        {
+          "text": "どなたが"
+        },
+        {
+          "text": "人形",
+          "reading": "にんぎょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "制作",
+          "highlight": true,
+          "reading": "せいさく"
+        },
+        {
+          "text": "したのですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10096236",
+        "englishSentenceId": "40454",
+        "url": "https://tatoeba.org/en/sentences/show/10096236"
+      }
+    },
+    "acceptedJapanese": [
+      "制作",
+      "せいさく"
+    ],
+    "acceptedEnglish": [
+      "work",
+      "production",
+      "creation",
+      "turning out",
+      "development"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-subject-1777217242589",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "主語",
+    "kanji": "主語",
+    "kana": "しゅご",
+    "meaning": "subject",
+    "explanation": "A JLPT N2 noun meaning \"subject\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "文には普通、主語と動詞がある。",
+      "english": "A sentence normally has a subject and a verb.",
+      "furigana": [
+        {
+          "text": "文",
+          "reading": "ぶん"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "普通",
+          "reading": "ふつう"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "主語",
+          "highlight": true,
+          "reading": "しゅご"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "動詞",
+          "reading": "どうし"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83694",
+        "englishSentenceId": "320022",
+        "url": "https://tatoeba.org/en/sentences/show/83694"
+      }
+    },
+    "acceptedJapanese": [
+      "主語",
+      "しゅご"
+    ],
+    "acceptedEnglish": [
+      "subject"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-commerce-1777217242628",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "商業",
+    "kanji": "商業",
+    "kana": "しょうぎょう",
+    "meaning": "commerce",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"commerce\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "商",
+        "meanings": [
+          "trade",
+          "deal"
+        ]
+      },
+      {
+        "kanji": "業",
+        "meanings": [
+          "work",
+          "business",
+          "industry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は商業に従事している。",
+      "english": "He is in business.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "商業",
+          "highlight": true,
+          "reading": "しょうぎょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "従事",
+          "reading": "じゅうじ"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104198",
+        "englishSentenceId": "299493",
+        "url": "https://tatoeba.org/en/sentences/show/104198"
+      }
+    },
+    "acceptedJapanese": [
+      "商業",
+      "しょうぎょう"
+    ],
+    "acceptedEnglish": [
+      "commerce",
+      "trade",
+      "business"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-registered-mail-1777217242703",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "書留",
+    "kanji": "書留",
+    "kana": "かきとめ",
+    "meaning": "registered mail",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"registered mail\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      },
+      {
+        "kanji": "留",
+        "meanings": [
+          "keep",
+          "stay"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これを書留でお願いします。",
+      "english": "Please send this by registered mail.",
+      "furigana": [
+        {
+          "text": "これを"
+        },
+        {
+          "text": "書留",
+          "highlight": true,
+          "reading": "かきとめ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "お願いします",
+          "reading": "おねがいします"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217635",
+        "englishSentenceId": "1397605",
+        "url": "https://tatoeba.org/en/sentences/show/217635"
+      }
+    },
+    "acceptedJapanese": [
+      "書留",
+      "かきとめ"
+    ],
+    "acceptedEnglish": [
+      "registered mail",
+      "registered post",
+      "registration"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-learned-society-1777217242733",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学会",
+    "kanji": "学会",
+    "kana": "がっかい",
+    "meaning": "learned society",
+    "explanation": "A JLPT N2 noun meaning \"learned society\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「学会」は日本語の言葉です。",
+      "english": "\"learned society\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "学会",
+          "reading": "がっかい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "学会",
+      "がっかい"
+    ],
+    "acceptedEnglish": [
+      "learned society",
+      "scientific society",
+      "academy",
+      "academic meeting",
+      "academic conference"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-notes-1777217242736",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "筆記",
+    "kanji": "筆記",
+    "kana": "ひっき",
+    "meaning": "notes",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb, no adjective meaning \"notes\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "筆",
+        "meanings": [
+          "brush",
+          "writing"
+        ]
+      },
+      {
+        "kanji": "記",
+        "meanings": [
+          "write down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この前の娘は口述内容を筆記するのも無理だった。速記なんて論外さ。",
+      "english": "That girl couldn't take things down in longhand, let alone shorthand.",
+      "furigana": [
+        {
+          "text": "この前",
+          "reading": "このまえ"
+        },
+        {
+          "text": "の娘は"
+        },
+        {
+          "text": "口述",
+          "reading": "こうじゅつ"
+        },
+        {
+          "text": "内容",
+          "reading": "ないよう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "筆記",
+          "highlight": true,
+          "reading": "ひっき"
+        },
+        {
+          "text": "するのも"
+        },
+        {
+          "text": "無理",
+          "reading": "むり"
+        },
+        {
+          "text": "だった。"
+        },
+        {
+          "text": "速記",
+          "reading": "そっき"
+        },
+        {
+          "text": "なんて"
+        },
+        {
+          "text": "論外",
+          "reading": "ろんがい"
+        },
+        {
+          "text": "さ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220743",
+        "englishSentenceId": "58066",
+        "url": "https://tatoeba.org/en/sentences/show/220743"
+      }
+    },
+    "acceptedJapanese": [
+      "筆記",
+      "ひっき"
+    ],
+    "acceptedEnglish": [
+      "notes",
+      "copying"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-private-1777217242766",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "私立",
+    "kanji": "私立",
+    "kana": "しりつ",
+    "meaning": "private",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"private\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "私",
+        "meanings": [
+          "I",
+          "private"
+        ]
+      },
+      {
+        "kanji": "立",
+        "meanings": [
+          "stand",
+          "establish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私立の学校はどういう感じですか。",
+      "english": "How is it in a private school?",
+      "furigana": [
+        {
+          "text": "私立",
+          "highlight": true,
+          "reading": "しりつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "text": "はどういう"
+        },
+        {
+          "text": "感じ",
+          "reading": "かんじ"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "151221",
+        "englishSentenceId": "263335",
+        "url": "https://tatoeba.org/en/sentences/show/151221"
+      }
+    },
+    "acceptedJapanese": [
+      "私立",
+      "しりつ"
+    ],
+    "acceptedEnglish": [
+      "private"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-taking-an-examination-1777217242805",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "受験",
+    "kanji": "受験",
+    "kana": "じゅけん",
+    "meaning": "taking an examination",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"taking an examination\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "受",
+        "meanings": [
+          "receive"
+        ]
+      },
+      {
+        "kanji": "験",
+        "meanings": [
+          "test"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "受験に落ちた。",
+      "english": "I failed the tests.",
+      "furigana": [
+        {
+          "text": "受験",
+          "highlight": true,
+          "reading": "じゅけん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "落ち",
+          "reading": "おち"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148369",
+        "englishSentenceId": "266190",
+        "url": "https://tatoeba.org/en/sentences/show/148369"
+      }
+    },
+    "acceptedJapanese": [
+      "受験",
+      "じゅけん"
+    ],
+    "acceptedEnglish": [
+      "taking an examination"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-declensional-kana-ending-1777217242862",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "送り仮名",
+    "kanji": "送り仮名",
+    "kana": "おくりがな",
+    "meaning": "kana written after a kanji to complete the full reading of the word",
+    "explanation": "A JLPT N2 noun meaning \"kana written after a kanji to complete the full reading of the word\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "送",
+        "meanings": [
+          "send"
+        ]
+      },
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この漢字、送り仮名が間違ってるよ。",
+      "english": "The okurigana on this kanji is wrong.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "漢字",
+          "reading": "かんじ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "送り仮名",
+          "highlight": true,
+          "reading": "おくりがな"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "間",
+          "reading": "あいだ"
+        },
+        {
+          "text": "違ってるよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10804251",
+        "englishSentenceId": "10825547",
+        "url": "https://tatoeba.org/en/sentences/show/10804251"
+      }
+    },
+    "acceptedJapanese": [
+      "送り仮名",
+      "おくりがな"
+    ],
+    "acceptedEnglish": [
+      "declensional kana ending"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-upper-level-1777217242871",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "上級",
+    "kanji": "上級",
+    "kana": "じょうきゅう",
+    "meaning": "upper level",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"upper level\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      },
+      {
+        "kanji": "級",
+        "meanings": [
+          "grade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "上級ユーザーになってくれたらいいのにな。",
+      "english": "I hope you become an advanced contributor.",
+      "furigana": [
+        {
+          "text": "上級",
+          "highlight": true,
+          "reading": "じょうきゅう"
+        },
+        {
+          "text": "ユーザーになってくれたらいいのにな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10796322",
+        "englishSentenceId": "10796357",
+        "url": "https://tatoeba.org/en/sentences/show/10796322"
+      }
+    },
+    "acceptedJapanese": [
+      "上級",
+      "じょうきゅう"
+    ],
+    "acceptedEnglish": [
+      "upper level",
+      "upper grade",
+      "high rank",
+      "advanced level",
+      "senior level",
+      "upper class"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-china-and-japan-1777217242877",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "漢和",
+    "kanji": "漢和",
+    "kana": "かんわ",
+    "meaning": "China and Japan",
+    "explanation": "A JLPT N2 noun meaning \"China and Japan\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "漢",
+        "meanings": [
+          "Chinese",
+          "fellow"
+        ]
+      },
+      {
+        "kanji": "和",
+        "meanings": [
+          "harmony",
+          "peace",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「漢和」は日本語の言葉です。",
+      "english": "\"China and Japan\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "漢和",
+          "reading": "かんわ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "漢和",
+      "かんわ"
+    ],
+    "acceptedEnglish": [
+      "China and Japan",
+      "Chinese and Japanese",
+      "kanji dictionary"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-elementary-level-1777217242904",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "初級",
+    "kanji": "初級",
+    "kana": "しょきゅう",
+    "meaning": "elementary level",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"elementary level\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "初",
+        "meanings": [
+          "first"
+        ]
+      },
+      {
+        "kanji": "級",
+        "meanings": [
+          "grade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは初級の教科書です。",
+      "english": "This is a beginner's textbook.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "初級",
+          "highlight": true,
+          "reading": "しょきゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "教科書",
+          "reading": "きょうかしょ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13713996",
+        "englishSentenceId": "13713997",
+        "url": "https://tatoeba.org/en/sentences/show/13713996"
+      }
+    },
+    "acceptedJapanese": [
+      "初級",
+      "しょきゅう"
+    ],
+    "acceptedEnglish": [
+      "elementary level",
+      "beginner level"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-marks-1777217242907",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "点数",
+    "kanji": "点数",
+    "kana": "てんすう",
+    "meaning": "marks",
+    "explanation": "A JLPT N2 noun meaning \"marks\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "こんな点数じゃだめ。",
+      "english": "This score is unacceptable.",
+      "furigana": [
+        {
+          "text": "こんな"
+        },
+        {
+          "text": "点数",
+          "highlight": true,
+          "reading": "てんすう"
+        },
+        {
+          "text": "じゃだめ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10979904",
+        "englishSentenceId": "12925686",
+        "url": "https://tatoeba.org/en/sentences/show/10979904"
+      }
+    },
+    "acceptedJapanese": [
+      "点数",
+      "てんすう"
+    ],
+    "acceptedEnglish": [
+      "marks",
+      "points",
+      "score",
+      "grade",
+      "runs",
+      "number of items"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-joining-a-company-1777217242934",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "入社",
+    "kanji": "入社",
+    "kana": "にゅうしゃ",
+    "meaning": "joining a company",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"joining a company\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      },
+      {
+        "kanji": "社",
+        "meanings": [
+          "company",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "入社して何年目？",
+      "english": "How many years have you been with this company?",
+      "furigana": [
+        {
+          "text": "入社",
+          "highlight": true,
+          "reading": "にゅうしゃ"
+        },
+        {
+          "text": "して"
+        },
+        {
+          "text": "何年",
+          "reading": "なんねん"
+        },
+        {
+          "text": "目？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11559581",
+        "englishSentenceId": "10786846",
+        "url": "https://tatoeba.org/en/sentences/show/11559581"
+      }
+    },
+    "acceptedJapanese": [
+      "入社",
+      "にゅうしゃ"
+    ],
+    "acceptedEnglish": [
+      "joining a company",
+      "getting a job with a company",
+      "starting work at a company"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-bonus-1777217243060",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "ボーナス",
+    "kanji": "ボーナス",
+    "kana": "ボーナス",
+    "meaning": "bonus",
+    "explanation": "A JLPT N2 noun meaning \"bonus\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ボーナスをもらった。",
+      "english": "I got a bonus.",
+      "furigana": [
+        {
+          "text": "ボ",
+          "highlight": true,
+          "reading": "ボーナス"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ボーナス"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "ボーナス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ボーナス"
+        },
+        {
+          "text": "をもらった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "196536",
+        "englishSentenceId": "918599",
+        "url": "https://tatoeba.org/en/sentences/show/196536"
+      }
+    },
+    "acceptedJapanese": [
+      "ボーナス"
+    ],
+    "acceptedEnglish": [
+      "bonus"
+    ]
+  },
+  {
+    "id": "n2-school-work-furigana-1777217243111",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "振り仮名",
+    "kanji": "振り仮名",
+    "kana": "ふりがな",
+    "meaning": "furigana",
+    "explanation": "A JLPT N2 noun meaning \"furigana\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "振",
+        "meanings": [
+          "shake",
+          "wave",
+          "wag",
+          "swing"
+        ]
+      },
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "振り仮名はどうやって付けますか？",
+      "english": "How do I add furigana?",
+      "furigana": [
+        {
+          "text": "振り仮名",
+          "highlight": true,
+          "reading": "ふりがな"
+        },
+        {
+          "text": "はどうやって"
+        },
+        {
+          "text": "付け",
+          "reading": "つけ"
+        },
+        {
+          "text": "ますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13185253",
+        "englishSentenceId": "13185254",
+        "url": "https://tatoeba.org/en/sentences/show/13185253"
+      }
+    },
+    "acceptedJapanese": [
+      "振り仮名",
+      "ふりがな"
+    ],
+    "acceptedEnglish": [
+      "furigana"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-inspection-1777217243123",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "見学",
+    "kanji": "見学",
+    "kana": "けんがく",
+    "meaning": "inspection",
+    "explanation": "A JLPT N2 noun, suru noun meaning \"inspection\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ＮＨＫはいつでも見学できます。",
+      "english": "You can visit NHK any time.",
+      "furigana": [
+        {
+          "text": "ＮＨＫはいつでも"
+        },
+        {
+          "text": "見学",
+          "highlight": true,
+          "reading": "けんがく"
+        },
+        {
+          "text": "できます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "234819",
+        "englishSentenceId": "72197",
+        "url": "https://tatoeba.org/en/sentences/show/234819"
+      }
+    },
+    "acceptedJapanese": [
+      "見学",
+      "けんがく"
+    ],
+    "acceptedEnglish": [
+      "inspection",
+      "study by observation",
+      "field trip",
+      "tour",
+      "review",
+      "sitting out"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-literary-style-1777217243138",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "文体",
+    "kanji": "文体",
+    "kana": "ぶんたい",
+    "meaning": "literary style",
+    "explanation": "A JLPT N2 noun meaning \"literary style\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その作家の文体は挿入語句が多い。",
+      "english": "The writer has a parenthetic style.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "作家",
+          "reading": "さっか"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "文体",
+          "highlight": true,
+          "reading": "ぶんたい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "挿入",
+          "reading": "そうにゅう"
+        },
+        {
+          "text": "語句",
+          "reading": "ごく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "210522",
+        "englishSentenceId": "47790",
+        "url": "https://tatoeba.org/en/sentences/show/210522"
+      }
+    },
+    "acceptedJapanese": [
+      "文体",
+      "ぶんたい"
+    ],
+    "acceptedEnglish": [
+      "literary style",
+      "form of language"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-meeting-1777217243207",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "打ち合わせ",
+    "kanji": "打ち合わせ",
+    "kana": "うちあわせ",
+    "meaning": "meeting",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"meeting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "打",
+        "meanings": [
+          "strike",
+          "hit"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "打ち合わせはいつ始まりますか？",
+      "english": "What time does the meeting start?",
+      "furigana": [
+        {
+          "text": "打ち合わせ",
+          "highlight": true,
+          "reading": "うちあわせ"
+        },
+        {
+          "text": "はいつ"
+        },
+        {
+          "text": "始まり",
+          "reading": "はじまり"
+        },
+        {
+          "text": "ますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6554946",
+        "englishSentenceId": "4013223",
+        "url": "https://tatoeba.org/en/sentences/show/6554946"
+      }
+    },
+    "acceptedJapanese": [
+      "打ち合わせ",
+      "うちあわせ"
+    ],
+    "acceptedEnglish": [
+      "meeting",
+      "briefing session",
+      "advance arrangements"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-literature-1777217243240",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "文献",
+    "kanji": "文献",
+    "kana": "ぶんけん",
+    "meaning": "literature",
+    "explanation": "A JLPT N2 noun meaning \"literature\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "献",
+        "meanings": [
+          "offering",
+          "counter for drinks",
+          "present",
+          "offer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その事実は古い文献のいくつかに見出される。",
+      "english": "The facts are buried in a few old books.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "事実",
+          "reading": "じじつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "古い",
+          "reading": "ふるい"
+        },
+        {
+          "text": "文献",
+          "highlight": true,
+          "reading": "ぶんけん"
+        },
+        {
+          "text": "のいくつかに"
+        },
+        {
+          "text": "見出",
+          "reading": "みだ"
+        },
+        {
+          "text": "される。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "209797",
+        "englishSentenceId": "47060",
+        "url": "https://tatoeba.org/en/sentences/show/209797"
+      }
+    },
+    "acceptedJapanese": [
+      "文献",
+      "ぶんけん"
+    ],
+    "acceptedEnglish": [
+      "literature",
+      "books",
+      "document"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-science-1777217243252",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "理科",
+    "kanji": "理科",
+    "kana": "りか",
+    "meaning": "science",
+    "explanation": "A JLPT N2 noun meaning \"science\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "理",
+        "meanings": [
+          "reason",
+          "basic principle"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "理科も数学もどっちも好きです。",
+      "english": "I like both science and math.",
+      "furigana": [
+        {
+          "text": "理科",
+          "highlight": true,
+          "reading": "りか"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "数学",
+          "reading": "すうがく"
+        },
+        {
+          "text": "もどっちも"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11669253",
+        "englishSentenceId": "262182",
+        "url": "https://tatoeba.org/en/sentences/show/11669253"
+      }
+    },
+    "acceptedJapanese": [
+      "理科",
+      "りか"
+    ],
+    "acceptedEnglish": [
+      "science",
+      "natural science",
+      "science department",
+      "science course"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-junior-1777217243423",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "後輩",
+    "kanji": "後輩",
+    "kana": "こうはい",
+    "meaning": "junior",
+    "explanation": "A JLPT N2 noun meaning \"junior\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      },
+      {
+        "kanji": "輩",
+        "meanings": [
+          "fellow"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "後輩いじめは止めましょう。",
+      "english": "Let's stop picking on juniors.",
+      "furigana": [
+        {
+          "text": "後輩",
+          "highlight": true,
+          "reading": "こうはい"
+        },
+        {
+          "text": "いじめは"
+        },
+        {
+          "text": "止",
+          "reading": "と"
+        },
+        {
+          "text": "めましょう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10075875",
+        "englishSentenceId": "10180257",
+        "url": "https://tatoeba.org/en/sentences/show/10075875"
+      }
+    },
+    "acceptedJapanese": [
+      "後輩",
+      "こうはい"
+    ],
+    "acceptedEnglish": [
+      "junior",
+      "younger people",
+      "younger student"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-punctuation-mark-1777217243453",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "句読点",
+    "kanji": "句読点",
+    "kana": "くとうてん",
+    "meaning": "punctuation mark",
+    "explanation": "A JLPT N2 noun meaning \"punctuation mark\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "句",
+        "meanings": [
+          "phrase",
+          "haiku",
+          "verse"
+        ]
+      },
+      {
+        "kanji": "読",
+        "meanings": [
+          "read"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "コロンは句読点です。",
+      "english": "A colon is a punctuation mark.",
+      "furigana": [
+        {
+          "text": "コロンは"
+        },
+        {
+          "text": "句読点",
+          "highlight": true,
+          "reading": "くとうてん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8697946",
+        "englishSentenceId": "8419948",
+        "url": "https://tatoeba.org/en/sentences/show/8697946"
+      }
+    },
+    "acceptedJapanese": [
+      "句読点",
+      "くとうてん"
+    ],
+    "acceptedEnglish": [
+      "punctuation mark"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-school-work-classic-1777217243459",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "古典",
+    "kanji": "古典",
+    "kana": "こてん",
+    "meaning": "classic",
+    "explanation": "A JLPT N2 noun meaning \"classic\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "古",
+        "meanings": [
+          "old"
+        ]
+      },
+      {
+        "kanji": "典",
+        "meanings": [
+          "standard work",
+          "canon",
+          "law code",
+          "ceremony"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "古典を読むことは容易ではない。",
+      "english": "Reading classics is not easy.",
+      "furigana": [
+        {
+          "text": "古典",
+          "highlight": true,
+          "reading": "こてん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "読む",
+          "reading": "よむ"
+        },
+        {
+          "text": "ことは"
+        },
+        {
+          "text": "容易",
+          "reading": "ようい"
+        },
+        {
+          "text": "ではない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "174583",
+        "englishSentenceId": "239885",
+        "url": "https://tatoeba.org/en/sentences/show/174583"
+      }
+    },
+    "acceptedJapanese": [
+      "古典",
+      "こてん"
+    ],
+    "acceptedEnglish": [
+      "classic",
+      "the classics"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-assumption-1777217243462",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "就任",
+    "kanji": "就任",
+    "kana": "しゅうにん",
+    "meaning": "assumption",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"assumption\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "就",
+        "meanings": [
+          "set about",
+          "engage (in an occupation)",
+          "employ"
+        ]
+      },
+      {
+        "kanji": "任",
+        "meanings": [
+          "office",
+          "duty",
+          "responsibility",
+          "leave to"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は大統領に就任した。",
+      "english": "He was inaugurated as President.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "就任",
+          "highlight": true,
+          "reading": "しゅうにん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "102372",
+        "englishSentenceId": "301322",
+        "url": "https://tatoeba.org/en/sentences/show/102372"
+      }
+    },
+    "acceptedJapanese": [
+      "就任",
+      "しゅうにん"
+    ],
+    "acceptedEnglish": [
+      "assumption",
+      "taking up",
+      "inauguration",
+      "installation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-context-1777217243642",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "文脈",
+    "kanji": "文脈",
+    "kana": "ぶんみゃく",
+    "meaning": "context",
+    "explanation": "A JLPT N2 noun meaning \"context\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "脈",
+        "meanings": [
+          "vein",
+          "pulse"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その文脈は重要だ。",
+      "english": "The context is crucial.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "文脈",
+          "highlight": true,
+          "reading": "ぶんみゃく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12643252",
+        "englishSentenceId": "5747251",
+        "url": "https://tatoeba.org/en/sentences/show/12643252"
+      }
+    },
+    "acceptedJapanese": [
+      "文脈",
+      "ぶんみゃく"
+    ],
+    "acceptedEnglish": [
+      "context",
+      "line of thought",
+      "circumstances",
+      "background"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-factory-worker-1777217243645",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "工員",
+    "kanji": "工員",
+    "kana": "こういん",
+    "meaning": "factory worker",
+    "explanation": "A JLPT N2 noun meaning \"factory worker\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "工",
+        "meanings": [
+          "manufacture",
+          "construction"
+        ]
+      },
+      {
+        "kanji": "員",
+        "meanings": [
+          "member"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は新しい工員を採用した。",
+      "english": "He hired some new workers.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "新しい",
+          "reading": "あたらしい"
+        },
+        {
+          "text": "工員",
+          "highlight": true,
+          "reading": "こういん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "採用",
+          "reading": "さいよう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1043961",
+        "englishSentenceId": "1044068",
+        "url": "https://tatoeba.org/en/sentences/show/1043961"
+      }
+    },
+    "acceptedJapanese": [
+      "工員",
+      "こういん"
+    ],
+    "acceptedEnglish": [
+      "factory worker"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-hiragana-1777217243663",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "平仮名",
+    "kanji": "平仮名",
+    "kana": "ひらがな",
+    "meaning": "hiragana",
+    "explanation": "A JLPT N2 noun meaning \"hiragana\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      },
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
+      "english": "I can write hiragana, but I can't yet write katakana.",
+      "furigana": [
+        {
+          "text": "平仮名",
+          "highlight": true,
+          "reading": "ひらがな"
+        },
+        {
+          "text": "は書けるんだけど、"
+        },
+        {
+          "text": "片仮名",
+          "reading": "カタカナ"
+        },
+        {
+          "text": "はまだ書けないんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10989476",
+        "englishSentenceId": "10989430",
+        "url": "https://tatoeba.org/en/sentences/show/10989476"
+      }
+    },
+    "acceptedJapanese": [
+      "平仮名",
+      "ひらがな"
+    ],
+    "acceptedEnglish": [
+      "hiragana"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-suspension-of-business-1777217243666",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "休業",
+    "kanji": "休業",
+    "kana": "きゅうぎょう",
+    "meaning": "suspension of business",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"suspension of business\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      },
+      {
+        "kanji": "業",
+        "meanings": [
+          "work",
+          "business",
+          "industry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "多くの会社が休業した。",
+      "english": "Many businesses closed down.",
+      "furigana": [
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "休業",
+          "highlight": true,
+          "reading": "きゅうぎょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "138434",
+        "englishSentenceId": "274801",
+        "url": "https://tatoeba.org/en/sentences/show/138434"
+      }
+    },
+    "acceptedJapanese": [
+      "休業",
+      "きゅうぎょう"
+    ],
+    "acceptedEnglish": [
+      "suspension of business",
+      "temporary closure",
+      "shutdown",
+      "holiday"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-zero-1777217243678",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "零点",
+    "kanji": "零点",
+    "kana": "れいてん",
+    "meaning": "zero",
+    "explanation": "A JLPT N2 noun meaning \"zero\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "零",
+        "meanings": [
+          "zero"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そのテストではだれも零点をとらなかった。",
+      "english": "Nobody got zero in that test.",
+      "furigana": [
+        {
+          "text": "そのテストではだれも"
+        },
+        {
+          "text": "零点",
+          "highlight": true,
+          "reading": "れいてん"
+        },
+        {
+          "text": "をとらなかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "212952",
+        "englishSentenceId": "50237",
+        "url": "https://tatoeba.org/en/sentences/show/212952"
+      }
+    },
+    "acceptedJapanese": [
+      "零点",
+      "れいてん"
+    ],
+    "acceptedEnglish": [
+      "zero",
+      "no marks",
+      "root",
+      "zero degrees",
+      "freezing point"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-ink-1777217243690",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "インキ",
+    "kanji": "インキ",
+    "kana": "インキ",
+    "meaning": "ink",
+    "explanation": "A JLPT N2 noun meaning \"ink\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ペンとインキで書きなさい。",
+      "english": "Write with pen and ink.",
+      "furigana": [
+        {
+          "text": "ペンと"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "インキ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "インキ"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "インキ"
+        },
+        {
+          "text": "で書きなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "196625",
+        "englishSentenceId": "33804",
+        "url": "https://tatoeba.org/en/sentences/show/196625"
+      }
+    },
+    "acceptedJapanese": [
+      "インキ"
+    ],
+    "acceptedEnglish": [
+      "ink"
+    ]
+  },
+  {
+    "id": "n2-school-work-seminar-1777217243693",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "ゼミ",
+    "kanji": "ゼミ",
+    "kana": "ゼミ",
+    "meaning": "seminar",
+    "explanation": "A JLPT N2 noun meaning \"seminar\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "「ゼミ」は日本語の言葉です。",
+      "english": "\"seminar\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "ゼミ",
+          "reading": "ゼミ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "ゼミ"
+    ],
+    "acceptedEnglish": [
+      "seminar"
+    ]
+  },
+  {
+    "id": "n2-school-work-latin-alphabet-1777217243699",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "ローマ字",
+    "kanji": "ローマ字",
+    "kana": "ローマじ",
+    "meaning": "Latin alphabet",
+    "explanation": "A JLPT N2 noun meaning \"Latin alphabet\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "字",
+        "meanings": [
+          "character"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「ローマ字」は日本語の言葉です。",
+      "english": "\"Latin alphabet\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "ローマ字",
+          "reading": "ローマじ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "ローマ字",
+      "ローマじ"
+    ],
+    "acceptedEnglish": [
+      "Latin alphabet",
+      "Roman alphabet",
+      "romaji",
+      "romanized Japanese"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-draft-1777217243708",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "下書き",
+    "kanji": "下書き",
+    "kana": "したがき",
+    "meaning": "draft",
+    "explanation": "A JLPT N2 noun, suru noun meaning \"draft\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私はスピーチの下書きを書いています。",
+      "english": "I am writing a draft of the speech.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はスピーチの"
+        },
+        {
+          "text": "下書き",
+          "highlight": true,
+          "reading": "したがき"
+        },
+        {
+          "text": "を書いています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "160503",
+        "englishSentenceId": "254018",
+        "url": "https://tatoeba.org/en/sentences/show/160503"
+      }
+    },
+    "acceptedJapanese": [
+      "下書き",
+      "したがき"
+    ],
+    "acceptedEnglish": [
+      "draft",
+      "rough copy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-practice-1777217243756",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "実習",
+    "kanji": "実習",
+    "kana": "じっしゅう",
+    "meaning": "practice",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"practice\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "実",
+        "meanings": [
+          "real",
+          "fruit",
+          "nut"
+        ]
+      },
+      {
+        "kanji": "習",
+        "meanings": [
+          "learn",
+          "custom"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は実習をします。",
+      "english": "I'm going to do an apprenticeship.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "実習",
+          "highlight": true,
+          "reading": "じっしゅう"
+        },
+        {
+          "text": "をします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12640681",
+        "englishSentenceId": "6873045",
+        "url": "https://tatoeba.org/en/sentences/show/12640681"
+      }
+    },
+    "acceptedJapanese": [
+      "実習",
+      "じっしゅう"
+    ],
+    "acceptedEnglish": [
+      "practice",
+      "training",
+      "practical exercise",
+      "drill"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-creation-1777217243789",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "創作",
+    "kanji": "創作",
+    "kana": "そうさく",
+    "meaning": "creation",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"creation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "創",
+        "meanings": [
+          "create"
+        ]
+      },
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは彼女の創作だろう。",
+      "english": "I think she made up that story.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "創作",
+          "highlight": true,
+          "reading": "そうさく"
+        },
+        {
+          "text": "だろう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204909",
+        "englishSentenceId": "42151",
+        "url": "https://tatoeba.org/en/sentences/show/204909"
+      }
+    },
+    "acceptedJapanese": [
+      "創作",
+      "そうさく"
+    ],
+    "acceptedEnglish": [
+      "creation",
+      "production",
+      "creative work",
+      "original work",
+      "writing",
+      "fabrication"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-timetable-1777217243810",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "時間割",
+    "kanji": "時間割",
+    "kana": "じかんわり",
+    "meaning": "timetable",
+    "explanation": "A JLPT N2 noun meaning \"timetable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "時",
+        "meanings": [
+          "time"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      },
+      {
+        "kanji": "割",
+        "meanings": [
+          "divide",
+          "split"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "時間割をもらえますか。",
+      "english": "Can I get the schedule?",
+      "furigana": [
+        {
+          "text": "時間割",
+          "highlight": true,
+          "reading": "じかんわり"
+        },
+        {
+          "text": "をもらえますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150530",
+        "englishSentenceId": "13490482",
+        "url": "https://tatoeba.org/en/sentences/show/150530"
+      }
+    },
+    "acceptedJapanese": [
+      "時間割",
+      "じかんわり"
+    ],
+    "acceptedEnglish": [
+      "timetable",
+      "schedule"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-material-1777217243825",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "資料",
+    "kanji": "資料",
+    "kana": "しりょう",
+    "meaning": "material",
+    "explanation": "A JLPT N2 noun meaning \"material\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "資",
+        "meanings": [
+          "resources",
+          "capital",
+          "funds"
+        ]
+      },
+      {
+        "kanji": "料",
+        "meanings": [
+          "fee",
+          "materials"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この資料が必要なんです。",
+      "english": "I need those documents.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "資料",
+          "highlight": true,
+          "reading": "しりょう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "なんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11283940",
+        "englishSentenceId": "3017316",
+        "url": "https://tatoeba.org/en/sentences/show/11283940"
+      }
+    },
+    "acceptedJapanese": [
+      "資料",
+      "しりょう"
+    ],
+    "acceptedEnglish": [
+      "material",
+      "materials",
+      "data",
+      "information",
+      "documents"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-term-1777217243837",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "用語",
+    "kanji": "用語",
+    "kana": "ようご",
+    "meaning": "term",
+    "explanation": "A JLPT N2 noun meaning \"term\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "用",
+        "meanings": [
+          "employ",
+          "things to do"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「放射能」というのは化学の用語だ。",
+      "english": "'Radioactivity' is a chemistry term.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "放射能",
+          "reading": "ほうしゃのう"
+        },
+        {
+          "text": "」というのは"
+        },
+        {
+          "text": "化",
+          "reading": "か"
+        },
+        {
+          "text": "学",
+          "reading": "がく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "用語",
+          "highlight": true,
+          "reading": "ようご"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "876553",
+        "englishSentenceId": "492548",
+        "url": "https://tatoeba.org/en/sentences/show/876553"
+      }
+    },
+    "acceptedJapanese": [
+      "用語",
+      "ようご"
+    ],
+    "acceptedEnglish": [
+      "term",
+      "terminology",
+      "wording",
+      "choice of words",
+      "phraseology"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-aquatic-products-1777217243963",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "水産",
+    "kanji": "水産",
+    "kana": "すいさん",
+    "meaning": "aquatic products",
+    "explanation": "A JLPT N2 noun meaning \"aquatic products\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      },
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「水産」は日本語の言葉です。",
+      "english": "\"aquatic products\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "水産",
+          "reading": "すいさん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "水産",
+      "すいさん"
+    ],
+    "acceptedEnglish": [
+      "aquatic products",
+      "fisheries"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-marking-1777217243975",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "採点",
+    "kanji": "採点",
+    "kana": "さいてん",
+    "meaning": "marking",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"marking\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "採",
+        "meanings": [
+          "pick",
+          "gather",
+          "take",
+          "accept"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "先生は答案の採点に忙しい。",
+      "english": "The teacher is busy marking papers.",
+      "furigana": [
+        {
+          "text": "先",
+          "reading": "さき"
+        },
+        {
+          "text": "生",
+          "reading": "は"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "答案",
+          "reading": "とうあん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "採点",
+          "highlight": true,
+          "reading": "さいてん"
+        },
+        {
+          "text": "に忙しい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141530",
+        "englishSentenceId": "273041",
+        "url": "https://tatoeba.org/en/sentences/show/141530"
+      }
+    },
+    "acceptedJapanese": [
+      "採点",
+      "さいてん"
+    ],
+    "acceptedEnglish": [
+      "marking",
+      "grading",
+      "scoring"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-fair-copy-1777217244038",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "清書",
+    "kanji": "清書",
+    "kana": "せいしょ",
+    "meaning": "fair copy",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"fair copy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "清",
+        "meanings": [
+          "clear",
+          "purify",
+          "pure"
+        ]
+      },
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "マユコは原稿の清書をした。",
+      "english": "Mayuko made a fair copy of the draft.",
+      "furigana": [
+        {
+          "text": "マユコは"
+        },
+        {
+          "text": "原稿",
+          "reading": "げんこう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "清書",
+          "highlight": true,
+          "reading": "せいしょ"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "195208",
+        "englishSentenceId": "32382",
+        "url": "https://tatoeba.org/en/sentences/show/195208"
+      }
+    },
+    "acceptedJapanese": [
+      "清書",
+      "せいしょ"
+    ],
+    "acceptedEnglish": [
+      "fair copy",
+      "clean copy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-underline-1777217244095",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "下線",
+    "kanji": "下線",
+    "kana": "かせん",
+    "meaning": "underline",
+    "explanation": "A JLPT N2 noun meaning \"underline\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "線",
+        "meanings": [
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "下線のある文を訳しなさい。",
+      "english": "Translate the underlined sentences.",
+      "furigana": [
+        {
+          "text": "下線",
+          "highlight": true,
+          "reading": "かせん"
+        },
+        {
+          "text": "のある"
+        },
+        {
+          "text": "文",
+          "reading": "ぶん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "訳",
+          "reading": "やく"
+        },
+        {
+          "text": "しなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188220",
+        "englishSentenceId": "25360",
+        "url": "https://tatoeba.org/en/sentences/show/188220"
+      }
+    },
+    "acceptedJapanese": [
+      "下線",
+      "かせん"
+    ],
+    "acceptedEnglish": [
+      "underline",
+      "underscore"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-predicate-1777217244128",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "述語",
+    "kanji": "述語",
+    "kana": "じゅつご",
+    "meaning": "predicate",
+    "explanation": "A JLPT N2 noun meaning \"predicate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "述",
+        "meanings": [
+          "state",
+          "mention",
+          "refer to",
+          "explain"
+        ]
+      },
+      {
+        "kanji": "語",
+        "meanings": [
+          "language",
+          "word",
+          "tell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「述語」は日本語の言葉です。",
+      "english": "\"predicate\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "述語",
+          "reading": "じゅつご",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "述語",
+      "じゅつご"
+    ],
+    "acceptedEnglish": [
+      "predicate"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-failure-1777217244143",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "落第",
+    "kanji": "落第",
+    "kana": "らくだい",
+    "meaning": "failure",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"failure\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "落",
+        "meanings": [
+          "fall"
+        ]
+      },
+      {
+        "kanji": "第",
+        "meanings": [
+          "ordinal number prefix",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これじゃ落第だよ。",
+      "english": "Well this is a failure.",
+      "furigana": [
+        {
+          "text": "これじゃ"
+        },
+        {
+          "text": "落第",
+          "highlight": true,
+          "reading": "らくだい"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10899535",
+        "englishSentenceId": "13079706",
+        "url": "https://tatoeba.org/en/sentences/show/10899535"
+      }
+    },
+    "acceptedJapanese": [
+      "落第",
+      "らくだい"
+    ],
+    "acceptedEnglish": [
+      "failure",
+      "failing to advance",
+      "falling short of the standard",
+      "not making the grade"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-official-business-1777217244215",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "公務",
+    "kanji": "公務",
+    "kana": "こうむ",
+    "meaning": "official business",
+    "explanation": "A JLPT N2 noun meaning \"official business\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "公",
+        "meanings": [
+          "public",
+          "official"
+        ]
+      },
+      {
+        "kanji": "務",
+        "meanings": [
+          "duty",
+          "work",
+          "serve"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "公務のために多くの時間がとられる。",
+      "english": "My public duties take a lot of time.",
+      "furigana": [
+        {
+          "text": "公務",
+          "highlight": true,
+          "reading": "こうむ"
+        },
+        {
+          "text": "のために"
+        },
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "がとられる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173964",
+        "englishSentenceId": "240505",
+        "url": "https://tatoeba.org/en/sentences/show/173964"
+      }
+    },
+    "acceptedJapanese": [
+      "公務",
+      "こうむ"
+    ],
+    "acceptedEnglish": [
+      "official business",
+      "public business"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-office-worker-1777217244242",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "サラリーマン",
+    "kanji": "サラリーマン",
+    "kana": "サラリーマン",
+    "meaning": "office worker",
+    "explanation": "A JLPT N2 noun meaning \"office worker\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私はしがないサラリーマンです。",
+      "english": "I'm just a plain office worker.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はしがない"
+        },
+        {
+          "text": "サ",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "サラリーマン"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "477341",
+        "englishSentenceId": "477343",
+        "url": "https://tatoeba.org/en/sentences/show/477341"
+      }
+    },
+    "acceptedJapanese": [
+      "サラリーマン"
+    ],
+    "acceptedEnglish": [
+      "office worker",
+      "company employee",
+      "company man",
+      "salaryman"
+    ]
+  },
+  {
+    "id": "n2-school-work-answer-1777217244293",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "解答",
+    "kanji": "解答",
+    "kana": "かいとう",
+    "meaning": "answer",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"answer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "解",
+        "meanings": [
+          "take apart",
+          "dissolve",
+          "clarify",
+          "untie"
+        ]
+      },
+      {
+        "kanji": "答",
+        "meanings": [
+          "answer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "解答のうち一つは正しいよ。",
+      "english": "One of the answers is correct.",
+      "furigana": [
+        {
+          "text": "解答",
+          "highlight": true,
+          "reading": "かいとう"
+        },
+        {
+          "text": "のうち"
+        },
+        {
+          "text": "一つ",
+          "reading": "ひとつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "正しい",
+          "reading": "ただしい"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9034993",
+        "englishSentenceId": "5049004",
+        "url": "https://tatoeba.org/en/sentences/show/9034993"
+      }
+    },
+    "acceptedJapanese": [
+      "解答",
+      "かいとう"
+    ],
+    "acceptedEnglish": [
+      "answer",
+      "solution"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-construction-work-1777217244317",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "工事",
+    "kanji": "工事",
+    "kana": "こうじ",
+    "meaning": "construction work",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb, intransitive verb meaning \"construction work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "工",
+        "meanings": [
+          "manufacture",
+          "construction"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "工事は10月に始まった。",
+      "english": "Construction began in October.",
+      "furigana": [
+        {
+          "text": "工事",
+          "highlight": true,
+          "reading": "こうじ"
+        },
+        {
+          "text": "は10"
+        },
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "に始まった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7422012",
+        "englishSentenceId": "4495997",
+        "url": "https://tatoeba.org/en/sentences/show/7422012"
+      }
+    },
+    "acceptedJapanese": [
+      "工事",
+      "こうじ"
+    ],
+    "acceptedEnglish": [
+      "construction work"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-assistant-professor-1777217244332",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "助教授",
+    "kanji": "助教授",
+    "kana": "じょきょうじゅ",
+    "meaning": "assistant professor",
+    "explanation": "A JLPT N2 noun meaning \"assistant professor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "助",
+        "meanings": [
+          "help",
+          "rescue",
+          "assistance"
+        ]
+      },
+      {
+        "kanji": "教",
+        "meanings": [
+          "teach",
+          "religion"
+        ]
+      },
+      {
+        "kanji": "授",
+        "meanings": [
+          "confer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は教授です、いやもっと正確に言えば、助教授です。",
+      "english": "I'm a professor, or rather an associate professor, to be exact.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "教授",
+          "reading": "きょうじゅ"
+        },
+        {
+          "text": "です、いやもっと"
+        },
+        {
+          "text": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "えば、"
+        },
+        {
+          "text": "助教授",
+          "highlight": true,
+          "reading": "じょきょうじゅ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "157593",
+        "englishSentenceId": "256938",
+        "url": "https://tatoeba.org/en/sentences/show/157593"
+      }
+    },
+    "acceptedJapanese": [
+      "助教授",
+      "じょきょうじゅ"
+    ],
+    "acceptedEnglish": [
+      "assistant professor",
+      "associate professor"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-school-work-stationery-1777217244416",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "文房具",
+    "kanji": "文房具",
+    "kana": "ぶんぼうぐ",
+    "meaning": "stationery",
+    "explanation": "A JLPT N2 noun meaning \"stationery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "房",
+        "meanings": [
+          "tassel",
+          "tuft",
+          "fringe",
+          "bunch"
+        ]
+      },
+      {
+        "kanji": "具",
+        "meanings": [
+          "implement",
+          "tool"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は学校の売店で文房具を買った。",
+      "english": "He bought some stationery at the school store.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "売店",
+          "reading": "ばいてん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "文房具",
+          "highlight": true,
+          "reading": "ぶんぼうぐ"
+        },
+        {
+          "text": "を買った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108872",
+        "englishSentenceId": "294817",
+        "url": "https://tatoeba.org/en/sentences/show/108872"
+      }
+    },
+    "acceptedJapanese": [
+      "文房具",
+      "ぶんぼうぐ"
+    ],
+    "acceptedEnglish": [
+      "stationery"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-amount-sold-1777217244431",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "売り上げ",
+    "kanji": "売り上げ",
+    "kana": "うりあげ",
+    "meaning": "amount sold",
+    "explanation": "A JLPT N2 noun meaning \"amount sold\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "売",
+        "meanings": [
+          "sell"
+        ]
+      },
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "売り上げが減少しています。",
+      "english": "Our sales are decreasing.",
+      "furigana": [
+        {
+          "text": "売り上げ",
+          "highlight": true,
+          "reading": "うりあげ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "減少",
+          "reading": "げんしょう"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10318338",
+        "englishSentenceId": "262629",
+        "url": "https://tatoeba.org/en/sentences/show/10318338"
+      }
+    },
+    "acceptedJapanese": [
+      "売り上げ",
+      "うりあげ"
+    ],
+    "acceptedEnglish": [
+      "amount sold",
+      "sales",
+      "proceeds",
+      "takings",
+      "turnover"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-japanese-english-1777217244551",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "和英",
+    "kanji": "和英",
+    "kana": "わえい",
+    "meaning": "Japanese-English",
+    "explanation": "A JLPT N2 noun meaning \"Japanese-English\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "和",
+        "meanings": [
+          "harmony",
+          "peace",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "英",
+        "meanings": [
+          "distinguished",
+          "England"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「和英」は日本語の言葉です。",
+      "english": "\"Japanese-English\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "和英",
+          "reading": "わえい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "和英",
+      "わえい"
+    ],
+    "acceptedEnglish": [
+      "Japanese-English",
+      "Japanese-English dictionary"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-arithmetic-1777217244623",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "算数",
+    "kanji": "算数",
+    "kana": "さんすう",
+    "meaning": "arithmetic",
+    "explanation": "A JLPT N2 noun meaning \"arithmetic\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "算",
+        "meanings": [
+          "calculate"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "算数は数を取り扱う。",
+      "english": "Arithmetic deals with numbers.",
+      "furigana": [
+        {
+          "text": "算数",
+          "highlight": true,
+          "reading": "さんすう"
+        },
+        {
+          "text": "は数を"
+        },
+        {
+          "text": "取り扱う",
+          "reading": "とりあつかう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "169314",
+        "englishSentenceId": "245172",
+        "url": "https://tatoeba.org/en/sentences/show/169314"
+      }
+    },
+    "acceptedJapanese": [
+      "算数",
+      "さんすう"
+    ],
+    "acceptedEnglish": [
+      "arithmetic",
+      "calculation"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-course-1777217244665",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "課程",
+    "kanji": "課程",
+    "kana": "かてい",
+    "meaning": "course",
+    "explanation": "A JLPT N2 noun meaning \"course\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "課",
+        "meanings": [
+          "section",
+          "lesson"
+        ]
+      },
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "しっかりと大学の課程を終えました。",
+      "english": "I completed the university course comfortably.",
+      "furigana": [
+        {
+          "text": "しっかりと"
+        },
+        {
+          "text": "大学",
+          "reading": "だいがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "課程",
+          "highlight": true,
+          "reading": "かてい"
+        },
+        {
+          "text": "を終えました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1019395",
+        "englishSentenceId": "1019399",
+        "url": "https://tatoeba.org/en/sentences/show/1019395"
+      }
+    },
+    "acceptedJapanese": [
+      "課程",
+      "かてい"
+    ],
+    "acceptedEnglish": [
+      "course",
+      "curriculum"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-chalk-1777217244743",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "チョーク",
+    "kanji": "チョーク",
+    "kana": "チョーク",
+    "meaning": "chalk",
+    "explanation": "A JLPT N2 noun meaning \"chalk\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "チョークを一本下さい。",
+      "english": "Give me a piece of chalk.",
+      "furigana": [
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "チョーク"
+        },
+        {
+          "text": "ョ",
+          "highlight": true,
+          "reading": "チョーク"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "チョーク"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "チョーク"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "一本",
+          "reading": "いっぽん"
+        },
+        {
+          "text": "下さい",
+          "reading": "ください"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202877",
+        "englishSentenceId": "40112",
+        "url": "https://tatoeba.org/en/sentences/show/202877"
+      }
+    },
+    "acceptedJapanese": [
+      "チョーク"
+    ],
+    "acceptedEnglish": [
+      "chalk"
+    ]
+  },
+  {
+    "id": "n2-school-work-elementary-school-student-1777217244764",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "小学生",
+    "kanji": "小学生",
+    "kana": "しょうがくせい",
+    "meaning": "elementary school student",
+    "explanation": "A JLPT N2 noun meaning \"elementary school student\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "小",
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "生",
+        "meanings": [
+          "life",
+          "be born",
+          "student"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らはそのころ小学生でした。",
+      "english": "They were school children then.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "はそのころ"
+        },
+        {
+          "text": "小学生",
+          "highlight": true,
+          "reading": "しょうがくせい"
+        },
+        {
+          "text": "でした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "97997",
+        "englishSentenceId": "305706",
+        "url": "https://tatoeba.org/en/sentences/show/97997"
+      }
+    },
+    "acceptedJapanese": [
+      "小学生",
+      "しょうがくせい"
+    ],
+    "acceptedEnglish": [
+      "elementary school student",
+      "primary school student",
+      "grade school student"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-adjective-1777217244773",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "形容詞",
+    "kanji": "形容詞",
+    "kana": "けいようし",
+    "meaning": "adjective",
+    "explanation": "A JLPT N2 noun meaning \"adjective\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "形",
+        "meanings": [
+          "shape"
+        ]
+      },
+      {
+        "kanji": "容",
+        "meanings": [
+          "appearance",
+          "contain"
+        ]
+      },
+      {
+        "kanji": "詞",
+        "meanings": [
+          "words"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「小さい」と「ちっちゃい」は形容詞です。",
+      "english": "\"Small\" and \"tiny\" are adjectives.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "小さい",
+          "reading": "ちいさい"
+        },
+        {
+          "text": "」と「ちっちゃい」は"
+        },
+        {
+          "text": "形容詞",
+          "highlight": true,
+          "reading": "けいようし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11140981",
+        "englishSentenceId": "11179204",
+        "url": "https://tatoeba.org/en/sentences/show/11140981"
+      }
+    },
+    "acceptedJapanese": [
+      "形容詞",
+      "けいようし"
+    ],
+    "acceptedEnglish": [
+      "adjective",
+      "i-adjective"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-commuting-to-work-1777217244788",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "通勤",
+    "kanji": "通勤",
+    "kana": "つうきん",
+    "meaning": "commuting to work",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"commuting to work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      },
+      {
+        "kanji": "勤",
+        "meanings": [
+          "service"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "自転車で通勤しています。",
+      "english": "I bike to work.",
+      "furigana": [
+        {
+          "text": "自転車",
+          "reading": "じてんしゃ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "通勤",
+          "highlight": true,
+          "reading": "つうきん"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150079",
+        "englishSentenceId": "264478",
+        "url": "https://tatoeba.org/en/sentences/show/150079"
+      }
+    },
+    "acceptedJapanese": [
+      "通勤",
+      "つうきん"
+    ],
+    "acceptedEnglish": [
+      "commuting to work"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-kana-1777217244803",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "仮名",
+    "kanji": "仮名",
+    "kana": "かな",
+    "meaning": "kana",
+    "explanation": "A JLPT N2 noun meaning \"kana\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この本に振り仮名をつけてください。",
+      "english": "Please add furigana to this book.",
+      "furigana": [
+        {
+          "text": "この本に"
+        },
+        {
+          "text": "振り"
+        },
+        {
+          "text": "仮名",
+          "highlight": true,
+          "reading": "かな"
+        },
+        {
+          "text": "をつけてください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13185247",
+        "englishSentenceId": "13185248",
+        "url": "https://tatoeba.org/en/sentences/show/13185247"
+      }
+    },
+    "acceptedJapanese": [
+      "仮名",
+      "かな"
+    ],
+    "acceptedEnglish": [
+      "kana",
+      "Japanese syllabaries"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-interview-1777217244818",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "面接",
+    "kanji": "面接",
+    "kana": "めんせつ",
+    "meaning": "interview",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"interview\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "面",
+        "meanings": [
+          "face",
+          "mask",
+          "surface"
+        ]
+      },
+      {
+        "kanji": "接",
+        "meanings": [
+          "contact",
+          "touch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "面接はどうだった？",
+      "english": "How was your interview?",
+      "furigana": [
+        {
+          "text": "面接",
+          "highlight": true,
+          "reading": "めんせつ"
+        },
+        {
+          "text": "はどうだった？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12440066",
+        "englishSentenceId": "8263263",
+        "url": "https://tatoeba.org/en/sentences/show/12440066"
+      }
+    },
+    "acceptedJapanese": [
+      "面接",
+      "めんせつ"
+    ],
+    "acceptedEnglish": [
+      "interview"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-radical-1777217245013",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "部首",
+    "kanji": "部首",
+    "kana": "ぶしゅ",
+    "meaning": "radical",
+    "explanation": "A JLPT N2 noun meaning \"radical\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "部",
+        "meanings": [
+          "section"
+        ]
+      },
+      {
+        "kanji": "首",
+        "meanings": [
+          "head",
+          "neck",
+          "leader"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「部首」は日本語の言葉です。",
+      "english": "\"radical\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "部首",
+          "reading": "ぶしゅ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "部首",
+      "ぶしゅ"
+    ],
+    "acceptedEnglish": [
+      "radical"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-trading-company-1777217245019",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "商社",
+    "kanji": "商社",
+    "kana": "しょうしゃ",
+    "meaning": "trading company",
+    "explanation": "A JLPT N2 noun meaning \"trading company\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "商",
+        "meanings": [
+          "trade",
+          "deal"
+        ]
+      },
+      {
+        "kanji": "社",
+        "meanings": [
+          "company",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は商社で働いています。",
+      "english": "I work for a trading company.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "商社",
+          "highlight": true,
+          "reading": "しょうしゃ"
+        },
+        {
+          "text": "で働いています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "155923",
+        "englishSentenceId": "258613",
+        "url": "https://tatoeba.org/en/sentences/show/155923"
+      }
+    },
+    "acceptedJapanese": [
+      "商社",
+      "しょうしゃ"
+    ],
+    "acceptedEnglish": [
+      "trading company"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-shipbuilding-1777217245049",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "造船",
+    "kanji": "造船",
+    "kana": "ぞうせん",
+    "meaning": "shipbuilding",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"shipbuilding\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "造",
+        "meanings": [
+          "make",
+          "produce",
+          "build"
+        ]
+      },
+      {
+        "kanji": "船",
+        "meanings": [
+          "ship",
+          "boat",
+          "vessel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「造船」は日本語の言葉です。",
+      "english": "\"shipbuilding\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "造船",
+          "reading": "ぞうせん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "造船",
+      "ぞうせん"
+    ],
+    "acceptedEnglish": [
+      "shipbuilding"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-business-trip-1777217245073",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "出張",
+    "kanji": "出張",
+    "kana": "しゅっちょう",
+    "meaning": "business trip",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"business trip\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "張",
+        "meanings": [
+          "spread",
+          "strain",
+          "stretch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "出張は多いですか。",
+      "english": "Do you often take business trips?",
+      "furigana": [
+        {
+          "text": "出張",
+          "highlight": true,
+          "reading": "しゅっちょう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147714",
+        "englishSentenceId": "594716",
+        "url": "https://tatoeba.org/en/sentences/show/147714"
+      }
+    },
+    "acceptedJapanese": [
+      "出張",
+      "しゅっちょう"
+    ],
+    "acceptedEnglish": [
+      "business trip",
+      "official trip"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-speaker-1777217245214",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "講師",
+    "kanji": "講師",
+    "kana": "こうし",
+    "meaning": "speaker",
+    "explanation": "A JLPT N2 noun meaning \"speaker\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "講",
+        "meanings": [
+          "lecture"
+        ]
+      },
+      {
+        "kanji": "師",
+        "meanings": [
+          "master",
+          "teacher"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "講師は公害問題について講演した。",
+      "english": "The lecturer spoke on pollution problems.",
+      "furigana": [
+        {
+          "text": "講師",
+          "highlight": true,
+          "reading": "こうし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "公害",
+          "reading": "こうがい"
+        },
+        {
+          "text": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "text": "について"
+        },
+        {
+          "text": "講演",
+          "reading": "こうえん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173293",
+        "englishSentenceId": "241178",
+        "url": "https://tatoeba.org/en/sentences/show/173293"
+      }
+    },
+    "acceptedJapanese": [
+      "講師",
+      "こうし"
+    ],
+    "acceptedEnglish": [
+      "speaker",
+      "lecturer",
+      "instructor",
+      "part-time teacher",
+      "tutor"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-self-study-1777217245301",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "自習",
+    "kanji": "自習",
+    "kana": "じしゅう",
+    "meaning": "self-study",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"self-study\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "自",
+        "meanings": [
+          "self"
+        ]
+      },
+      {
+        "kanji": "習",
+        "meanings": [
+          "learn",
+          "custom"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「今日はリチャード先生がお休みなので、英語の授業は自習です」「キター！」",
+      "english": "\"Since Richard is away today, English class will be self study.\" \"Nice!\"",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "はリチャード"
+        },
+        {
+          "text": "先",
+          "reading": "さき"
+        },
+        {
+          "text": "生",
+          "reading": "は"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "お休み",
+          "reading": "おやすみ"
+        },
+        {
+          "text": "なので、"
+        },
+        {
+          "text": "英語",
+          "reading": "えいご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "授業",
+          "reading": "じゅぎょう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "自習",
+          "highlight": true,
+          "reading": "じしゅう"
+        },
+        {
+          "text": "です」「キター！」"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9779023",
+        "englishSentenceId": "10124565",
+        "url": "https://tatoeba.org/en/sentences/show/9779023"
+      }
+    },
+    "acceptedJapanese": [
+      "自習",
+      "じしゅう"
+    ],
+    "acceptedEnglish": [
+      "self-study",
+      "teaching oneself"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-cancellation-1777217245316",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "休講",
+    "kanji": "休講",
+    "kana": "きゅうこう",
+    "meaning": "cancellation",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"cancellation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      },
+      {
+        "kanji": "講",
+        "meanings": [
+          "lecture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「・・・おい・・・おい、先生！」「え？・・・あ、ああ」「マジだいじょうぶ？休講にしたら？」",
+      "english": "\"...Hey...Hey, teacher!\" \"Eh? Oh.\" \"Are you really OK? Shouldn't you cancel the lesson?\"",
+      "furigana": [
+        {
+          "text": "「・・・おい・・・おい、"
+        },
+        {
+          "text": "先",
+          "reading": "さき"
+        },
+        {
+          "text": "生",
+          "reading": "は"
+        },
+        {
+          "text": "！」「え？・・・あ、ああ」「マジだいじょうぶ？"
+        },
+        {
+          "text": "休講",
+          "highlight": true,
+          "reading": "きゅうこう"
+        },
+        {
+          "text": "にしたら？」"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74875",
+        "englishSentenceId": "328844",
+        "url": "https://tatoeba.org/en/sentences/show/74875"
+      }
+    },
+    "acceptedJapanese": [
+      "休講",
+      "きゅうこう"
+    ],
+    "acceptedEnglish": [
+      "cancellation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-science-1777217245352",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学術",
+    "kanji": "学術",
+    "kana": "がくじゅつ",
+    "meaning": "science",
+    "explanation": "A JLPT N2 noun meaning \"science\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "術",
+        "meanings": [
+          "practical art",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「学術」は日本語の言葉です。",
+      "english": "\"science\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "学術",
+          "reading": "がくじゅつ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "学術",
+      "がくじゅつ"
+    ],
+    "acceptedEnglish": [
+      "science",
+      "learning",
+      "scholarship",
+      "arts and sciences",
+      "academic pursuits"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-english-writing-1777217245358",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "英文",
+    "kanji": "英文",
+    "kana": "えいぶん",
+    "meaning": "English writing",
+    "explanation": "A JLPT N2 noun meaning \"English writing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "英",
+        "meanings": [
+          "distinguished",
+          "England"
+        ]
+      },
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この文を英文にしなさい。",
+      "english": "Put this sentence into English.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "文",
+          "reading": "ぶん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "英文",
+          "highlight": true,
+          "reading": "えいぶん"
+        },
+        {
+          "text": "にしなさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "219905",
+        "englishSentenceId": "56842",
+        "url": "https://tatoeba.org/en/sentences/show/219905"
+      }
+    },
+    "acceptedJapanese": [
+      "英文",
+      "えいぶん"
+    ],
+    "acceptedEnglish": [
+      "English writing",
+      "English sentence",
+      "English text",
+      "English literature",
+      "English lit"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-interpretation-1777217245406",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "通訳",
+    "kanji": "通訳",
+    "kana": "つうやく",
+    "meaning": "interpretation",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"interpretation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      },
+      {
+        "kanji": "訳",
+        "meanings": [
+          "translate",
+          "sense",
+          "reason"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "通訳が必要です。",
+      "english": "I need an interpreter.",
+      "furigana": [
+        {
+          "text": "通訳",
+          "highlight": true,
+          "reading": "つうやく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13117381",
+        "englishSentenceId": "1389751",
+        "url": "https://tatoeba.org/en/sentences/show/13117381"
+      }
+    },
+    "acceptedJapanese": [
+      "通訳",
+      "つうやく"
+    ],
+    "acceptedEnglish": [
+      "interpretation"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-english-japanese-1777217245439",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "英和",
+    "kanji": "英和",
+    "kana": "えいわ",
+    "meaning": "English-Japanese",
+    "explanation": "A JLPT N2 noun meaning \"English-Japanese\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "英",
+        "meanings": [
+          "distinguished",
+          "England"
+        ]
+      },
+      {
+        "kanji": "和",
+        "meanings": [
+          "harmony",
+          "peace",
+          "Japan"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「英和」は日本語の言葉です。",
+      "english": "\"English-Japanese\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "英和",
+          "reading": "えいわ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "英和",
+      "えいわ"
+    ],
+    "acceptedEnglish": [
+      "English-Japanese",
+      "English-Japanese dictionary"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-dialect-1777217245460",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "方言",
+    "kanji": "方言",
+    "kana": "ほうげん",
+    "meaning": "dialect",
+    "explanation": "A JLPT N2 noun meaning \"dialect\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      },
+      {
+        "kanji": "言",
+        "meanings": [
+          "say",
+          "speech"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは南部の方言で話していた。",
+      "english": "They were speaking in a Southern dialect.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "南部",
+          "reading": "なんぶ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "方言",
+          "highlight": true,
+          "reading": "ほうげん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "話し",
+          "reading": "はなし"
+        },
+        {
+          "text": "ていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "96442",
+        "englishSentenceId": "307263",
+        "url": "https://tatoeba.org/en/sentences/show/96442"
+      }
+    },
+    "acceptedJapanese": [
+      "方言",
+      "ほうげん"
+    ],
+    "acceptedEnglish": [
+      "dialect",
+      "provincialism"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-accent-1777217245484",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "アクセント",
+    "kanji": "アクセント",
+    "kana": "アクセント",
+    "meaning": "accent",
+    "explanation": "A JLPT N2 noun meaning \"accent\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "この語のアクセントはどこにあるか。",
+      "english": "How is the word accented?",
+      "furigana": [
+        {
+          "text": "この語の"
+        },
+        {
+          "text": "ア",
+          "highlight": true,
+          "reading": "アクセント"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "アクセント"
+        },
+        {
+          "text": "セ",
+          "highlight": true,
+          "reading": "アクセント"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "アクセント"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "アクセント"
+        },
+        {
+          "text": "はどこにあるか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222022",
+        "englishSentenceId": "59346",
+        "url": "https://tatoeba.org/en/sentences/show/222022"
+      }
+    },
+    "acceptedJapanese": [
+      "アクセント"
+    ],
+    "acceptedEnglish": [
+      "accent",
+      "stress",
+      "pitch accent",
+      "intonation",
+      "inflection",
+      "cadence"
+    ]
+  },
+  {
+    "id": "n2-school-work-editing-1777217245568",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "編集",
+    "kanji": "編集",
+    "kana": "へんしゅう",
+    "meaning": "editing",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"editing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "編",
+        "meanings": [
+          "compile",
+          "knit",
+          "edit"
+        ]
+      },
+      {
+        "kanji": "集",
+        "meanings": [
+          "collect"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "編集モードをクリックする。",
+      "english": "Click on \"edit mode\".",
+      "furigana": [
+        {
+          "text": "編集",
+          "highlight": true,
+          "reading": "へんしゅう"
+        },
+        {
+          "text": "モードをクリックする。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8255795",
+        "englishSentenceId": "10238430",
+        "url": "https://tatoeba.org/en/sentences/show/8255795"
+      }
+    },
+    "acceptedJapanese": [
+      "編集",
+      "へんしゅう"
+    ],
+    "acceptedEnglish": [
+      "editing",
+      "compilation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-writing-paper-1777217245604",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "便箋",
+    "kanji": "便箋",
+    "kana": "びんせん",
+    "meaning": "writing paper",
+    "explanation": "A JLPT N2 noun meaning \"writing paper\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "便",
+        "meanings": [
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
+        ]
+      },
+      {
+        "kanji": "箋",
+        "meanings": [
+          "paper",
+          "label",
+          "letter",
+          "composition"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "便箋をください。",
+      "english": "I need some writing paper.",
+      "furigana": [
+        {
+          "text": "便箋",
+          "highlight": true,
+          "reading": "びんせん"
+        },
+        {
+          "text": "をください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83327",
+        "englishSentenceId": "320389",
+        "url": "https://tatoeba.org/en/sentences/show/83327"
+      }
+    },
+    "acceptedJapanese": [
+      "便箋",
+      "びんせん"
+    ],
+    "acceptedEnglish": [
+      "writing paper",
+      "stationery",
+      "notepaper"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-kana-orthography-1777217245628",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "仮名遣い",
+    "kanji": "仮名遣い",
+    "kana": "かなづかい",
+    "meaning": "kana orthography",
+    "explanation": "A JLPT N2 noun meaning \"kana orthography\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "仮",
+        "meanings": [
+          "temporary",
+          "tentative"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      },
+      {
+        "kanji": "遣",
+        "meanings": [
+          "dispatch",
+          "despatch",
+          "send",
+          "give"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "祖父は古い仮名遣いで書くことがあるの。",
+      "english": "My grandfather sometimes writes in the old kana orthography.",
+      "furigana": [
+        {
+          "text": "祖"
+        },
+        {
+          "text": "父",
+          "reading": "ちち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "古い",
+          "reading": "ふるい"
+        },
+        {
+          "text": "仮名遣い",
+          "highlight": true,
+          "reading": "かなづかい"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "書く",
+          "reading": "かく"
+        },
+        {
+          "text": "ことがあるの。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13714003",
+        "englishSentenceId": "13714004",
+        "url": "https://tatoeba.org/en/sentences/show/13714003"
+      }
+    },
+    "acceptedJapanese": [
+      "仮名遣い",
+      "かなづかい"
+    ],
+    "acceptedEnglish": [
+      "kana orthography",
+      "syllabary spelling"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-perfect-score-1777217245637",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "満点",
+    "kanji": "満点",
+    "kana": "まんてん",
+    "meaning": "perfect score",
+    "explanation": "A JLPT N2 noun meaning \"perfect score\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "満",
+        "meanings": [
+          "full"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は満点を取った。",
+      "english": "He got full marks.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "満点",
+          "highlight": true,
+          "reading": "まんてん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "取",
+          "reading": "しゅ"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "99757",
+        "englishSentenceId": "303940",
+        "url": "https://tatoeba.org/en/sentences/show/99757"
+      }
+    },
+    "acceptedJapanese": [
+      "満点",
+      "まんてん"
+    ],
+    "acceptedEnglish": [
+      "perfect score",
+      "full marks"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-going-to-work-1777217245664",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "出勤",
+    "kanji": "出勤",
+    "kana": "しゅっきん",
+    "meaning": "going to work",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"going to work\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "勤",
+        "meanings": [
+          "service"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お休みの日に出勤っていうのが嫌なのよ。",
+      "english": "I don't like going to work on a holiday.",
+      "furigana": [
+        {
+          "text": "お休み",
+          "reading": "おやすみ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "出勤",
+          "highlight": true,
+          "reading": "しゅっきん"
+        },
+        {
+          "text": "っていうのが"
+        },
+        {
+          "text": "嫌",
+          "reading": "いや"
+        },
+        {
+          "text": "なのよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11525216",
+        "englishSentenceId": "12428818",
+        "url": "https://tatoeba.org/en/sentences/show/11525216"
+      }
+    },
+    "acceptedJapanese": [
+      "出勤",
+      "しゅっきん"
+    ],
+    "acceptedEnglish": [
+      "going to work",
+      "leaving for work",
+      "attendance",
+      "being at work",
+      "presence",
+      "reporting for work"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-attending-1777217245670",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "在学",
+    "kanji": "在学",
+    "kana": "ざいがく",
+    "meaning": "attending",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"attending\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "在",
+        "meanings": [
+          "be",
+          "exist"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はその大学に在学している。",
+      "english": "He is enrolled at that university.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はその"
+        },
+        {
+          "text": "大学",
+          "reading": "だいがく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "在学",
+          "highlight": true,
+          "reading": "ざいがく"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "112558",
+        "englishSentenceId": "919056",
+        "url": "https://tatoeba.org/en/sentences/show/112558"
+      }
+    },
+    "acceptedJapanese": [
+      "在学",
+      "ざいがく"
+    ],
+    "acceptedEnglish": [
+      "attending",
+      "being enrolled",
+      "being a student"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-monthly-salary-1777217245682",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "月給",
+    "kanji": "月給",
+    "kana": "げっきゅう",
+    "meaning": "monthly salary",
+    "explanation": "A JLPT N2 noun meaning \"monthly salary\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      },
+      {
+        "kanji": "給",
+        "meanings": [
+          "supply",
+          "pay"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "月給っていくら？",
+      "english": "What's your monthly pay?",
+      "furigana": [
+        {
+          "text": "月給",
+          "highlight": true,
+          "reading": "げっきゅう"
+        },
+        {
+          "text": "っていくら？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11332083",
+        "englishSentenceId": "9431922",
+        "url": "https://tatoeba.org/en/sentences/show/11332083"
+      }
+    },
+    "acceptedJapanese": [
+      "月給",
+      "げっきゅう"
+    ],
+    "acceptedEnglish": [
+      "monthly salary"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-equation-1777217245763",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "方程式",
+    "kanji": "方程式",
+    "kana": "ほうていしき",
+    "meaning": "equation",
+    "explanation": "A JLPT N2 noun meaning \"equation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      },
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      },
+      {
+        "kanji": "式",
+        "meanings": [
+          "style",
+          "ceremony"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "以下の方程式の解を求めよ。",
+      "english": "Find the solution to the following equation.",
+      "furigana": [
+        {
+          "text": "以下",
+          "reading": "いか"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "方程式",
+          "highlight": true,
+          "reading": "ほうていしき"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "解",
+          "reading": "かい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "求め",
+          "reading": "もとめ"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11648521",
+        "englishSentenceId": "11648522",
+        "url": "https://tatoeba.org/en/sentences/show/11648521"
+      }
+    },
+    "acceptedJapanese": [
+      "方程式",
+      "ほうていしき"
+    ],
+    "acceptedEnglish": [
+      "equation",
+      "formula",
+      "method for solving a problem",
+      "set way of achieving a particular result"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-kindergarten-1777217245775",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "幼稚園",
+    "kanji": "幼稚園",
+    "kana": "ようちえん",
+    "meaning": "kindergarten",
+    "explanation": "A JLPT N2 noun meaning \"kindergarten\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "幼",
+        "meanings": [
+          "very young",
+          "infantile"
+        ]
+      },
+      {
+        "kanji": "稚",
+        "meanings": [
+          "immature",
+          "young"
+        ]
+      },
+      {
+        "kanji": "園",
+        "meanings": [
+          "garden"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は幼稚園に通っている。",
+      "english": "He goes to kindergarten.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "幼稚園",
+          "highlight": true,
+          "reading": "ようちえん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "通",
+          "reading": "つう"
+        },
+        {
+          "text": "っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12143119",
+        "englishSentenceId": "1394677",
+        "url": "https://tatoeba.org/en/sentences/show/12143119"
+      }
+    },
+    "acceptedJapanese": [
+      "幼稚園",
+      "ようちえん"
+    ],
+    "acceptedEnglish": [
+      "kindergarten",
+      "preschool"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-school-work-trade-1777217245781",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "売買",
+    "kanji": "売買",
+    "kana": "ばいばい",
+    "meaning": "trade",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"trade\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "売",
+        "meanings": [
+          "sell"
+        ]
+      },
+      {
+        "kanji": "買",
+        "meanings": [
+          "buy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ディール市内と近辺の家屋の売買を仲介しています。",
+      "english": "She arranges the buying and selling of houses in and around Deal.",
+      "furigana": [
+        {
+          "text": "ディール"
+        },
+        {
+          "text": "市内",
+          "reading": "しない"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "近辺",
+          "reading": "きんぺん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "家屋",
+          "reading": "かおく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "売買",
+          "highlight": true,
+          "reading": "ばいばい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "仲介",
+          "reading": "ちゅうかい"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202505",
+        "englishSentenceId": "39724",
+        "url": "https://tatoeba.org/en/sentences/show/202505"
+      }
+    },
+    "acceptedJapanese": [
+      "売買",
+      "ばいばい"
+    ],
+    "acceptedEnglish": [
+      "trade",
+      "buying and selling",
+      "trafficking",
+      "dealing"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-noun-1777217245838",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "名詞",
+    "kanji": "名詞",
+    "kana": "めいし",
+    "meaning": "noun",
+    "explanation": "A JLPT N2 noun meaning \"noun\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      },
+      {
+        "kanji": "詞",
+        "meanings": [
+          "words"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "名詞を修飾するものは、形容詞または形容詞相当語句です。",
+      "english": "Things that modify nouns are adjectives or equivalent to adjectives.",
+      "furigana": [
+        {
+          "text": "名詞",
+          "highlight": true,
+          "reading": "めいし"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "修飾",
+          "reading": "しゅうしょく"
+        },
+        {
+          "text": "するものは、"
+        },
+        {
+          "text": "形容詞",
+          "reading": "けいようし"
+        },
+        {
+          "text": "または"
+        },
+        {
+          "text": "形容詞",
+          "reading": "けいようし"
+        },
+        {
+          "text": "相当",
+          "reading": "そうとう"
+        },
+        {
+          "text": "語句",
+          "reading": "ごく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10109643",
+        "englishSentenceId": "10109654",
+        "url": "https://tatoeba.org/en/sentences/show/10109643"
+      }
+    },
+    "acceptedJapanese": [
+      "名詞",
+      "めいし"
+    ],
+    "acceptedEnglish": [
+      "noun"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-director-1777217245886",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "重役",
+    "kanji": "重役",
+    "kana": "じゅうやく",
+    "meaning": "director",
+    "explanation": "A JLPT N2 noun meaning \"director\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "重",
+        "meanings": [
+          "heavy"
+        ]
+      },
+      {
+        "kanji": "役",
+        "meanings": [
+          "service",
+          "role"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は保険会社の重役である。",
+      "english": "He is an executive in an insurance company.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "保険会社",
+          "reading": "ほけんがいしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "重役",
+          "highlight": true,
+          "reading": "じゅうやく"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "100094",
+        "englishSentenceId": "303602",
+        "url": "https://tatoeba.org/en/sentences/show/100094"
+      }
+    },
+    "acceptedJapanese": [
+      "重役",
+      "じゅうやく"
+    ],
+    "acceptedEnglish": [
+      "director",
+      "executive",
+      "top management",
+      "important post",
+      "role with heavy responsibilities"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-subject-1777217245976",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "学科",
+    "kanji": "学科",
+    "kana": "がっか",
+    "meaning": "subject",
+    "explanation": "A JLPT N2 noun meaning \"subject\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "科",
+        "meanings": [
+          "subject of study"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "物理は私の苦手な学科です。",
+      "english": "Physics is my weak subject.",
+      "furigana": [
+        {
+          "text": "物理",
+          "reading": "ぶつり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "苦手",
+          "reading": "にがて"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "学科",
+          "highlight": true,
+          "reading": "がっか"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83737",
+        "englishSentenceId": "319979",
+        "url": "https://tatoeba.org/en/sentences/show/83737"
+      }
+    },
+    "acceptedJapanese": [
+      "学科",
+      "がっか"
+    ],
+    "acceptedEnglish": [
+      "subject",
+      "course of study",
+      "department"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-ruler-1777217245979",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "定規",
+    "kanji": "定規",
+    "kana": "じょうぎ",
+    "meaning": "ruler",
+    "explanation": "A JLPT N2 noun meaning \"ruler\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      },
+      {
+        "kanji": "規",
+        "meanings": [
+          "regulation",
+          "measure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "定規で線を書いて。",
+      "english": "Draw a line with a ruler.",
+      "furigana": [
+        {
+          "text": "定規",
+          "highlight": true,
+          "reading": "じょうぎ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "線",
+          "reading": "せん"
+        },
+        {
+          "text": "を書いて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11351735",
+        "englishSentenceId": "2985703",
+        "url": "https://tatoeba.org/en/sentences/show/11351735"
+      }
+    },
+    "acceptedJapanese": [
+      "定規",
+      "じょうぎ"
+    ],
+    "acceptedEnglish": [
+      "ruler"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-school-work-print-1777217246033",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "プリント",
+    "kanji": "プリント",
+    "kana": "プリント",
+    "meaning": "print",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"print\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ミスプリントのないような本はほとんどない。",
+      "english": "There are few books without misprints.",
+      "furigana": [
+        {
+          "text": "ミス"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "プリント"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "プリント"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "プリント"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "プリント"
+        },
+        {
+          "text": "のないような本はほとんどない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "195102",
+        "englishSentenceId": "2435108",
+        "url": "https://tatoeba.org/en/sentences/show/195102"
+      }
+    },
+    "acceptedJapanese": [
+      "プリント"
+    ],
+    "acceptedEnglish": [
+      "print",
+      "printing",
+      "copy"
+    ]
+  },
+  {
+    "id": "n2-school-work-speech-1777217246039",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "言葉遣い",
+    "kanji": "言葉遣い",
+    "kana": "ことばづかい",
+    "meaning": "speech",
+    "explanation": "A JLPT N2 noun meaning \"speech\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "言",
+        "meanings": [
+          "say",
+          "speech"
+        ]
+      },
+      {
+        "kanji": "葉",
+        "meanings": [
+          "leaf",
+          "foliage"
+        ]
+      },
+      {
+        "kanji": "遣",
+        "meanings": [
+          "dispatch",
+          "despatch",
+          "send",
+          "give"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "言葉遣いにはいつも気をつけるべきです。",
+      "english": "You should always be careful in your speech.",
+      "furigana": [
+        {
+          "text": "言葉遣い",
+          "highlight": true,
+          "reading": "ことばづかい"
+        },
+        {
+          "text": "にはいつも"
+        },
+        {
+          "text": "気をつける",
+          "reading": "きをつける"
+        },
+        {
+          "text": "べきです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "174675",
+        "englishSentenceId": "239794",
+        "url": "https://tatoeba.org/en/sentences/show/174675"
+      }
+    },
+    "acceptedJapanese": [
+      "言葉遣い",
+      "ことばづかい"
+    ],
+    "acceptedEnglish": [
+      "speech",
+      "expression",
+      "wording",
+      "language"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-school-work-business-card-1777217246060",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "名刺",
+    "kanji": "名刺",
+    "kana": "めいし",
+    "meaning": "business card",
+    "explanation": "A JLPT N2 noun meaning \"business card\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      },
+      {
+        "kanji": "刺",
+        "meanings": [
+          "stab",
+          "pierce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どうぞ、私の名刺です。",
+      "english": "Here's my business card.",
+      "furigana": [
+        {
+          "text": "どうぞ、"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "名刺",
+          "highlight": true,
+          "reading": "めいし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2193086",
+        "englishSentenceId": "7936983",
+        "url": "https://tatoeba.org/en/sentences/show/2193086"
+      }
+    },
+    "acceptedJapanese": [
+      "名刺",
+      "めいし"
+    ],
+    "acceptedEnglish": [
+      "business card"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-school-work-the-japanese-syllabary-1777217246084",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "五十音",
+    "kanji": "五十音",
+    "kana": "ごじゅうおん",
+    "meaning": "the Japanese syllabary",
+    "explanation": "A JLPT N2 noun meaning \"the Japanese syllabary\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "五",
+        "meanings": [
+          "five"
+        ]
+      },
+      {
+        "kanji": "十",
+        "meanings": [
+          "ten"
+        ]
+      },
+      {
+        "kanji": "音",
+        "meanings": [
+          "sound"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「五十音」は日本語の言葉です。",
+      "english": "\"the Japanese syllabary\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "五十音",
+          "reading": "ごじゅうおん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "五十音",
+      "ごじゅうおん"
+    ],
+    "acceptedEnglish": [
+      "the Japanese syllabary"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-school-work-adjectival-noun-1777217246096",
+    "jlpt": "N2",
+    "subcategory": "School/Work",
+    "name": "形容動詞",
+    "kanji": "形容動詞",
+    "kana": "けいようどうし",
+    "meaning": "adjectival noun",
+    "explanation": "A JLPT N2 noun meaning \"adjectival noun\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "形",
+        "meanings": [
+          "shape"
+        ]
+      },
+      {
+        "kanji": "容",
+        "meanings": [
+          "appearance",
+          "contain"
+        ]
+      },
+      {
+        "kanji": "動",
+        "meanings": [
+          "move"
+        ]
+      },
+      {
+        "kanji": "詞",
+        "meanings": [
+          "words"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「形容動詞」は日本語の言葉です。",
+      "english": "\"adjectival noun\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "形容動詞",
+          "reading": "けいようどうし",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "形容動詞",
+      "けいようどうし"
+    ],
+    "acceptedEnglish": [
+      "adjectival noun",
+      "quasi-adjective",
+      "nominal adjective",
+      "na-",
+      "taru-",
+      "nari- or tari-adjective"
+    ],
+    "pitchAccentNumber": 5
+  }
+]

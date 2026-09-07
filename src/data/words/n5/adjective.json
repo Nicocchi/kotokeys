@@ -64,7 +64,10 @@
       {
         "kanji": "詰",
         "meanings": [
-          "dull"
+          "reprimand",
+          "stuff",
+          "closely packed",
+          "cram"
         ]
       }
     ],
@@ -126,7 +129,8 @@
       {
         "kanji": "明",
         "meanings": [
-          "light"
+          "bright",
+          "clear"
         ]
       }
     ],
@@ -191,7 +195,7 @@
       {
         "kanji": "色",
         "meanings": [
-          "yellow"
+          "color"
         ]
       }
     ],
@@ -239,13 +243,14 @@
       {
         "kanji": "元",
         "meanings": [
-          "lively"
+          "origin"
         ]
       },
       {
         "kanji": "気",
         "meanings": [
-          "lively"
+          "gas",
+          "spirit"
         ]
       }
     ],
@@ -356,7 +361,7 @@
       {
         "kanji": "広",
         "meanings": [
-          "spacious"
+          "wide"
         ]
       }
     ],
@@ -405,7 +410,7 @@
       {
         "kanji": "色",
         "meanings": [
-          "various"
+          "color"
         ]
       }
     ],
@@ -510,13 +515,16 @@
       {
         "kanji": "真",
         "meanings": [
-          "straight"
+          "true",
+          "genuine"
         ]
       },
       {
         "kanji": "直",
         "meanings": [
-          "straight"
+          "straight",
+          "fix",
+          "repair"
         ]
       }
     ],
@@ -570,13 +578,13 @@
       {
         "kanji": "沢",
         "meanings": [
-          "a lot"
+          "marsh"
         ]
       },
       {
         "kanji": "山",
         "meanings": [
-          "a lot"
+          "mountain"
         ]
       }
     ],
@@ -649,7 +657,8 @@
       {
         "kanji": "好",
         "meanings": [
-          "liking"
+          "like",
+          "favorable"
         ]
       }
     ],
@@ -712,13 +721,13 @@
       {
         "kanji": "不",
         "meanings": [
-          "bad"
+          "not"
         ]
       },
       {
         "kanji": "味",
         "meanings": [
-          "bad"
+          "taste"
         ]
       }
     ],
@@ -832,7 +841,9 @@
       {
         "kanji": "楽",
         "meanings": [
-          "enjoyable"
+          "pleasure",
+          "comfortable",
+          "music"
         ]
       }
     ],
@@ -956,7 +967,7 @@
       {
         "kanji": "痛",
         "meanings": [
-          "painful"
+          "pain"
         ]
       }
     ],
@@ -1013,7 +1024,8 @@
       {
         "kanji": "難",
         "meanings": [
-          "difficult"
+          "difficult",
+          "disaster"
         ]
       }
     ],
@@ -1065,7 +1077,8 @@
       {
         "kanji": "早",
         "meanings": [
-          "fast"
+          "early",
+          "quick"
         ]
       }
     ],
@@ -1131,19 +1144,23 @@
       {
         "kanji": "大",
         "meanings": [
-          "safe"
+          "big"
         ]
       },
       {
         "kanji": "丈",
         "meanings": [
-          "safe"
+          "length",
+          "ten shaku",
+          "measure",
+          "Mr."
         ]
       },
       {
         "kanji": "夫",
         "meanings": [
-          "safe"
+          "husband",
+          "man laborer"
         ]
       }
     ],
@@ -1195,7 +1212,7 @@
       {
         "kanji": "甘",
         "meanings": [
-          "sweet-tasting"
+          "sweet"
         ]
       }
     ],
@@ -1251,7 +1268,7 @@
       {
         "kanji": "困",
         "meanings": [
-          "to be troubled"
+          "be in trouble"
         ]
       }
     ],
@@ -1310,13 +1327,13 @@
       {
         "kanji": "下",
         "meanings": [
-          "unskillful"
+          "down"
         ]
       },
       {
         "kanji": "手",
         "meanings": [
-          "unskillful"
+          "hand"
         ]
       }
     ],
@@ -1381,13 +1398,15 @@
       {
         "kanji": "面",
         "meanings": [
-          "interesting"
+          "face",
+          "mask",
+          "surface"
         ]
       },
       {
         "kanji": "白",
         "meanings": [
-          "interesting"
+          "white"
         ]
       }
     ],
@@ -1489,73 +1508,6 @@
     "pitchAccentNumber": 4
   },
   {
-    "id": "n5-adjective-black-tea-1777217253257",
-    "jlpt": "N5",
-    "subcategory": "Adjective",
-    "name": "紅茶",
-    "kanji": "紅茶",
-    "kana": "こうちゃ",
-    "meaning": "black tea",
-    "explanation": "A JLPT N5 noun meaning \"black tea\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "紅",
-        "meanings": [
-          "black tea"
-        ]
-      },
-      {
-        "kanji": "茶",
-        "meanings": [
-          "black tea"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "緑茶と紅茶、どっちが好き？",
-      "english": "Do you prefer green tea or black tea?",
-      "furigana": [
-        {
-          "text": "緑茶",
-          "reading": "りょくちゃ"
-        },
-        {
-          "text": "と"
-        },
-        {
-          "text": "紅茶",
-          "highlight": true,
-          "reading": "こうちゃ"
-        },
-        {
-          "text": "、どっちが"
-        },
-        {
-          "text": "好き",
-          "reading": "すき"
-        },
-        {
-          "text": "？"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "10134451",
-        "englishSentenceId": "6942442",
-        "url": "https://tatoeba.org/en/sentences/show/10134451"
-      }
-    },
-    "acceptedJapanese": [
-      "紅茶",
-      "こうちゃ"
-    ],
-    "acceptedEnglish": [
-      "black tea"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-adjective-fat-1777217253266",
     "jlpt": "N5",
     "subcategory": "Adjective",
@@ -1568,7 +1520,8 @@
       {
         "kanji": "太",
         "meanings": [
-          "fat"
+          "great",
+          "thick"
         ]
       }
     ],
@@ -1623,7 +1576,8 @@
       {
         "kanji": "長",
         "meanings": [
-          "long"
+          "long",
+          "chief"
         ]
       }
     ],
@@ -1679,7 +1633,9 @@
       {
         "kanji": "賑",
         "meanings": [
-          "bustling"
+          "flourish",
+          "be bustling",
+          "prosperity"
         ]
       }
     ],
@@ -1840,6 +1796,7 @@
       {
         "kanji": "暑",
         "meanings": [
+          "summer heat",
           "hot"
         ]
       }
@@ -1955,7 +1912,8 @@
       {
         "kanji": "厚",
         "meanings": [
-          "thick"
+          "thick",
+          "kind"
         ]
       }
     ],
@@ -2023,7 +1981,7 @@
       {
         "kanji": "色",
         "meanings": [
-          "yellow"
+          "color"
         ]
       }
     ],
@@ -2079,7 +2037,8 @@
       {
         "kanji": "嫌",
         "meanings": [
-          "disliking"
+          "dislike",
+          "unpleasant"
         ]
       }
     ],
@@ -2197,13 +2156,18 @@
       {
         "kanji": "便",
         "meanings": [
-          "convenient"
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
         ]
       },
       {
         "kanji": "利",
         "meanings": [
-          "convenient"
+          "advantage",
+          "profit",
+          "be effective"
         ]
       }
     ],
@@ -2357,7 +2321,7 @@
       {
         "kanji": "少",
         "meanings": [
-          "few"
+          "little"
         ]
       }
     ],
@@ -2478,13 +2442,13 @@
       {
         "kanji": "大",
         "meanings": [
-          "important"
+          "big"
         ]
       },
       {
         "kanji": "切",
         "meanings": [
-          "important"
+          "cut"
         ]
       }
     ],
@@ -2543,7 +2507,7 @@
       {
         "kanji": "色",
         "meanings": [
-          "colour"
+          "color"
         ]
       }
     ],
@@ -2605,7 +2569,10 @@
       {
         "kanji": "煩",
         "meanings": [
-          "noisy"
+          "anxiety",
+          "trouble",
+          "worry",
+          "pain"
         ]
       }
     ],
@@ -2723,7 +2690,10 @@
       {
         "kanji": "薄",
         "meanings": [
-          "thin"
+          "thin",
+          "weak",
+          "light",
+          "fade"
         ]
       }
     ],
@@ -2841,13 +2811,14 @@
       {
         "kanji": "大",
         "meanings": [
-          "liking very much"
+          "big"
         ]
       },
       {
         "kanji": "好",
         "meanings": [
-          "liking very much"
+          "like",
+          "favorable"
         ]
       }
     ],
@@ -2897,62 +2868,6 @@
       "being very fond of"
     ],
     "pitchAccentNumber": 1
-  },
-  {
-    "id": "n5-adjective-truth-1777217253770",
-    "jlpt": "N5",
-    "subcategory": "Adjective",
-    "name": "本当",
-    "kanji": "本当",
-    "kana": "ほんとう",
-    "meaning": "truth",
-    "explanation": "A JLPT N5 noun, no adjective, na adjective meaning \"truth\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "本",
-        "meanings": [
-          "truth"
-        ]
-      },
-      {
-        "kanji": "当",
-        "meanings": [
-          "truth"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "本当ですよ。",
-      "english": "It's the truth.",
-      "furigana": [
-        {
-          "text": "本当",
-          "highlight": true,
-          "reading": "ほんとう"
-        },
-        {
-          "text": "ですよ。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "81564",
-        "englishSentenceId": "560933",
-        "url": "https://tatoeba.org/en/sentences/show/81564"
-      }
-    },
-    "acceptedJapanese": [
-      "本当",
-      "ほんとう"
-    ],
-    "acceptedEnglish": [
-      "truth",
-      "reality",
-      "actuality",
-      "fact"
-    ],
-    "pitchAccentNumber": 0
   },
   {
     "id": "n5-adjective-black-1777217253803",
@@ -3014,13 +2929,17 @@
       {
         "kanji": "綺",
         "meanings": [
-          "pretty"
+          "figured cloth",
+          "beautiful"
         ]
       },
       {
         "kanji": "麗",
         "meanings": [
-          "pretty"
+          "lovely",
+          "beautiful",
+          "graceful",
+          "resplendent"
         ]
       }
     ],
@@ -3126,67 +3045,6 @@
     "pitchAccentNumber": 2
   },
   {
-    "id": "n5-adjective-adult-1777217253884",
-    "jlpt": "N5",
-    "subcategory": "Adjective",
-    "name": "大人",
-    "kanji": "大人",
-    "kana": "おとな",
-    "meaning": "adult",
-    "explanation": "A JLPT N5 noun, no adjective, na adjective meaning \"adult\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "大",
-        "meanings": [
-          "adult"
-        ]
-      },
-      {
-        "kanji": "人",
-        "meanings": [
-          "adult"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "君はもう大人だ。",
-      "english": "You are now an adult.",
-      "furigana": [
-        {
-          "text": "君",
-          "reading": "きみ"
-        },
-        {
-          "text": "はもう"
-        },
-        {
-          "text": "大人",
-          "highlight": true,
-          "reading": "おとな"
-        },
-        {
-          "text": "だ。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "177535",
-        "englishSentenceId": "16387",
-        "url": "https://tatoeba.org/en/sentences/show/177535"
-      }
-    },
-    "acceptedJapanese": [
-      "大人",
-      "おとな"
-    ],
-    "acceptedEnglish": [
-      "adult",
-      "grown-up"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-adjective-dark-1777217253890",
     "jlpt": "N5",
     "subcategory": "Adjective",
@@ -3199,7 +3057,8 @@
       {
         "kanji": "暗",
         "meanings": [
-          "dark"
+          "dark",
+          "dim"
         ]
       }
     ],
@@ -3258,13 +3117,13 @@
       {
         "kanji": "茶",
         "meanings": [
-          "brown"
+          "tea"
         ]
       },
       {
         "kanji": "色",
         "meanings": [
-          "brown"
+          "color"
         ]
       }
     ],
@@ -3323,7 +3182,8 @@
       {
         "kanji": "遅",
         "meanings": [
-          "slow"
+          "slow",
+          "late"
         ]
       }
     ],
@@ -3375,13 +3235,14 @@
       {
         "kanji": "可",
         "meanings": [
-          "cute"
+          "able",
+          "approve"
         ]
       },
       {
         "kanji": "愛",
         "meanings": [
-          "cute"
+          "love"
         ]
       }
     ],
@@ -3779,13 +3640,13 @@
       {
         "kanji": "有",
         "meanings": [
-          "famous"
+          "have"
         ]
       },
       {
         "kanji": "名",
         "meanings": [
-          "famous"
+          "name"
         ]
       }
     ],
@@ -3896,7 +3757,8 @@
       {
         "kanji": "丸",
         "meanings": [
-          "round"
+          "round",
+          "suffix for names of ships/people"
         ]
       }
     ],
@@ -3998,7 +3860,8 @@
       {
         "kanji": "欲",
         "meanings": [
-          "wanting"
+          "desire",
+          "want"
         ]
       }
     ],
@@ -4050,13 +3913,14 @@
       {
         "kanji": "美",
         "meanings": [
-          "good"
+          "beautiful",
+          "beauty"
         ]
       },
       {
         "kanji": "味",
         "meanings": [
-          "good"
+          "taste"
         ]
       }
     ],
@@ -4108,7 +3972,8 @@
       {
         "kanji": "嫌",
         "meanings": [
-          "disliked"
+          "dislike",
+          "unpleasant"
         ]
       }
     ],
@@ -4281,7 +4146,10 @@
       {
         "kanji": "細",
         "meanings": [
-          "thin"
+          "slender",
+          "minute",
+          "narrow",
+          "fine"
         ]
       }
     ],
@@ -4345,6 +4213,7 @@
       {
         "kanji": "遠",
         "meanings": [
+          "distant",
           "far"
         ]
       }
@@ -4400,7 +4269,7 @@
       {
         "kanji": "温",
         "meanings": [
-          "lukewarm"
+          "warm"
         ]
       }
     ],
@@ -4737,13 +4606,16 @@
       {
         "kanji": "立",
         "meanings": [
-          "splendid"
+          "stand",
+          "establish"
         ]
       },
       {
         "kanji": "派",
         "meanings": [
-          "splendid"
+          "sect",
+          "group",
+          "dispatch"
         ]
       }
     ],
@@ -4872,7 +4744,8 @@
       {
         "kanji": "悪",
         "meanings": [
-          "bad"
+          "bad",
+          "evil"
         ]
       }
     ],
@@ -5098,7 +4971,8 @@
       {
         "kanji": "近",
         "meanings": [
-          "near"
+          "near",
+          "recent"
         ]
       }
     ],
@@ -5157,7 +5031,8 @@
       {
         "kanji": "易",
         "meanings": [
-          "easy"
+          "easy",
+          "exchange"
         ]
       }
     ],
@@ -5216,7 +5091,8 @@
       {
         "kanji": "安",
         "meanings": [
-          "cheap"
+          "peaceful",
+          "inexpensive"
         ]
       }
     ],
@@ -5267,13 +5143,15 @@
       {
         "kanji": "結",
         "meanings": [
-          "splendid"
+          "tie",
+          "conclude"
         ]
       },
       {
         "kanji": "構",
         "meanings": [
-          "splendid"
+          "construct",
+          "mind"
         ]
       }
     ],

@@ -5,14 +5,16 @@
     "subcategory": "Time",
     "name": "６日",
     "kanji": "６日",
-    "kana": "６むいか",
+    "kana": "むいか",
     "meaning": "6th day of the month",
     "explanation": "A JLPT N5 noun meaning \"6th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "6th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -23,7 +25,7 @@
         {
           "text": "６日",
           "highlight": true,
-          "reading": "６むいか"
+          "reading": "むいか"
         },
         {
           "text": "の"
@@ -57,12 +59,13 @@
     },
     "acceptedJapanese": [
       "６日",
-      "６むいか"
+      "むいか"
     ],
     "acceptedEnglish": [
       "6th day of the month",
       "six days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-7th-day-of-the-month-1777217252762",
@@ -70,14 +73,16 @@
     "subcategory": "Time",
     "name": "７日",
     "kanji": "７日",
-    "kana": "７なのか",
+    "kana": "なのか",
     "meaning": "7th day of the month",
     "explanation": "A JLPT N5 noun meaning \"7th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "7th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -95,7 +100,7 @@
         {
           "text": "７日",
           "highlight": true,
-          "reading": "７なのか"
+          "reading": "なのか"
         },
         {
           "text": "です。"
@@ -111,12 +116,13 @@
     },
     "acceptedJapanese": [
       "７日",
-      "７なのか"
+      "なのか"
     ],
     "acceptedEnglish": [
       "7th day of the month",
       "seven days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-every-week-1777217252798",
@@ -131,13 +137,13 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every week"
+          "every"
         ]
       },
       {
         "kanji": "週",
         "meanings": [
-          "every week"
+          "week"
         ]
       }
     ],
@@ -184,13 +190,14 @@
       {
         "kanji": "去",
         "meanings": [
-          "last year"
+          "go away",
+          "leave"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "last year"
+          "year"
         ]
       }
     ],
@@ -244,13 +251,14 @@
       {
         "kanji": "今",
         "meanings": [
-          "this year"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "this year"
+          "year"
         ]
       }
     ],
@@ -311,13 +319,14 @@
       {
         "kanji": "来",
         "meanings": [
-          "next month"
+          "come"
         ]
       },
       {
         "kanji": "月",
         "meanings": [
-          "next month"
+          "moon",
+          "month"
         ]
       }
     ],
@@ -371,19 +380,21 @@
       {
         "kanji": "再",
         "meanings": [
-          "year after next"
+          "another time",
+          "again",
+          "twice"
         ]
       },
       {
         "kanji": "来",
         "meanings": [
-          "year after next"
+          "come"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "year after next"
+          "year"
         ]
       }
     ],
@@ -444,13 +455,16 @@
       {
         "kanji": "明",
         "meanings": [
-          "tomorrow"
+          "bright",
+          "clear"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "tomorrow"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -498,19 +512,22 @@
       {
         "kanji": "木",
         "meanings": [
-          "Thursday"
+          "tree",
+          "wood"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Thursday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Thursday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -570,7 +587,8 @@
       {
         "kanji": "間",
         "meanings": [
-          "time"
+          "interval",
+          "between"
         ]
       }
     ],
@@ -636,13 +654,14 @@
       {
         "kanji": "一",
         "meanings": [
-          "one month"
+          "one"
         ]
       },
       {
         "kanji": "月",
         "meanings": [
-          "one month"
+          "moon",
+          "month"
         ]
       }
     ],
@@ -710,19 +729,22 @@
       {
         "kanji": "月",
         "meanings": [
-          "Monday"
+          "moon",
+          "month"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Monday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Monday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -769,13 +791,15 @@
       {
         "kanji": "日",
         "meanings": [
-          "Sunday"
+          "day",
+          "sun",
+          "Japan"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Sunday"
+          "day of the week"
         ]
       }
     ],
@@ -829,13 +853,14 @@
       {
         "kanji": "先",
         "meanings": [
-          "last month"
+          "ahead"
         ]
       },
       {
         "kanji": "月",
         "meanings": [
-          "last month"
+          "moon",
+          "month"
         ]
       }
     ],
@@ -889,13 +914,15 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every day"
+          "every"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "every day"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -950,19 +977,21 @@
       {
         "kanji": "火",
         "meanings": [
-          "Tuesday"
+          "fire"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Tuesday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Tuesday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1016,13 +1045,15 @@
       {
         "kanji": "今",
         "meanings": [
-          "this month"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "月",
         "meanings": [
-          "this month"
+          "moon",
+          "month"
         ]
       }
     ],
@@ -1129,13 +1160,14 @@
       {
         "kanji": "今",
         "meanings": [
-          "tonight"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "晩",
         "meanings": [
-          "tonight"
+          "evening"
         ]
       }
     ],
@@ -1183,7 +1215,8 @@
       {
         "kanji": "今",
         "meanings": [
-          "now"
+          "present",
+          "this"
         ]
       }
     ],
@@ -1234,14 +1267,16 @@
     "subcategory": "Time",
     "name": "９日",
     "kanji": "９日",
-    "kana": "９ここのか",
+    "kana": "ここのか",
     "meaning": "9th day of the month",
     "explanation": "A JLPT N5 noun meaning \"9th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "9th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1259,7 +1294,7 @@
         {
           "text": "９日",
           "highlight": true,
-          "reading": "９ここのか"
+          "reading": "ここのか"
         },
         {
           "text": "しか"
@@ -1282,12 +1317,13 @@
     },
     "acceptedJapanese": [
       "９日",
-      "９ここのか"
+      "ここのか"
     ],
     "acceptedEnglish": [
       "9th day of the month",
       "nine days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-sometimes-1777217253254",
@@ -1295,14 +1331,14 @@
     "subcategory": "Time",
     "name": "時々",
     "kanji": "時々",
-    "kana": "々ときどき",
+    "kana": "ときどき",
     "meaning": "sometimes",
     "explanation": "A JLPT N5 adverb, no adjective meaning \"sometimes\".",
     "kanjiBreakdown": [
       {
         "kanji": "時",
         "meanings": [
-          "sometimes"
+          "time"
         ]
       }
     ],
@@ -1320,7 +1356,7 @@
         {
           "text": "時々",
           "highlight": true,
-          "reading": "々ときどき"
+          "reading": "ときどき"
         },
         {
           "text": "変",
@@ -1340,7 +1376,7 @@
     },
     "acceptedJapanese": [
       "時々",
-      "々ときどき"
+      "ときどき"
     ],
     "acceptedEnglish": [
       "sometimes",
@@ -1349,7 +1385,8 @@
       "from time to time",
       "now and then",
       "once in a while"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-day-before-yesterday-1777217253284",
@@ -1364,19 +1401,22 @@
       {
         "kanji": "一",
         "meanings": [
-          "day before yesterday"
+          "one"
         ]
       },
       {
         "kanji": "昨",
         "meanings": [
-          "day before yesterday"
+          "yesterday",
+          "last"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "day before yesterday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1430,7 +1470,8 @@
       {
         "kanji": "朝",
         "meanings": [
-          "morning"
+          "morning",
+          "dynasty"
         ]
       }
     ],
@@ -1484,7 +1525,7 @@
       {
         "kanji": "初",
         "meanings": [
-          "for the first time"
+          "first"
         ]
       }
     ],
@@ -1531,19 +1572,23 @@
       {
         "kanji": "明",
         "meanings": [
-          "day after tomorrow"
+          "bright",
+          "clear"
         ]
       },
       {
         "kanji": "後",
         "meanings": [
-          "day after tomorrow"
+          "after",
+          "back"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "day after tomorrow"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1590,14 +1635,16 @@
     "subcategory": "Time",
     "name": "２０日",
     "kanji": "２０日",
-    "kana": "２０はつか",
+    "kana": "はつか",
     "meaning": "20th day of the month",
     "explanation": "A JLPT N5 noun meaning \"20th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "20th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1619,7 +1666,7 @@
         {
           "text": "２０日",
           "highlight": true,
-          "reading": "２０はつか"
+          "reading": "はつか"
         },
         {
           "text": "に"
@@ -1642,12 +1689,13 @@
     },
     "acceptedJapanese": [
       "２０日",
-      "２０はつか"
+      "はつか"
     ],
     "acceptedEnglish": [
       "20th day of the month",
       "20 days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-one-day-1777217253446",
@@ -1662,13 +1710,15 @@
       {
         "kanji": "一",
         "meanings": [
-          "one day"
+          "one"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "one day"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1722,19 +1772,24 @@
       {
         "kanji": "誕",
         "meanings": [
-          "birthday"
+          "be born",
+          "birth"
         ]
       },
       {
         "kanji": "生",
         "meanings": [
-          "birthday"
+          "life",
+          "be born",
+          "student"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "birthday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1774,14 +1829,16 @@
     "subcategory": "Time",
     "name": "８日",
     "kanji": "８日",
-    "kana": "８ようか",
+    "kana": "ようか",
     "meaning": "8th day of the month",
     "explanation": "A JLPT N5 noun meaning \"8th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "8th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -1803,7 +1860,7 @@
         {
           "text": "８日",
           "highlight": true,
-          "reading": "８ようか"
+          "reading": "ようか"
         },
         {
           "text": "から"
@@ -1826,12 +1883,13 @@
     },
     "acceptedJapanese": [
       "８日",
-      "８ようか"
+      "ようか"
     ],
     "acceptedEnglish": [
       "8th day of the month",
       "eight days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-every-year-1777217253512",
@@ -1846,13 +1904,13 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every year"
+          "every"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "every year"
+          "year"
         ]
       }
     ],
@@ -1908,13 +1966,14 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every morning"
+          "every"
         ]
       },
       {
         "kanji": "朝",
         "meanings": [
-          "every morning"
+          "morning",
+          "dynasty"
         ]
       }
     ],
@@ -2015,14 +2074,16 @@
     "subcategory": "Time",
     "name": "２日",
     "kanji": "２日",
-    "kana": "２ふつか",
+    "kana": "ふつか",
     "meaning": "2nd day of the month",
     "explanation": "A JLPT N5 noun meaning \"2nd day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "2nd day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -2036,7 +2097,7 @@
         {
           "text": "２日",
           "highlight": true,
-          "reading": "２ふつか"
+          "reading": "ふつか"
         },
         {
           "text": "で、13"
@@ -2059,12 +2120,13 @@
     },
     "acceptedJapanese": [
       "２日",
-      "２ふつか"
+      "ふつか"
     ],
     "acceptedEnglish": [
       "2nd day of the month",
       "two days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-afternoon-1777217253617",
@@ -2079,13 +2141,14 @@
       {
         "kanji": "午",
         "meanings": [
-          "afternoon"
+          "noon"
         ]
       },
       {
         "kanji": "後",
         "meanings": [
-          "afternoon"
+          "after",
+          "back"
         ]
       }
     ],
@@ -2133,14 +2196,16 @@
     "subcategory": "Time",
     "name": "３日",
     "kanji": "３日",
-    "kana": "３みっか",
+    "kana": "みっか",
     "meaning": "3rd day of the month",
     "explanation": "A JLPT N5 noun meaning \"3rd day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "3rd day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -2158,7 +2223,7 @@
         {
           "text": "３日",
           "highlight": true,
-          "reading": "３みっか"
+          "reading": "みっか"
         },
         {
           "text": "、"
@@ -2181,12 +2246,13 @@
     },
     "acceptedJapanese": [
       "３日",
-      "３みっか"
+      "みっか"
     ],
     "acceptedEnglish": [
       "3rd day of the month",
       "three days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-next-year-1777217253758",
@@ -2201,13 +2267,13 @@
       {
         "kanji": "来",
         "meanings": [
-          "next year"
+          "come"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "next year"
+          "year"
         ]
       }
     ],
@@ -2261,13 +2327,13 @@
       {
         "kanji": "来",
         "meanings": [
-          "next week"
+          "come"
         ]
       },
       {
         "kanji": "週",
         "meanings": [
-          "next week"
+          "week"
         ]
       }
     ],
@@ -2412,14 +2478,16 @@
     "subcategory": "Time",
     "name": "１０日",
     "kanji": "１０日",
-    "kana": "１０とおか",
+    "kana": "とおか",
     "meaning": "10th day of the month",
     "explanation": "A JLPT N5 noun meaning \"10th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "10th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -2430,7 +2498,7 @@
         {
           "text": "１０日",
           "highlight": true,
-          "reading": "１０とおか"
+          "reading": "とおか"
         },
         {
           "text": "ぶりに"
@@ -2460,12 +2528,13 @@
     },
     "acceptedJapanese": [
       "１０日",
-      "１０とおか"
+      "とおか"
     ],
     "acceptedEnglish": [
       "10th day of the month",
       "ten days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-friday-1777217253899",
@@ -2480,19 +2549,23 @@
       {
         "kanji": "金",
         "meanings": [
-          "Friday"
+          "metal",
+          "gold",
+          "money"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Friday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Friday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -2550,13 +2623,14 @@
       {
         "kanji": "昨",
         "meanings": [
-          "last night"
+          "yesterday",
+          "last"
         ]
       },
       {
         "kanji": "夜",
         "meanings": [
-          "last night"
+          "night"
         ]
       }
     ],
@@ -2611,7 +2685,7 @@
       {
         "kanji": "昼",
         "meanings": [
-          "noon"
+          "daytime"
         ]
       }
     ],
@@ -2663,19 +2737,23 @@
       {
         "kanji": "土",
         "meanings": [
-          "Saturday"
+          "soil",
+          "earth",
+          "ground"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Saturday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Saturday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -2770,13 +2848,14 @@
       {
         "kanji": "午",
         "meanings": [
-          "morning"
+          "noon"
         ]
       },
       {
         "kanji": "前",
         "meanings": [
-          "morning"
+          "before",
+          "front"
         ]
       }
     ],
@@ -2842,13 +2921,14 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every month"
+          "every"
         ]
       },
       {
         "kanji": "月",
         "meanings": [
-          "every month"
+          "moon",
+          "month"
         ]
       }
     ],
@@ -2899,60 +2979,54 @@
     "pitchAccentNumber": 0
   },
   {
-    "id": "n5-time-a-little-1777217254076",
+    "id": "n5-time-beginning-1777217254079",
     "jlpt": "N5",
     "subcategory": "Time",
-    "name": "少し",
-    "kanji": "少し",
-    "kana": "すこし",
-    "meaning": "a little",
-    "explanation": "A JLPT N5 adverb meaning \"a little\".",
+    "name": "始め",
+    "kanji": "始め",
+    "kana": "はじめ",
+    "meaning": "beginning",
+    "explanation": "A JLPT N5 noun, adverb meaning \"beginning\".",
     "kanjiBreakdown": [
       {
-        "kanji": "少",
+        "kanji": "始",
         "meanings": [
-          "a little"
+          "begin"
         ]
       }
     ],
     "example": {
-      "japanese": "少し疲れた。",
-      "english": "I'm a bit tired.",
+      "japanese": "始めましょう。",
+      "english": "Let's start!",
       "furigana": [
         {
-          "text": "少し",
+          "text": "始め",
           "highlight": true,
-          "reading": "すこし"
+          "reading": "はじめ"
         },
         {
-          "text": "疲れ",
-          "reading": "つかれ"
-        },
-        {
-          "text": "た。"
+          "text": "ましょう。"
         }
       ],
       "source": {
         "name": "Tatoeba",
         "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "146779",
-        "englishSentenceId": "258672",
-        "url": "https://tatoeba.org/en/sentences/show/146779"
+        "japaneseSentenceId": "442923",
+        "englishSentenceId": "387428",
+        "url": "https://tatoeba.org/en/sentences/show/442923"
       }
     },
     "acceptedJapanese": [
-      "少し",
-      "すこし"
+      "始め",
+      "はじめ"
     ],
     "acceptedEnglish": [
-      "a little",
-      "a bit",
-      "a small amount",
-      "a few",
-      "some",
-      "slightly"
+      "beginning",
+      "start",
+      "outset",
+      "opening"
     ],
-    "pitchAccentNumber": 2
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-yesterday-1777217254103",
@@ -2967,13 +3041,16 @@
       {
         "kanji": "昨",
         "meanings": [
-          "yesterday"
+          "yesterday",
+          "last"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "yesterday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3027,13 +3104,14 @@
       {
         "kanji": "何",
         "meanings": [
-          "when"
+          "what",
+          "how many"
         ]
       },
       {
         "kanji": "時",
         "meanings": [
-          "when"
+          "time"
         ]
       }
     ],
@@ -3091,13 +3169,13 @@
       {
         "kanji": "夏",
         "meanings": [
-          "summer vacation"
+          "summer"
         ]
       },
       {
         "kanji": "休",
         "meanings": [
-          "summer vacation"
+          "rest"
         ]
       }
     ],
@@ -3148,13 +3226,13 @@
       {
         "kanji": "先",
         "meanings": [
-          "last week"
+          "ahead"
         ]
       },
       {
         "kanji": "週",
         "meanings": [
-          "last week"
+          "week"
         ]
       }
     ],
@@ -3202,19 +3280,20 @@
       {
         "kanji": "一",
         "meanings": [
-          "year before last"
+          "one"
         ]
       },
       {
         "kanji": "昨",
         "meanings": [
-          "year before last"
+          "yesterday",
+          "last"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "year before last"
+          "year"
         ]
       }
     ],
@@ -3316,13 +3395,14 @@
       {
         "kanji": "何",
         "meanings": [
-          "always"
+          "what",
+          "how many"
         ]
       },
       {
         "kanji": "時",
         "meanings": [
-          "always"
+          "time"
         ]
       }
     ],
@@ -3423,14 +3503,16 @@
     "subcategory": "Time",
     "name": "４日",
     "kanji": "４日",
-    "kana": "４よっか",
+    "kana": "よっか",
     "meaning": "4th day of the month",
     "explanation": "A JLPT N5 noun meaning \"4th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "4th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3448,7 +3530,7 @@
         {
           "text": "４日",
           "highlight": true,
-          "reading": "４よっか"
+          "reading": "よっか"
         },
         {
           "text": "しか"
@@ -3471,12 +3553,13 @@
     },
     "acceptedJapanese": [
       "４日",
-      "４よっか"
+      "よっか"
     ],
     "acceptedEnglish": [
       "4th day of the month",
       "four days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-5th-day-of-the-month-1777217254325",
@@ -3484,14 +3567,16 @@
     "subcategory": "Time",
     "name": "５日",
     "kanji": "５日",
-    "kana": "５いつか",
+    "kana": "いつか",
     "meaning": "5th day of the month",
     "explanation": "A JLPT N5 noun meaning \"5th day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "5th day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3509,7 +3594,7 @@
         {
           "text": "５日",
           "highlight": true,
-          "reading": "５いつか"
+          "reading": "いつか"
         },
         {
           "text": "です。"
@@ -3525,12 +3610,13 @@
     },
     "acceptedJapanese": [
       "５日",
-      "５いつか"
+      "いつか"
     ],
     "acceptedEnglish": [
       "5th day of the month",
       "five days"
-    ]
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-time-calendar-1777217254349",
@@ -3604,13 +3690,14 @@
       {
         "kanji": "今",
         "meanings": [
-          "this week"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "週",
         "meanings": [
-          "this week"
+          "week"
         ]
       }
     ],
@@ -3664,13 +3751,15 @@
       {
         "kanji": "夕",
         "meanings": [
-          "early evening"
+          "evening"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "early evening"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -3722,14 +3811,16 @@
     "subcategory": "Time",
     "name": "１日",
     "kanji": "１日",
-    "kana": "１ついたち",
+    "kana": "ついたち",
     "meaning": "first day of the month",
     "explanation": "A JLPT N5 noun meaning \"first day of the month\".",
     "kanjiBreakdown": [
       {
         "kanji": "日",
         "meanings": [
-          "first day of the month"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3744,7 +3835,7 @@
         {
           "text": "１日",
           "highlight": true,
-          "reading": "１ついたち"
+          "reading": "ついたち"
         },
         {
           "text": "から"
@@ -3774,12 +3865,13 @@
     },
     "acceptedJapanese": [
       "１日",
-      "１ついたち"
+      "ついたち"
     ],
     "acceptedEnglish": [
       "first day of the month",
       "the first of the month"
-    ]
+    ],
+    "pitchAccentNumber": 4
   },
   {
     "id": "n5-time-every-night-1777217254454",
@@ -3794,13 +3886,13 @@
       {
         "kanji": "毎",
         "meanings": [
-          "every night"
+          "every"
         ]
       },
       {
         "kanji": "晩",
         "meanings": [
-          "every night"
+          "evening"
         ]
       }
     ],
@@ -3847,19 +3939,21 @@
       {
         "kanji": "水",
         "meanings": [
-          "Wednesday"
+          "water"
         ]
       },
       {
         "kanji": "曜",
         "meanings": [
-          "Wednesday"
+          "day of the week"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "Wednesday"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3913,13 +4007,16 @@
       {
         "kanji": "今",
         "meanings": [
-          "today"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "日",
         "meanings": [
-          "today"
+          "day",
+          "sun",
+          "Japan"
         ]
       }
     ],
@@ -3970,13 +4067,15 @@
       {
         "kanji": "今",
         "meanings": [
-          "this morning"
+          "present",
+          "this"
         ]
       },
       {
         "kanji": "朝",
         "meanings": [
-          "this morning"
+          "morning",
+          "dynasty"
         ]
       }
     ],

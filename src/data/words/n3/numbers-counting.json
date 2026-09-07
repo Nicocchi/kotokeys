@@ -1,1 +1,1774 @@
-[]
+[
+  {
+    "id": "n3-numbers-counting-number-1777217246105",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "数",
+    "kanji": "数",
+    "kana": "かず",
+    "meaning": "number",
+    "explanation": "A JLPT N3 noun meaning \"number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼等の数は多い。",
+      "english": "Their number is great.",
+      "furigana": [
+        {
+          "text": "彼等",
+          "reading": "かれら"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "数",
+          "highlight": true,
+          "reading": "かず"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "86044",
+        "englishSentenceId": "317667",
+        "url": "https://tatoeba.org/en/sentences/show/86044"
+      }
+    },
+    "acceptedJapanese": [
+      "数",
+      "かず"
+    ],
+    "acceptedEnglish": [
+      "number",
+      "amount"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-price-1777217246165",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "代金",
+    "kanji": "代金",
+    "kana": "だいきん",
+    "meaning": "price",
+    "explanation": "A JLPT N3 noun meaning \"price\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "代",
+        "meanings": [
+          "substitute",
+          "generation",
+          "charge"
+        ]
+      },
+      {
+        "kanji": "金",
+        "meanings": [
+          "metal",
+          "gold",
+          "money"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そのかばんの代金として５ドル請求された。",
+      "english": "They charged me five dollars for the bag.",
+      "furigana": [
+        {
+          "text": "そのかばんの"
+        },
+        {
+          "text": "代金",
+          "highlight": true,
+          "reading": "だいきん"
+        },
+        {
+          "text": "として５ドル"
+        },
+        {
+          "text": "請求",
+          "reading": "せいきゅう"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "213283",
+        "englishSentenceId": "50569",
+        "url": "https://tatoeba.org/en/sentences/show/213283"
+      }
+    },
+    "acceptedJapanese": [
+      "代金",
+      "だいきん"
+    ],
+    "acceptedEnglish": [
+      "price",
+      "cost",
+      "charge",
+      "payment",
+      "bill",
+      "fee"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-order-1777217246309",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "順番",
+    "kanji": "順番",
+    "kana": "じゅんばん",
+    "meaning": "order",
+    "explanation": "A JLPT N3 noun meaning \"order\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "順",
+        "meanings": [
+          "order",
+          "obey",
+          "sequence"
+        ]
+      },
+      {
+        "kanji": "番",
+        "meanings": [
+          "numerical order",
+          "watch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "順番を待ってます。",
+      "english": "I'm waiting my turn.",
+      "furigana": [
+        {
+          "text": "順番",
+          "highlight": true,
+          "reading": "じゅんばん"
+        },
+        {
+          "text": "を待ってます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11753095",
+        "englishSentenceId": "4321192",
+        "url": "https://tatoeba.org/en/sentences/show/11753095"
+      }
+    },
+    "acceptedJapanese": [
+      "順番",
+      "じゅんばん"
+    ],
+    "acceptedEnglish": [
+      "order",
+      "turn"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-counter-for-occurrences-1777217246387",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "回",
+    "kanji": "回",
+    "kana": "かい",
+    "meaning": "counter for occurrences",
+    "explanation": "A JLPT N3 counter meaning \"counter for occurrences\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "回",
+        "meanings": [
+          "turn round",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "回れ右！",
+      "english": "About face!",
+      "furigana": [
+        {
+          "text": "回",
+          "highlight": true,
+          "reading": "かい"
+        },
+        {
+          "text": "れ右！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185184",
+        "englishSentenceId": "22315",
+        "url": "https://tatoeba.org/en/sentences/show/185184"
+      }
+    },
+    "acceptedJapanese": [
+      "回",
+      "かい"
+    ],
+    "acceptedEnglish": [
+      "counter for occurrences"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-numeral-1777217246417",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "数字",
+    "kanji": "数字",
+    "kana": "すうじ",
+    "meaning": "numeral",
+    "explanation": "A JLPT N3 noun meaning \"numeral\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      },
+      {
+        "kanji": "字",
+        "meanings": [
+          "character"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "数字を一つ選んで。",
+      "english": "Pick a number.",
+      "furigana": [
+        {
+          "text": "数字",
+          "highlight": true,
+          "reading": "すうじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "一つ",
+          "reading": "ひとつ"
+        },
+        {
+          "text": "選",
+          "reading": "せん"
+        },
+        {
+          "text": "んで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3496864",
+        "englishSentenceId": "2249761",
+        "url": "https://tatoeba.org/en/sentences/show/3496864"
+      }
+    },
+    "acceptedJapanese": [
+      "数字",
+      "すうじ"
+    ],
+    "acceptedEnglish": [
+      "numeral",
+      "digit",
+      "numeric character",
+      "figure",
+      "number",
+      "a few characters"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-step-1777217246552",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "段",
+    "kanji": "段",
+    "kana": "だん",
+    "meaning": "step",
+    "explanation": "A JLPT N3 noun, counter meaning \"step\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "段",
+        "meanings": [
+          "step",
+          "stairs",
+          "rank"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "段々暗くなっていきます。",
+      "english": "It's getting darker little by little.",
+      "furigana": [
+        {
+          "text": "段",
+          "highlight": true,
+          "reading": "だん"
+        },
+        {
+          "text": "々",
+          "reading": "だん"
+        },
+        {
+          "text": "暗くなっていきます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "127282",
+        "englishSentenceId": "276807",
+        "url": "https://tatoeba.org/en/sentences/show/127282"
+      }
+    },
+    "acceptedJapanese": [
+      "段",
+      "だん"
+    ],
+    "acceptedEnglish": [
+      "step",
+      "stair",
+      "rung",
+      "steps",
+      "shelf",
+      "layer"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-number-1777217247131",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "番",
+    "kanji": "番",
+    "kana": "ばん",
+    "meaning": "number",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix meaning \"number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "番",
+        "meanings": [
+          "numerical order",
+          "watch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "背番号７番が彼の弟です。",
+      "english": "Uniform number No. 7 is his younger brother.",
+      "furigana": [
+        {
+          "text": "背番号",
+          "reading": "せばんごう"
+        },
+        {
+          "text": "７"
+        },
+        {
+          "text": "番",
+          "highlight": true,
+          "reading": "ばん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の弟です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121536",
+        "englishSentenceId": "282469",
+        "url": "https://tatoeba.org/en/sentences/show/121536"
+      }
+    },
+    "acceptedJapanese": [
+      "番",
+      "ばん"
+    ],
+    "acceptedEnglish": [
+      "number",
+      "bout",
+      "match"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-price-1777217247158",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "価格",
+    "kanji": "価格",
+    "kana": "かかく",
+    "meaning": "price",
+    "explanation": "A JLPT N3 noun meaning \"price\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "価",
+        "meanings": [
+          "price",
+          "value"
+        ]
+      },
+      {
+        "kanji": "格",
+        "meanings": [
+          "norm",
+          "status",
+          "rank",
+          "standard"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "価格はいくらですか。",
+      "english": "What is the price?",
+      "furigana": [
+        {
+          "text": "価格",
+          "highlight": true,
+          "reading": "かかく"
+        },
+        {
+          "text": "はいくらですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "187289",
+        "englishSentenceId": "24426",
+        "url": "https://tatoeba.org/en/sentences/show/187289"
+      }
+    },
+    "acceptedJapanese": [
+      "価格",
+      "かかく"
+    ],
+    "acceptedEnglish": [
+      "price",
+      "value",
+      "cost"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-prices-of-commodities-1777217247173",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "物価",
+    "kanji": "物価",
+    "kana": "ぶっか",
+    "meaning": "prices of commodities",
+    "explanation": "A JLPT N3 noun meaning \"prices of commodities\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      },
+      {
+        "kanji": "価",
+        "meanings": [
+          "price",
+          "value"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "物価が上がった。",
+      "english": "Prices went up.",
+      "furigana": [
+        {
+          "text": "物価",
+          "highlight": true,
+          "reading": "ぶっか"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "上",
+          "reading": "うわ"
+        },
+        {
+          "text": "がった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83808",
+        "englishSentenceId": "442109",
+        "url": "https://tatoeba.org/en/sentences/show/83808"
+      }
+    },
+    "acceptedJapanese": [
+      "物価",
+      "ぶっか"
+    ],
+    "acceptedEnglish": [
+      "prices of commodities",
+      "prices",
+      "cost-of-living"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-amount-of-money-1777217247191",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "金額",
+    "kanji": "金額",
+    "kana": "きんがく",
+    "meaning": "amount of money",
+    "explanation": "A JLPT N3 noun meaning \"amount of money\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "金",
+        "meanings": [
+          "metal",
+          "gold",
+          "money"
+        ]
+      },
+      {
+        "kanji": "額",
+        "meanings": [
+          "amount",
+          "forehead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いかほどの金額でも結構です。",
+      "english": "Any amount of money will do.",
+      "furigana": [
+        {
+          "text": "いかほどの"
+        },
+        {
+          "text": "金額",
+          "highlight": true,
+          "reading": "きんがく"
+        },
+        {
+          "text": "でも"
+        },
+        {
+          "text": "結構",
+          "reading": "けっこう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "229270",
+        "englishSentenceId": "66628",
+        "url": "https://tatoeba.org/en/sentences/show/229270"
+      }
+    },
+    "acceptedJapanese": [
+      "金額",
+      "きんがく"
+    ],
+    "acceptedEnglish": [
+      "amount of money",
+      "sum"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-cost-1777217247335",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "費用",
+    "kanji": "費用",
+    "kana": "ひよう",
+    "meaning": "cost",
+    "explanation": "A JLPT N3 noun meaning \"cost\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "費",
+        "meanings": [
+          "expense",
+          "spend",
+          "waste"
+        ]
+      },
+      {
+        "kanji": "用",
+        "meanings": [
+          "employ",
+          "things to do"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは費用の問題だ。",
+      "english": "It's a matter of cost.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "費用",
+          "highlight": true,
+          "reading": "ひよう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204899",
+        "englishSentenceId": "42141",
+        "url": "https://tatoeba.org/en/sentences/show/204899"
+      }
+    },
+    "acceptedJapanese": [
+      "費用",
+      "ひよう"
+    ],
+    "acceptedEnglish": [
+      "cost",
+      "expense"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-sum-total-1777217247434",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "合計",
+    "kanji": "合計",
+    "kana": "ごうけい",
+    "meaning": "sum total",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"sum total\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      },
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "合計でいくらですか。",
+      "english": "What is the total amount?",
+      "furigana": [
+        {
+          "text": "合計",
+          "highlight": true,
+          "reading": "ごうけい"
+        },
+        {
+          "text": "でいくらですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173166",
+        "englishSentenceId": "241305",
+        "url": "https://tatoeba.org/en/sentences/show/173166"
+      }
+    },
+    "acceptedJapanese": [
+      "合計",
+      "ごうけい"
+    ],
+    "acceptedEnglish": [
+      "sum total",
+      "total amount"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-calculation-1777217247962",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "勘定",
+    "kanji": "勘定",
+    "kana": "かんじょう",
+    "meaning": "calculation",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"calculation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勘",
+        "meanings": [
+          "intuition",
+          "perception",
+          "check",
+          "compare"
+        ]
+      },
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お勘定です。",
+      "english": "Here is your bill.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "勘定",
+          "highlight": true,
+          "reading": "かんじょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "227362",
+        "englishSentenceId": "64716",
+        "url": "https://tatoeba.org/en/sentences/show/227362"
+      }
+    },
+    "acceptedJapanese": [
+      "勘定",
+      "かんじょう"
+    ],
+    "acceptedEnglish": [
+      "calculation",
+      "computation",
+      "counting",
+      "reckoning",
+      "count",
+      "bill"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-numbers-counting-unit-1777217248010",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "単位",
+    "kanji": "単位",
+    "kana": "たんい",
+    "meaning": "unit",
+    "explanation": "A JLPT N3 noun meaning \"unit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "単",
+        "meanings": [
+          "single"
+        ]
+      },
+      {
+        "kanji": "位",
+        "meanings": [
+          "rank",
+          "position"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "時間の単位は何か。",
+      "english": "What are the units of time?",
+      "furigana": [
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "単位",
+          "highlight": true,
+          "reading": "たんい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何か",
+          "reading": "なにか"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150593",
+        "englishSentenceId": "263964",
+        "url": "https://tatoeba.org/en/sentences/show/150593"
+      }
+    },
+    "acceptedJapanese": [
+      "単位",
+      "たんい"
+    ],
+    "acceptedEnglish": [
+      "unit",
+      "denomination",
+      "credit"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-average-1777217248418",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "平均",
+    "kanji": "平均",
+    "kana": "へいきん",
+    "meaning": "average",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"average\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      },
+      {
+        "kanji": "均",
+        "meanings": [
+          "even",
+          "equal"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "３と４と５の平均は４です。",
+      "english": "The average of 3, 4 and 5 is 4.",
+      "furigana": [
+        {
+          "text": "３と４と５の"
+        },
+        {
+          "text": "平均",
+          "highlight": true,
+          "reading": "へいきん"
+        },
+        {
+          "text": "は４です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235346",
+        "englishSentenceId": "72724",
+        "url": "https://tatoeba.org/en/sentences/show/235346"
+      }
+    },
+    "acceptedJapanese": [
+      "平均",
+      "へいきん"
+    ],
+    "acceptedEnglish": [
+      "average",
+      "mean"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-quantity-1777217248688",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "量",
+    "kanji": "量",
+    "kana": "りょう",
+    "meaning": "quantity",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix meaning \"quantity\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "量",
+        "meanings": [
+          "quantity",
+          "measure",
+          "weigh"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "量より質が重要だ。",
+      "english": "Quality is more important than quantity.",
+      "furigana": [
+        {
+          "text": "量",
+          "highlight": true,
+          "reading": "りょう"
+        },
+        {
+          "text": "より"
+        },
+        {
+          "text": "質",
+          "reading": "しつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77818",
+        "englishSentenceId": "325900",
+        "url": "https://tatoeba.org/en/sentences/show/77818"
+      }
+    },
+    "acceptedJapanese": [
+      "量",
+      "りょう"
+    ],
+    "acceptedEnglish": [
+      "quantity",
+      "amount",
+      "volume",
+      "capacity",
+      "portion"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-ton-1777217248769",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "屯",
+    "kanji": "屯",
+    "kana": "トン",
+    "meaning": "ton",
+    "explanation": "A JLPT N3 noun meaning \"ton\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "屯",
+        "meanings": [
+          "barracks",
+          "police station",
+          "camp",
+          "ton"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「屯」は日本語の言葉です。",
+      "english": "\"ton\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "屯",
+          "reading": "トン",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "屯",
+      "トン"
+    ],
+    "acceptedEnglish": [
+      "ton",
+      "tonne"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-approximately-1777217249270",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "約",
+    "kanji": "約",
+    "kana": "やく",
+    "meaning": "approximately",
+    "explanation": "A JLPT N3 adverb meaning \"approximately\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "約",
+        "meanings": [
+          "promise",
+          "contract",
+          "approximately"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "約１ヶ月です。",
+      "english": "It's about one month.",
+      "furigana": [
+        {
+          "text": "約",
+          "highlight": true,
+          "reading": "やく"
+        },
+        {
+          "text": "１ヶ"
+        },
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79557",
+        "englishSentenceId": "324161",
+        "url": "https://tatoeba.org/en/sentences/show/79557"
+      }
+    },
+    "acceptedJapanese": [
+      "約",
+      "やく"
+    ],
+    "acceptedEnglish": [
+      "approximately",
+      "about"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-yen-1777217249378",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "円",
+    "kanji": "円",
+    "kana": "えん",
+    "meaning": "yen",
+    "explanation": "A JLPT N3 noun meaning \"yen\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "円",
+        "meanings": [
+          "circle",
+          "yen"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "円を描いてくれ。",
+      "english": "Draw a circle.",
+      "furigana": [
+        {
+          "text": "円",
+          "highlight": true,
+          "reading": "えん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "描",
+          "reading": "えが"
+        },
+        {
+          "text": "いてくれ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "237405",
+        "englishSentenceId": "25954",
+        "url": "https://tatoeba.org/en/sentences/show/237405"
+      }
+    },
+    "acceptedJapanese": [
+      "円",
+      "えん"
+    ],
+    "acceptedEnglish": [
+      "yen",
+      "circle"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-rate-1777217249564",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "率",
+    "kanji": "率",
+    "kana": "りつ",
+    "meaning": "rate",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix meaning \"rate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "率",
+        "meanings": [
+          "rate",
+          "lead",
+          "command"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "産業の伸び率には驚きだ。",
+      "english": "I'm amazed by the rate at which industries grow.",
+      "furigana": [
+        {
+          "text": "産業",
+          "reading": "さんぎょう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "伸び",
+          "reading": "のび"
+        },
+        {
+          "text": "率",
+          "highlight": true,
+          "reading": "りつ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "驚き",
+          "reading": "おどろき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "169324",
+        "englishSentenceId": "245163",
+        "url": "https://tatoeba.org/en/sentences/show/169324"
+      }
+    },
+    "acceptedJapanese": [
+      "率",
+      "りつ"
+    ],
+    "acceptedEnglish": [
+      "rate",
+      "ratio",
+      "proportion",
+      "percentage"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-calculation-1777217249777",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "計算",
+    "kanji": "計算",
+    "kana": "けいさん",
+    "meaning": "calculation",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"calculation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      },
+      {
+        "kanji": "算",
+        "meanings": [
+          "calculate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の計算は正しかったわ。",
+      "english": "My calculation was correct.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "計算",
+          "highlight": true,
+          "reading": "けいさん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "正",
+          "reading": "せい"
+        },
+        {
+          "text": "しかったわ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11052279",
+        "englishSentenceId": "7742664",
+        "url": "https://tatoeba.org/en/sentences/show/11052279"
+      }
+    },
+    "acceptedJapanese": [
+      "計算",
+      "けいさん"
+    ],
+    "acceptedEnglish": [
+      "calculation",
+      "computation",
+      "reckoning",
+      "counting",
+      "adding up",
+      "working out"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-bundle-1777217249906",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "束",
+    "kanji": "束",
+    "kana": "たば",
+    "meaning": "bundle",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix, counter meaning \"bundle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "束",
+        "meanings": [
+          "tie up",
+          "bundle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は、まきを束ねた。",
+      "english": "He set up a bundle of firewood.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は、まきを"
+        },
+        {
+          "text": "束",
+          "highlight": true,
+          "reading": "たば"
+        },
+        {
+          "text": "ねた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "115612",
+        "englishSentenceId": "288058",
+        "url": "https://tatoeba.org/en/sentences/show/115612"
+      }
+    },
+    "acceptedJapanese": [
+      "束",
+      "たば"
+    ],
+    "acceptedEnglish": [
+      "bundle",
+      "bunch",
+      "sheaf"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-grade-1777217250062",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "級",
+    "kanji": "級",
+    "kana": "きゅう",
+    "meaning": "grade",
+    "explanation": "A JLPT N3 noun, counter meaning \"grade\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "級",
+        "meanings": [
+          "grade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は一年飛び級をした。",
+      "english": "He skipped a grade.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は一年"
+        },
+        {
+          "text": "飛び",
+          "reading": "とび"
+        },
+        {
+          "text": "級",
+          "highlight": true,
+          "reading": "きゅう"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "109873",
+        "englishSentenceId": "293817",
+        "url": "https://tatoeba.org/en/sentences/show/109873"
+      }
+    },
+    "acceptedJapanese": [
+      "級",
+      "きゅう"
+    ],
+    "acceptedEnglish": [
+      "grade",
+      "year",
+      "class",
+      "kyu"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-fee-1777217250101",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "料金",
+    "kanji": "料金",
+    "kana": "りょうきん",
+    "meaning": "fee",
+    "explanation": "A JLPT N3 noun meaning \"fee\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "料",
+        "meanings": [
+          "fee",
+          "materials"
+        ]
+      },
+      {
+        "kanji": "金",
+        "meanings": [
+          "metal",
+          "gold",
+          "money"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "料金はいくらですか？",
+      "english": "How much is the fare?",
+      "furigana": [
+        {
+          "text": "料金",
+          "highlight": true,
+          "reading": "りょうきん"
+        },
+        {
+          "text": "はいくらですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13188518",
+        "englishSentenceId": "13188507",
+        "url": "https://tatoeba.org/en/sentences/show/13188518"
+      }
+    },
+    "acceptedJapanese": [
+      "料金",
+      "りょうきん"
+    ],
+    "acceptedEnglish": [
+      "fee",
+      "charge",
+      "fare"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-speed-1777217250278",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "速度",
+    "kanji": "速度",
+    "kana": "そくど",
+    "meaning": "speed",
+    "explanation": "A JLPT N3 noun meaning \"speed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "速",
+        "meanings": [
+          "quick",
+          "fast",
+          "prompt"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "機体は速度を上げた。",
+      "english": "The plane increased speed.",
+      "furigana": [
+        {
+          "text": "機体",
+          "reading": "きたい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "速度",
+          "highlight": true,
+          "reading": "そくど"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "上げ",
+          "reading": "あげ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10863025",
+        "englishSentenceId": "318084",
+        "url": "https://tatoeba.org/en/sentences/show/10863025"
+      }
+    },
+    "acceptedJapanese": [
+      "速度",
+      "そくど"
+    ],
+    "acceptedEnglish": [
+      "speed",
+      "velocity",
+      "pace",
+      "rate"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-numbers-counting-plus-1777217250311",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "プラス",
+    "kanji": "プラス",
+    "kana": "プラス",
+    "meaning": "plus",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb, conjunction, prefix, suffix meaning \"plus\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "プラスチックは燃えにくい。",
+      "english": "Plastic does not burn easily.",
+      "furigana": [
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "プラス"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "プラス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "プラス"
+        },
+        {
+          "text": "チックは"
+        },
+        {
+          "text": "燃",
+          "reading": "も"
+        },
+        {
+          "text": "えにくい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "197035",
+        "englishSentenceId": "34215",
+        "url": "https://tatoeba.org/en/sentences/show/197035"
+      }
+    },
+    "acceptedJapanese": [
+      "プラス"
+    ],
+    "acceptedEnglish": [
+      "plus",
+      "addition"
+    ]
+  },
+  {
+    "id": "n3-numbers-counting-age-1777217250512",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "年齢",
+    "kanji": "年齢",
+    "kana": "ねんれい",
+    "meaning": "age",
+    "explanation": "A JLPT N3 noun meaning \"age\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      },
+      {
+        "kanji": "齢",
+        "meanings": [
+          "age"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "年齢は１８歳です。",
+      "english": "I'm 18 years old.",
+      "furigana": [
+        {
+          "text": "年齢",
+          "highlight": true,
+          "reading": "ねんれい"
+        },
+        {
+          "text": "は１８"
+        },
+        {
+          "text": "歳",
+          "reading": "とし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121780",
+        "englishSentenceId": "699465",
+        "url": "https://tatoeba.org/en/sentences/show/121780"
+      }
+    },
+    "acceptedJapanese": [
+      "年齢",
+      "ねんれい"
+    ],
+    "acceptedEnglish": [
+      "age",
+      "years"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-numbers-counting-percent-1777217250608",
+    "jlpt": "N3",
+    "subcategory": "Numbers/Counting",
+    "name": "パーセント",
+    "kanji": "パーセント",
+    "kana": "パーセント",
+    "meaning": "percent",
+    "explanation": "A JLPT N3 noun meaning \"percent\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "消費税は日本では今５パーセントです。",
+      "english": "The consumption tax is now 5 percent in Japan.",
+      "furigana": [
+        {
+          "text": "消費税",
+          "reading": "しょうひぜい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "日本",
+          "reading": "にほん"
+        },
+        {
+          "text": "では"
+        },
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "５"
+        },
+        {
+          "text": "パ",
+          "highlight": true,
+          "reading": "パーセント"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "パーセント"
+        },
+        {
+          "text": "セ",
+          "highlight": true,
+          "reading": "パーセント"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "パーセント"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "パーセント"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146411",
+        "englishSentenceId": "268151",
+        "url": "https://tatoeba.org/en/sentences/show/146411"
+      }
+    },
+    "acceptedJapanese": [
+      "パーセント"
+    ],
+    "acceptedEnglish": [
+      "percent",
+      "per cent",
+      "percentage"
+    ]
+  }
+]

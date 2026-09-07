@@ -1,1 +1,1138 @@
-[]
+[
+  {
+    "id": "n1-animals-tail-1777217232050",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "尾",
+    "kanji": "尾",
+    "kana": "お",
+    "meaning": "tail",
+    "explanation": "A JLPT N1 noun meaning \"tail\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "尾",
+        "meanings": [
+          "tail",
+          "end",
+          "counter for fish",
+          "lower slope of mountain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の犬が尾を振っている。",
+      "english": "My dog is wagging his tail.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "尾",
+          "highlight": true,
+          "reading": "お"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "振",
+          "reading": "ふ"
+        },
+        {
+          "text": "っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "163751",
+        "englishSentenceId": "250760",
+        "url": "https://tatoeba.org/en/sentences/show/163751"
+      }
+    },
+    "acceptedJapanese": [
+      "尾",
+      "お"
+    ],
+    "acceptedEnglish": [
+      "tail",
+      "cauda",
+      "tail end",
+      "slope at the foot of a mountain"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-animals-breeding-1777217232602",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "繁殖",
+    "kanji": "繁殖",
+    "kana": "はんしょく",
+    "meaning": "breeding",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"breeding\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "繁",
+        "meanings": [
+          "luxuriant",
+          "thick",
+          "overgrown",
+          "frequency"
+        ]
+      },
+      {
+        "kanji": "殖",
+        "meanings": [
+          "augment",
+          "increase",
+          "multiply",
+          "raise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この化学薬品は細菌の繁殖を防ぐだろう。",
+      "english": "This chemical will prevent germs from breeding.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "化学薬品",
+          "reading": "かがくやくひん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "細菌",
+          "reading": "さいきん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "繁殖",
+          "highlight": true,
+          "reading": "はんしょく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "防ぐ",
+          "reading": "ふせぐ"
+        },
+        {
+          "text": "だろう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222878",
+        "englishSentenceId": "60210",
+        "url": "https://tatoeba.org/en/sentences/show/222878"
+      }
+    },
+    "acceptedJapanese": [
+      "繁殖",
+      "はんしょく"
+    ],
+    "acceptedEnglish": [
+      "breeding",
+      "propagation",
+      "reproduction",
+      "multiplication",
+      "increase"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-butterfly-1777217232698",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "蝶",
+    "kanji": "蝶",
+    "kana": "ちょう",
+    "meaning": "butterfly",
+    "explanation": "A JLPT N1 noun meaning \"butterfly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "蝶",
+        "meanings": [
+          "butterfly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "蝶々を見た。",
+      "english": "I saw a butterfly.",
+      "furigana": [
+        {
+          "text": "蝶",
+          "highlight": true,
+          "reading": "ちょう"
+        },
+        {
+          "text": "々を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13592105",
+        "englishSentenceId": "13592101",
+        "url": "https://tatoeba.org/en/sentences/show/13592105"
+      }
+    },
+    "acceptedJapanese": [
+      "蝶",
+      "ちょう"
+    ],
+    "acceptedEnglish": [
+      "butterfly"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-animals-hibernation-1777217232815",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "冬眠",
+    "kanji": "冬眠",
+    "kana": "とうみん",
+    "meaning": "hibernation",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"hibernation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "冬",
+        "meanings": [
+          "winter"
+        ]
+      },
+      {
+        "kanji": "眠",
+        "meanings": [
+          "sleep"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "冬の間、クマは冬眠します。",
+      "english": "Bears hibernate during the winter.",
+      "furigana": [
+        {
+          "text": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "間",
+          "reading": "あいだ"
+        },
+        {
+          "text": "、クマは"
+        },
+        {
+          "text": "冬眠",
+          "highlight": true,
+          "reading": "とうみん"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11556420",
+        "englishSentenceId": "1675456",
+        "url": "https://tatoeba.org/en/sentences/show/11556420"
+      }
+    },
+    "acceptedJapanese": [
+      "冬眠",
+      "とうみん"
+    ],
+    "acceptedEnglish": [
+      "hibernation",
+      "winter sleep",
+      "torpor"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-young-bird-1777217232932",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "雛",
+    "kanji": "雛",
+    "kana": "ひな",
+    "meaning": "young bird",
+    "explanation": "A JLPT N1 noun meaning \"young bird\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雛",
+        "meanings": [
+          "chick",
+          "squab",
+          "duckling",
+          "doll"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "母鳥が雛に虫を持ってきた。",
+      "english": "The mother bird brought worms for her young ones.",
+      "furigana": [
+        {
+          "text": "母",
+          "reading": "はは"
+        },
+        {
+          "text": "鳥",
+          "reading": "とり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "雛",
+          "highlight": true,
+          "reading": "ひな"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "虫",
+          "reading": "むし"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "持",
+          "reading": "も"
+        },
+        {
+          "text": "ってきた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "82770",
+        "englishSentenceId": "320946",
+        "url": "https://tatoeba.org/en/sentences/show/82770"
+      }
+    },
+    "acceptedJapanese": [
+      "雛",
+      "ひな"
+    ],
+    "acceptedEnglish": [
+      "young bird",
+      "chick",
+      "fledgling",
+      "hina doll",
+      "doll displayed during the Girls' Festival"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-animals-ray-1777217233658",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "鱝",
+    "kanji": "鱝",
+    "kana": "えい",
+    "meaning": "ray",
+    "explanation": "A JLPT N1 noun meaning \"ray\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鱝",
+        "meanings": [
+          "ray"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「鱝」は日本語の言葉です。",
+      "english": "\"ray\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "鱝",
+          "reading": "えい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "鱝",
+      "えい"
+    ],
+    "acceptedEnglish": [
+      "ray"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-animals-male-1777217235056",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "雄",
+    "kanji": "雄",
+    "kana": "おす",
+    "meaning": "male",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"male\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雄",
+        "meanings": [
+          "masculine",
+          "male",
+          "hero",
+          "leader"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "陰茎は雄の生殖器のひとつ。",
+      "english": "The penis is one of the male reproductive organs.",
+      "furigana": [
+        {
+          "text": "陰茎",
+          "reading": "いんけい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "雄",
+          "highlight": true,
+          "reading": "おす"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "生殖器",
+          "reading": "せいしょくき"
+        },
+        {
+          "text": "のひとつ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "402575",
+        "englishSentenceId": "402576",
+        "url": "https://tatoeba.org/en/sentences/show/402575"
+      }
+    },
+    "acceptedJapanese": [
+      "雄",
+      "おす"
+    ],
+    "acceptedEnglish": [
+      "male"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-animals-migratory-bird-1777217235740",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "渡り鳥",
+    "kanji": "渡り鳥",
+    "kana": "わたりどり",
+    "meaning": "migratory bird",
+    "explanation": "A JLPT N1 noun meaning \"migratory bird\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "渡",
+        "meanings": [
+          "cross"
+        ]
+      },
+      {
+        "kanji": "鳥",
+        "meanings": [
+          "bird",
+          "fowl",
+          "poultry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この池には、毎年冬になるとたくさんの渡り鳥がやってきます。",
+      "english": "Many migratory birds come to this pond every year in winter.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "池",
+          "reading": "いけ"
+        },
+        {
+          "text": "には、"
+        },
+        {
+          "text": "毎",
+          "reading": "ごと"
+        },
+        {
+          "text": "年"
+        },
+        {
+          "text": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "text": "になるとたくさんの"
+        },
+        {
+          "text": "渡り鳥",
+          "highlight": true,
+          "reading": "わたりどり"
+        },
+        {
+          "text": "がやってきます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2912362",
+        "englishSentenceId": "3331690",
+        "url": "https://tatoeba.org/en/sentences/show/2912362"
+      }
+    },
+    "acceptedJapanese": [
+      "渡り鳥",
+      "わたりどり"
+    ],
+    "acceptedEnglish": [
+      "migratory bird",
+      "bird of passage"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-animals-mouse-1777217237186",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "鼠",
+    "kanji": "鼠",
+    "kana": "ねず",
+    "meaning": "mouse",
+    "explanation": "A JLPT N1 noun meaning \"mouse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鼠",
+        "meanings": [
+          "rat",
+          "mouse",
+          "dark gray"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鼠が一匹部屋を駆けまわっている。",
+      "english": "A mouse is running around the room.",
+      "furigana": [
+        {
+          "text": "鼠",
+          "highlight": true,
+          "reading": "ねず"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "一匹",
+          "reading": "いっぴき"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "駆",
+          "reading": "か"
+        },
+        {
+          "text": "けまわっている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1223011",
+        "englishSentenceId": "1222997",
+        "url": "https://tatoeba.org/en/sentences/show/1223011"
+      }
+    },
+    "acceptedJapanese": [
+      "鼠",
+      "ねず"
+    ],
+    "acceptedEnglish": [
+      "mouse",
+      "rat",
+      "dark gray",
+      "slate gray"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-animals-prey-1777217237387",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "獲物",
+    "kanji": "獲物",
+    "kana": "えもの",
+    "meaning": "prey",
+    "explanation": "A JLPT N1 noun meaning \"prey\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "獲",
+        "meanings": [
+          "seize",
+          "get",
+          "find",
+          "earn"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鹿は良い獲物だ。",
+      "english": "Deer are good game.",
+      "furigana": [
+        {
+          "text": "鹿は"
+        },
+        {
+          "text": "良",
+          "reading": "りょう"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "獲物",
+          "highlight": true,
+          "reading": "えもの"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "149643",
+        "englishSentenceId": "264915",
+        "url": "https://tatoeba.org/en/sentences/show/149643"
+      }
+    },
+    "acceptedJapanese": [
+      "獲物",
+      "えもの"
+    ],
+    "acceptedEnglish": [
+      "prey",
+      "catch",
+      "kill",
+      "game",
+      "spoils",
+      "trophy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-beak-1777217237405",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "嘴",
+    "kanji": "嘴",
+    "kana": "くちばし",
+    "meaning": "beak",
+    "explanation": "A JLPT N1 noun meaning \"beak\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嘴",
+        "meanings": [
+          "beak",
+          "bill"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「嘴」は日本語の言葉です。",
+      "english": "\"beak\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "嘴",
+          "reading": "くちばし",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "嘴",
+      "くちばし"
+    ],
+    "acceptedEnglish": [
+      "beak",
+      "bill"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-domestic-animals-1777217238827",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "家畜",
+    "kanji": "家畜",
+    "kana": "かちく",
+    "meaning": "domestic animals",
+    "explanation": "A JLPT N1 noun meaning \"domestic animals\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "畜",
+        "meanings": [
+          "livestock",
+          "animal raising"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家畜を飼育する。",
+      "english": "I rear cattle.",
+      "furigana": [
+        {
+          "text": "家畜",
+          "highlight": true,
+          "reading": "かちく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "飼育",
+          "reading": "しいく"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186919",
+        "englishSentenceId": "24056",
+        "url": "https://tatoeba.org/en/sentences/show/186919"
+      }
+    },
+    "acceptedJapanese": [
+      "家畜",
+      "かちく"
+    ],
+    "acceptedEnglish": [
+      "domestic animals",
+      "livestock",
+      "cattle"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-insect-1777217240051",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "昆虫",
+    "kanji": "昆虫",
+    "kana": "こんちゅう",
+    "meaning": "insect",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"insect\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昆",
+        "meanings": [
+          "descendants",
+          "elder brother",
+          "insect"
+        ]
+      },
+      {
+        "kanji": "虫",
+        "meanings": [
+          "insect",
+          "bug"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ハエは昆虫よ。",
+      "english": "Flies are insects.",
+      "furigana": [
+        {
+          "text": "ハエは"
+        },
+        {
+          "text": "昆虫",
+          "highlight": true,
+          "reading": "こんちゅう"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11958120",
+        "englishSentenceId": "5990963",
+        "url": "https://tatoeba.org/en/sentences/show/11958120"
+      }
+    },
+    "acceptedJapanese": [
+      "昆虫",
+      "こんちゅう"
+    ],
+    "acceptedEnglish": [
+      "insect",
+      "bug"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-female-1777217240612",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "雌",
+    "kanji": "雌",
+    "kana": "めす",
+    "meaning": "female",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"female\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雌",
+        "meanings": [
+          "feminine",
+          "female"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ココは雌のゴリラである。",
+      "english": "Koko is a female gorilla.",
+      "furigana": [
+        {
+          "text": "ココは"
+        },
+        {
+          "text": "雌",
+          "highlight": true,
+          "reading": "めす"
+        },
+        {
+          "text": "のゴリラである。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224302",
+        "englishSentenceId": "61637",
+        "url": "https://tatoeba.org/en/sentences/show/224302"
+      }
+    },
+    "acceptedJapanese": [
+      "雌",
+      "めす"
+    ],
+    "acceptedEnglish": [
+      "female"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-animals-breeding-1777217240843",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "飼育",
+    "kanji": "飼育",
+    "kana": "しいく",
+    "meaning": "breeding",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"breeding\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飼",
+        "meanings": [
+          "raise animals"
+        ]
+      },
+      {
+        "kanji": "育",
+        "meanings": [
+          "raise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牛を飼育する。",
+      "english": "I raise cattle.",
+      "furigana": [
+        {
+          "text": "牛を"
+        },
+        {
+          "text": "飼育",
+          "highlight": true,
+          "reading": "しいく"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182306",
+        "englishSentenceId": "19486",
+        "url": "https://tatoeba.org/en/sentences/show/182306"
+      }
+    },
+    "acceptedJapanese": [
+      "飼育",
+      "しいく"
+    ],
+    "acceptedEnglish": [
+      "breeding",
+      "raising",
+      "rearing",
+      "keeping"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-beast-1777217240888",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "獣",
+    "kanji": "獣",
+    "kana": "けもの",
+    "meaning": "beast",
+    "explanation": "A JLPT N1 noun meaning \"beast\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "獣",
+        "meanings": [
+          "animal",
+          "beast"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "原始人はどう猛な獣を見ておびえた。",
+      "english": "The primitive man was frightened at the sight of a savage beast.",
+      "furigana": [
+        {
+          "text": "原始人",
+          "reading": "げんしじん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "どう猛",
+          "reading": "どうもう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "獣",
+          "highlight": true,
+          "reading": "けもの"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ておびえた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175007",
+        "englishSentenceId": "239460",
+        "url": "https://tatoeba.org/en/sentences/show/175007"
+      }
+    },
+    "acceptedJapanese": [
+      "獣",
+      "けもの"
+    ],
+    "acceptedEnglish": [
+      "beast",
+      "brute",
+      "animal",
+      "animal with human characteristics"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-animals-animal-husbandry-1777217240891",
+    "jlpt": "N1",
+    "subcategory": "Animals",
+    "name": "畜産",
+    "kanji": "畜産",
+    "kana": "ちくさん",
+    "meaning": "animal husbandry",
+    "explanation": "A JLPT N1 noun meaning \"animal husbandry\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "畜",
+        "meanings": [
+          "livestock",
+          "animal raising"
+        ]
+      },
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「畜産」は日本語の言葉です。",
+      "english": "\"animal husbandry\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "畜産",
+          "reading": "ちくさん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "畜産",
+      "ちくさん"
+    ],
+    "acceptedEnglish": [
+      "animal husbandry",
+      "livestock industry"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

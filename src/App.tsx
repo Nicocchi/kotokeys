@@ -13,6 +13,8 @@ import { JLPT_LEVELS, SUBCATEGORIES } from "./types";
 import type { ActiveDirection, AnswerStatus, JLPTLevel, PromptMode, Subcategory, VocabularyWord } from "./types";
 import { WordDetails } from "./components/WordDetails";
 import { PitchAccentDisplay } from "./components/PitchAccentDisplay";
+import { RadicalsDialog } from "./components/RadicalsDialog";
+import { WordsDialog } from "./components/WordsDialog";
 
 const MAX_STREAK_KEY = "kotokeys-max-streak";
 const LEGACY_MAX_STREAK_KEY = "kotopia-max-streak";
@@ -141,6 +143,8 @@ export default function App() {
   });
   const [isPanelOpen, setIsPanelOpen] = useState(false);
   const [isHelpOpen, setIsHelpOpen] = useState(false);
+  const [isRadicalsOpen, setIsRadicalsOpen] = useState(false);
+  const [isWordsOpen, setIsWordsOpen] = useState(false);
   const [answer, setAnswer] = useState("");
   const [status, setStatus] = useState<AnswerStatus>("answering");
   const [streak, setStreak] = useState(0);
@@ -173,6 +177,14 @@ export default function App() {
     }
     return map;
   }, [activeSubcategories]);
+
+  const levelTotals = useMemo(() => {
+    const map = new Map<JLPTLevel, number>();
+    for (const level of JLPT_LEVELS) {
+      map.set(level, words.filter((word) => word.jlpt === level).length);
+    }
+    return map;
+  }, []);
 
   const subcategoryCounts = useMemo(() => {
     const map = new Map<Subcategory, number>();
@@ -408,6 +420,12 @@ export default function App() {
           <div className="flex items-center gap-2">
             <StatPill label="Streak" value={streak} />
             <StatPill label="Max" value={maxStreak} />
+            <Button variant="tertiary" className="rounded-full" onPress={() => setIsWordsOpen(true)}>
+              Words
+            </Button>
+            <Button variant="tertiary" className="rounded-full" onPress={() => setIsRadicalsOpen(true)}>
+              Radicals
+            </Button>
             <Button variant="tertiary" className="rounded-full" onPress={toggleTheme}>
               {theme === "dark" ? "Light" : "Dark"}
             </Button>
@@ -498,6 +516,8 @@ export default function App() {
       </div>
 
       <HelpDialog isOpen={isHelpOpen} onClose={() => setIsHelpOpen(false)} />
+      <RadicalsDialog isOpen={isRadicalsOpen} onClose={() => setIsRadicalsOpen(false)} />
+      <WordsDialog isOpen={isWordsOpen} onClose={() => setIsWordsOpen(false)} />
 
       <SidePanel
         isOpen={isPanelOpen}
@@ -510,6 +530,7 @@ export default function App() {
         showExampleFurigana={showExampleFurigana}
         detailsPlacement={detailsPlacement}
         levelCounts={levelCounts}
+        levelTotals={levelTotals}
         subcategoryCounts={subcategoryCounts}
         onClose={() => setIsPanelOpen(false)}
         onJlptToggle={handleJlptToggle}
@@ -641,6 +662,19 @@ function HelpDialog({ isOpen, onClose }: { isOpen: boolean; onClose: () => void 
             </div>
           </HelpCard>
 
+          <HelpCard title="Kanji, radicals, and stroke order">
+            <p className="text-default-600">
+              After you answer, the word info panel breaks the word into its kanji with meanings and readings. Use the{" "}
+              <span className="font-bold text-foreground">Radicals</span> and{" "}
+              <span className="font-bold text-foreground">Stroke order</span> toggles next to the Kanji heading to reveal
+              each kanji&apos;s radical (the component used to index it in dictionaries) and, where available, a
+              stroke-order animation you can step through stroke by stroke. The{" "}
+              <span className="font-bold text-foreground">Radicals</span> button in the header browses all 214 traditional
+              radicals, and the <span className="font-bold text-foreground">Words</span> button browses every word in the
+              app with search and level/category filters.
+            </p>
+          </HelpCard>
+
           <HelpCard title="What the fallback numbers mean">
             <div className="space-y-3 text-default-600">
               <p>
@@ -681,6 +715,7 @@ type SidePanelProps = {
   showExampleFurigana: boolean;
   detailsPlacement: DetailsPlacement;
   levelCounts: Map<JLPTLevel, number>;
+  levelTotals: Map<JLPTLevel, number>;
   subcategoryCounts: Map<Subcategory, number>;
   onClose: () => void;
   onJlptToggle: (level: JLPTLevel) => void;
@@ -707,6 +742,7 @@ function SidePanel({
   showExampleFurigana,
   detailsPlacement,
   levelCounts,
+  levelTotals,
   subcategoryCounts,
   onClose,
   onJlptToggle,
@@ -766,6 +802,9 @@ function SidePanel({
                   compact
                 >
                   <span className="block">{level}</span>
+                  <span className={`text-xs font-semibold ${isSelected ? "text-white/85" : "text-default-500"}`}>
+                    {(levelTotals.get(level) ?? 0).toLocaleString()}
+                  </span>
                 </ToggleButton>
               );
             })}

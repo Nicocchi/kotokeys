@@ -1,1 +1,1550 @@
-[]
+[
+  {
+    "id": "n4-time-month-after-next-1777217250881",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "再来月",
+    "kanji": "再来月",
+    "kana": "さらいげつ",
+    "meaning": "month after next",
+    "explanation": "A JLPT N4 noun, adverb meaning \"month after next\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "再",
+        "meanings": [
+          "another time",
+          "again",
+          "twice"
+        ]
+      },
+      {
+        "kanji": "来",
+        "meanings": [
+          "come"
+        ]
+      },
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "再来月は１２月だ。",
+      "english": "The month after next is December.",
+      "furigana": [
+        {
+          "text": "再来月",
+          "highlight": true,
+          "reading": "さらいげつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "１２月",
+          "reading": "じゅうにがつ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "170805",
+        "englishSentenceId": "243675",
+        "url": "https://tatoeba.org/en/sentences/show/170805"
+      }
+    },
+    "acceptedJapanese": [
+      "再来月",
+      "さらいげつ"
+    ],
+    "acceptedEnglish": [
+      "month after next"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-daytime-1777217251100",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "昼間",
+    "kanji": "昼間",
+    "kana": "ひるま",
+    "meaning": "daytime",
+    "explanation": "A JLPT N4 noun, adverb meaning \"daytime\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昼",
+        "meanings": [
+          "daytime"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "昼間は働いてます。",
+      "english": "I work during the day.",
+      "furigana": [
+        {
+          "text": "昼間",
+          "highlight": true,
+          "reading": "ひるま"
+        },
+        {
+          "text": "は働いてます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11792764",
+        "englishSentenceId": "10166739",
+        "url": "https://tatoeba.org/en/sentences/show/11792764"
+      }
+    },
+    "acceptedJapanese": [
+      "昼間",
+      "ひるま"
+    ],
+    "acceptedEnglish": [
+      "daytime",
+      "during the day",
+      "time from sunrise until sunset",
+      "diurnal period"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-time-beginning-1777217251142",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "最初",
+    "kanji": "最初",
+    "kana": "さいしょ",
+    "meaning": "beginning",
+    "explanation": "A JLPT N4 no adjective, noun, adverb meaning \"beginning\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "最",
+        "meanings": [
+          "most"
+        ]
+      },
+      {
+        "kanji": "初",
+        "meanings": [
+          "first"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼が最初に来た。",
+      "english": "He came first.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "最初",
+          "highlight": true,
+          "reading": "さいしょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "120345",
+        "englishSentenceId": "2768617",
+        "url": "https://tatoeba.org/en/sentences/show/120345"
+      }
+    },
+    "acceptedJapanese": [
+      "最初",
+      "さいしょ"
+    ],
+    "acceptedEnglish": [
+      "beginning",
+      "outset",
+      "first",
+      "onset"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-this-evening-1777217251304",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "今夜",
+    "kanji": "今夜",
+    "kana": "こんや",
+    "meaning": "this evening",
+    "explanation": "A JLPT N4 noun, adverb meaning \"this evening\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "今",
+        "meanings": [
+          "present",
+          "this"
+        ]
+      },
+      {
+        "kanji": "夜",
+        "meanings": [
+          "night"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今夜は以上です。",
+      "english": "That's all for tonight.",
+      "furigana": [
+        {
+          "text": "今夜",
+          "highlight": true,
+          "reading": "こんや"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12146704",
+        "englishSentenceId": "11821228",
+        "url": "https://tatoeba.org/en/sentences/show/12146704"
+      }
+    },
+    "acceptedJapanese": [
+      "今夜",
+      "こんや"
+    ],
+    "acceptedEnglish": [
+      "this evening",
+      "tonight"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-time-week-after-next-1777217251367",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "再来週",
+    "kanji": "再来週",
+    "kana": "さらいしゅう",
+    "meaning": "week after next",
+    "explanation": "A JLPT N4 noun, adverb meaning \"week after next\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "再",
+        "meanings": [
+          "another time",
+          "again",
+          "twice"
+        ]
+      },
+      {
+        "kanji": "来",
+        "meanings": [
+          "come"
+        ]
+      },
+      {
+        "kanji": "週",
+        "meanings": [
+          "week"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "また再来週。",
+      "english": "See you the week after next week.",
+      "furigana": [
+        {
+          "text": "また"
+        },
+        {
+          "text": "再来週",
+          "highlight": true,
+          "reading": "さらいしゅう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2366082",
+        "englishSentenceId": "2394536",
+        "url": "https://tatoeba.org/en/sentences/show/2366082"
+      }
+    },
+    "acceptedJapanese": [
+      "再来週",
+      "さらいしゅう"
+    ],
+    "acceptedEnglish": [
+      "week after next"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-from-now-on-1777217251442",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "此れから",
+    "kanji": "此れから",
+    "kana": "これから",
+    "meaning": "from now on",
+    "explanation": "A JLPT N4 expression meaning \"from now on\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "此",
+        "meanings": [
+          "this",
+          "current",
+          "next",
+          "coming"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「此れから」は日本語の言葉です。",
+      "english": "\"from now on\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "此れから",
+          "reading": "これから",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "此れから",
+      "これから"
+    ],
+    "acceptedEnglish": [
+      "from now on",
+      "after this",
+      "in the future",
+      "in future",
+      "from here",
+      "from this point"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n4-time-soon-1777217251481",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "もう直ぐ",
+    "kanji": "もう直ぐ",
+    "kana": "もうすぐ",
+    "meaning": "soon",
+    "explanation": "A JLPT N4 expression, adverb meaning \"soon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「もう直ぐ」は日本語の言葉です。",
+      "english": "\"soon\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "もう直ぐ",
+          "reading": "もうすぐ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "もう直ぐ",
+      "もうすぐ"
+    ],
+    "acceptedEnglish": [
+      "soon",
+      "shortly",
+      "before long",
+      "nearly",
+      "almost"
+    ]
+  },
+  {
+    "id": "n4-time-soon-1777217251511",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "そろそろ",
+    "kanji": "そろそろ",
+    "kana": "そろそろ",
+    "meaning": "soon",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle meaning \"soon\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "そろそろ寝なよ。",
+      "english": "Go to sleep soon.",
+      "furigana": [
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そろそろ"
+        },
+        {
+          "text": "ろ",
+          "highlight": true,
+          "reading": "そろそろ"
+        },
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そろそろ"
+        },
+        {
+          "text": "ろ",
+          "highlight": true,
+          "reading": "そろそろ"
+        },
+        {
+          "text": "寝なよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10685622",
+        "englishSentenceId": "10124013",
+        "url": "https://tatoeba.org/en/sentences/show/10685622"
+      }
+    },
+    "acceptedJapanese": [
+      "そろそろ"
+    ],
+    "acceptedEnglish": [
+      "soon",
+      "before long",
+      "any time now",
+      "momentarily",
+      "slowly",
+      "quietly"
+    ]
+  },
+  {
+    "id": "n4-time-once-1777217251526",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "一度",
+    "kanji": "一度",
+    "kana": "いちど",
+    "meaning": "once",
+    "explanation": "A JLPT N4 noun, adverb meaning \"once\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "もう一度やってみて。",
+      "english": "Try it once more.",
+      "furigana": [
+        {
+          "text": "もう"
+        },
+        {
+          "text": "一度",
+          "highlight": true,
+          "reading": "いちど"
+        },
+        {
+          "text": "やってみて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1034968",
+        "englishSentenceId": "433593",
+        "url": "https://tatoeba.org/en/sentences/show/1034968"
+      }
+    },
+    "acceptedJapanese": [
+      "一度",
+      "いちど"
+    ],
+    "acceptedEnglish": [
+      "once",
+      "one time",
+      "on one occasion",
+      "temporarily",
+      "for a moment",
+      "one degree"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-time-this-time-1777217251535",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "今度",
+    "kanji": "今度",
+    "kana": "こんど",
+    "meaning": "this time",
+    "explanation": "A JLPT N4 noun, adverb meaning \"this time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "今",
+        "meanings": [
+          "present",
+          "this"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "また、今度な！",
+      "english": "Maybe next time!",
+      "furigana": [
+        {
+          "text": "また、"
+        },
+        {
+          "text": "今度",
+          "highlight": true,
+          "reading": "こんど"
+        },
+        {
+          "text": "な！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "195544",
+        "englishSentenceId": "32718",
+        "url": "https://tatoeba.org/en/sentences/show/195544"
+      }
+    },
+    "acceptedJapanese": [
+      "今度",
+      "こんど"
+    ],
+    "acceptedEnglish": [
+      "this time",
+      "now",
+      "next time",
+      "another time",
+      "shortly",
+      "soon"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-time-recently-1777217251622",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "最近",
+    "kanji": "最近",
+    "kana": "さいきん",
+    "meaning": "recently",
+    "explanation": "A JLPT N4 noun, no adjective, adverb meaning \"recently\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "最",
+        "meanings": [
+          "most"
+        ]
+      },
+      {
+        "kanji": "近",
+        "meanings": [
+          "near",
+          "recent"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "最近どう？",
+      "english": "How have you been recently?",
+      "furigana": [
+        {
+          "text": "最近",
+          "highlight": true,
+          "reading": "さいきん"
+        },
+        {
+          "text": "どう？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3859916",
+        "englishSentenceId": "372787",
+        "url": "https://tatoeba.org/en/sentences/show/3859916"
+      }
+    },
+    "acceptedJapanese": [
+      "最近",
+      "さいきん"
+    ],
+    "acceptedEnglish": [
+      "recently",
+      "lately",
+      "these days",
+      "nowadays",
+      "right now"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-a-long-time-1777217251691",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "久しぶり",
+    "kanji": "久しぶり",
+    "kana": "ひさしぶり",
+    "meaning": "a long time",
+    "explanation": "A JLPT N4 no adjective, na adjective, noun meaning \"a long time\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "久",
+        "meanings": [
+          "of long duration",
+          "long time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "久しぶりです。",
+      "english": "It's been a long time.",
+      "furigana": [
+        {
+          "text": "久しぶり",
+          "highlight": true,
+          "reading": "ひさしぶり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "417008",
+        "englishSentenceId": "417006",
+        "url": "https://tatoeba.org/en/sentences/show/417008"
+      }
+    },
+    "acceptedJapanese": [
+      "久しぶり",
+      "ひさしぶり"
+    ],
+    "acceptedEnglish": [
+      "a long time",
+      "first in a long time"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-period-1777217251757",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "時代",
+    "kanji": "時代",
+    "kana": "じだい",
+    "meaning": "period",
+    "explanation": "A JLPT N4 noun meaning \"period\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "時",
+        "meanings": [
+          "time"
+        ]
+      },
+      {
+        "kanji": "代",
+        "meanings": [
+          "substitute",
+          "generation",
+          "charge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "時代に乗り遅れるなよ。",
+      "english": "Get with the times.",
+      "furigana": [
+        {
+          "text": "時代",
+          "highlight": true,
+          "reading": "じだい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗り遅れる",
+          "reading": "のりおくれる"
+        },
+        {
+          "text": "なよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9826412",
+        "englishSentenceId": "3726976",
+        "url": "https://tatoeba.org/en/sentences/show/9826412"
+      }
+    },
+    "acceptedJapanese": [
+      "時代",
+      "じだい"
+    ],
+    "acceptedEnglish": [
+      "period",
+      "epoch",
+      "era",
+      "age",
+      "the times",
+      "those days"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-the-old-days-1777217251820",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "昔",
+    "kanji": "昔",
+    "kana": "むかし",
+    "meaning": "the old days",
+    "explanation": "A JLPT N4 noun, no adjective, adverb meaning \"the old days\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昔",
+        "meanings": [
+          "former times",
+          "antiquity"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ずいぶんと昔のことです。",
+      "english": "That was such a long time ago.",
+      "furigana": [
+        {
+          "text": "ずいぶんと"
+        },
+        {
+          "text": "昔",
+          "highlight": true,
+          "reading": "むかし"
+        },
+        {
+          "text": "のことです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10800078",
+        "englishSentenceId": "10077686",
+        "url": "https://tatoeba.org/en/sentences/show/10800078"
+      }
+    },
+    "acceptedJapanese": [
+      "昔",
+      "むかし"
+    ],
+    "acceptedEnglish": [
+      "the old days",
+      "the past",
+      "former times",
+      "a long time ago"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-a-short-while-ago-1777217251850",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "先",
+    "kanji": "先",
+    "kana": "さっき",
+    "meaning": "a short while ago",
+    "explanation": "A JLPT N4 noun, adverb meaning \"a short while ago\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "つい先ほど君のお父さんに会いました。",
+      "english": "I met your father just now.",
+      "furigana": [
+        {
+          "text": "つい"
+        },
+        {
+          "text": "先",
+          "highlight": true,
+          "reading": "さっき"
+        },
+        {
+          "text": "ほど"
+        },
+        {
+          "text": "君",
+          "reading": "くん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "お父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "会",
+          "reading": "かい"
+        },
+        {
+          "text": "いました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202596",
+        "englishSentenceId": "39830",
+        "url": "https://tatoeba.org/en/sentences/show/202596"
+      }
+    },
+    "acceptedJapanese": [
+      "先",
+      "さっき"
+    ],
+    "acceptedEnglish": [
+      "a short while ago",
+      "a moment ago",
+      "just now",
+      "some time ago"
+    ]
+  },
+  {
+    "id": "n4-time-the-other-day-1777217251883",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "この間",
+    "kanji": "この間",
+    "kana": "このあいだ",
+    "meaning": "the other day",
+    "explanation": "A JLPT N4 noun, adverb meaning \"the other day\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この間はありがとう。",
+      "english": "Thanks for the other day.",
+      "furigana": [
+        {
+          "text": "この間",
+          "highlight": true,
+          "reading": "このあいだ"
+        },
+        {
+          "text": "はありがとう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9518005",
+        "englishSentenceId": "8859128",
+        "url": "https://tatoeba.org/en/sentences/show/9518005"
+      }
+    },
+    "acceptedJapanese": [
+      "この間",
+      "このあいだ"
+    ],
+    "acceptedEnglish": [
+      "the other day",
+      "lately",
+      "recently",
+      "during this period",
+      "meanwhile",
+      "in the meantime"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-first-1777217251907",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "先ず",
+    "kanji": "先ず",
+    "kana": "まず",
+    "meaning": "first",
+    "explanation": "A JLPT N4 adverb meaning \"first\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "先ずは、格好から入らないとね。",
+      "english": "The first thing to do is just to get a nice outfit for it.",
+      "furigana": [
+        {
+          "text": "先ず",
+          "highlight": true,
+          "reading": "まず"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "格好",
+          "reading": "かっこう"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "らないとね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141917",
+        "englishSentenceId": "272653",
+        "url": "https://tatoeba.org/en/sentences/show/141917"
+      }
+    },
+    "acceptedJapanese": [
+      "先ず",
+      "まず"
+    ],
+    "acceptedEnglish": [
+      "first",
+      "firstly",
+      "to begin with",
+      "before anything else",
+      "probably",
+      "most likely"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-time-these-days-1777217252129",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "この頃",
+    "kanji": "この頃",
+    "kana": "このごろ",
+    "meaning": "these days",
+    "explanation": "A JLPT N4 adverb, noun meaning \"these days\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頃",
+        "meanings": [
+          "time",
+          "period"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この頃、気分が優れないんだ。",
+      "english": "I'm not feeling well lately.",
+      "furigana": [
+        {
+          "text": "この頃",
+          "highlight": true,
+          "reading": "このごろ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "気分",
+          "reading": "きぶん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "優",
+          "reading": "ゆう"
+        },
+        {
+          "text": "れないんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223742",
+        "englishSentenceId": "61078",
+        "url": "https://tatoeba.org/en/sentences/show/223742"
+      }
+    },
+    "acceptedJapanese": [
+      "この頃",
+      "このごろ"
+    ],
+    "acceptedEnglish": [
+      "these days",
+      "nowadays",
+      "now",
+      "at present",
+      "recently",
+      "lately"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-season-1777217252201",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "季節",
+    "kanji": "季節",
+    "kana": "きせつ",
+    "meaning": "season",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"season\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "季",
+        "meanings": [
+          "season"
+        ]
+      },
+      {
+        "kanji": "節",
+        "meanings": [
+          "joint",
+          "season of the year",
+          "section",
+          "melody"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "スキーの季節です。",
+      "english": "It's the ski season.",
+      "furigana": [
+        {
+          "text": "スキーの"
+        },
+        {
+          "text": "季節",
+          "highlight": true,
+          "reading": "きせつ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10635149",
+        "englishSentenceId": "10625114",
+        "url": "https://tatoeba.org/en/sentences/show/10635149"
+      }
+    },
+    "acceptedJapanese": [
+      "季節",
+      "きせつ"
+    ],
+    "acceptedEnglish": [
+      "season",
+      "time of year"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-time-occasionally-1777217252228",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "偶に",
+    "kanji": "偶に",
+    "kana": "たまに",
+    "meaning": "occasionally",
+    "explanation": "A JLPT N4 adverb meaning \"occasionally\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "偶",
+        "meanings": [
+          "by chance",
+          "even number",
+          "(married)couple"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「偶に」は日本語の言葉です。",
+      "english": "\"occasionally\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "偶に",
+          "reading": "たまに",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "偶に",
+      "たまに"
+    ],
+    "acceptedEnglish": [
+      "occasionally",
+      "once in a while",
+      "now and then"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-end-1777217252312",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "最後",
+    "kanji": "最後",
+    "kana": "さいご",
+    "meaning": "end",
+    "explanation": "A JLPT N4 noun meaning \"end\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "最",
+        "meanings": [
+          "most"
+        ]
+      },
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これで最後だ。",
+      "english": "This is it.",
+      "furigana": [
+        {
+          "text": "これで"
+        },
+        {
+          "text": "最後",
+          "highlight": true,
+          "reading": "さいご"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2154938",
+        "englishSentenceId": "54232",
+        "url": "https://tatoeba.org/en/sentences/show/2154938"
+      }
+    },
+    "acceptedJapanese": [
+      "最後",
+      "さいご"
+    ],
+    "acceptedEnglish": [
+      "end",
+      "conclusion"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-time-for-a-moment-1777217252438",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "暫く",
+    "kanji": "暫く",
+    "kana": "しばらく",
+    "meaning": "for a moment",
+    "explanation": "A JLPT N4 adverb, suru noun meaning \"for a moment\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "暫",
+        "meanings": [
+          "temporarily",
+          "a while",
+          "moment",
+          "long time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は暫く待つように言われた。",
+      "english": "I was told to wait for a while.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "暫く",
+          "highlight": true,
+          "reading": "しばらく"
+        },
+        {
+          "text": "待つ",
+          "reading": "まつ"
+        },
+        {
+          "text": "ように言われた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "156643",
+        "englishSentenceId": "257891",
+        "url": "https://tatoeba.org/en/sentences/show/156643"
+      }
+    },
+    "acceptedJapanese": [
+      "暫く",
+      "しばらく"
+    ],
+    "acceptedEnglish": [
+      "for a moment",
+      "for a minute"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-time-future-1777217252570",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "将来",
+    "kanji": "将来",
+    "kana": "しょうらい",
+    "meaning": "future",
+    "explanation": "A JLPT N4 noun, adverb meaning \"future\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "将",
+        "meanings": [
+          "general",
+          "officer"
+        ]
+      },
+      {
+        "kanji": "来",
+        "meanings": [
+          "come"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "将来が心配で。",
+      "english": "I worry about my future.",
+      "furigana": [
+        {
+          "text": "将来",
+          "highlight": true,
+          "reading": "しょうらい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "心配",
+          "reading": "しんぱい"
+        },
+        {
+          "text": "で。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11161625",
+        "englishSentenceId": "4275666",
+        "url": "https://tatoeba.org/en/sentences/show/11161625"
+      }
+    },
+    "acceptedJapanese": [
+      "将来",
+      "しょうらい"
+    ],
+    "acceptedEnglish": [
+      "future",
+      "prospects"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-time-end-1777217252612",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "終わり",
+    "kanji": "終わり",
+    "kana": "おわり",
+    "meaning": "end",
+    "explanation": "A JLPT N4 noun meaning \"end\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "終",
+        "meanings": [
+          "end"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の人生は終わりにきた。",
+      "english": "His life came to a close.",
+      "furigana": [
+        {
+          "text": "彼の人",
+          "reading": "あのひと"
+        },
+        {
+          "text": "生",
+          "reading": "い"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "終わり",
+          "highlight": true,
+          "reading": "おわり"
+        },
+        {
+          "text": "にきた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "116775",
+        "englishSentenceId": "286890",
+        "url": "https://tatoeba.org/en/sentences/show/116775"
+      }
+    },
+    "acceptedJapanese": [
+      "終わり",
+      "おわり"
+    ],
+    "acceptedEnglish": [
+      "end",
+      "ending",
+      "close",
+      "conclusion",
+      "end of life",
+      "death"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-time-lunch-break-1777217252645",
+    "jlpt": "N4",
+    "subcategory": "Time",
+    "name": "昼休み",
+    "kanji": "昼休み",
+    "kana": "ひるやすみ",
+    "meaning": "lunch break",
+    "explanation": "A JLPT N4 noun, adverb meaning \"lunch break\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "昼",
+        "meanings": [
+          "daytime"
+        ]
+      },
+      {
+        "kanji": "休",
+        "meanings": [
+          "rest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お昼休みはいつ？",
+      "english": "When is your lunch break?",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "昼",
+          "highlight": true,
+          "reading": "ひるやすみ"
+        },
+        {
+          "text": "休み",
+          "highlight": true,
+          "reading": "ひるやすみ"
+        },
+        {
+          "text": "はいつ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10642317",
+        "englishSentenceId": "9681089",
+        "url": "https://tatoeba.org/en/sentences/show/10642317"
+      }
+    },
+    "acceptedJapanese": [
+      "昼休み",
+      "ひるやすみ"
+    ],
+    "acceptedEnglish": [
+      "lunch break",
+      "noon recess",
+      "noon rest period"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

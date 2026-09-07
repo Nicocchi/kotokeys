@@ -1,1 +1,1147 @@
-[]
+[
+  {
+    "id": "n3-direction-position-lower-reaches-1777217246186",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "下",
+    "kanji": "下",
+    "kana": "しも",
+    "meaning": "lower reaches",
+    "explanation": "A JLPT N3 noun meaning \"lower reaches\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "下に署名してください。",
+      "english": "Sign at the bottom, please.",
+      "furigana": [
+        {
+          "text": "下",
+          "highlight": true,
+          "reading": "しも"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "署名",
+          "reading": "しょめい"
+        },
+        {
+          "text": "してください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188239",
+        "englishSentenceId": "25379",
+        "url": "https://tatoeba.org/en/sentences/show/188239"
+      }
+    },
+    "acceptedJapanese": [
+      "下",
+      "しも"
+    ],
+    "acceptedEnglish": [
+      "lower reaches",
+      "bottom",
+      "lower part",
+      "lower half",
+      "feces",
+      "urine"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-direction-position-centre-1777217246369",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "中央",
+    "kanji": "中央",
+    "kana": "ちゅうおう",
+    "meaning": "centre",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"centre\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "央",
+        "meanings": [
+          "center",
+          "middle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "図書館は市の中央にある。",
+      "english": "The library is in the middle of the city.",
+      "furigana": [
+        {
+          "text": "図書館",
+          "reading": "としょかん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "市",
+          "reading": "いち"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "中央",
+          "highlight": true,
+          "reading": "ちゅうおう"
+        },
+        {
+          "text": "にある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143863",
+        "englishSentenceId": "270703",
+        "url": "https://tatoeba.org/en/sentences/show/143863"
+      }
+    },
+    "acceptedJapanese": [
+      "中央",
+      "ちゅうおう"
+    ],
+    "acceptedEnglish": [
+      "centre",
+      "middle",
+      "heart"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-direction-position-end-1777217247332",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "端",
+    "kanji": "端",
+    "kana": "はし",
+    "meaning": "end",
+    "explanation": "A JLPT N3 noun meaning \"end\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "端",
+        "meanings": [
+          "end",
+          "edge",
+          "side"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "こっちの端を持っててくれる？",
+      "english": "Will you please hold this edge?",
+      "furigana": [
+        {
+          "text": "こっちの"
+        },
+        {
+          "text": "端",
+          "highlight": true,
+          "reading": "はし"
+        },
+        {
+          "text": "を持っててくれる？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224126",
+        "englishSentenceId": "61462",
+        "url": "https://tatoeba.org/en/sentences/show/224126"
+      }
+    },
+    "acceptedJapanese": [
+      "端",
+      "はし"
+    ],
+    "acceptedEnglish": [
+      "end",
+      "tip",
+      "point",
+      "edge",
+      "margin",
+      "beginning"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-direction-position-direction-1777217247641",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "方向",
+    "kanji": "方向",
+    "kana": "ほうこう",
+    "meaning": "direction",
+    "explanation": "A JLPT N3 noun meaning \"direction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      },
+      {
+        "kanji": "向",
+        "meanings": [
+          "turn toward",
+          "face toward"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "東はどの方向なの？",
+      "english": "What direction is east?",
+      "furigana": [
+        {
+          "text": "東",
+          "reading": "ひがし"
+        },
+        {
+          "text": "はどの"
+        },
+        {
+          "text": "方向",
+          "highlight": true,
+          "reading": "ほうこう"
+        },
+        {
+          "text": "なの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4562324",
+        "englishSentenceId": "4703048",
+        "url": "https://tatoeba.org/en/sentences/show/4562324"
+      }
+    },
+    "acceptedJapanese": [
+      "方向",
+      "ほうこう"
+    ],
+    "acceptedEnglish": [
+      "direction",
+      "orientation",
+      "bearing",
+      "way",
+      "course"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-direction-position-bottom-1777217247878",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "底",
+    "kanji": "底",
+    "kana": "そこ",
+    "meaning": "bottom",
+    "explanation": "A JLPT N3 noun meaning \"bottom\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "底",
+        "meanings": [
+          "bottom"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "底を持ってくれ。",
+      "english": "Grab the bottom.",
+      "furigana": [
+        {
+          "text": "底",
+          "highlight": true,
+          "reading": "そこ"
+        },
+        {
+          "text": "を持ってくれ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125528",
+        "englishSentenceId": "278464",
+        "url": "https://tatoeba.org/en/sentences/show/125528"
+      }
+    },
+    "acceptedJapanese": [
+      "底",
+      "そこ"
+    ],
+    "acceptedEnglish": [
+      "bottom",
+      "sole"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-direction-position-neighbourhood-1777217248121",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "辺り",
+    "kanji": "辺り",
+    "kana": "あたり",
+    "meaning": "neighbourhood",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix, adverb meaning \"neighbourhood\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "辺",
+        "meanings": [
+          "vicinity",
+          "borderland"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その辺りに立ち入ってはいけません。",
+      "english": "Don't set foot in that neighborhood.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "辺",
+          "highlight": true,
+          "reading": "あたり"
+        },
+        {
+          "text": "り",
+          "highlight": true,
+          "reading": "あたり"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "立ち",
+          "reading": "たち"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "ってはいけません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "206826",
+        "englishSentenceId": "44075",
+        "url": "https://tatoeba.org/en/sentences/show/206826"
+      }
+    },
+    "acceptedJapanese": [
+      "辺り",
+      "あたり"
+    ],
+    "acceptedEnglish": [
+      "neighbourhood",
+      "neighborhood",
+      "vicinity",
+      "nearby",
+      "surroundings"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-underground-1777217248166",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "地下",
+    "kanji": "地下",
+    "kana": "ちか",
+    "meaning": "underground",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"underground\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は地上、明日は地下。",
+      "english": "Today above ground tomorrow under.",
+      "furigana": [
+        {
+          "text": "今日は",
+          "reading": "こんにちは"
+        },
+        {
+          "text": "地上",
+          "reading": "ちじょう"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "明",
+          "reading": "あき"
+        },
+        {
+          "text": "日",
+          "reading": "にち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "地下",
+          "highlight": true,
+          "reading": "ちか"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "171547",
+        "englishSentenceId": "242929",
+        "url": "https://tatoeba.org/en/sentences/show/171547"
+      }
+    },
+    "acceptedJapanese": [
+      "地下",
+      "ちか"
+    ],
+    "acceptedEnglish": [
+      "underground",
+      "below the ground"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-place-1777217248598",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "位置",
+    "kanji": "位置",
+    "kana": "いち",
+    "meaning": "place",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"place\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "位",
+        "meanings": [
+          "rank",
+          "position"
+        ]
+      },
+      {
+        "kanji": "置",
+        "meanings": [
+          "place",
+          "put"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "全員それぞれの位置に着いた。",
+      "english": "Everybody took his position.",
+      "furigana": [
+        {
+          "text": "全員",
+          "reading": "ぜんいん"
+        },
+        {
+          "text": "それぞれの"
+        },
+        {
+          "text": "位置",
+          "highlight": true,
+          "reading": "いち"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "着",
+          "reading": "ちゃく"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140827",
+        "englishSentenceId": "273745",
+        "url": "https://tatoeba.org/en/sentences/show/140827"
+      }
+    },
+    "acceptedJapanese": [
+      "位置",
+      "いち"
+    ],
+    "acceptedEnglish": [
+      "place",
+      "position",
+      "location"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-centre-1777217248739",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "中心",
+    "kanji": "中心",
+    "kana": "ちゅうしん",
+    "meaning": "centre",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"centre\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "心",
+        "meanings": [
+          "heart"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "環境問題が学生評議会活動の中心だった。",
+      "english": "The environment was the focus of student council activities.",
+      "furigana": [
+        {
+          "text": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "text": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "学",
+          "reading": "がく"
+        },
+        {
+          "text": "生",
+          "reading": "しょう"
+        },
+        {
+          "text": "評議会",
+          "reading": "ひょうぎかい"
+        },
+        {
+          "text": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "中心",
+          "highlight": true,
+          "reading": "ちゅうしん"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183889",
+        "englishSentenceId": "21014",
+        "url": "https://tatoeba.org/en/sentences/show/183889"
+      }
+    },
+    "acceptedJapanese": [
+      "中心",
+      "ちゅうしん"
+    ],
+    "acceptedEnglish": [
+      "centre",
+      "middle",
+      "heart",
+      "core",
+      "focus",
+      "pivot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-direction-position-upper-1777217249288",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "上",
+    "kanji": "上",
+    "kana": "うわ",
+    "meaning": "upper",
+    "explanation": "A JLPT N3 noun, prefix meaning \"upper\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "たこは上へ上っていった。",
+      "english": "The kite went upward.",
+      "furigana": [
+        {
+          "text": "たこは"
+        },
+        {
+          "text": "上",
+          "highlight": true,
+          "reading": "うわ"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "上",
+          "reading": "うわ"
+        },
+        {
+          "text": "っていった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "203675",
+        "englishSentenceId": "40913",
+        "url": "https://tatoeba.org/en/sentences/show/203675"
+      }
+    },
+    "acceptedJapanese": [
+      "上",
+      "うわ"
+    ],
+    "acceptedEnglish": [
+      "upper",
+      "upward",
+      "outer",
+      "surface",
+      "top"
+    ]
+  },
+  {
+    "id": "n3-direction-position-here-and-there-1777217249471",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "方々",
+    "kanji": "方々",
+    "kana": "ほうぼう",
+    "meaning": "here and there",
+    "explanation": "A JLPT N3 adverb, noun meaning \"here and there\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "多くの方々に届けることができた。",
+      "english": "I was able to reach a lot of people.",
+      "furigana": [
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "方々",
+          "highlight": true,
+          "reading": "ほうぼう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "届ける",
+          "reading": "とどける"
+        },
+        {
+          "text": "ことができた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11047040",
+        "englishSentenceId": "11426833",
+        "url": "https://tatoeba.org/en/sentences/show/11047040"
+      }
+    },
+    "acceptedJapanese": [
+      "方々",
+      "ほうぼう"
+    ],
+    "acceptedEnglish": [
+      "here and there",
+      "this way and that way",
+      "everywhere",
+      "all over"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-reverse-1777217249570",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "逆",
+    "kanji": "逆",
+    "kana": "ぎゃく",
+    "meaning": "reverse",
+    "explanation": "A JLPT N3 no adjective, na adjective, noun meaning \"reverse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "逆",
+        "meanings": [
+          "reverse",
+          "be contrary"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "逆は必ずしも真ならず。",
+      "english": "The reverse is not always true.",
+      "furigana": [
+        {
+          "text": "逆",
+          "highlight": true,
+          "reading": "ぎゃく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "必ずしも",
+          "reading": "かならずしも"
+        },
+        {
+          "text": "真ならず。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10303531",
+        "englishSentenceId": "10306228",
+        "url": "https://tatoeba.org/en/sentences/show/10303531"
+      }
+    },
+    "acceptedJapanese": [
+      "逆",
+      "ぎゃく"
+    ],
+    "acceptedEnglish": [
+      "reverse",
+      "opposite"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-direction-position-here-and-there-1777217249729",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "彼方此方",
+    "kanji": "彼方此方",
+    "kana": "あちこち",
+    "meaning": "here and there",
+    "explanation": "A JLPT N3 pronoun, adverb, suru noun, intransitive verb meaning \"here and there\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "彼",
+        "meanings": [
+          "third person pronoun",
+          "that"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      },
+      {
+        "kanji": "此",
+        "meanings": [
+          "this",
+          "current",
+          "next",
+          "coming"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「彼方此方」は日本語の言葉です。",
+      "english": "\"here and there\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "彼方此方",
+          "reading": "あちこち",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "彼方此方",
+      "あちこち"
+    ],
+    "acceptedEnglish": [
+      "here and there",
+      "various places",
+      "all around",
+      "all over",
+      "everywhere",
+      "throughout"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-direction-position-surroundings-1777217249738",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "周囲",
+    "kanji": "周囲",
+    "kana": "しゅうい",
+    "meaning": "surroundings",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"surroundings\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "周",
+        "meanings": [
+          "lap",
+          "periphery",
+          "circumference"
+        ]
+      },
+      {
+        "kanji": "囲",
+        "meanings": [
+          "enclose",
+          "surround"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "周囲に敵影ありません。",
+      "english": "No sign of the enemy in our surroundings.",
+      "furigana": [
+        {
+          "text": "周囲",
+          "highlight": true,
+          "reading": "しゅうい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "敵影",
+          "reading": "てきえい"
+        },
+        {
+          "text": "ありません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "591665",
+        "englishSentenceId": "328524",
+        "url": "https://tatoeba.org/en/sentences/show/591665"
+      }
+    },
+    "acceptedJapanese": [
+      "周囲",
+      "しゅうい"
+    ],
+    "acceptedEnglish": [
+      "surroundings",
+      "environs",
+      "circumference"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-shade-1777217250104",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "陰",
+    "kanji": "陰",
+    "kana": "かげ",
+    "meaning": "shade",
+    "explanation": "A JLPT N3 noun meaning \"shade\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "陰",
+        "meanings": [
+          "shade",
+          "yin",
+          "negative",
+          "sex organs"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はその木の陰に隠れた。",
+      "english": "He hid behind the tree.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はその木の"
+        },
+        {
+          "text": "陰",
+          "highlight": true,
+          "reading": "かげ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "隠れ",
+          "reading": "かくれ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "112381",
+        "englishSentenceId": "291296",
+        "url": "https://tatoeba.org/en/sentences/show/112381"
+      }
+    },
+    "acceptedJapanese": [
+      "陰",
+      "かげ"
+    ],
+    "acceptedEnglish": [
+      "shade",
+      "shadow",
+      "behind",
+      "other side",
+      "back",
+      "the background"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-left-and-right-1777217250218",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "左右",
+    "kanji": "左右",
+    "kana": "さゆう",
+    "meaning": "left and right",
+    "explanation": "A JLPT N3 noun meaning \"left and right\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "左",
+        "meanings": [
+          "left"
+        ]
+      },
+      {
+        "kanji": "右",
+        "meanings": [
+          "right"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は左右を見た。",
+      "english": "He looked left and right.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "左右",
+          "highlight": true,
+          "reading": "さゆう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8693841",
+        "englishSentenceId": "4351264",
+        "url": "https://tatoeba.org/en/sentences/show/8693841"
+      }
+    },
+    "acceptedJapanese": [
+      "左右",
+      "さゆう"
+    ],
+    "acceptedEnglish": [
+      "left and right",
+      "right and left",
+      "one's attendants",
+      "people accompanying one",
+      "side",
+      "equivocation"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-direction-position-facing-1777217250827",
+    "jlpt": "N3",
+    "subcategory": "Direction/Position",
+    "name": "向い",
+    "kanji": "向い",
+    "kana": "むかい",
+    "meaning": "facing",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"facing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "向",
+        "meanings": [
+          "turn toward",
+          "face toward"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は向こうを向いている。",
+      "english": "She's looking the other way.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "向こう",
+          "reading": "むこう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "向い",
+          "highlight": true,
+          "reading": "むかい"
+        },
+        {
+          "text": "ている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "90154",
+        "englishSentenceId": "313560",
+        "url": "https://tatoeba.org/en/sentences/show/90154"
+      }
+    },
+    "acceptedJapanese": [
+      "向い",
+      "むかい"
+    ],
+    "acceptedEnglish": [
+      "facing",
+      "opposite",
+      "across the street",
+      "other side"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

@@ -1,54 +1,5 @@
 [
   {
-    "id": "n5-hobbies-activities-match-1777217253020",
-    "jlpt": "N5",
-    "subcategory": "Hobbies/Activities",
-    "name": "マッチ",
-    "kanji": "マッチ",
-    "kana": "マッチ",
-    "meaning": "match",
-    "explanation": "A JLPT N5 noun meaning \"match\".",
-    "kanjiBreakdown": [],
-    "example": {
-      "japanese": "マッチありますか。",
-      "english": "Do you have a match?",
-      "furigana": [
-        {
-          "text": "マ",
-          "highlight": true,
-          "reading": "マッチ"
-        },
-        {
-          "text": "ッ",
-          "highlight": true,
-          "reading": "マッチ"
-        },
-        {
-          "text": "チ",
-          "highlight": true,
-          "reading": "マッチ"
-        },
-        {
-          "text": "ありますか。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "195351",
-        "englishSentenceId": "32525",
-        "url": "https://tatoeba.org/en/sentences/show/195351"
-      }
-    },
-    "acceptedJapanese": [
-      "マッチ"
-    ],
-    "acceptedEnglish": [
-      "match"
-    ],
-    "pitchAccentNumber": 1
-  },
-  {
     "id": "n5-hobbies-activities-guitar-1777217253413",
     "jlpt": "N5",
     "subcategory": "Hobbies/Activities",
@@ -173,12 +124,14 @@
       {
         "kanji": "音",
         "meanings": [
-          "music"
+          "sound"
         ]
       },
       {
         "kanji": "楽",
         "meanings": [
+          "pleasure",
+          "comfortable",
           "music"
         ]
       }
@@ -294,13 +247,14 @@
       {
         "kanji": "写",
         "meanings": [
-          "photograph"
+          "copy"
         ]
       },
       {
         "kanji": "真",
         "meanings": [
-          "photograph"
+          "true",
+          "genuine"
         ]
       }
     ],
@@ -359,7 +313,7 @@
       {
         "kanji": "散",
         "meanings": [
-          "walk"
+          "scatter"
         ]
       },
       {
@@ -413,13 +367,13 @@
       {
         "kanji": "買",
         "meanings": [
-          "shopping"
+          "buy"
         ]
       },
       {
         "kanji": "物",
         "meanings": [
-          "shopping"
+          "thing"
         ]
       }
     ],
@@ -480,7 +434,9 @@
       {
         "kanji": "行",
         "meanings": [
-          "travel"
+          "go",
+          "act",
+          "line"
         ]
       }
     ],
@@ -538,13 +494,14 @@
       {
         "kanji": "映",
         "meanings": [
-          "movie"
+          "reflect",
+          "project"
         ]
       },
       {
         "kanji": "画",
         "meanings": [
-          "movie"
+          "picture"
         ]
       }
     ],

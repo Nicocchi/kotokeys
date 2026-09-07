@@ -12,13 +12,15 @@
       {
         "kanji": "上",
         "meanings": [
-          "coat"
+          "up"
         ]
       },
       {
         "kanji": "着",
         "meanings": [
-          "coat"
+          "put on",
+          "arrive",
+          "stick"
         ]
       }
     ],
@@ -138,19 +140,21 @@
       {
         "kanji": "冷",
         "meanings": [
-          "refrigerator"
+          "cold"
         ]
       },
       {
         "kanji": "蔵",
         "meanings": [
-          "refrigerator"
+          "store",
+          "warehouse"
         ]
       },
       {
         "kanji": "庫",
         "meanings": [
-          "refrigerator"
+          "storage chamber",
+          "storehouse"
         ]
       }
     ],
@@ -205,13 +209,13 @@
       {
         "kanji": "電",
         "meanings": [
-          "telephone call"
+          "electricity"
         ]
       },
       {
         "kanji": "話",
         "meanings": [
-          "telephone call"
+          "speak"
         ]
       }
     ],
@@ -317,7 +321,9 @@
       {
         "kanji": "皿",
         "meanings": [
-          "plate"
+          "plate",
+          "dish",
+          "saucer"
         ]
       }
     ],
@@ -371,7 +377,8 @@
       {
         "kanji": "雑",
         "meanings": [
-          "magazine"
+          "miscellaneous",
+          "mixed"
         ]
       },
       {
@@ -493,13 +500,15 @@
       {
         "kanji": "荷",
         "meanings": [
-          "luggage"
+          "load",
+          "cargo",
+          "baggage"
         ]
       },
       {
         "kanji": "物",
         "meanings": [
-          "luggage"
+          "thing"
         ]
       }
     ],
@@ -550,13 +559,15 @@
       {
         "kanji": "灰",
         "meanings": [
-          "ashtray"
+          "ash"
         ]
       },
       {
         "kanji": "皿",
         "meanings": [
-          "ashtray"
+          "plate",
+          "dish",
+          "saucer"
         ]
       }
     ],
@@ -719,6 +730,105 @@
     ]
   },
   {
+    "id": "n5-objects-door-1777217252978",
+    "jlpt": "N5",
+    "subcategory": "Objects",
+    "name": "ドア",
+    "kanji": "ドア",
+    "kana": "ドア",
+    "meaning": "door",
+    "explanation": "A JLPT N5 noun meaning \"door\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ドアが開きます。",
+      "english": "The door opens.",
+      "furigana": [
+        {
+          "text": "ド",
+          "highlight": true,
+          "reading": "ドア"
+        },
+        {
+          "text": "ア",
+          "highlight": true,
+          "reading": "ドア"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "開き",
+          "reading": "ひらき"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8888550",
+        "englishSentenceId": "9234970",
+        "url": "https://tatoeba.org/en/sentences/show/8888550"
+      }
+    },
+    "acceptedJapanese": [
+      "ドア"
+    ],
+    "acceptedEnglish": [
+      "door"
+    ]
+  },
+  {
+    "id": "n5-objects-match-1777217253020",
+    "jlpt": "N5",
+    "subcategory": "Objects",
+    "name": "マッチ",
+    "kanji": "マッチ",
+    "kana": "マッチ",
+    "meaning": "match",
+    "explanation": "A JLPT N5 noun meaning \"match\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "マッチありますか。",
+      "english": "Do you have a match?",
+      "furigana": [
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "マッチ"
+        },
+        {
+          "text": "ありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "195351",
+        "englishSentenceId": "32525",
+        "url": "https://tatoeba.org/en/sentences/show/195351"
+      }
+    },
+    "acceptedJapanese": [
+      "マッチ"
+    ],
+    "acceptedEnglish": [
+      "match"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
     "id": "n5-objects-dictionary-1777217253032",
     "jlpt": "N5",
     "subcategory": "Objects",
@@ -731,13 +841,14 @@
       {
         "kanji": "字",
         "meanings": [
-          "dictionary"
+          "character"
         ]
       },
       {
         "kanji": "引",
         "meanings": [
-          "dictionary"
+          "draw",
+          "pull"
         ]
       }
     ],
@@ -1180,13 +1291,13 @@
       {
         "kanji": "背",
         "meanings": [
-          "business suit"
+          "back"
         ]
       },
       {
         "kanji": "広",
         "meanings": [
-          "business suit"
+          "wide"
         ]
       }
     ],
@@ -1299,7 +1410,9 @@
       {
         "kanji": "鞄",
         "meanings": [
-          "bag"
+          "suitcase",
+          "bag",
+          "briefcase"
         ]
       }
     ],
@@ -1349,13 +1462,15 @@
       {
         "kanji": "新",
         "meanings": [
-          "newspaper"
+          "new"
         ]
       },
       {
         "kanji": "聞",
         "meanings": [
-          "newspaper"
+          "hear",
+          "listen",
+          "ask"
         ]
       }
     ],
@@ -1466,13 +1581,13 @@
       {
         "kanji": "石",
         "meanings": [
-          "soap"
+          "stone"
         ]
       },
       {
         "kanji": "鹸",
         "meanings": [
-          "soap"
+          "saltiness"
         ]
       }
     ],
@@ -1647,13 +1762,15 @@
       {
         "kanji": "時",
         "meanings": [
-          "clock"
+          "time"
         ]
       },
       {
         "kanji": "計",
         "meanings": [
-          "clock"
+          "plan",
+          "compute",
+          "measure"
         ]
       }
     ],
@@ -1771,13 +1888,13 @@
       {
         "kanji": "切",
         "meanings": [
-          "stamp"
+          "cut"
         ]
       },
       {
         "kanji": "手",
         "meanings": [
-          "stamp"
+          "hand"
         ]
       }
     ],
@@ -1832,13 +1949,15 @@
       {
         "kanji": "洋",
         "meanings": [
-          "glass"
+          "ocean",
+          "western"
         ]
       },
       {
         "kanji": "杯",
         "meanings": [
-          "glass"
+          "cup",
+          "sake cup"
         ]
       }
     ],
@@ -1948,13 +2067,16 @@
       {
         "kanji": "辞",
         "meanings": [
-          "dictionary"
+          "word",
+          "resign",
+          "quit"
         ]
       },
       {
         "kanji": "書",
         "meanings": [
-          "dictionary"
+          "write",
+          "book"
         ]
       }
     ],
@@ -2009,13 +2131,16 @@
       {
         "kanji": "帽",
         "meanings": [
+          "headgear",
+          "cap",
           "hat"
         ]
       },
       {
         "kanji": "子",
         "meanings": [
-          "hat"
+          "child",
+          "noun suffix"
         ]
       }
     ],
@@ -2076,7 +2201,8 @@
       {
         "kanji": "子",
         "meanings": [
-          "chair"
+          "child",
+          "noun suffix"
         ]
       }
     ],
@@ -2235,13 +2361,14 @@
       {
         "kanji": "封",
         "meanings": [
-          "envelope"
+          "seal"
         ]
       },
       {
         "kanji": "筒",
         "meanings": [
-          "envelope"
+          "tube",
+          "pipe"
         ]
       }
     ],
@@ -2272,6 +2399,76 @@
     ],
     "acceptedEnglish": [
       "envelope"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n5-objects-rice-bowl-1777217253608",
+    "jlpt": "N5",
+    "subcategory": "Objects",
+    "name": "茶碗",
+    "kanji": "茶碗",
+    "kana": "ちゃわん",
+    "meaning": "rice bowl",
+    "explanation": "A JLPT N5 noun meaning \"rice bowl\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      },
+      {
+        "kanji": "碗",
+        "meanings": [
+          "porcelain bowl",
+          "tea cup"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は茶碗のふちを欠いた。",
+      "english": "He chipped the edge of the tea cup.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "茶碗",
+          "highlight": true,
+          "reading": "ちゃわん"
+        },
+        {
+          "text": "のふちを"
+        },
+        {
+          "text": "欠い",
+          "reading": "かい"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "509438",
+        "englishSentenceId": "509472",
+        "url": "https://tatoeba.org/en/sentences/show/509438"
+      }
+    },
+    "acceptedJapanese": [
+      "茶碗",
+      "ちゃわん"
+    ],
+    "acceptedEnglish": [
+      "rice bowl",
+      "tea cup",
+      "teacup"
     ],
     "pitchAccentNumber": 0
   },
@@ -2509,7 +2706,9 @@
       {
         "kanji": "服",
         "meanings": [
-          "clothes"
+          "clothes",
+          "clothing",
+          "submit"
         ]
       }
     ],
@@ -2570,7 +2769,8 @@
       {
         "kanji": "気",
         "meanings": [
-          "electricity"
+          "gas",
+          "spirit"
         ]
       }
     ],
@@ -2618,13 +2818,16 @@
       {
         "kanji": "地",
         "meanings": [
-          "map"
+          "ground",
+          "place",
+          "base",
+          "earth"
         ]
       },
       {
         "kanji": "図",
         "meanings": [
-          "map"
+          "drawing"
         ]
       }
     ],
@@ -2793,13 +2996,13 @@
       {
         "kanji": "花",
         "meanings": [
-          "vase"
+          "flower"
         ]
       },
       {
         "kanji": "瓶",
         "meanings": [
-          "vase"
+          "bottle"
         ]
       }
     ],
@@ -2997,13 +3200,16 @@
       {
         "kanji": "洋",
         "meanings": [
-          "Western-style clothes"
+          "ocean",
+          "western"
         ]
       },
       {
         "kanji": "服",
         "meanings": [
-          "Western-style clothes"
+          "clothes",
+          "clothing",
+          "submit"
         ]
       }
     ],
@@ -3064,7 +3270,7 @@
       {
         "kanji": "靴",
         "meanings": [
-          "shoe"
+          "shoes"
         ]
       }
     ],
@@ -3184,13 +3390,14 @@
       {
         "kanji": "洋",
         "meanings": [
-          "trousers"
+          "ocean",
+          "western"
         ]
       },
       {
         "kanji": "袴",
         "meanings": [
-          "trousers"
+          "men's formal divided skirt"
         ]
       }
     ],
@@ -3247,13 +3454,15 @@
       {
         "kanji": "葉",
         "meanings": [
-          "postcard"
+          "leaf",
+          "foliage"
         ]
       },
       {
         "kanji": "書",
         "meanings": [
-          "postcard"
+          "write",
+          "book"
         ]
       }
     ],
@@ -3303,7 +3512,9 @@
       {
         "kanji": "本",
         "meanings": [
-          "book"
+          "basis",
+          "book",
+          "this"
         ]
       }
     ],
@@ -3460,13 +3671,18 @@
       {
         "kanji": "本",
         "meanings": [
-          "bookshelves"
+          "basis",
+          "book",
+          "this"
         ]
       },
       {
         "kanji": "棚",
         "meanings": [
-          "bookshelves"
+          "shelf",
+          "ledge",
+          "rack",
+          "mount"
         ]
       }
     ],
@@ -3522,13 +3738,13 @@
       {
         "kanji": "靴",
         "meanings": [
-          "socks"
+          "shoes"
         ]
       },
       {
         "kanji": "下",
         "meanings": [
-          "socks"
+          "down"
         ]
       }
     ],
@@ -3700,6 +3916,8 @@
       {
         "kanji": "金",
         "meanings": [
+          "metal",
+          "gold",
           "money"
         ]
       }
@@ -3747,13 +3965,13 @@
       {
         "kanji": "煙",
         "meanings": [
-          "tobacco"
+          "smoke"
         ]
       },
       {
         "kanji": "草",
         "meanings": [
-          "tobacco"
+          "grass"
         ]
       }
     ],
@@ -3809,13 +4027,16 @@
       {
         "kanji": "財",
         "meanings": [
-          "wallet"
+          "wealth",
+          "property",
+          "money"
         ]
       },
       {
         "kanji": "布",
         "meanings": [
-          "wallet"
+          "cloth",
+          "spread"
         ]
       }
     ],

@@ -12,13 +12,14 @@
       {
         "kanji": "女",
         "meanings": [
-          "girl"
+          "woman"
         ]
       },
       {
         "kanji": "子",
         "meanings": [
-          "girl"
+          "child",
+          "noun suffix"
         ]
       }
     ],
@@ -78,7 +79,7 @@
       {
         "kanji": "皆",
         "meanings": [
-          "everyone"
+          "all"
         ]
       }
     ],
@@ -127,13 +128,14 @@
       {
         "kanji": "男",
         "meanings": [
-          "boy"
+          "man"
         ]
       },
       {
         "kanji": "子",
         "meanings": [
-          "boy"
+          "child",
+          "noun suffix"
         ]
       }
     ],
@@ -194,7 +196,8 @@
       {
         "kanji": "誰",
         "meanings": [
-          "who"
+          "who",
+          "someone"
         ]
       }
     ],
@@ -241,13 +244,18 @@
       {
         "kanji": "貴",
         "meanings": [
-          "you"
+          "noble",
+          "your honorable",
+          "valuable",
+          "respect"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "you"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -309,7 +317,8 @@
       {
         "kanji": "達",
         "meanings": [
-          "friend"
+          "attain",
+          "suffix for plural"
         ]
       }
     ],
@@ -357,13 +366,17 @@
       {
         "kanji": "警",
         "meanings": [
-          "police officer"
+          "guard against",
+          "warn",
+          "admonish"
         ]
       },
       {
         "kanji": "官",
         "meanings": [
-          "police officer"
+          "government",
+          "government official",
+          "authorities"
         ]
       }
     ],
@@ -412,6 +425,7 @@
       {
         "kanji": "誰",
         "meanings": [
+          "who",
           "someone"
         ]
       }
@@ -464,19 +478,20 @@
       {
         "kanji": "外",
         "meanings": [
-          "foreigner"
+          "outside"
         ]
       },
       {
         "kanji": "国",
         "meanings": [
-          "foreigner"
+          "country"
         ]
       },
       {
         "kanji": "人",
         "meanings": [
-          "foreigner"
+          "human being",
+          "person"
         ]
       }
     ],
@@ -582,13 +597,15 @@
       {
         "kanji": "大",
         "meanings": [
-          "crowd of people"
+          "big"
         ]
       },
       {
         "kanji": "勢",
         "meanings": [
-          "crowd of people"
+          "power",
+          "force",
+          "vigor"
         ]
       }
     ],
@@ -638,6 +655,68 @@
     "pitchAccentNumber": 3
   },
   {
+    "id": "n5-people-roles-adult-1777217253884",
+    "jlpt": "N5",
+    "subcategory": "People/Roles",
+    "name": "大人",
+    "kanji": "大人",
+    "kana": "おとな",
+    "meaning": "adult",
+    "explanation": "A JLPT N5 noun, no adjective, na adjective meaning \"adult\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "君はもう大人だ。",
+      "english": "You are now an adult.",
+      "furigana": [
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "はもう"
+        },
+        {
+          "text": "大人",
+          "highlight": true,
+          "reading": "おとな"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "177535",
+        "englishSentenceId": "16387",
+        "url": "https://tatoeba.org/en/sentences/show/177535"
+      }
+    },
+    "acceptedJapanese": [
+      "大人",
+      "おとな"
+    ],
+    "acceptedEnglish": [
+      "adult",
+      "grown-up"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
     "id": "n5-people-roles-police-officer-1777217254148",
     "jlpt": "N5",
     "subcategory": "People/Roles",
@@ -650,7 +729,9 @@
       {
         "kanji": "巡",
         "meanings": [
-          "police officer"
+          "patrol",
+          "go around",
+          "circumference"
         ]
       }
     ],
@@ -759,13 +840,15 @@
       {
         "kanji": "自",
         "meanings": [
-          "myself"
+          "self"
         ]
       },
       {
         "kanji": "分",
         "meanings": [
-          "myself"
+          "divide",
+          "part",
+          "minute"
         ]
       }
     ],

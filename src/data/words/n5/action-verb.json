@@ -12,7 +12,10 @@
       {
         "kanji": "脱",
         "meanings": [
-          "to take off"
+          "remove",
+          "escape from",
+          "undress",
+          "drop out"
         ]
       }
     ],
@@ -88,7 +91,9 @@
       {
         "kanji": "着",
         "meanings": [
-          "to wear"
+          "put on",
+          "arrive",
+          "stick"
         ]
       }
     ],
@@ -142,7 +147,10 @@
       {
         "kanji": "消",
         "meanings": [
-          "to disappear"
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
         ]
       }
     ],
@@ -201,7 +209,8 @@
       {
         "kanji": "掛",
         "meanings": [
-          "to hang up"
+          "set",
+          "hang"
         ]
       }
     ],
@@ -256,7 +265,7 @@
       {
         "kanji": "忘",
         "meanings": [
-          "to forget"
+          "forget"
         ]
       }
     ],
@@ -313,7 +322,10 @@
       {
         "kanji": "為",
         "meanings": [
-          "to do"
+          "do",
+          "change",
+          "make",
+          "benefit"
         ]
       }
     ],
@@ -386,7 +398,7 @@
       {
         "kanji": "泳",
         "meanings": [
-          "to swim"
+          "swim"
         ]
       }
     ],
@@ -452,7 +464,7 @@
       {
         "kanji": "買",
         "meanings": [
-          "to buy"
+          "buy"
         ]
       }
     ],
@@ -507,7 +519,8 @@
       {
         "kanji": "出",
         "meanings": [
-          "to leave"
+          "go out",
+          "put out"
         ]
       }
     ],
@@ -562,7 +575,7 @@
       {
         "kanji": "始",
         "meanings": [
-          "to begin"
+          "begin"
         ]
       }
     ],
@@ -614,7 +627,8 @@
       {
         "kanji": "撮",
         "meanings": [
-          "to take"
+          "snapshot",
+          "take pictures"
         ]
       }
     ],
@@ -671,7 +685,7 @@
       {
         "kanji": "返",
         "meanings": [
-          "to return"
+          "return"
         ]
       }
     ],
@@ -730,7 +744,8 @@
       {
         "kanji": "磨",
         "meanings": [
-          "to polish"
+          "polish",
+          "brush"
         ]
       }
     ],
@@ -803,7 +818,8 @@
       {
         "kanji": "頼",
         "meanings": [
-          "to request"
+          "rely on",
+          "request"
         ]
       }
     ],
@@ -862,13 +878,14 @@
       {
         "kanji": "出",
         "meanings": [
-          "to be able to do"
+          "go out",
+          "put out"
         ]
       },
       {
         "kanji": "来",
         "meanings": [
-          "to be able to do"
+          "come"
         ]
       }
     ],
@@ -927,7 +944,7 @@
       {
         "kanji": "開",
         "meanings": [
-          "to open"
+          "open"
         ]
       }
     ],
@@ -986,7 +1003,7 @@
       {
         "kanji": "働",
         "meanings": [
-          "to work"
+          "work"
         ]
       }
     ],
@@ -1045,7 +1062,9 @@
       {
         "kanji": "着",
         "meanings": [
-          "to arrive at"
+          "put on",
+          "arrive",
+          "stick"
         ]
       }
     ],
@@ -1098,7 +1117,7 @@
       {
         "kanji": "差",
         "meanings": [
-          "to shine"
+          "difference"
         ]
       }
     ],
@@ -1171,7 +1190,9 @@
       {
         "kanji": "生",
         "meanings": [
-          "to be born"
+          "life",
+          "be born",
+          "student"
         ]
       }
     ],
@@ -1228,7 +1249,8 @@
       {
         "kanji": "出",
         "meanings": [
-          "to take out"
+          "go out",
+          "put out"
         ]
       }
     ],
@@ -1291,7 +1313,10 @@
       {
         "kanji": "吸",
         "meanings": [
-          "to smoke"
+          "suck",
+          "breathe in",
+          "inhale",
+          "smoke"
         ]
       }
     ],
@@ -1346,7 +1371,7 @@
       {
         "kanji": "閉",
         "meanings": [
-          "to be shut"
+          "close"
         ]
       }
     ],
@@ -1409,7 +1434,9 @@
       {
         "kanji": "要",
         "meanings": [
-          "to be needed"
+          "important",
+          "summarize",
+          "require"
         ]
       }
     ],
@@ -1461,7 +1488,7 @@
       {
         "kanji": "飲",
         "meanings": [
-          "to drink"
+          "drink"
         ]
       }
     ],
@@ -1517,7 +1544,8 @@
       {
         "kanji": "作",
         "meanings": [
-          "to make"
+          "make",
+          "work"
         ]
       }
     ],
@@ -1587,7 +1615,8 @@
       {
         "kanji": "立",
         "meanings": [
-          "to stand"
+          "stand",
+          "establish"
         ]
       }
     ],
@@ -1660,7 +1689,8 @@
       {
         "kanji": "晴",
         "meanings": [
-          "to clear up"
+          "fine weather",
+          "clear up"
         ]
       }
     ],
@@ -1715,7 +1745,8 @@
       {
         "kanji": "無",
         "meanings": [
-          "to lose"
+          "without",
+          "nothing"
         ]
       }
     ],
@@ -1788,7 +1819,7 @@
       {
         "kanji": "読",
         "meanings": [
-          "to read"
+          "read"
         ]
       }
     ],
@@ -1854,7 +1885,7 @@
       {
         "kanji": "走",
         "meanings": [
-          "to run"
+          "run"
         ]
       }
     ],
@@ -1914,7 +1945,8 @@
       {
         "kanji": "食",
         "meanings": [
-          "to eat"
+          "eat",
+          "food"
         ]
       }
     ],
@@ -1964,7 +1996,8 @@
       {
         "kanji": "並",
         "meanings": [
-          "to line up"
+          "line up",
+          "ordinary"
         ]
       }
     ],
@@ -2047,7 +2080,7 @@
       {
         "kanji": "吹",
         "meanings": [
-          "to blow"
+          "blow"
         ]
       }
     ],
@@ -2096,7 +2129,7 @@
       {
         "kanji": "渡",
         "meanings": [
-          "to cross over"
+          "cross"
         ]
       }
     ],
@@ -2155,7 +2188,7 @@
       {
         "kanji": "疲",
         "meanings": [
-          "to get tired"
+          "tired"
         ]
       }
     ],
@@ -2214,7 +2247,9 @@
       {
         "kanji": "聞",
         "meanings": [
-          "to hear"
+          "hear",
+          "listen",
+          "ask"
         ]
       }
     ],
@@ -2269,7 +2304,7 @@
       {
         "kanji": "終",
         "meanings": [
-          "to end"
+          "end"
         ]
       }
     ],
@@ -2324,7 +2359,8 @@
       {
         "kanji": "教",
         "meanings": [
-          "to teach"
+          "teach",
+          "religion"
         ]
       }
     ],
@@ -2383,7 +2419,9 @@
       {
         "kanji": "張",
         "meanings": [
-          "to stick"
+          "spread",
+          "strain",
+          "stretch"
         ]
       }
     ],
@@ -2439,7 +2477,8 @@
       {
         "kanji": "会",
         "meanings": [
-          "to meet"
+          "meet",
+          "society"
         ]
       }
     ],
@@ -2497,7 +2536,7 @@
       {
         "kanji": "切",
         "meanings": [
-          "to cut"
+          "cut"
         ]
       }
     ],
@@ -2552,7 +2591,8 @@
       {
         "kanji": "出",
         "meanings": [
-          "to go out"
+          "go out",
+          "put out"
         ]
       }
     ],
@@ -2608,7 +2648,7 @@
       {
         "kanji": "有",
         "meanings": [
-          "to be"
+          "have"
         ]
       }
     ],
@@ -2681,13 +2721,13 @@
       {
         "kanji": "洗",
         "meanings": [
-          "washing"
+          "wash"
         ]
       },
       {
         "kanji": "濯",
         "meanings": [
-          "washing"
+          "rinse"
         ]
       }
     ],
@@ -2804,7 +2844,10 @@
       {
         "kanji": "消",
         "meanings": [
-          "to erase"
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
         ]
       }
     ],
@@ -2863,7 +2906,9 @@
       {
         "kanji": "降",
         "meanings": [
-          "to fall"
+          "descend",
+          "fall",
+          "get off"
         ]
       }
     ],
@@ -2929,7 +2974,9 @@
       {
         "kanji": "行",
         "meanings": [
-          "to go"
+          "go",
+          "act",
+          "line"
         ]
       }
     ],
@@ -2984,7 +3031,7 @@
       {
         "kanji": "上",
         "meanings": [
-          "to raise"
+          "up"
         ]
       }
     ],
@@ -3056,7 +3103,8 @@
       {
         "kanji": "死",
         "meanings": [
-          "to die"
+          "die",
+          "death"
         ]
       }
     ],
@@ -3108,7 +3156,7 @@
       {
         "kanji": "曇",
         "meanings": [
-          "to get cloudy"
+          "cloudy"
         ]
       }
     ],
@@ -3170,7 +3218,8 @@
       {
         "kanji": "並",
         "meanings": [
-          "to line up"
+          "line up",
+          "ordinary"
         ]
       }
     ],
@@ -3250,7 +3299,7 @@
       {
         "kanji": "待",
         "meanings": [
-          "to wait"
+          "wait"
         ]
       }
     ],
@@ -3302,7 +3351,7 @@
       {
         "kanji": "歩",
         "meanings": [
-          "to walk"
+          "walk"
         ]
       }
     ],
@@ -3356,7 +3405,7 @@
       {
         "kanji": "売",
         "meanings": [
-          "to sell"
+          "sell"
         ]
       }
     ],
@@ -3422,7 +3471,7 @@
       {
         "kanji": "見",
         "meanings": [
-          "to show"
+          "see"
         ]
       }
     ],
@@ -3481,7 +3530,8 @@
       {
         "kanji": "習",
         "meanings": [
-          "to take lessons in"
+          "learn",
+          "custom"
         ]
       }
     ],
@@ -3546,7 +3596,8 @@
       {
         "kanji": "起",
         "meanings": [
-          "to get up"
+          "rise",
+          "get up"
         ]
       }
     ],
@@ -3602,7 +3653,7 @@
       {
         "kanji": "咲",
         "meanings": [
-          "to bloom"
+          "bloom"
         ]
       }
     ],
@@ -3659,7 +3710,7 @@
       {
         "kanji": "閉",
         "meanings": [
-          "to close"
+          "close"
         ]
       }
     ],
@@ -3710,7 +3761,7 @@
       {
         "kanji": "遊",
         "meanings": [
-          "to play"
+          "play"
         ]
       }
     ],
@@ -3765,13 +3816,14 @@
       {
         "kanji": "掃",
         "meanings": [
-          "cleaning"
+          "sweep"
         ]
       },
       {
         "kanji": "除",
         "meanings": [
-          "cleaning"
+          "rid of",
+          "exclude"
         ]
       }
     ],
@@ -3842,7 +3894,8 @@
       {
         "kanji": "座",
         "meanings": [
-          "to sit"
+          "seat",
+          "sit"
         ]
       }
     ],
@@ -3901,7 +3954,7 @@
       {
         "kanji": "話",
         "meanings": [
-          "talk"
+          "speak"
         ]
       }
     ],
@@ -3953,7 +4006,9 @@
       {
         "kanji": "付",
         "meanings": [
-          "to attach"
+          "attach",
+          "belong",
+          "apply"
         ]
       }
     ],
@@ -4019,7 +4074,9 @@
       {
         "kanji": "覚",
         "meanings": [
-          "to memorise"
+          "perceive",
+          "remember",
+          "awake"
         ]
       }
     ],
@@ -4081,7 +4138,7 @@
       {
         "kanji": "勤",
         "meanings": [
-          "to work"
+          "service"
         ]
       }
     ],
@@ -4140,7 +4197,7 @@
       {
         "kanji": "押",
         "meanings": [
-          "to push"
+          "push"
         ]
       }
     ],
@@ -4192,7 +4249,8 @@
       {
         "kanji": "使",
         "meanings": [
-          "to use"
+          "use",
+          "envoy"
         ]
       }
     ],
@@ -4269,7 +4327,8 @@
       {
         "kanji": "書",
         "meanings": [
-          "to write"
+          "write",
+          "book"
         ]
       }
     ],
@@ -4334,7 +4393,7 @@
       {
         "kanji": "知",
         "meanings": [
-          "to know"
+          "know"
         ]
       }
     ],
@@ -4393,7 +4452,10 @@
       {
         "kanji": "履",
         "meanings": [
-          "to put on"
+          "perform",
+          "complete",
+          "footgear",
+          "shoes"
         ]
       }
     ],
@@ -4456,7 +4518,7 @@
       {
         "kanji": "歌",
         "meanings": [
-          "to sing"
+          "song"
         ]
       }
     ],
@@ -4510,7 +4572,7 @@
       {
         "kanji": "飛",
         "meanings": [
-          "to fly"
+          "fly"
         ]
       }
     ],
@@ -4573,7 +4635,7 @@
       {
         "kanji": "洗",
         "meanings": [
-          "to wash"
+          "wash"
         ]
       }
     ],
@@ -4632,7 +4694,8 @@
       {
         "kanji": "掛",
         "meanings": [
-          "to take"
+          "set",
+          "hang"
         ]
       }
     ],
@@ -4689,7 +4752,7 @@
       {
         "kanji": "貸",
         "meanings": [
-          "to lend"
+          "lend"
         ]
       }
     ],
@@ -4748,7 +4811,8 @@
       {
         "kanji": "言",
         "meanings": [
-          "to say"
+          "say",
+          "speech"
         ]
       }
     ],
@@ -4813,7 +4877,7 @@
       {
         "kanji": "上",
         "meanings": [
-          "to ascend"
+          "up"
         ]
       }
     ],
@@ -4879,7 +4943,10 @@
       {
         "kanji": "違",
         "meanings": [
-          "to differ"
+          "differ",
+          "violate",
+          "different",
+          "be mistaken"
         ]
       }
     ],
@@ -4938,7 +5005,7 @@
       {
         "kanji": "持",
         "meanings": [
-          "to hold"
+          "hold"
         ]
       }
     ],
@@ -4993,7 +5060,8 @@
       {
         "kanji": "成",
         "meanings": [
-          "to become"
+          "form",
+          "achieve"
         ]
       }
     ],
@@ -5052,7 +5120,9 @@
       {
         "kanji": "分",
         "meanings": [
-          "to understand"
+          "divide",
+          "part",
+          "minute"
         ]
       }
     ],
@@ -5104,7 +5174,7 @@
       {
         "kanji": "答",
         "meanings": [
-          "to answer"
+          "answer"
         ]
       }
     ],
@@ -5159,7 +5229,8 @@
       {
         "kanji": "乗",
         "meanings": [
-          "to get on"
+          "ride",
+          "get on"
         ]
       }
     ],
@@ -5218,7 +5289,9 @@
       {
         "kanji": "降",
         "meanings": [
-          "to descend"
+          "descend",
+          "fall",
+          "get off"
         ]
       }
     ],
@@ -5277,7 +5350,7 @@
       {
         "kanji": "借",
         "meanings": [
-          "to borrow"
+          "borrow"
         ]
       }
     ],
@@ -5336,7 +5409,7 @@
       {
         "kanji": "取",
         "meanings": [
-          "to take"
+          "take"
         ]
       }
     ],
@@ -5391,7 +5464,8 @@
       {
         "kanji": "引",
         "meanings": [
-          "to pull"
+          "draw",
+          "pull"
         ]
       }
     ],
@@ -5479,7 +5553,10 @@
       {
         "kanji": "遣",
         "meanings": [
-          "to do"
+          "dispatch",
+          "despatch",
+          "send",
+          "give"
         ]
       }
     ],
@@ -5541,7 +5618,7 @@
       {
         "kanji": "見",
         "meanings": [
-          "to see"
+          "see"
         ]
       }
     ],
@@ -5596,7 +5673,8 @@
       {
         "kanji": "置",
         "meanings": [
-          "to put"
+          "place",
+          "put"
         ]
       }
     ],
@@ -5669,7 +5747,8 @@
       {
         "kanji": "入",
         "meanings": [
-          "to put in"
+          "enter",
+          "put in"
         ]
       }
     ],
@@ -5732,7 +5811,8 @@
       {
         "kanji": "曲",
         "meanings": [
-          "to bend"
+          "curve",
+          "musical composition"
         ]
       }
     ],
@@ -5798,7 +5878,7 @@
       {
         "kanji": "休",
         "meanings": [
-          "to be absent"
+          "rest"
         ]
       }
     ],
@@ -5861,7 +5941,7 @@
       {
         "kanji": "住",
         "meanings": [
-          "to live"
+          "live"
         ]
       }
     ],
@@ -5923,7 +6003,10 @@
       {
         "kanji": "締",
         "meanings": [
-          "to tie"
+          "tighten",
+          "tie",
+          "shut",
+          "lock"
         ]
       }
     ],
@@ -5982,7 +6065,7 @@
       {
         "kanji": "帰",
         "meanings": [
-          "to return"
+          "return"
         ]
       }
     ],
@@ -6041,7 +6124,8 @@
       {
         "kanji": "呼",
         "meanings": [
-          "to call out"
+          "call",
+          "invite"
         ]
       }
     ],
@@ -6107,7 +6191,7 @@
       {
         "kanji": "話",
         "meanings": [
-          "to talk"
+          "speak"
         ]
       }
     ],
@@ -6159,7 +6243,7 @@
       {
         "kanji": "渡",
         "meanings": [
-          "to ferry across"
+          "cross"
         ]
       }
     ],

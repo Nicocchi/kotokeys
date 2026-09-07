@@ -1,1 +1,1699 @@
-[]
+[
+  {
+    "id": "n1-family-marriage-proposal-1777217231933",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "縁談",
+    "kanji": "縁談",
+    "kana": "えんだん",
+    "meaning": "marriage proposal",
+    "explanation": "A JLPT N1 noun meaning \"marriage proposal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "縁",
+        "meanings": [
+          "affinity",
+          "relation",
+          "connection",
+          "edge"
+        ]
+      },
+      {
+        "kanji": "談",
+        "meanings": [
+          "talk",
+          "conversation"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "やっと、姉の縁談がまとまりました。",
+      "english": "My older sister's marriage has finally been arranged.",
+      "furigana": [
+        {
+          "text": "やっと、"
+        },
+        {
+          "text": "姉",
+          "reading": "あね"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "縁談",
+          "highlight": true,
+          "reading": "えんだん"
+        },
+        {
+          "text": "がまとまりました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10813358",
+        "englishSentenceId": "10874507",
+        "url": "https://tatoeba.org/en/sentences/show/10813358"
+      }
+    },
+    "acceptedJapanese": [
+      "縁談",
+      "えんだん"
+    ],
+    "acceptedEnglish": [
+      "marriage proposal",
+      "marriage talks"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-meeting-with-a-view-to-marriage-1777217232332",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "見合い",
+    "kanji": "見合い",
+    "kana": "みあい",
+    "meaning": "meeting with a view to marriage",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"meeting with a view to marriage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の両親はお見合い結婚でした。",
+      "english": "My parents had an arranged marriage.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "両",
+          "reading": "りょう"
+        },
+        {
+          "text": "親",
+          "reading": "した"
+        },
+        {
+          "text": "はお"
+        },
+        {
+          "text": "見合い",
+          "highlight": true,
+          "reading": "みあい"
+        },
+        {
+          "text": "結婚",
+          "reading": "けっこん"
+        },
+        {
+          "text": "でした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1278528",
+        "englishSentenceId": "1281086",
+        "url": "https://tatoeba.org/en/sentences/show/1278528"
+      }
+    },
+    "acceptedJapanese": [
+      "見合い",
+      "みあい"
+    ],
+    "acceptedEnglish": [
+      "meeting with a view to marriage",
+      "interview with a prospective spouse",
+      "correspondence",
+      "balance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-family-name-1777217232764",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "氏",
+    "kanji": "氏",
+    "kana": "うじ",
+    "meaning": "family name",
+    "explanation": "A JLPT N1 noun meaning \"family name\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "氏",
+        "meanings": [
+          "courtesy title",
+          "family name",
+          "lineage"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "人は氏より育ち。",
+      "english": "Birth is much, breeding is more.",
+      "furigana": [
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "氏",
+          "highlight": true,
+          "reading": "うじ"
+        },
+        {
+          "text": "より"
+        },
+        {
+          "text": "育ち",
+          "reading": "そだち"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "168115",
+        "englishSentenceId": "246379",
+        "url": "https://tatoeba.org/en/sentences/show/168115"
+      }
+    },
+    "acceptedJapanese": [
+      "氏",
+      "うじ"
+    ],
+    "acceptedEnglish": [
+      "family name",
+      "lineage",
+      "birth"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-family-household-economy-1777217233100",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "家計",
+    "kanji": "家計",
+    "kana": "かけい",
+    "meaning": "household economy",
+    "explanation": "A JLPT N1 noun meaning \"household economy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "我が家の家計は赤字だ。",
+      "english": "Our family budget is in the red.",
+      "furigana": [
+        {
+          "text": "我が",
+          "reading": "わが"
+        },
+        {
+          "text": "家の"
+        },
+        {
+          "text": "家計",
+          "highlight": true,
+          "reading": "かけい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "赤字",
+          "reading": "あかじ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186439",
+        "englishSentenceId": "23575",
+        "url": "https://tatoeba.org/en/sentences/show/186439"
+      }
+    },
+    "acceptedJapanese": [
+      "家計",
+      "かけい"
+    ],
+    "acceptedEnglish": [
+      "household economy",
+      "family finances"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-newly-wed-1777217233205",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "新婚",
+    "kanji": "新婚",
+    "kana": "しんこん",
+    "meaning": "newly-wed",
+    "explanation": "A JLPT N1 no adjective, noun, suru noun meaning \"newly-wed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "新",
+        "meanings": [
+          "new"
+        ]
+      },
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの二人は、新婚さんなのよ。",
+      "english": "That couple are newly weds.",
+      "furigana": [
+        {
+          "text": "あの二"
+        },
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "新婚",
+          "highlight": true,
+          "reading": "しんこん"
+        },
+        {
+          "text": "さんなのよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11760983",
+        "englishSentenceId": "11760974",
+        "url": "https://tatoeba.org/en/sentences/show/11760983"
+      }
+    },
+    "acceptedJapanese": [
+      "新婚",
+      "しんこん"
+    ],
+    "acceptedEnglish": [
+      "newly-wed",
+      "newly married"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-earning-a-living-together-1777217233796",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "共稼ぎ",
+    "kanji": "共稼ぎ",
+    "kana": "ともかせぎ",
+    "meaning": "earning a living together",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb, no adjective meaning \"earning a living together\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "共",
+        "meanings": [
+          "joint",
+          "together",
+          "both"
+        ]
+      },
+      {
+        "kanji": "稼",
+        "meanings": [
+          "earnings",
+          "work",
+          "earn money"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "アメリカでは多くの夫婦が収支をあわせるため共稼ぎをしている。",
+      "english": "Many couples in America both work to make ends meet.",
+      "furigana": [
+        {
+          "text": "アメリカでは"
+        },
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "の夫"
+        },
+        {
+          "text": "婦",
+          "reading": "ふ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "収支",
+          "reading": "しゅうし"
+        },
+        {
+          "text": "をあわせるため"
+        },
+        {
+          "text": "共稼ぎ",
+          "highlight": true,
+          "reading": "ともかせぎ"
+        },
+        {
+          "text": "をしている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "230251",
+        "englishSentenceId": "67617",
+        "url": "https://tatoeba.org/en/sentences/show/230251"
+      }
+    },
+    "acceptedJapanese": [
+      "共稼ぎ",
+      "ともかせぎ"
+    ],
+    "acceptedEnglish": [
+      "earning a living together"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-husband-1777217234048",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "婿",
+    "kanji": "婿",
+    "kana": "むこ",
+    "meaning": "husband",
+    "explanation": "A JLPT N1 noun meaning \"husband\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "婿",
+        "meanings": [
+          "bridegroom",
+          "son-in-law"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「婿」は日本語の言葉です。",
+      "english": "\"husband\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "婿",
+          "reading": "むこ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "婿",
+      "むこ"
+    ],
+    "acceptedEnglish": [
+      "husband",
+      "groom",
+      "son-in-law"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-family-blood-relationship-1777217234771",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "肉親",
+    "kanji": "肉親",
+    "kana": "にくしん",
+    "meaning": "blood relationship",
+    "explanation": "A JLPT N1 noun meaning \"blood relationship\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "肉",
+        "meanings": [
+          "flesh",
+          "meat"
+        ]
+      },
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は肉親の一人を失った。",
+      "english": "She lost one of her flesh and blood.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "肉親",
+          "highlight": true,
+          "reading": "にくしん"
+        },
+        {
+          "text": "の一"
+        },
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "を失った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87642",
+        "englishSentenceId": "316065",
+        "url": "https://tatoeba.org/en/sentences/show/87642"
+      }
+    },
+    "acceptedJapanese": [
+      "肉親",
+      "にくしん"
+    ],
+    "acceptedEnglish": [
+      "blood relationship",
+      "blood relative"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-nurturing-1777217235044",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "保育",
+    "kanji": "保育",
+    "kana": "ほいく",
+    "meaning": "nurturing",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"nurturing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "保",
+        "meanings": [
+          "preserve"
+        ]
+      },
+      {
+        "kanji": "育",
+        "meanings": [
+          "raise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "保育ママは１名から３名までのお子さんを保育しています。",
+      "english": "The childminder cares for between one and three children.",
+      "furigana": [
+        {
+          "text": "保育",
+          "highlight": true,
+          "reading": "ほいく"
+        },
+        {
+          "text": "ママは１名から３名までの"
+        },
+        {
+          "text": "お子さん",
+          "reading": "おこさん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "保育",
+          "reading": "ほいく"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "483736",
+        "englishSentenceId": "502792",
+        "url": "https://tatoeba.org/en/sentences/show/483736"
+      }
+    },
+    "acceptedJapanese": [
+      "保育",
+      "ほいく"
+    ],
+    "acceptedEnglish": [
+      "nurturing",
+      "rearing",
+      "childcare",
+      "day care"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-younger-brother-1777217235302",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "弟",
+    "kanji": "弟",
+    "kana": "おと",
+    "meaning": "younger brother",
+    "explanation": "A JLPT N1 noun meaning \"younger brother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "弟",
+        "meanings": [
+          "younger brother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "弟のです。",
+      "english": "It's my brother's.",
+      "furigana": [
+        {
+          "text": "弟",
+          "highlight": true,
+          "reading": "おと"
+        },
+        {
+          "text": "のです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125458",
+        "englishSentenceId": "278535",
+        "url": "https://tatoeba.org/en/sentences/show/125458"
+      }
+    },
+    "acceptedJapanese": [
+      "弟",
+      "おと"
+    ],
+    "acceptedEnglish": [
+      "younger brother",
+      "younger sister"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-family-married-1777217236295",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "既婚",
+    "kanji": "既婚",
+    "kana": "きこん",
+    "meaning": "married",
+    "explanation": "A JLPT N1 no adjective, noun meaning \"married\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "既",
+        "meanings": [
+          "previously",
+          "already",
+          "long ago"
+        ]
+      },
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「既婚」は日本語の言葉です。",
+      "english": "\"married\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "既婚",
+          "reading": "きこん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "既婚",
+      "きこん"
+    ],
+    "acceptedEnglish": [
+      "married"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-household-1777217236685",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "世帯",
+    "kanji": "世帯",
+    "kana": "せたい",
+    "meaning": "household",
+    "explanation": "A JLPT N1 noun meaning \"household\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "世",
+        "meanings": [
+          "world",
+          "era"
+        ]
+      },
+      {
+        "kanji": "帯",
+        "meanings": [
+          "belt",
+          "wear",
+          "zone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "世帯とは住居や生計を同じくしている集団です。",
+      "english": "A household is a group that shares the same living space and finances.",
+      "furigana": [
+        {
+          "text": "世帯",
+          "highlight": true,
+          "reading": "せたい"
+        },
+        {
+          "text": "とは"
+        },
+        {
+          "text": "住",
+          "reading": "じゅう"
+        },
+        {
+          "text": "居",
+          "reading": "きょ"
+        },
+        {
+          "text": "や"
+        },
+        {
+          "text": "生計",
+          "reading": "せいけい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "同じく",
+          "reading": "おなじく"
+        },
+        {
+          "text": "している"
+        },
+        {
+          "text": "集団",
+          "reading": "しゅうだん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "463985",
+        "englishSentenceId": "507218",
+        "url": "https://tatoeba.org/en/sentences/show/463985"
+      }
+    },
+    "acceptedJapanese": [
+      "世帯",
+      "せたい"
+    ],
+    "acceptedEnglish": [
+      "household",
+      "home",
+      "family",
+      "housekeeping"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-family-childbirth-1777217236742",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "出産",
+    "kanji": "出産",
+    "kana": "しゅっさん",
+    "meaning": "childbirth",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb, intransitive verb meaning \"childbirth\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご出産おめでとうございます。",
+      "english": "Congratulations on giving birth.",
+      "furigana": [
+        {
+          "text": "ご"
+        },
+        {
+          "text": "出産",
+          "highlight": true,
+          "reading": "しゅっさん"
+        },
+        {
+          "text": "おめでとうございます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11617328",
+        "englishSentenceId": "11760992",
+        "url": "https://tatoeba.org/en/sentences/show/11617328"
+      }
+    },
+    "acceptedJapanese": [
+      "出産",
+      "しゅっさん"
+    ],
+    "acceptedEnglish": [
+      "childbirth",
+      "birth",
+      "delivery",
+      "parturition",
+      "production"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-previous-generation-1777217237123",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "先代",
+    "kanji": "先代",
+    "kana": "せんだい",
+    "meaning": "previous generation",
+    "explanation": "A JLPT N1 noun meaning \"previous generation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      },
+      {
+        "kanji": "代",
+        "meanings": [
+          "substitute",
+          "generation",
+          "charge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "先代はいつでもにこにこしている人だったけど、今度のはどうもお天気屋でいかんね。",
+      "english": "The previous boss smiled all the time, but the current boss has somehow become moody.",
+      "furigana": [
+        {
+          "text": "先代",
+          "highlight": true,
+          "reading": "せんだい"
+        },
+        {
+          "text": "はいつでもにこにこしている"
+        },
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "だったけど、"
+        },
+        {
+          "text": "今度",
+          "reading": "こんど"
+        },
+        {
+          "text": "のはどうも"
+        },
+        {
+          "text": "お天気屋",
+          "reading": "おてんきや"
+        },
+        {
+          "text": "でいかんね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1225720",
+        "englishSentenceId": "9980060",
+        "url": "https://tatoeba.org/en/sentences/show/1225720"
+      }
+    },
+    "acceptedJapanese": [
+      "先代",
+      "せんだい"
+    ],
+    "acceptedEnglish": [
+      "previous generation",
+      "previous head of the family",
+      "one's father",
+      "predecessor",
+      "previous age"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-birth-1777217237774",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "お産",
+    "kanji": "お産",
+    "kana": "おさん",
+    "meaning": "birth",
+    "explanation": "A JLPT N1 noun meaning \"birth\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ケイちゃんはとても運がいいのよ。お産の時から、そうだったわ。",
+      "english": "Kei's very lucky! He has been since his birth.",
+      "furigana": [
+        {
+          "text": "ケイちゃんはとても"
+        },
+        {
+          "text": "運",
+          "reading": "うん"
+        },
+        {
+          "text": "がいいのよ。"
+        },
+        {
+          "text": "お産",
+          "highlight": true,
+          "reading": "おさん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "時",
+          "reading": "とき"
+        },
+        {
+          "text": "から、そうだったわ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76779",
+        "englishSentenceId": "326941",
+        "url": "https://tatoeba.org/en/sentences/show/76779"
+      }
+    },
+    "acceptedJapanese": [
+      "お産",
+      "おさん"
+    ],
+    "acceptedEnglish": [
+      "birth",
+      "childbirth",
+      "delivery"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-spouse-1777217238011",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "配偶者",
+    "kanji": "配偶者",
+    "kana": "はいぐうしゃ",
+    "meaning": "spouse",
+    "explanation": "A JLPT N1 noun meaning \"spouse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "配",
+        "meanings": [
+          "distribute"
+        ]
+      },
+      {
+        "kanji": "偶",
+        "meanings": [
+          "by chance",
+          "even number",
+          "(married)couple"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "アレックスは配偶者じゃなくて、ただの友達です。",
+      "english": "Alex isn't my partner. They're just a friend.",
+      "furigana": [
+        {
+          "text": "アレックスは"
+        },
+        {
+          "text": "配偶者",
+          "highlight": true,
+          "reading": "はいぐうしゃ"
+        },
+        {
+          "text": "じゃなくて、ただの"
+        },
+        {
+          "text": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12413976",
+        "englishSentenceId": "9793413",
+        "url": "https://tatoeba.org/en/sentences/show/12413976"
+      }
+    },
+    "acceptedJapanese": [
+      "配偶者",
+      "はいぐうしゃ"
+    ],
+    "acceptedEnglish": [
+      "spouse",
+      "wife",
+      "husband",
+      "partner"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-family-family-register-1777217238107",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "戸籍",
+    "kanji": "戸籍",
+    "kana": "こせき",
+    "meaning": "family register",
+    "explanation": "A JLPT N1 noun meaning \"family register\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "戸",
+        "meanings": [
+          "door",
+          "household"
+        ]
+      },
+      {
+        "kanji": "籍",
+        "meanings": [
+          "register"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女はまだ夫の戸籍に入っていない。",
+      "english": "She has not yet had her name entered in her husband's family.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "はまだ夫の"
+        },
+        {
+          "text": "戸籍",
+          "highlight": true,
+          "reading": "こせき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "っていない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "91469",
+        "englishSentenceId": "312244",
+        "url": "https://tatoeba.org/en/sentences/show/91469"
+      }
+    },
+    "acceptedJapanese": [
+      "戸籍",
+      "こせき"
+    ],
+    "acceptedEnglish": [
+      "family register",
+      "census"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-son-1777217238887",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "倅",
+    "kanji": "倅",
+    "kana": "せがれ",
+    "meaning": "son",
+    "explanation": "A JLPT N1 noun meaning \"son\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "倅",
+        "meanings": [
+          "son",
+          "my son"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "叔父の兄の倅が変なビジネスに手を染めて、家名を落とすことになった。",
+      "english": "My uncle's brother's son got involved in a shady business and disgraced the family.",
+      "furigana": [
+        {
+          "text": "叔"
+        },
+        {
+          "text": "父",
+          "reading": "ちち"
+        },
+        {
+          "text": "の兄の"
+        },
+        {
+          "text": "倅",
+          "highlight": true,
+          "reading": "せがれ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "変",
+          "reading": "へん"
+        },
+        {
+          "text": "なビジネスに"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "染め",
+          "reading": "そめ"
+        },
+        {
+          "text": "て、"
+        },
+        {
+          "text": "家名",
+          "reading": "かめい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "落とす",
+          "reading": "おとす"
+        },
+        {
+          "text": "ことになった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186892",
+        "englishSentenceId": "24029",
+        "url": "https://tatoeba.org/en/sentences/show/186892"
+      }
+    },
+    "acceptedJapanese": [
+      "倅",
+      "せがれ"
+    ],
+    "acceptedEnglish": [
+      "son",
+      "punk",
+      "brat",
+      "penis"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-both-working-1777217238968",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "共働き",
+    "kanji": "共働き",
+    "kana": "ともばたらき",
+    "meaning": "both working",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb, no adjective meaning \"both working\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "共",
+        "meanings": [
+          "joint",
+          "together",
+          "both"
+        ]
+      },
+      {
+        "kanji": "働",
+        "meanings": [
+          "work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「少しうちに寄っていかない？」「いいの？」「うち共働きで親は遅いの」",
+      "english": "\"Want to drop round my place?\" \"Can I?\" \"My parents come home late as they both work.\"",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "うちに"
+        },
+        {
+          "text": "寄",
+          "reading": "よ"
+        },
+        {
+          "text": "っていかない？」「いいの？」「うち"
+        },
+        {
+          "text": "共働き",
+          "highlight": true,
+          "reading": "ともばたらき"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "親",
+          "reading": "した"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "遅い",
+          "reading": "おそい"
+        },
+        {
+          "text": "の」"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74077",
+        "englishSentenceId": "329643",
+        "url": "https://tatoeba.org/en/sentences/show/74077"
+      }
+    },
+    "acceptedJapanese": [
+      "共働き",
+      "ともばたらき"
+    ],
+    "acceptedEnglish": [
+      "both working",
+      "dual income"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-family-nephew-1777217238977",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "甥",
+    "kanji": "甥",
+    "kana": "おい",
+    "meaning": "nephew",
+    "explanation": "A JLPT N1 noun meaning \"nephew\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "甥",
+        "meanings": [
+          "nephew"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "甥は１２歳です。",
+      "english": "My nephew is twelve.",
+      "furigana": [
+        {
+          "text": "甥",
+          "highlight": true,
+          "reading": "おい"
+        },
+        {
+          "text": "は１２"
+        },
+        {
+          "text": "歳",
+          "reading": "さい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10037949",
+        "englishSentenceId": "8188770",
+        "url": "https://tatoeba.org/en/sentences/show/10037949"
+      }
+    },
+    "acceptedJapanese": [
+      "甥",
+      "おい"
+    ],
+    "acceptedEnglish": [
+      "nephew"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-unmarried-1777217239538",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "未婚",
+    "kanji": "未婚",
+    "kana": "みこん",
+    "meaning": "unmarried",
+    "explanation": "A JLPT N1 no adjective, noun meaning \"unmarried\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "未",
+        "meanings": [
+          "not yet"
+        ]
+      },
+      {
+        "kanji": "婚",
+        "meanings": [
+          "marry"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "まだ未婚です。",
+      "english": "I'm unmarried.",
+      "furigana": [
+        {
+          "text": "まだ"
+        },
+        {
+          "text": "未婚",
+          "highlight": true,
+          "reading": "みこん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3496686",
+        "englishSentenceId": "2549703",
+        "url": "https://tatoeba.org/en/sentences/show/3496686"
+      }
+    },
+    "acceptedJapanese": [
+      "未婚",
+      "みこん"
+    ],
+    "acceptedEnglish": [
+      "unmarried",
+      "not yet married"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-family-heir-1777217239763",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "跡継ぎ",
+    "kanji": "跡継ぎ",
+    "kana": "あとつぎ",
+    "meaning": "heir",
+    "explanation": "A JLPT N1 noun meaning \"heir\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "跡",
+        "meanings": [
+          "trace",
+          "mark",
+          "remains",
+          "ruins"
+        ]
+      },
+      {
+        "kanji": "継",
+        "meanings": [
+          "inherit",
+          "succeed",
+          "continue",
+          "patch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「跡継ぎ」は日本語の言葉です。",
+      "english": "\"heir\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "跡継ぎ",
+          "reading": "あとつぎ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "跡継ぎ",
+      "あとつぎ"
+    ],
+    "acceptedEnglish": [
+      "heir",
+      "inheritor",
+      "successor"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-family-son-1777217239775",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "子息",
+    "kanji": "子息",
+    "kana": "しそく",
+    "meaning": "son",
+    "explanation": "A JLPT N1 noun meaning \"son\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      },
+      {
+        "kanji": "息",
+        "meanings": [
+          "breath"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご子息のご結婚を心よりお祝い申し上げます。",
+      "english": "We express our heart-felt congratulations for your son's wedding.",
+      "furigana": [
+        {
+          "text": "ご"
+        },
+        {
+          "text": "子息",
+          "highlight": true,
+          "reading": "しそく"
+        },
+        {
+          "text": "のご"
+        },
+        {
+          "text": "結婚",
+          "reading": "けっこん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "心より",
+          "reading": "こころより"
+        },
+        {
+          "text": "お祝い",
+          "reading": "おいわい"
+        },
+        {
+          "text": "申し",
+          "reading": "もうし"
+        },
+        {
+          "text": "上げ",
+          "reading": "あげ"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217155",
+        "englishSentenceId": "13359641",
+        "url": "https://tatoeba.org/en/sentences/show/217155"
+      }
+    },
+    "acceptedJapanese": [
+      "子息",
+      "しそく"
+    ],
+    "acceptedEnglish": [
+      "son"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-family-master-1777217240471",
+    "jlpt": "N1",
+    "subcategory": "Family",
+    "name": "旦那",
+    "kanji": "旦那",
+    "kana": "だんな",
+    "meaning": "master",
+    "explanation": "A JLPT N1 noun meaning \"master\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "旦",
+        "meanings": [
+          "daybreak",
+          "dawn",
+          "morning"
+        ]
+      },
+      {
+        "kanji": "那",
+        "meanings": [
+          "what?"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "うちの旦那。",
+      "english": "He is my husband.",
+      "furigana": [
+        {
+          "text": "うちの"
+        },
+        {
+          "text": "旦那",
+          "highlight": true,
+          "reading": "だんな"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13260812",
+        "englishSentenceId": "3534048",
+        "url": "https://tatoeba.org/en/sentences/show/13260812"
+      }
+    },
+    "acceptedJapanese": [
+      "旦那",
+      "だんな"
+    ],
+    "acceptedEnglish": [
+      "master",
+      "husband",
+      "sir",
+      "boss",
+      "governor",
+      "patron of a mistress"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

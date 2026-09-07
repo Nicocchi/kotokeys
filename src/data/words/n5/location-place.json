@@ -73,13 +73,14 @@
       {
         "kanji": "其",
         "meanings": [
-          "there"
+          "that"
         ]
       },
       {
         "kanji": "処",
         "meanings": [
-          "there"
+          "deal with",
+          "treat"
         ]
       }
     ],
@@ -139,13 +140,14 @@
       {
         "kanji": "教",
         "meanings": [
-          "classroom"
+          "teach",
+          "religion"
         ]
       },
       {
         "kanji": "室",
         "meanings": [
-          "classroom"
+          "room"
         ]
       }
     ],
@@ -197,19 +199,20 @@
       {
         "kanji": "映",
         "meanings": [
-          "movie theatre"
+          "reflect",
+          "project"
         ]
       },
       {
         "kanji": "画",
         "meanings": [
-          "movie theatre"
+          "picture"
         ]
       },
       {
         "kanji": "館",
         "meanings": [
-          "movie theatre"
+          "public building"
         ]
       }
     ],
@@ -309,56 +312,6 @@
     "pitchAccentNumber": 2
   },
   {
-    "id": "n5-location-place-door-1777217252978",
-    "jlpt": "N5",
-    "subcategory": "Location/Place",
-    "name": "ドア",
-    "kanji": "ドア",
-    "kana": "ドア",
-    "meaning": "door",
-    "explanation": "A JLPT N5 noun meaning \"door\".",
-    "kanjiBreakdown": [],
-    "example": {
-      "japanese": "ドアが開きます。",
-      "english": "The door opens.",
-      "furigana": [
-        {
-          "text": "ド",
-          "highlight": true,
-          "reading": "ドア"
-        },
-        {
-          "text": "ア",
-          "highlight": true,
-          "reading": "ドア"
-        },
-        {
-          "text": "が"
-        },
-        {
-          "text": "開き",
-          "reading": "ひらき"
-        },
-        {
-          "text": "ます。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "8888550",
-        "englishSentenceId": "9234970",
-        "url": "https://tatoeba.org/en/sentences/show/8888550"
-      }
-    },
-    "acceptedJapanese": [
-      "ドア"
-    ],
-    "acceptedEnglish": [
-      "door"
-    ]
-  },
-  {
     "id": "n5-location-place-room-1777217252993",
     "jlpt": "N5",
     "subcategory": "Location/Place",
@@ -371,13 +324,14 @@
       {
         "kanji": "部",
         "meanings": [
-          "room"
+          "section"
         ]
       },
       {
         "kanji": "屋",
         "meanings": [
-          "room"
+          "house",
+          "small shop"
         ]
       }
     ],
@@ -436,13 +390,13 @@
       {
         "kanji": "外",
         "meanings": [
-          "foreign country"
+          "outside"
         ]
       },
       {
         "kanji": "国",
         "meanings": [
-          "foreign country"
+          "country"
         ]
       }
     ],
@@ -489,13 +443,17 @@
       {
         "kanji": "此",
         "meanings": [
-          "here"
+          "this",
+          "current",
+          "next",
+          "coming"
         ]
       },
       {
         "kanji": "処",
         "meanings": [
-          "here"
+          "deal with",
+          "treat"
         ]
       }
     ],
@@ -558,13 +516,15 @@
       {
         "kanji": "彼",
         "meanings": [
-          "there"
+          "third person pronoun",
+          "that"
         ]
       },
       {
         "kanji": "処",
         "meanings": [
-          "there"
+          "deal with",
+          "treat"
         ]
       }
     ],
@@ -625,13 +585,15 @@
       {
         "kanji": "風",
         "meanings": [
-          "bath"
+          "wind",
+          "manner"
         ]
       },
       {
         "kanji": "呂",
         "meanings": [
-          "bath"
+          "spine",
+          "backbone"
         ]
       }
     ],
@@ -808,13 +770,15 @@
       {
         "kanji": "風",
         "meanings": [
-          "bath"
+          "wind",
+          "manner"
         ]
       },
       {
         "kanji": "呂",
         "meanings": [
-          "bath"
+          "spine",
+          "backbone"
         ]
       }
     ],
@@ -849,72 +813,6 @@
     "pitchAccentNumber": 2
   },
   {
-    "id": "n5-location-place-company-1777217253224",
-    "jlpt": "N5",
-    "subcategory": "Location/Place",
-    "name": "会社",
-    "kanji": "会社",
-    "kana": "かいしゃ",
-    "meaning": "company",
-    "explanation": "A JLPT N5 noun meaning \"company\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "会",
-        "meanings": [
-          "company"
-        ]
-      },
-      {
-        "kanji": "社",
-        "meanings": [
-          "company"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "スバルは車の会社です。",
-      "english": "Subaru is a car firm.",
-      "furigana": [
-        {
-          "text": "スバルは"
-        },
-        {
-          "text": "車",
-          "reading": "くるま"
-        },
-        {
-          "text": "の"
-        },
-        {
-          "text": "会社",
-          "highlight": true,
-          "reading": "かいしゃ"
-        },
-        {
-          "text": "です。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "10193001",
-        "englishSentenceId": "10193004",
-        "url": "https://tatoeba.org/en/sentences/show/10193001"
-      }
-    },
-    "acceptedJapanese": [
-      "会社",
-      "かいしゃ"
-    ],
-    "acceptedEnglish": [
-      "company",
-      "corporation",
-      "firm",
-      "one's workplace"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-location-place-dining-room-1777217253227",
     "jlpt": "N5",
     "subcategory": "Location/Place",
@@ -927,13 +825,14 @@
       {
         "kanji": "食",
         "meanings": [
-          "dining room"
+          "eat",
+          "food"
         ]
       },
       {
         "kanji": "堂",
         "meanings": [
-          "dining room"
+          "hall"
         ]
       }
     ],
@@ -985,13 +884,17 @@
       {
         "kanji": "玄",
         "meanings": [
-          "entrance"
+          "mysterious",
+          "occultness",
+          "black",
+          "deep"
         ]
       },
       {
         "kanji": "関",
         "meanings": [
-          "entrance"
+          "concern",
+          "barrier"
         ]
       }
     ],
@@ -1050,19 +953,20 @@
       {
         "kanji": "交",
         "meanings": [
-          "crossing"
+          "intercourse",
+          "interchange"
         ]
       },
       {
         "kanji": "差",
         "meanings": [
-          "crossing"
+          "difference"
         ]
       },
       {
         "kanji": "点",
         "meanings": [
-          "crossing"
+          "point"
         ]
       }
     ],
@@ -1117,13 +1021,15 @@
       {
         "kanji": "交",
         "meanings": [
-          "police box"
+          "intercourse",
+          "interchange"
         ]
       },
       {
         "kanji": "番",
         "meanings": [
-          "police box"
+          "numerical order",
+          "watch"
         ]
       }
     ],
@@ -1180,13 +1086,15 @@
       {
         "kanji": "何",
         "meanings": [
-          "where"
+          "what",
+          "how many"
         ]
       },
       {
         "kanji": "処",
         "meanings": [
-          "where"
+          "deal with",
+          "treat"
         ]
       }
     ],
@@ -1291,13 +1199,13 @@
       {
         "kanji": "手",
         "meanings": [
-          "toilet"
+          "hand"
         ]
       },
       {
         "kanji": "洗",
         "meanings": [
-          "toilet"
+          "wash"
         ]
       }
     ],
@@ -1335,68 +1243,6 @@
     "pitchAccentNumber": 3
   },
   {
-    "id": "n5-location-place-mouth-1777217253467",
-    "jlpt": "N5",
-    "subcategory": "Location/Place",
-    "name": "口",
-    "kanji": "口",
-    "kana": "くち",
-    "meaning": "mouth",
-    "explanation": "A JLPT N5 noun meaning \"mouth\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "口",
-        "meanings": [
-          "mouth"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "お口、開けて。",
-      "english": "Open your mouth.",
-      "furigana": [
-        {
-          "text": "お"
-        },
-        {
-          "text": "口",
-          "highlight": true,
-          "reading": "くち"
-        },
-        {
-          "text": "、"
-        },
-        {
-          "text": "開",
-          "reading": "あ"
-        },
-        {
-          "text": "けて。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "10635059",
-        "englishSentenceId": "240551",
-        "url": "https://tatoeba.org/en/sentences/show/10635059"
-      }
-    },
-    "acceptedJapanese": [
-      "口",
-      "くち"
-    ],
-    "acceptedEnglish": [
-      "mouth",
-      "opening",
-      "hole",
-      "gap",
-      "orifice",
-      "spout"
-    ],
-    "pitchAccentNumber": 0
-  },
-  {
     "id": "n5-location-place-university-1777217253545",
     "jlpt": "N5",
     "subcategory": "Location/Place",
@@ -1409,13 +1255,15 @@
       {
         "kanji": "大",
         "meanings": [
-          "university"
+          "big"
         ]
       },
       {
         "kanji": "学",
         "meanings": [
-          "university"
+          "study",
+          "educational",
+          "institution"
         ]
       }
     ],
@@ -1479,13 +1327,18 @@
       {
         "kanji": "階",
         "meanings": [
-          "stairs"
+          "floor",
+          "rank",
+          "stair",
+          "level"
         ]
       },
       {
         "kanji": "段",
         "meanings": [
-          "stairs"
+          "step",
+          "stairs",
+          "rank"
         ]
       }
     ],
@@ -1534,13 +1387,14 @@
       {
         "kanji": "台",
         "meanings": [
-          "kitchen"
+          "stand",
+          "counter for machinery"
         ]
       },
       {
         "kanji": "所",
         "meanings": [
-          "kitchen"
+          "place"
         ]
       }
     ],
@@ -1645,19 +1499,20 @@
       {
         "kanji": "大",
         "meanings": [
-          "embassy"
+          "big"
         ]
       },
       {
         "kanji": "使",
         "meanings": [
-          "embassy"
+          "use",
+          "envoy"
         ]
       },
       {
         "kanji": "館",
         "meanings": [
-          "embassy"
+          "public building"
         ]
       }
     ],
@@ -1707,6 +1562,7 @@
       {
         "kanji": "庭",
         "meanings": [
+          "court",
           "garden"
         ]
       }
@@ -1806,72 +1662,92 @@
     ]
   },
   {
-    "id": "n5-location-place-home-1777217253812",
+    "id": "n5-location-place-greengrocer-1777217253878",
     "jlpt": "N5",
     "subcategory": "Location/Place",
-    "name": "家庭",
-    "kanji": "家庭",
-    "kana": "かてい",
-    "meaning": "home",
-    "explanation": "A JLPT N5 noun meaning \"home\".",
+    "name": "八百屋",
+    "kanji": "八百屋",
+    "kana": "やおや",
+    "meaning": "greengrocer",
+    "explanation": "A JLPT N5 noun meaning \"greengrocer\".",
     "kanjiBreakdown": [
       {
-        "kanji": "家",
+        "kanji": "八",
         "meanings": [
-          "home"
+          "eight"
         ]
       },
       {
-        "kanji": "庭",
+        "kanji": "百",
         "meanings": [
-          "home"
+          "hundred"
+        ]
+      },
+      {
+        "kanji": "屋",
+        "meanings": [
+          "house",
+          "small shop"
         ]
       }
     ],
     "example": {
-      "japanese": "愛は家庭から始まる。",
-      "english": "Charity begins at home.",
+      "japanese": "私は八百屋の外で彼に出会った。",
+      "english": "I met him outside the greengrocer's.",
       "furigana": [
         {
-          "text": "愛",
-          "reading": "あい"
+          "text": "私",
+          "reading": "わたし"
         },
         {
           "text": "は"
         },
         {
-          "text": "家庭",
+          "text": "八百屋",
           "highlight": true,
-          "reading": "かてい"
+          "reading": "やおや"
         },
         {
-          "text": "から"
+          "text": "の"
         },
         {
-          "text": "始まる",
-          "reading": "はじまる"
+          "text": "外",
+          "reading": "そと"
         },
         {
-          "text": "。"
+          "text": "で"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "出会",
+          "reading": "しゅっかい"
+        },
+        {
+          "text": "った。"
         }
       ],
       "source": {
         "name": "Tatoeba",
         "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "191552",
-        "englishSentenceId": "28714",
-        "url": "https://tatoeba.org/en/sentences/show/191552"
+        "japaneseSentenceId": "154612",
+        "englishSentenceId": "259928",
+        "url": "https://tatoeba.org/en/sentences/show/154612"
       }
     },
     "acceptedJapanese": [
-      "家庭",
-      "かてい"
+      "八百屋",
+      "やおや"
     ],
     "acceptedEnglish": [
-      "home",
-      "household",
-      "family",
-      "hearth"
+      "greengrocer",
+      "fruit and vegetable shop",
+      "jack of all trades"
     ],
     "pitchAccentNumber": 0
   },
@@ -1888,13 +1764,13 @@
       {
         "kanji": "建",
         "meanings": [
-          "building"
+          "build"
         ]
       },
       {
         "kanji": "物",
         "meanings": [
-          "building"
+          "thing"
         ]
       }
     ],
@@ -1951,13 +1827,14 @@
       {
         "kanji": "公",
         "meanings": [
-          "park"
+          "public",
+          "official"
         ]
       },
       {
         "kanji": "園",
         "meanings": [
-          "park"
+          "garden"
         ]
       }
     ],
@@ -2011,7 +1888,9 @@
       {
         "kanji": "学",
         "meanings": [
-          "school"
+          "study",
+          "educational",
+          "institution"
         ]
       },
       {
@@ -2123,7 +2002,8 @@
       {
         "kanji": "家",
         "meanings": [
-          "house"
+          "house",
+          "family"
         ]
       }
     ],
@@ -2288,6 +2168,8 @@
       {
         "kanji": "道",
         "meanings": [
+          "way",
+          "street",
           "road"
         ]
       }
@@ -2347,13 +2229,15 @@
       {
         "kanji": "廊",
         "meanings": [
-          "corridor"
+          "corridor",
+          "hall",
+          "tower"
         ]
       },
       {
         "kanji": "下",
         "meanings": [
-          "corridor"
+          "down"
         ]
       }
     ],
@@ -2416,19 +2300,24 @@
       {
         "kanji": "郵",
         "meanings": [
-          "post office"
+          "mail"
         ]
       },
       {
         "kanji": "便",
         "meanings": [
-          "post office"
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
         ]
       },
       {
         "kanji": "局",
         "meanings": [
-          "post office"
+          "bureau",
+          "limited part",
+          "office"
         ]
       }
     ],
@@ -2535,13 +2424,14 @@
       {
         "kanji": "出",
         "meanings": [
-          "exit"
+          "go out",
+          "put out"
         ]
       },
       {
         "kanji": "口",
         "meanings": [
-          "exit"
+          "mouth"
         ]
       }
     ],
@@ -2577,6 +2467,79 @@
       "vent"
     ],
     "pitchAccentNumber": 1
+  },
+  {
+    "id": "n5-location-place-coffee-shop-1777217254427",
+    "jlpt": "N5",
+    "subcategory": "Location/Place",
+    "name": "喫茶店",
+    "kanji": "喫茶店",
+    "kana": "きっさてん",
+    "meaning": "coffee shop",
+    "explanation": "A JLPT N5 noun meaning \"coffee shop\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "喫",
+        "meanings": [
+          "ingest",
+          "drink",
+          "smoke"
+        ]
+      },
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      },
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "母は喫茶店をしています。",
+      "english": "Mother has a coffee shop.",
+      "furigana": [
+        {
+          "text": "母",
+          "reading": "はは"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "喫茶店",
+          "highlight": true,
+          "reading": "きっさてん"
+        },
+        {
+          "text": "をしています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83011",
+        "englishSentenceId": "320705",
+        "url": "https://tatoeba.org/en/sentences/show/83011"
+      }
+    },
+    "acceptedJapanese": [
+      "喫茶店",
+      "きっさてん"
+    ],
+    "acceptedEnglish": [
+      "coffee shop",
+      "tearoom",
+      "coffee lounge",
+      "coffeehouse",
+      "cafe"
+    ],
+    "pitchAccentNumber": 3
   },
   {
     "id": "n5-location-place-department-store-1777217254436",
@@ -2652,13 +2615,15 @@
       {
         "kanji": "銀",
         "meanings": [
-          "bank"
+          "silver"
         ]
       },
       {
         "kanji": "行",
         "meanings": [
-          "bank"
+          "go",
+          "act",
+          "line"
         ]
       }
     ],
@@ -2713,19 +2678,20 @@
       {
         "kanji": "図",
         "meanings": [
-          "library"
+          "drawing"
         ]
       },
       {
         "kanji": "書",
         "meanings": [
-          "library"
+          "write",
+          "book"
         ]
       },
       {
         "kanji": "館",
         "meanings": [
-          "library"
+          "public building"
         ]
       }
     ],
@@ -2775,13 +2741,15 @@
       {
         "kanji": "病",
         "meanings": [
-          "hospital"
+          "illness",
+          "disease",
+          "sickness"
         ]
       },
       {
         "kanji": "院",
         "meanings": [
-          "hospital"
+          "institution"
         ]
       }
     ],
@@ -2891,13 +2859,14 @@
       {
         "kanji": "入",
         "meanings": [
-          "entrance"
+          "enter",
+          "put in"
         ]
       },
       {
         "kanji": "口",
         "meanings": [
-          "entrance"
+          "mouth"
         ]
       }
     ],

@@ -68,13 +68,16 @@
       {
         "kanji": "番",
         "meanings": [
-          "number"
+          "numerical order",
+          "watch"
         ]
       },
       {
         "kanji": "号",
         "meanings": [
-          "number"
+          "number",
+          "designation",
+          "sign"
         ]
       }
     ],
@@ -346,68 +349,6 @@
     "pitchAccentNumber": 3
   },
   {
-    "id": "n5-numbers-counting-mountain-1777217253014",
-    "jlpt": "N5",
-    "subcategory": "Numbers/Counting",
-    "name": "山",
-    "kanji": "山",
-    "kana": "やま",
-    "meaning": "mountain",
-    "explanation": "A JLPT N5 noun, counter meaning \"mountain\".",
-    "kanjiBreakdown": [
-      {
-        "kanji": "山",
-        "meanings": [
-          "mountain"
-        ]
-      }
-    ],
-    "example": {
-      "japanese": "その山は緑です。",
-      "english": "The mountain is green.",
-      "furigana": [
-        {
-          "text": "その"
-        },
-        {
-          "text": "山",
-          "highlight": true,
-          "reading": "やま"
-        },
-        {
-          "text": "は"
-        },
-        {
-          "text": "緑",
-          "reading": "みどり"
-        },
-        {
-          "text": "です。"
-        }
-      ],
-      "source": {
-        "name": "Tatoeba",
-        "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "963704",
-        "englishSentenceId": "963699",
-        "url": "https://tatoeba.org/en/sentences/show/963704"
-      }
-    },
-    "acceptedJapanese": [
-      "山",
-      "やま"
-    ],
-    "acceptedEnglish": [
-      "mountain",
-      "hill",
-      "mine",
-      "forest",
-      "heap",
-      "pile"
-    ],
-    "pitchAccentNumber": 2
-  },
-  {
     "id": "n5-numbers-counting-four-1777217253047",
     "jlpt": "N5",
     "subcategory": "Numbers/Counting",
@@ -479,7 +420,8 @@
       {
         "kanji": "幾",
         "meanings": [
-          "how many"
+          "how many/much",
+          "some"
         ]
       }
     ],
@@ -632,14 +574,15 @@
     "subcategory": "Numbers/Counting",
     "name": "２０歳",
     "kanji": "２０歳",
-    "kana": "２０はたち",
+    "kana": "はたち",
     "meaning": "20 years old",
     "explanation": "A JLPT N5 noun meaning \"20 years old\".",
     "kanjiBreakdown": [
       {
         "kanji": "歳",
         "meanings": [
-          "20 years old"
+          "year",
+          "age suffix"
         ]
       }
     ],
@@ -668,7 +611,7 @@
         {
           "text": "２０歳",
           "highlight": true,
-          "reading": "２０はたち"
+          "reading": "はたち"
         },
         {
           "text": "というところだ。"
@@ -684,7 +627,7 @@
     },
     "acceptedJapanese": [
       "２０歳",
-      "２０はたち"
+      "はたち"
     ],
     "acceptedEnglish": [
       "20 years old"
@@ -885,7 +828,9 @@
       {
         "kanji": "分",
         "meanings": [
-          "half"
+          "divide",
+          "part",
+          "minute"
         ]
       }
     ],
@@ -932,13 +877,14 @@
       {
         "kanji": "一",
         "meanings": [
-          "one person"
+          "one"
         ]
       },
       {
         "kanji": "人",
         "meanings": [
-          "one person"
+          "human being",
+          "person"
         ]
       }
     ],
@@ -1098,44 +1044,53 @@
     "subcategory": "Numbers/Counting",
     "name": "０",
     "kanji": "０",
-    "kana": "０ゼロ",
+    "kana": "ゼロ",
     "meaning": "zero",
     "explanation": "A JLPT N5 noun meaning \"zero\".",
     "kanjiBreakdown": [],
     "example": {
-      "japanese": "「０」は日本語の言葉です。",
-      "english": "\"zero\" is a Japanese word.",
+      "japanese": "一の前はゼロです。",
+      "english": "Zero comes before one.",
       "furigana": [
         {
-          "text": "「"
-        },
-        {
-          "text": "０",
-          "reading": "０ゼロ",
-          "highlight": true
-        },
-        {
-          "text": "」は"
-        },
-        {
-          "text": "日本語",
-          "reading": "にほんご"
+          "text": "一",
+          "reading": "いち"
         },
         {
           "text": "の"
         },
         {
-          "text": "言葉",
-          "reading": "ことば"
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ゼ",
+          "highlight": true,
+          "reading": "ゼロ"
+        },
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "ゼロ"
         },
         {
           "text": "です。"
         }
-      ]
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "904998",
+        "englishSentenceId": "682520",
+        "url": "https://tatoeba.org/en/sentences/show/904998"
+      }
     },
     "acceptedJapanese": [
       "０",
-      "０ゼロ"
+      "ゼロ"
     ],
     "acceptedEnglish": [
       "zero",
@@ -1295,13 +1250,14 @@
       {
         "kanji": "一",
         "meanings": [
-          "number one"
+          "one"
         ]
       },
       {
         "kanji": "番",
         "meanings": [
-          "number one"
+          "numerical order",
+          "watch"
         ]
       }
     ],
@@ -1415,13 +1371,14 @@
       {
         "kanji": "二",
         "meanings": [
-          "two persons"
+          "two"
         ]
       },
       {
         "kanji": "人",
         "meanings": [
-          "two persons"
+          "human being",
+          "person"
         ]
       }
     ],
@@ -1478,7 +1435,8 @@
       {
         "kanji": "頁",
         "meanings": [
-          "page"
+          "page",
+          "leaf"
         ]
       }
     ],
@@ -1585,7 +1543,8 @@
       {
         "kanji": "幾",
         "meanings": [
-          "how much"
+          "how many/much",
+          "some"
         ]
       }
     ],
@@ -1692,31 +1651,31 @@
       }
     ],
     "example": {
-      "japanese": "一の前はゼロです。",
-      "english": "Zero comes before one.",
+      "japanese": "貴方達は、一つです。",
+      "english": "You are the only one.",
       "furigana": [
+        {
+          "text": "貴方",
+          "reading": "あなた"
+        },
+        {
+          "text": "達は、"
+        },
         {
           "text": "一",
           "highlight": true,
           "reading": "いち"
         },
         {
-          "text": "の"
-        },
-        {
-          "text": "前",
-          "reading": "まえ"
-        },
-        {
-          "text": "はゼロです。"
+          "text": "つです。"
         }
       ],
       "source": {
         "name": "Tatoeba",
         "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "904998",
-        "englishSentenceId": "682520",
-        "url": "https://tatoeba.org/en/sentences/show/904998"
+        "japaneseSentenceId": "182983",
+        "englishSentenceId": "20104",
+        "url": "https://tatoeba.org/en/sentences/show/182983"
       }
     },
     "acceptedJapanese": [
@@ -1860,7 +1819,7 @@
       {
         "kanji": "粁",
         "meanings": [
-          "kilometre"
+          "kilometer"
         ]
       }
     ],

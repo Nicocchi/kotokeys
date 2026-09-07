@@ -1,1 +1,1313 @@
-[]
+[
+  {
+    "id": "n3-transportation-parking-1777217246204",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "駐車",
+    "kanji": "駐車",
+    "kana": "ちゅうしゃ",
+    "meaning": "parking",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"parking\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "駐",
+        "meanings": [
+          "stationed",
+          "stop",
+          "reside"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "vehicle",
+          "wheel",
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここは駐車してもよい。",
+      "english": "They allow parking here.",
+      "furigana": [
+        {
+          "text": "ここは"
+        },
+        {
+          "text": "駐車",
+          "highlight": true,
+          "reading": "ちゅうしゃ"
+        },
+        {
+          "text": "してもよい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224288",
+        "englishSentenceId": "61623",
+        "url": "https://tatoeba.org/en/sentences/show/224288"
+      }
+    },
+    "acceptedJapanese": [
+      "駐車",
+      "ちゅうしゃ"
+    ],
+    "acceptedEnglish": [
+      "parking"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-departure-1777217246264",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "発車",
+    "kanji": "発車",
+    "kana": "はっしゃ",
+    "meaning": "departure",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"departure\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "発",
+        "meanings": [
+          "start",
+          "emit"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "vehicle",
+          "wheel",
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "発車ホームはどちらですか。",
+      "english": "Which is the departure platform?",
+      "furigana": [
+        {
+          "text": "発車",
+          "highlight": true,
+          "reading": "はっしゃ"
+        },
+        {
+          "text": "ホームはどちらですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121316",
+        "englishSentenceId": "282690",
+        "url": "https://tatoeba.org/en/sentences/show/121316"
+      }
+    },
+    "acceptedJapanese": [
+      "発車",
+      "はっしゃ"
+    ],
+    "acceptedEnglish": [
+      "departure",
+      "starting",
+      "leaving"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-boat-1777217246471",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "ボート",
+    "kanji": "ボート",
+    "kana": "ボート",
+    "meaning": "boat",
+    "explanation": "A JLPT N3 noun meaning \"boat\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ボートをくれないか。",
+      "english": "Can you give me a boat?",
+      "furigana": [
+        {
+          "text": "ボ",
+          "highlight": true,
+          "reading": "ボート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ボート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ボート"
+        },
+        {
+          "text": "をくれないか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "236442",
+        "englishSentenceId": "73808",
+        "url": "https://tatoeba.org/en/sentences/show/236442"
+      }
+    },
+    "acceptedJapanese": [
+      "ボート"
+    ],
+    "acceptedEnglish": [
+      "boat",
+      "rowboat",
+      "rowing boat"
+    ]
+  },
+  {
+    "id": "n3-transportation-flight-1777217246930",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "飛行",
+    "kanji": "飛行",
+    "kana": "ひこう",
+    "meaning": "flight",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"flight\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飛",
+        "meanings": [
+          "fly"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "欧州への飛行には疲労がつきものである。",
+      "english": "Fatigue follows a flight to Europe.",
+      "furigana": [
+        {
+          "text": "欧州",
+          "reading": "おうしゅう"
+        },
+        {
+          "text": "への"
+        },
+        {
+          "text": "飛行",
+          "highlight": true,
+          "reading": "ひこう"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "疲労",
+          "reading": "ひろう"
+        },
+        {
+          "text": "がつきものである。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3402703",
+        "englishSentenceId": "30027",
+        "url": "https://tatoeba.org/en/sentences/show/3402703"
+      }
+    },
+    "acceptedJapanese": [
+      "飛行",
+      "ひこう"
+    ],
+    "acceptedEnglish": [
+      "flight",
+      "flying",
+      "aviation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-truck-1777217247017",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "トラック",
+    "kanji": "トラック",
+    "kana": "トラック",
+    "meaning": "truck",
+    "explanation": "A JLPT N3 noun meaning \"truck\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼は別のトラックにいるんです。",
+      "english": "He's in the other truck.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "別",
+          "reading": "べつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "トラック"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "トラック"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "トラック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "トラック"
+        },
+        {
+          "text": "にいるんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "933128",
+        "englishSentenceId": "933125",
+        "url": "https://tatoeba.org/en/sentences/show/933128"
+      }
+    },
+    "acceptedJapanese": [
+      "トラック"
+    ],
+    "acceptedEnglish": [
+      "truck",
+      "lorry"
+    ]
+  },
+  {
+    "id": "n3-transportation-aviation-1777217247848",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "航空",
+    "kanji": "航空",
+    "kana": "こうくう",
+    "meaning": "aviation",
+    "explanation": "A JLPT N3 noun meaning \"aviation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "航",
+        "meanings": [
+          "navigate",
+          "sail"
+        ]
+      },
+      {
+        "kanji": "空",
+        "meanings": [
+          "sky",
+          "air",
+          "empty"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今年タイ航空は５０周年記念を祝います。",
+      "english": "Thai Air celebrates its 50th anniversary this year.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "年タイ"
+        },
+        {
+          "text": "航空",
+          "highlight": true,
+          "reading": "こうくう"
+        },
+        {
+          "text": "は５０"
+        },
+        {
+          "text": "周年",
+          "reading": "しゅうねん"
+        },
+        {
+          "text": "記念",
+          "reading": "きねん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "祝い",
+          "reading": "いわい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "631762",
+        "englishSentenceId": "631764",
+        "url": "https://tatoeba.org/en/sentences/show/631762"
+      }
+    },
+    "acceptedJapanese": [
+      "航空",
+      "こうくう"
+    ],
+    "acceptedEnglish": [
+      "aviation",
+      "flying"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-going-through-1777217248412",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "経由",
+    "kanji": "経由",
+    "kana": "けいゆ",
+    "meaning": "going through",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"going through\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "経",
+        "meanings": [
+          "pass through",
+          "manage",
+          "sutra"
+        ]
+      },
+      {
+        "kanji": "由",
+        "meanings": [
+          "reason"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はホノルル経由で帰ってきた。",
+      "english": "He came back by way of Honolulu.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はホノルル"
+        },
+        {
+          "text": "経由",
+          "highlight": true,
+          "reading": "けいゆ"
+        },
+        {
+          "text": "で帰ってきた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110911",
+        "englishSentenceId": "292775",
+        "url": "https://tatoeba.org/en/sentences/show/110911"
+      }
+    },
+    "acceptedJapanese": [
+      "経由",
+      "けいゆ"
+    ],
+    "acceptedEnglish": [
+      "going through",
+      "going via",
+      "going by way of"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-brake-1777217248457",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "ブレーキ",
+    "kanji": "ブレーキ",
+    "kana": "ブレーキ",
+    "meaning": "brake",
+    "explanation": "A JLPT N3 noun meaning \"brake\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ブレーキをかけろ！",
+      "english": "Hit the brakes!",
+      "furigana": [
+        {
+          "text": "ブ",
+          "highlight": true,
+          "reading": "ブレーキ"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "ブレーキ"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ブレーキ"
+        },
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "ブレーキ"
+        },
+        {
+          "text": "をかけろ！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2692844",
+        "englishSentenceId": "2698770",
+        "url": "https://tatoeba.org/en/sentences/show/2692844"
+      }
+    },
+    "acceptedJapanese": [
+      "ブレーキ"
+    ],
+    "acceptedEnglish": [
+      "brake",
+      "stop",
+      "brakes"
+    ]
+  },
+  {
+    "id": "n3-transportation-down-train-1777217248655",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "下り",
+    "kanji": "下り",
+    "kana": "くだり",
+    "meaning": "down-train",
+    "explanation": "A JLPT N3 noun meaning \"down-train\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "幕が下りた。",
+      "english": "The curtain fell.",
+      "furigana": [
+        {
+          "text": "幕",
+          "reading": "まく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "下り",
+          "highlight": true,
+          "reading": "くだり"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81222",
+        "englishSentenceId": "322492",
+        "url": "https://tatoeba.org/en/sentences/show/81222"
+      }
+    },
+    "acceptedJapanese": [
+      "下り",
+      "くだり"
+    ],
+    "acceptedEnglish": [
+      "down-train"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-signal-1777217249057",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "信号",
+    "kanji": "信号",
+    "kana": "しんごう",
+    "meaning": "signal",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"signal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "信",
+        "meanings": [
+          "believe",
+          "trust",
+          "message"
+        ]
+      },
+      {
+        "kanji": "号",
+        "meanings": [
+          "number",
+          "designation",
+          "sign"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "信号は青だ。",
+      "english": "The traffic signal is green.",
+      "furigana": [
+        {
+          "text": "信号",
+          "highlight": true,
+          "reading": "しんごう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "青",
+          "reading": "あお"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145709",
+        "englishSentenceId": "268853",
+        "url": "https://tatoeba.org/en/sentences/show/145709"
+      }
+    },
+    "acceptedJapanese": [
+      "信号",
+      "しんごう"
+    ],
+    "acceptedEnglish": [
+      "signal",
+      "signalling",
+      "signaling"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-yacht-1777217249087",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "ヨット",
+    "kanji": "ヨット",
+    "kana": "ヨット",
+    "meaning": "yacht",
+    "explanation": "A JLPT N3 noun meaning \"yacht\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "今はヨットにハマっています。",
+      "english": "I'm hooked on yachts now.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ヨ",
+          "highlight": true,
+          "reading": "ヨット"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ヨット"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ヨット"
+        },
+        {
+          "text": "にハマっています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8395166",
+        "englishSentenceId": "8395167",
+        "url": "https://tatoeba.org/en/sentences/show/8395166"
+      }
+    },
+    "acceptedJapanese": [
+      "ヨット"
+    ],
+    "acceptedEnglish": [
+      "yacht",
+      "sailing boat",
+      "sailboat"
+    ]
+  },
+  {
+    "id": "n3-transportation-flight-1777217249138",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "便",
+    "kanji": "便",
+    "kana": "びん",
+    "meaning": "flight",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix meaning \"flight\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "便",
+        "meanings": [
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "バスの便はありますか。",
+      "english": "Is there a bus service?",
+      "furigana": [
+        {
+          "text": "バスの"
+        },
+        {
+          "text": "便",
+          "highlight": true,
+          "reading": "びん"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "198147",
+        "englishSentenceId": "35337",
+        "url": "https://tatoeba.org/en/sentences/show/198147"
+      }
+    },
+    "acceptedJapanese": [
+      "便",
+      "びん"
+    ],
+    "acceptedEnglish": [
+      "flight",
+      "trip",
+      "service",
+      "mail",
+      "post",
+      "letter"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-transportation-congestion-1777217249714",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "渋滞",
+    "kanji": "渋滞",
+    "kana": "じゅうたい",
+    "meaning": "congestion",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"congestion\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "渋",
+        "meanings": [
+          "astringent",
+          "hesitate",
+          "reluctant",
+          "have diarrhea"
+        ]
+      },
+      {
+        "kanji": "滞",
+        "meanings": [
+          "stagnate",
+          "be delayed",
+          "overdue",
+          "arrears"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "渋滞はないです。",
+      "english": "There's no traffic jam.",
+      "furigana": [
+        {
+          "text": "渋滞",
+          "highlight": true,
+          "reading": "じゅうたい"
+        },
+        {
+          "text": "はないです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11044950",
+        "englishSentenceId": "6707149",
+        "url": "https://tatoeba.org/en/sentences/show/11044950"
+      }
+    },
+    "acceptedJapanese": [
+      "渋滞",
+      "じゅうたい"
+    ],
+    "acceptedEnglish": [
+      "congestion",
+      "traffic jam",
+      "gridlock",
+      "delay",
+      "stagnation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-car-1777217250092",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "カー",
+    "kanji": "カー",
+    "kana": "カー",
+    "meaning": "car",
+    "explanation": "A JLPT N3 noun meaning \"car\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "レンタカーです。",
+      "english": "It's a rented car.",
+      "furigana": [
+        {
+          "text": "レンタ"
+        },
+        {
+          "text": "カ",
+          "highlight": true,
+          "reading": "カー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "カー"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10735584",
+        "englishSentenceId": "2982244",
+        "url": "https://tatoeba.org/en/sentences/show/10735584"
+      }
+    },
+    "acceptedJapanese": [
+      "カー"
+    ],
+    "acceptedEnglish": [
+      "car"
+    ]
+  },
+  {
+    "id": "n3-transportation-passage-1777217250161",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "通行",
+    "kanji": "通行",
+    "kana": "つうこう",
+    "meaning": "passage",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"passage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "群集が通行を妨げた。",
+      "english": "The crowd obstructed the passage.",
+      "furigana": [
+        {
+          "text": "群集",
+          "reading": "ぐんしゅう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "通行",
+          "highlight": true,
+          "reading": "つうこう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "妨げ",
+          "reading": "さまたげ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176696",
+        "englishSentenceId": "237766",
+        "url": "https://tatoeba.org/en/sentences/show/176696"
+      }
+    },
+    "acceptedJapanese": [
+      "通行",
+      "つうこう"
+    ],
+    "acceptedEnglish": [
+      "passage",
+      "passing",
+      "traffic",
+      "common usage",
+      "widespread use"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-train-1777217250212",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "列車",
+    "kanji": "列車",
+    "kana": "れっしゃ",
+    "meaning": "train",
+    "explanation": "A JLPT N3 noun meaning \"train\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "列",
+        "meanings": [
+          "row"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "vehicle",
+          "wheel",
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "列車で行きます。",
+      "english": "I'll come by train.",
+      "furigana": [
+        {
+          "text": "列車",
+          "highlight": true,
+          "reading": "れっしゃ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "行き",
+          "reading": "いき"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13115756",
+        "englishSentenceId": "3819107",
+        "url": "https://tatoeba.org/en/sentences/show/13115756"
+      }
+    },
+    "acceptedJapanese": [
+      "列車",
+      "れっしゃ"
+    ],
+    "acceptedEnglish": [
+      "train",
+      "railway train"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-ticket-1777217250335",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "券",
+    "kanji": "券",
+    "kana": "けん",
+    "meaning": "ticket",
+    "explanation": "A JLPT N3 noun, noun, used as a suffix meaning \"ticket\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "券",
+        "meanings": [
+          "ticket",
+          "certificate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この券は２週間有効です。",
+      "english": "This ticket is good for two weeks.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "券",
+          "highlight": true,
+          "reading": "けん"
+        },
+        {
+          "text": "は２"
+        },
+        {
+          "text": "週間",
+          "reading": "しゅうかん"
+        },
+        {
+          "text": "有効",
+          "reading": "ゆうこう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222131",
+        "englishSentenceId": "59456",
+        "url": "https://tatoeba.org/en/sentences/show/222131"
+      }
+    },
+    "acceptedJapanese": [
+      "券",
+      "けん"
+    ],
+    "acceptedEnglish": [
+      "ticket",
+      "coupon",
+      "bond",
+      "certificate"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-transportation-jet-aeroplane-1777217250353",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "ジェット機",
+    "kanji": "ジェット機",
+    "kana": "ジェットき",
+    "meaning": "jet aeroplane",
+    "explanation": "A JLPT N3 noun meaning \"jet aeroplane\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "機",
+        "meanings": [
+          "machine",
+          "opportunity"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ジェット機が次々に離陸した。",
+      "english": "The jets took off one after another.",
+      "furigana": [
+        {
+          "text": "ジェット機",
+          "highlight": true,
+          "reading": "ジェットき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "次々",
+          "reading": "つぎつぎ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "離陸",
+          "reading": "りりく"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "216400",
+        "englishSentenceId": "53704",
+        "url": "https://tatoeba.org/en/sentences/show/216400"
+      }
+    },
+    "acceptedJapanese": [
+      "ジェット機",
+      "ジェットき"
+    ],
+    "acceptedEnglish": [
+      "jet aeroplane",
+      "jet airplane"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-transportation-platform-1777217250461",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "ホーム",
+    "kanji": "ホーム",
+    "kana": "ホーム",
+    "meaning": "platform",
+    "explanation": "A JLPT N3 noun meaning \"platform\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "どのホームで乗ればいいですか。",
+      "english": "Which platform is it on?",
+      "furigana": [
+        {
+          "text": "どの"
+        },
+        {
+          "text": "ホ",
+          "highlight": true,
+          "reading": "ホーム"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ホーム"
+        },
+        {
+          "text": "ム",
+          "highlight": true,
+          "reading": "ホーム"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "乗",
+          "reading": "じょう"
+        },
+        {
+          "text": "ればいいですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "200379",
+        "englishSentenceId": "37580",
+        "url": "https://tatoeba.org/en/sentences/show/200379"
+      }
+    },
+    "acceptedJapanese": [
+      "ホーム"
+    ],
+    "acceptedEnglish": [
+      "platform"
+    ]
+  },
+  {
+    "id": "n3-transportation-railroad-1777217250500",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "鉄道",
+    "kanji": "鉄道",
+    "kana": "てつどう",
+    "meaning": "railroad",
+    "explanation": "A JLPT N3 noun meaning \"railroad\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鉄",
+        "meanings": [
+          "iron"
+        ]
+      },
+      {
+        "kanji": "道",
+        "meanings": [
+          "way",
+          "street",
+          "road"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "明日は鉄道がストですよ。",
+      "english": "The railroad workers are going on strike tomorrow.",
+      "furigana": [
+        {
+          "text": "明",
+          "reading": "あき"
+        },
+        {
+          "text": "日",
+          "reading": "にち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "鉄道",
+          "highlight": true,
+          "reading": "てつどう"
+        },
+        {
+          "text": "がストですよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "80412",
+        "englishSentenceId": "1892326",
+        "url": "https://tatoeba.org/en/sentences/show/80412"
+      }
+    },
+    "acceptedJapanese": [
+      "鉄道",
+      "てつどう"
+    ],
+    "acceptedEnglish": [
+      "railroad",
+      "railway",
+      "rail transport"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-transportation-passenger-1777217250764",
+    "jlpt": "N3",
+    "subcategory": "Transportation",
+    "name": "乗客",
+    "kanji": "乗客",
+    "kana": "じょうきゃく",
+    "meaning": "passenger",
+    "explanation": "A JLPT N3 noun meaning \"passenger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "乗",
+        "meanings": [
+          "ride",
+          "get on"
+        ]
+      },
+      {
+        "kanji": "客",
+        "meanings": [
+          "visitor",
+          "customer",
+          "guest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "乗客は何人ですか。",
+      "english": "How many passengers are there?",
+      "furigana": [
+        {
+          "text": "乗客",
+          "highlight": true,
+          "reading": "じょうきゃく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何",
+          "reading": "なに"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146151",
+        "englishSentenceId": "594707",
+        "url": "https://tatoeba.org/en/sentences/show/146151"
+      }
+    },
+    "acceptedJapanese": [
+      "乗客",
+      "じょうきゃく"
+    ],
+    "acceptedEnglish": [
+      "passenger"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

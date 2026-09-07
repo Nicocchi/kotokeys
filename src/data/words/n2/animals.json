@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "id": "n2-animals-tail-1777217241053",
+    "jlpt": "N2",
+    "subcategory": "Animals",
+    "name": "尻尾",
+    "kanji": "尻尾",
+    "kana": "しっぽ",
+    "meaning": "tail",
+    "explanation": "A JLPT N2 noun meaning \"tail\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "尻",
+        "meanings": [
+          "buttocks",
+          "hips",
+          "butt",
+          "rear"
+        ]
+      },
+      {
+        "kanji": "尾",
+        "meanings": [
+          "tail",
+          "end",
+          "counter for fish",
+          "lower slope of mountain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牛の尻尾は長い。",
+      "english": "Cows have long tails.",
+      "furigana": [
+        {
+          "text": "牛の"
+        },
+        {
+          "text": "尻尾",
+          "highlight": true,
+          "reading": "しっぽ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "長い",
+          "reading": "ながい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9028616",
+        "englishSentenceId": "9953661",
+        "url": "https://tatoeba.org/en/sentences/show/9028616"
+      }
+    },
+    "acceptedJapanese": [
+      "尻尾",
+      "しっぽ"
+    ],
+    "acceptedEnglish": [
+      "tail",
+      "tail end",
+      "tip"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-animals-shellfish-1777217241785",
+    "jlpt": "N2",
+    "subcategory": "Animals",
+    "name": "貝",
+    "kanji": "貝",
+    "kana": "かい",
+    "meaning": "shellfish",
+    "explanation": "A JLPT N2 noun meaning \"shellfish\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "貝",
+        "meanings": [
+          "shellfish",
+          "shell"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "貝は好きではない。",
+      "english": "I don't like shellfish.",
+      "furigana": [
+        {
+          "text": "貝",
+          "highlight": true,
+          "reading": "かい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "ではない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184904",
+        "englishSentenceId": "22035",
+        "url": "https://tatoeba.org/en/sentences/show/184904"
+      }
+    },
+    "acceptedJapanese": [
+      "貝",
+      "かい"
+    ],
+    "acceptedEnglish": [
+      "shellfish",
+      "seashell",
+      "shell"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-animals-goldfish-1777217242460",
+    "jlpt": "N2",
+    "subcategory": "Animals",
+    "name": "金魚",
+    "kanji": "金魚",
+    "kana": "きんぎょ",
+    "meaning": "goldfish",
+    "explanation": "A JLPT N2 noun meaning \"goldfish\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "金",
+        "meanings": [
+          "metal",
+          "gold",
+          "money"
+        ]
+      },
+      {
+        "kanji": "魚",
+        "meanings": [
+          "fish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "金魚は生きてる。",
+      "english": "The goldfish is alive.",
+      "furigana": [
+        {
+          "text": "金魚",
+          "highlight": true,
+          "reading": "きんぎょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "生き",
+          "reading": "いき"
+        },
+        {
+          "text": "てる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10559032",
+        "englishSentenceId": "680149",
+        "url": "https://tatoeba.org/en/sentences/show/10559032"
+      }
+    },
+    "acceptedJapanese": [
+      "金魚",
+      "きんぎょ"
+    ],
+    "acceptedEnglish": [
+      "goldfish"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-animals-group-1777217244026",
+    "jlpt": "N2",
+    "subcategory": "Animals",
+    "name": "群れ",
+    "kanji": "群れ",
+    "kana": "むれ",
+    "meaning": "group",
+    "explanation": "A JLPT N2 noun meaning \"group\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "群",
+        "meanings": [
+          "group",
+          "herd",
+          "crowd",
+          "flock"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "森で羊の群れを見ました。",
+      "english": "I caught sight of a flock of sheep in the forest.",
+      "furigana": [
+        {
+          "text": "森",
+          "reading": "もり"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "羊",
+          "reading": "ひつじ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "群れ",
+          "highlight": true,
+          "reading": "むれ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145093",
+        "englishSentenceId": "269470",
+        "url": "https://tatoeba.org/en/sentences/show/145093"
+      }
+    },
+    "acceptedJapanese": [
+      "群れ",
+      "むれ"
+    ],
+    "acceptedEnglish": [
+      "group",
+      "crowd",
+      "flock",
+      "herd",
+      "bevy",
+      "school"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-animals-mosquito-1777217244662",
+    "jlpt": "N2",
+    "subcategory": "Animals",
+    "name": "蚊",
+    "kanji": "蚊",
+    "kana": "か",
+    "meaning": "mosquito",
+    "explanation": "A JLPT N2 noun meaning \"mosquito\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "蚊",
+        "meanings": [
+          "mosquito"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "蚊が嫌い。",
+      "english": "I hate mosquitoes.",
+      "furigana": [
+        {
+          "text": "蚊",
+          "highlight": true,
+          "reading": "か"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "嫌い",
+          "reading": "きらい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8823662",
+        "englishSentenceId": "936937",
+        "url": "https://tatoeba.org/en/sentences/show/8823662"
+      }
+    },
+    "acceptedJapanese": [
+      "蚊",
+      "か"
+    ],
+    "acceptedEnglish": [
+      "mosquito"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

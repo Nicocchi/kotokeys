@@ -1,1 +1,825 @@
-[]
+[
+  {
+    "id": "n4-transportation-harbour-1777217250950",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "港",
+    "kanji": "港",
+    "kana": "みなと",
+    "meaning": "harbour",
+    "explanation": "A JLPT N4 noun meaning \"harbour\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "港",
+        "meanings": [
+          "port",
+          "harbor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "船は港に着いた。",
+      "english": "The ships reached port.",
+      "furigana": [
+        {
+          "text": "船",
+          "reading": "ふね"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "港",
+          "highlight": true,
+          "reading": "みなと"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "着",
+          "reading": "ちゃく"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141127",
+        "englishSentenceId": "273445",
+        "url": "https://tatoeba.org/en/sentences/show/141127"
+      }
+    },
+    "acceptedJapanese": [
+      "港",
+      "みなと"
+    ],
+    "acceptedEnglish": [
+      "harbour",
+      "port"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-airport-1777217251184",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "空港",
+    "kanji": "空港",
+    "kana": "くうこう",
+    "meaning": "airport",
+    "explanation": "A JLPT N4 noun meaning \"airport\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "空",
+        "meanings": [
+          "sky",
+          "air",
+          "empty"
+        ]
+      },
+      {
+        "kanji": "港",
+        "meanings": [
+          "port",
+          "harbor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空港はどこですか？",
+      "english": "Where's the airport?",
+      "furigana": [
+        {
+          "text": "空港",
+          "highlight": true,
+          "reading": "くうこう"
+        },
+        {
+          "text": "はどこですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1345606",
+        "englishSentenceId": "403053",
+        "url": "https://tatoeba.org/en/sentences/show/1345606"
+      }
+    },
+    "acceptedJapanese": [
+      "空港",
+      "くうこう"
+    ],
+    "acceptedEnglish": [
+      "airport"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-airfield-1777217251307",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "飛行場",
+    "kanji": "飛行場",
+    "kana": "ひこうじょう",
+    "meaning": "airfield",
+    "explanation": "A JLPT N4 noun meaning \"airfield\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "飛",
+        "meanings": [
+          "fly"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      },
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "飛行機はすでに飛行場を立っていた。",
+      "english": "The plane had already left the airport.",
+      "furigana": [
+        {
+          "text": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "text": "はすでに"
+        },
+        {
+          "text": "飛行場",
+          "highlight": true,
+          "reading": "ひこうじょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "立",
+          "reading": "た"
+        },
+        {
+          "text": "っていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "85671",
+        "englishSentenceId": "318042",
+        "url": "https://tatoeba.org/en/sentences/show/85671"
+      }
+    },
+    "acceptedJapanese": [
+      "飛行場",
+      "ひこうじょう"
+    ],
+    "acceptedEnglish": [
+      "airfield",
+      "airport"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-traffic-1777217251370",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "交通",
+    "kanji": "交通",
+    "kana": "こうつう",
+    "meaning": "traffic",
+    "explanation": "A JLPT N4 noun, suru noun meaning \"traffic\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "交",
+        "meanings": [
+          "intercourse",
+          "interchange"
+        ]
+      },
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここは交通が激しい。",
+      "english": "The traffic is heavy here.",
+      "furigana": [
+        {
+          "text": "ここは"
+        },
+        {
+          "text": "交通",
+          "highlight": true,
+          "reading": "こうつう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "激しい",
+          "reading": "はげしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224319",
+        "englishSentenceId": "61634",
+        "url": "https://tatoeba.org/en/sentences/show/224319"
+      }
+    },
+    "acceptedJapanese": [
+      "交通",
+      "こうつう"
+    ],
+    "acceptedEnglish": [
+      "traffic",
+      "transportation",
+      "communication",
+      "exchange",
+      "intercourse"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-ship-1777217251409",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "船",
+    "kanji": "船",
+    "kana": "ふね",
+    "meaning": "ship",
+    "explanation": "A JLPT N4 noun meaning \"ship\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "船",
+        "meanings": [
+          "ship",
+          "boat",
+          "vessel"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "船だよ。",
+      "english": "That's a boat.",
+      "furigana": [
+        {
+          "text": "船",
+          "highlight": true,
+          "reading": "ふね"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3655422",
+        "englishSentenceId": "6547245",
+        "url": "https://tatoeba.org/en/sentences/show/3655422"
+      }
+    },
+    "acceptedJapanese": [
+      "船",
+      "ふね"
+    ],
+    "acceptedEnglish": [
+      "ship",
+      "boat",
+      "watercraft",
+      "vessel",
+      "seaplane",
+      "tank"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-transportation-parking-lot-1777217251916",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "駐車場",
+    "kanji": "駐車場",
+    "kana": "ちゅうしゃじょう",
+    "meaning": "parking lot",
+    "explanation": "A JLPT N4 noun meaning \"parking lot\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "駐",
+        "meanings": [
+          "stationed",
+          "stop",
+          "reside"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "vehicle",
+          "wheel",
+          "car"
+        ]
+      },
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "駐車場はありますか。",
+      "english": "Is there a parking lot?",
+      "furigana": [
+        {
+          "text": "駐車場",
+          "highlight": true,
+          "reading": "ちゅうしゃじょう"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126297",
+        "englishSentenceId": "277695",
+        "url": "https://tatoeba.org/en/sentences/show/126297"
+      }
+    },
+    "acceptedJapanese": [
+      "駐車場",
+      "ちゅうしゃじょう"
+    ],
+    "acceptedEnglish": [
+      "parking lot",
+      "car park",
+      "carpark",
+      "parking garage"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-train-1777217251919",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "汽車",
+    "kanji": "汽車",
+    "kana": "きしゃ",
+    "meaning": "train",
+    "explanation": "A JLPT N4 noun meaning \"train\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "汽",
+        "meanings": [
+          "steam"
+        ]
+      },
+      {
+        "kanji": "車",
+        "meanings": [
+          "vehicle",
+          "wheel",
+          "car"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あ、汽車が来た。",
+      "english": "Here comes the train.",
+      "furigana": [
+        {
+          "text": "あ、"
+        },
+        {
+          "text": "汽車",
+          "highlight": true,
+          "reading": "きしゃ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "234771",
+        "englishSentenceId": "33133",
+        "url": "https://tatoeba.org/en/sentences/show/234771"
+      }
+    },
+    "acceptedJapanese": [
+      "汽車",
+      "きしゃ"
+    ],
+    "acceptedEnglish": [
+      "train",
+      "steam train"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-transportation-operation-1777217252057",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "運転",
+    "kanji": "運転",
+    "kana": "うんてん",
+    "meaning": "operation",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb, intransitive verb meaning \"operation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "運",
+        "meanings": [
+          "carry",
+          "move",
+          "fortune"
+        ]
+      },
+      {
+        "kanji": "転",
+        "meanings": [
+          "turn",
+          "roll over",
+          "fall down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "運転したいです。",
+      "english": "I want to drive.",
+      "furigana": [
+        {
+          "text": "運転",
+          "highlight": true,
+          "reading": "うんてん"
+        },
+        {
+          "text": "したいです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11047978",
+        "englishSentenceId": "258396",
+        "url": "https://tatoeba.org/en/sentences/show/11047978"
+      }
+    },
+    "acceptedJapanese": [
+      "運転",
+      "うんてん"
+    ],
+    "acceptedEnglish": [
+      "operation",
+      "running",
+      "working"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-gasoline-1777217252213",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "ガソリン",
+    "kanji": "ガソリン",
+    "kana": "ガソリン",
+    "meaning": "gasoline",
+    "explanation": "A JLPT N4 noun meaning \"gasoline\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ガソリン臭いよ。",
+      "english": "I smell gasoline.",
+      "furigana": [
+        {
+          "text": "ガ",
+          "highlight": true,
+          "reading": "ガソリン"
+        },
+        {
+          "text": "ソ",
+          "highlight": true,
+          "reading": "ガソリン"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "ガソリン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ガソリン"
+        },
+        {
+          "text": "臭いよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10196614",
+        "englishSentenceId": "10179566",
+        "url": "https://tatoeba.org/en/sentences/show/10196614"
+      }
+    },
+    "acceptedJapanese": [
+      "ガソリン"
+    ],
+    "acceptedEnglish": [
+      "gasoline",
+      "petrol"
+    ]
+  },
+  {
+    "id": "n4-transportation-escalator-1777217252495",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "エスカレーター",
+    "kanji": "エスカレーター",
+    "kana": "エスカレーター",
+    "meaning": "escalator",
+    "explanation": "A JLPT N4 noun meaning \"escalator\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "エスカレーターはどこですか？",
+      "english": "Where is the escalator?",
+      "furigana": [
+        {
+          "text": "エ",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "カ",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "エスカレーター"
+        },
+        {
+          "text": "はどこですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11286186",
+        "englishSentenceId": "8826845",
+        "url": "https://tatoeba.org/en/sentences/show/11286186"
+      }
+    },
+    "acceptedJapanese": [
+      "エスカレーター"
+    ],
+    "acceptedEnglish": [
+      "escalator"
+    ]
+  },
+  {
+    "id": "n4-transportation-limited-express-1777217252516",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "特急",
+    "kanji": "特急",
+    "kana": "とっきゅう",
+    "meaning": "limited express",
+    "explanation": "A JLPT N4 noun meaning \"limited express\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "特",
+        "meanings": [
+          "special"
+        ]
+      },
+      {
+        "kanji": "急",
+        "meanings": [
+          "urgent",
+          "hurry",
+          "sudden"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "特急のホームは何番ですか。",
+      "english": "What's the track for the limited express?",
+      "furigana": [
+        {
+          "text": "特急",
+          "highlight": true,
+          "reading": "とっきゅう"
+        },
+        {
+          "text": "のホームは"
+        },
+        {
+          "text": "何番",
+          "reading": "なんばん"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123466",
+        "englishSentenceId": "280531",
+        "url": "https://tatoeba.org/en/sentences/show/123466"
+      }
+    },
+    "acceptedJapanese": [
+      "特急",
+      "とっきゅう"
+    ],
+    "acceptedEnglish": [
+      "limited express",
+      "great hurry"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-transportation-motorcycle-1777217252552",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "オートバイ",
+    "kanji": "オートバイ",
+    "kana": "オートバイ",
+    "meaning": "motorcycle",
+    "explanation": "A JLPT N4 noun meaning \"motorcycle\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "オートバイを持っていますか。",
+      "english": "Do you own a motorcycle?",
+      "furigana": [
+        {
+          "text": "オ",
+          "highlight": true,
+          "reading": "オートバイ"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "オートバイ"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "オートバイ"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "オートバイ"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "オートバイ"
+        },
+        {
+          "text": "を持っていますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2739153",
+        "englishSentenceId": "12787127",
+        "url": "https://tatoeba.org/en/sentences/show/2739153"
+      }
+    },
+    "acceptedJapanese": [
+      "オートバイ"
+    ],
+    "acceptedEnglish": [
+      "motorcycle",
+      "motorbike"
+    ]
+  },
+  {
+    "id": "n4-transportation-vehicle-1777217252594",
+    "jlpt": "N4",
+    "subcategory": "Transportation",
+    "name": "乗り物",
+    "kanji": "乗り物",
+    "kana": "のりもの",
+    "meaning": "vehicle",
+    "explanation": "A JLPT N4 noun meaning \"vehicle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "乗",
+        "meanings": [
+          "ride",
+          "get on"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "乗り物は子供向けである。",
+      "english": "Rides in the cars are for kids.",
+      "furigana": [
+        {
+          "text": "乗り物",
+          "highlight": true,
+          "reading": "のりもの"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "子供",
+          "reading": "こども"
+        },
+        {
+          "text": "向け",
+          "reading": "むけ"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146171",
+        "englishSentenceId": "268391",
+        "url": "https://tatoeba.org/en/sentences/show/146171"
+      }
+    },
+    "acceptedJapanese": [
+      "乗り物",
+      "のりもの"
+    ],
+    "acceptedEnglish": [
+      "vehicle",
+      "conveyance",
+      "transport",
+      "ride",
+      "attraction"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

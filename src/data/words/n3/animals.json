@@ -1,1 +1,619 @@
-[]
+[
+  {
+    "id": "n3-animals-tiger-1777217246123",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "虎",
+    "kanji": "虎",
+    "kana": "とら",
+    "meaning": "tiger",
+    "explanation": "A JLPT N3 noun meaning \"tiger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "虎",
+        "meanings": [
+          "tiger",
+          "drunkard"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は虎が好き。",
+      "english": "He likes tigers.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "虎",
+          "highlight": true,
+          "reading": "とら"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "115541",
+        "englishSentenceId": "563720",
+        "url": "https://tatoeba.org/en/sentences/show/115541"
+      }
+    },
+    "acceptedJapanese": [
+      "虎",
+      "とら"
+    ],
+    "acceptedEnglish": [
+      "tiger",
+      "drunkard",
+      "drunk",
+      "sot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-animals-horse-1777217248868",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "馬",
+    "kanji": "馬",
+    "kana": "うま",
+    "meaning": "horse",
+    "explanation": "A JLPT N3 noun meaning \"horse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "馬",
+        "meanings": [
+          "horse"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは馬です。",
+      "english": "This is a horse.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "馬",
+          "highlight": true,
+          "reading": "うま"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "983678",
+        "englishSentenceId": "983650",
+        "url": "https://tatoeba.org/en/sentences/show/983678"
+      }
+    },
+    "acceptedJapanese": [
+      "馬",
+      "うま"
+    ],
+    "acceptedEnglish": [
+      "horse",
+      "horse racing",
+      "promoted bishop",
+      "knight"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-animals-monkey-1777217249111",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "猿",
+    "kanji": "猿",
+    "kana": "さる",
+    "meaning": "monkey",
+    "explanation": "A JLPT N3 noun meaning \"monkey\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "猿",
+        "meanings": [
+          "monkey"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "猿は木に登る。",
+      "english": "Monkeys climb trees.",
+      "furigana": [
+        {
+          "text": "猿",
+          "highlight": true,
+          "reading": "さる"
+        },
+        {
+          "text": "は木に"
+        },
+        {
+          "text": "登る",
+          "reading": "のぼる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188723",
+        "englishSentenceId": "25868",
+        "url": "https://tatoeba.org/en/sentences/show/188723"
+      }
+    },
+    "acceptedJapanese": [
+      "猿",
+      "さる"
+    ],
+    "acceptedEnglish": [
+      "monkey",
+      "ape",
+      "non-human primate",
+      "sly person",
+      "idiot",
+      "hick"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-animals-living-thing-1777217249252",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "生き物",
+    "kanji": "生き物",
+    "kana": "いきもの",
+    "meaning": "living thing",
+    "explanation": "A JLPT N3 noun meaning \"living thing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "生",
+        "meanings": [
+          "life",
+          "be born",
+          "student"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "火星に生き物はいるの？",
+      "english": "Is there life on Mars?",
+      "furigana": [
+        {
+          "text": "火星",
+          "reading": "かせい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "生き物",
+          "highlight": true,
+          "reading": "いきもの"
+        },
+        {
+          "text": "はいるの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8737885",
+        "englishSentenceId": "2179087",
+        "url": "https://tatoeba.org/en/sentences/show/8737885"
+      }
+    },
+    "acceptedJapanese": [
+      "生き物",
+      "いきもの"
+    ],
+    "acceptedEnglish": [
+      "living thing",
+      "living creature",
+      "animal",
+      "life"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-animals-cattle-1777217249261",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "牛",
+    "kanji": "牛",
+    "kana": "うし",
+    "meaning": "cattle",
+    "explanation": "A JLPT N3 noun meaning \"cattle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "牛",
+        "meanings": [
+          "cattle",
+          "cow",
+          "ox"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牛を飼育する。",
+      "english": "I raise cattle.",
+      "furigana": [
+        {
+          "text": "牛",
+          "highlight": true,
+          "reading": "うし"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "飼育",
+          "reading": "しいく"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182306",
+        "englishSentenceId": "19486",
+        "url": "https://tatoeba.org/en/sentences/show/182306"
+      }
+    },
+    "acceptedJapanese": [
+      "牛",
+      "うし"
+    ],
+    "acceptedEnglish": [
+      "cattle",
+      "cow",
+      "bull",
+      "ox",
+      "calf",
+      "beef"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-animals-nest-1777217249534",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "巣",
+    "kanji": "巣",
+    "kana": "す",
+    "meaning": "nest",
+    "explanation": "A JLPT N3 noun meaning \"nest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "巣",
+        "meanings": [
+          "nest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "巣に返してあげて。",
+      "english": "Put it back in the nest.",
+      "furigana": [
+        {
+          "text": "巣",
+          "highlight": true,
+          "reading": "す"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "返し",
+          "reading": "かえし"
+        },
+        {
+          "text": "てあげて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8506431",
+        "englishSentenceId": "41794",
+        "url": "https://tatoeba.org/en/sentences/show/8506431"
+      }
+    },
+    "acceptedJapanese": [
+      "巣",
+      "す"
+    ],
+    "acceptedEnglish": [
+      "nest",
+      "rookery",
+      "breeding place",
+      "hive",
+      "den",
+      "haunt"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-animals-feed-1777217249627",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "餌",
+    "kanji": "餌",
+    "kana": "えさ",
+    "meaning": "feed",
+    "explanation": "A JLPT N3 noun meaning \"feed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "餌",
+        "meanings": [
+          "food",
+          "bait",
+          "prey",
+          "tempting profit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "犬に餌をやれ。",
+      "english": "Feed the dog.",
+      "furigana": [
+        {
+          "text": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "餌",
+          "highlight": true,
+          "reading": "えさ"
+        },
+        {
+          "text": "をやれ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12962645",
+        "englishSentenceId": "8079052",
+        "url": "https://tatoeba.org/en/sentences/show/12962645"
+      }
+    },
+    "acceptedJapanese": [
+      "餌",
+      "えさ"
+    ],
+    "acceptedEnglish": [
+      "feed",
+      "fodder",
+      "pet food",
+      "bait",
+      "lure",
+      "enticement"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-animals-wing-1777217250305",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "翼",
+    "kanji": "翼",
+    "kana": "つばさ",
+    "meaning": "wing",
+    "explanation": "A JLPT N3 noun meaning \"wing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "翼",
+        "meanings": [
+          "wing",
+          "plane",
+          "flank"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "富には翼がある。",
+      "english": "Riches have wings.",
+      "furigana": [
+        {
+          "text": "富",
+          "reading": "とみ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "翼",
+          "highlight": true,
+          "reading": "つばさ"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "84959",
+        "englishSentenceId": "318754",
+        "url": "https://tatoeba.org/en/sentences/show/84959"
+      }
+    },
+    "acceptedJapanese": [
+      "翼",
+      "つばさ"
+    ],
+    "acceptedEnglish": [
+      "wing",
+      "Chinese \"Wings\" constellation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-animals-feather-1777217250431",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "羽",
+    "kanji": "羽",
+    "kana": "はね",
+    "meaning": "feather",
+    "explanation": "A JLPT N3 noun meaning \"feather\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "羽",
+        "meanings": [
+          "feather",
+          "wing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その鳥は羽を震わせた。",
+      "english": "The bird quivered its wings.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "鳥",
+          "reading": "とり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "羽",
+          "highlight": true,
+          "reading": "はね"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "震",
+          "reading": "しん"
+        },
+        {
+          "text": "わせた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207761",
+        "englishSentenceId": "45015",
+        "url": "https://tatoeba.org/en/sentences/show/207761"
+      }
+    },
+    "acceptedJapanese": [
+      "羽",
+      "はね"
+    ],
+    "acceptedEnglish": [
+      "feather",
+      "plume",
+      "down",
+      "wing",
+      "blade",
+      "shuttlecock"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-animals-rabbit-1777217250566",
+    "jlpt": "N3",
+    "subcategory": "Animals",
+    "name": "兎",
+    "kanji": "兎",
+    "kana": "うさぎ",
+    "meaning": "rabbit",
+    "explanation": "A JLPT N3 noun meaning \"rabbit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "兎",
+        "meanings": [
+          "rabbit",
+          "hare"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "兎は耳が良いんだ。",
+      "english": "Rabbits' have a good sense of hearing.",
+      "furigana": [
+        {
+          "text": "兎",
+          "highlight": true,
+          "reading": "うさぎ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "耳",
+          "reading": "みみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "良",
+          "reading": "りょう"
+        },
+        {
+          "text": "いんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9641476",
+        "englishSentenceId": "10074467",
+        "url": "https://tatoeba.org/en/sentences/show/9641476"
+      }
+    },
+    "acceptedJapanese": [
+      "兎",
+      "うさぎ"
+    ],
+    "acceptedEnglish": [
+      "rabbit",
+      "hare",
+      "coney",
+      "cony",
+      "lagomorph"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

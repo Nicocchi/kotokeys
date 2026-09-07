@@ -134,6 +134,12 @@ The old `pitchAccent` string field is still supported as a fallback if it contai
 
 The app still uses the `jlpt` and `subcategory` fields inside each word. Keep those matching the folder/file so filtering works correctly.
 
+## Kanji data
+
+`kanji/kanji.json` maps each kanji used by the word files to its meanings, readings, stroke count, radical, and (when Kanji alive has a video) a `media` block with the media name and per-stroke end times in seconds. `kanji/radicals.json` lists the 214 traditional radicals and variants. Regenerate both with `python outputs/jlpt_anki_extract/build_kanji_data.py`, then rerun the word generator so `kanjiBreakdown` picks up the per-kanji meanings.
+
+Category corrections live in `outputs/jlpt_anki_extract/category_overrides/<level>.json`, keyed by `expression|kana`, and are applied by the word generator.
+
 ## Sources/Credits
 
 Example sentences and English translations may come from Tatoeba sentence pairs. Tatoeba data is community-contributed and released under CC BY 2.0 FR, with some sentences also available under CC0. When a word uses a Tatoeba example, the JSON keeps the Japanese sentence ID, English sentence ID, license, and sentence URL in `example.source`.
@@ -141,3 +147,5 @@ Example sentences and English translations may come from Tatoeba sentence pairs.
 Pitch accent numbers were populated from Kanjium's `accents.txt` data. Attribution requested by that project:
 
 > The pitch accent notation, verb particle data, phonetics, homonyms and other additions or modifications to EDICT, KANJIDIC or KRADFILE were provided by Uros O. through his free database.
+
+Kanji and radical data, stroke-order videos, radical artwork, position icons, and the radicals font are from [Kanji alive](https://kanjialive.com) ([kanji-data-media](https://github.com/kanjialive/kanji-data-media)), licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) (font: Apache 2.0). Kanji missing from Kanji alive use [KANJIDIC2](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project) from the Electronic Dictionary Research and Development Group under its [licence](https://www.edrdg.org/edrdg/licence.html) (CC BY-SA 4.0), so `kanji/kanji.json` is CC BY-SA 4.0.

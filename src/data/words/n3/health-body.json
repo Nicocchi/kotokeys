@@ -1,1 +1,2890 @@
-[]
+[
+  {
+    "id": "n3-health-body-lower-back-1777217246342",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "腰",
+    "kanji": "腰",
+    "kana": "こし",
+    "meaning": "lower back",
+    "explanation": "A JLPT N3 noun meaning \"lower back\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "腰",
+        "meanings": [
+          "waist",
+          "loins",
+          "hips",
+          "small of back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "腰が痛いんだ。",
+      "english": "I have pain in my lower back.",
+      "furigana": [
+        {
+          "text": "腰",
+          "highlight": true,
+          "reading": "こし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12118863",
+        "englishSentenceId": "12063696",
+        "url": "https://tatoeba.org/en/sentences/show/12118863"
+      }
+    },
+    "acceptedJapanese": [
+      "腰",
+      "こし"
+    ],
+    "acceptedEnglish": [
+      "lower back",
+      "waist",
+      "hips",
+      "lumbar region",
+      "body",
+      "resilience"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-knee-1777217246486",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "膝",
+    "kanji": "膝",
+    "kana": "ひざ",
+    "meaning": "knee",
+    "explanation": "A JLPT N3 noun meaning \"knee\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "膝",
+        "meanings": [
+          "knee",
+          "lap"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "膝が痛む。",
+      "english": "My knee hurts.",
+      "furigana": [
+        {
+          "text": "膝",
+          "highlight": true,
+          "reading": "ひざ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛む",
+          "reading": "いたむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8720694",
+        "englishSentenceId": "2751027",
+        "url": "https://tatoeba.org/en/sentences/show/8720694"
+      }
+    },
+    "acceptedJapanese": [
+      "膝",
+      "ひざ"
+    ],
+    "acceptedEnglish": [
+      "knee",
+      "lap",
+      "knee and thigh"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-appetite-1777217246516",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "食欲",
+    "kanji": "食欲",
+    "kana": "しょくよく",
+    "meaning": "appetite",
+    "explanation": "A JLPT N3 noun meaning \"appetite\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "食",
+        "meanings": [
+          "eat",
+          "food"
+        ]
+      },
+      {
+        "kanji": "欲",
+        "meanings": [
+          "desire",
+          "want"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "食欲がありません。",
+      "english": "I have no appetite.",
+      "furigana": [
+        {
+          "text": "食欲",
+          "highlight": true,
+          "reading": "しょくよく"
+        },
+        {
+          "text": "がありません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "591692",
+        "englishSentenceId": "1071660",
+        "url": "https://tatoeba.org/en/sentences/show/591692"
+      }
+    },
+    "acceptedJapanese": [
+      "食欲",
+      "しょくよく"
+    ],
+    "acceptedEnglish": [
+      "appetite"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-tongue-1777217246537",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "舌",
+    "kanji": "舌",
+    "kana": "した",
+    "meaning": "tongue",
+    "explanation": "A JLPT N3 noun meaning \"tongue\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "舌",
+        "meanings": [
+          "tongue"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "舌を見せてください。",
+      "english": "Show me your tongue.",
+      "furigana": [
+        {
+          "text": "舌",
+          "highlight": true,
+          "reading": "した"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "せてください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141924",
+        "englishSentenceId": "6049413",
+        "url": "https://tatoeba.org/en/sentences/show/141924"
+      }
+    },
+    "acceptedJapanese": [
+      "舌",
+      "した"
+    ],
+    "acceptedEnglish": [
+      "tongue",
+      "tongue-like object",
+      "clapper",
+      "talon",
+      "reed"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-cheek-1777217246699",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "頬",
+    "kanji": "頬",
+    "kana": "ほお",
+    "meaning": "cheek",
+    "explanation": "A JLPT N3 noun meaning \"cheek\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頬",
+        "meanings": [
+          "cheeks",
+          "jaw"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "頬にキスしたいな。",
+      "english": "I'd like to kiss your cheeks.",
+      "furigana": [
+        {
+          "text": "頬",
+          "highlight": true,
+          "reading": "ほお"
+        },
+        {
+          "text": "にキスしたいな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10616301",
+        "englishSentenceId": "10616226",
+        "url": "https://tatoeba.org/en/sentences/show/10616301"
+      }
+    },
+    "acceptedJapanese": [
+      "頬",
+      "ほお"
+    ],
+    "acceptedEnglish": [
+      "cheek"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-patient-1777217246720",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "患者",
+    "kanji": "患者",
+    "kana": "かんじゃ",
+    "meaning": "patient",
+    "explanation": "A JLPT N3 noun meaning \"patient\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "患",
+        "meanings": [
+          "affected by disease",
+          "be ill",
+          "suffer"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は患者です。",
+      "english": "I'm a patient.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "患者",
+          "highlight": true,
+          "reading": "かんじゃ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2348820",
+        "englishSentenceId": "2348816",
+        "url": "https://tatoeba.org/en/sentences/show/2348820"
+      }
+    },
+    "acceptedJapanese": [
+      "患者",
+      "かんじゃ"
+    ],
+    "acceptedEnglish": [
+      "patient"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-hair-1777217246876",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "髪の毛",
+    "kanji": "髪の毛",
+    "kana": "かみのけ",
+    "meaning": "hair",
+    "explanation": "A JLPT N3 expression, noun meaning \"hair\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "髪",
+        "meanings": [
+          "hair (on the head)"
+        ]
+      },
+      {
+        "kanji": "毛",
+        "meanings": [
+          "hair",
+          "fur",
+          "feather",
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女の髪の毛は長い。",
+      "english": "Her hair is long.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "髪の毛",
+          "highlight": true,
+          "reading": "かみのけ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "長い",
+          "reading": "ながい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "94078",
+        "englishSentenceId": "309627",
+        "url": "https://tatoeba.org/en/sentences/show/94078"
+      }
+    },
+    "acceptedJapanese": [
+      "髪の毛",
+      "かみのけ"
+    ],
+    "acceptedEnglish": [
+      "hair"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-health-body-sleep-1777217246969",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "睡眠",
+    "kanji": "睡眠",
+    "kana": "すいみん",
+    "meaning": "sleep",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"sleep\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "睡",
+        "meanings": [
+          "drowsy",
+          "sleep",
+          "die"
+        ]
+      },
+      {
+        "kanji": "眠",
+        "meanings": [
+          "sleep"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "睡眠は大切だよ。",
+      "english": "Sleep is important.",
+      "furigana": [
+        {
+          "text": "睡眠",
+          "highlight": true,
+          "reading": "すいみん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大",
+          "reading": "だい"
+        },
+        {
+          "text": "切",
+          "reading": "せつ"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9974917",
+        "englishSentenceId": "9974912",
+        "url": "https://tatoeba.org/en/sentences/show/9974917"
+      }
+    },
+    "acceptedJapanese": [
+      "睡眠",
+      "すいみん"
+    ],
+    "acceptedEnglish": [
+      "sleep"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-buttocks-1777217247119",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "尻",
+    "kanji": "尻",
+    "kana": "しり",
+    "meaning": "buttocks",
+    "explanation": "A JLPT N3 noun meaning \"buttocks\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "尻",
+        "meanings": [
+          "buttocks",
+          "hips",
+          "butt",
+          "rear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "赤ん坊のお尻みたいにすべすべだ。",
+      "english": "It's as smooth as a baby's bottom.",
+      "furigana": [
+        {
+          "text": "赤",
+          "reading": "あか"
+        },
+        {
+          "text": "ん坊の"
+        },
+        {
+          "text": "お"
+        },
+        {
+          "text": "尻",
+          "highlight": true,
+          "reading": "しり"
+        },
+        {
+          "text": "みたいにすべすべだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "75939",
+        "englishSentenceId": "327779",
+        "url": "https://tatoeba.org/en/sentences/show/75939"
+      }
+    },
+    "acceptedJapanese": [
+      "尻",
+      "しり"
+    ],
+    "acceptedEnglish": [
+      "buttocks",
+      "behind",
+      "rump",
+      "bottom",
+      "hips",
+      "undersurface"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-visit-1777217247215",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "見舞い",
+    "kanji": "見舞い",
+    "kana": "みまい",
+    "meaning": "visit",
+    "explanation": "A JLPT N3 noun meaning \"visit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      },
+      {
+        "kanji": "舞",
+        "meanings": [
+          "dance"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "友人を見舞いに行く所です。",
+      "english": "I'm on my way to visit a friend in the hospital.",
+      "furigana": [
+        {
+          "text": "友人",
+          "reading": "ゆうじん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見舞い",
+          "highlight": true,
+          "reading": "みまい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "く"
+        },
+        {
+          "text": "所で",
+          "reading": "ところで"
+        },
+        {
+          "text": "す。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79343",
+        "englishSentenceId": "1409048",
+        "url": "https://tatoeba.org/en/sentences/show/79343"
+      }
+    },
+    "acceptedJapanese": [
+      "見舞い",
+      "みまい"
+    ],
+    "acceptedEnglish": [
+      "visit",
+      "call",
+      "inquiry",
+      "expression of sympathy",
+      "letter of inquiry",
+      "letter of sympathy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-surgery-1777217247218",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "手術",
+    "kanji": "手術",
+    "kana": "しゅじゅつ",
+    "meaning": "surgery",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"surgery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "術",
+        "meanings": [
+          "practical art",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手術が必要ですか。",
+      "english": "Do I need an operation?",
+      "furigana": [
+        {
+          "text": "手術",
+          "highlight": true,
+          "reading": "しゅじゅつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148543",
+        "englishSentenceId": "266016",
+        "url": "https://tatoeba.org/en/sentences/show/148543"
+      }
+    },
+    "acceptedJapanese": [
+      "手術",
+      "しゅじゅつ"
+    ],
+    "acceptedEnglish": [
+      "surgery",
+      "operation",
+      "procedure"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-sweat-1777217247314",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "汗",
+    "kanji": "汗",
+    "kana": "あせ",
+    "meaning": "sweat",
+    "explanation": "A JLPT N3 noun meaning \"sweat\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "汗",
+        "meanings": [
+          "sweat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "汗だくでした。",
+      "english": "I was sweating.",
+      "furigana": [
+        {
+          "text": "汗",
+          "highlight": true,
+          "reading": "あせ"
+        },
+        {
+          "text": "だくでした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11983985",
+        "englishSentenceId": "2948185",
+        "url": "https://tatoeba.org/en/sentences/show/11983985"
+      }
+    },
+    "acceptedJapanese": [
+      "汗",
+      "あせ"
+    ],
+    "acceptedEnglish": [
+      "sweat",
+      "perspiration",
+      "moisture",
+      "condensation"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-body-temperature-1777217247398",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "体温",
+    "kanji": "体温",
+    "kana": "たいおん",
+    "meaning": "body temperature",
+    "explanation": "A JLPT N3 noun meaning \"body temperature\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      },
+      {
+        "kanji": "温",
+        "meanings": [
+          "warm"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "体温は正常です。",
+      "english": "Your temperature's normal.",
+      "furigana": [
+        {
+          "text": "体温",
+          "highlight": true,
+          "reading": "たいおん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11586401",
+        "englishSentenceId": "11586359",
+        "url": "https://tatoeba.org/en/sentences/show/11586401"
+      }
+    },
+    "acceptedJapanese": [
+      "体温",
+      "たいおん"
+    ],
+    "acceptedEnglish": [
+      "body temperature"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-tear-1777217247446",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "涙",
+    "kanji": "涙",
+    "kana": "なみだ",
+    "meaning": "tear",
+    "explanation": "A JLPT N3 noun meaning \"tear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "涙",
+        "meanings": [
+          "tear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は涙した。",
+      "english": "She was in tears.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "涙",
+          "highlight": true,
+          "reading": "なみだ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8603500",
+        "englishSentenceId": "2768994",
+        "url": "https://tatoeba.org/en/sentences/show/8603500"
+      }
+    },
+    "acceptedJapanese": [
+      "涙",
+      "なみだ"
+    ],
+    "acceptedEnglish": [
+      "tear",
+      "tears",
+      "lachrymal secretion",
+      "sympathy"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-tiredness-1777217247473",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "疲れ",
+    "kanji": "疲れ",
+    "kana": "つかれ",
+    "meaning": "tiredness",
+    "explanation": "A JLPT N3 noun meaning \"tiredness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "疲",
+        "meanings": [
+          "tired"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "疲れはとれた？",
+      "english": "Your fatigue disappeared?",
+      "furigana": [
+        {
+          "text": "疲れ",
+          "highlight": true,
+          "reading": "つかれ"
+        },
+        {
+          "text": "はとれた？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9826869",
+        "englishSentenceId": "10196084",
+        "url": "https://tatoeba.org/en/sentences/show/9826869"
+      }
+    },
+    "acceptedJapanese": [
+      "疲れ",
+      "つかれ"
+    ],
+    "acceptedEnglish": [
+      "tiredness",
+      "fatigue"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-health-body-gargling-1777217247662",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "嗽",
+    "kanji": "嗽",
+    "kana": "うがい",
+    "meaning": "gargling",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"gargling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嗽",
+        "meanings": [
+          "rinse",
+          "wash",
+          "gargle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「嗽」は日本語の言葉です。",
+      "english": "\"gargling\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "嗽",
+          "reading": "うがい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "嗽",
+      "うがい"
+    ],
+    "acceptedEnglish": [
+      "gargling",
+      "rinsing one's mouth"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-shoulder-1777217247734",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "肩",
+    "kanji": "肩",
+    "kana": "かた",
+    "meaning": "shoulder",
+    "explanation": "A JLPT N3 noun meaning \"shoulder\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "肩",
+        "meanings": [
+          "shoulder"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "肩が痛い。",
+      "english": "My shoulder hurts.",
+      "furigana": [
+        {
+          "text": "肩",
+          "highlight": true,
+          "reading": "かた"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175202",
+        "englishSentenceId": "899477",
+        "url": "https://tatoeba.org/en/sentences/show/175202"
+      }
+    },
+    "acceptedJapanese": [
+      "肩",
+      "かた"
+    ],
+    "acceptedEnglish": [
+      "shoulder"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-symptoms-1777217247956",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "症状",
+    "kanji": "症状",
+    "kana": "しょうじょう",
+    "meaning": "symptoms",
+    "explanation": "A JLPT N3 noun meaning \"symptoms\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "症",
+        "meanings": [
+          "symptoms",
+          "illness"
+        ]
+      },
+      {
+        "kanji": "状",
+        "meanings": [
+          "form",
+          "condition",
+          "letter",
+          "circumstances"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どのような症状ですか。",
+      "english": "What are the symptoms?",
+      "furigana": [
+        {
+          "text": "どのような"
+        },
+        {
+          "text": "症状",
+          "highlight": true,
+          "reading": "しょうじょう"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "200370",
+        "englishSentenceId": "37571",
+        "url": "https://tatoeba.org/en/sentences/show/200370"
+      }
+    },
+    "acceptedJapanese": [
+      "症状",
+      "しょうじょう"
+    ],
+    "acceptedEnglish": [
+      "symptoms",
+      "condition"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-health-body-nakedness-1777217248064",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "裸",
+    "kanji": "裸",
+    "kana": "はだか",
+    "meaning": "nakedness",
+    "explanation": "A JLPT N3 noun, no adjective meaning \"nakedness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "裸",
+        "meanings": [
+          "naked",
+          "nude",
+          "uncovered",
+          "partially clothed"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "裸でいて何が悪いの？",
+      "english": "What's wrong with being naked?",
+      "furigana": [
+        {
+          "text": "裸",
+          "highlight": true,
+          "reading": "はだか"
+        },
+        {
+          "text": "でいて"
+        },
+        {
+          "text": "何",
+          "reading": "なに"
+        },
+        {
+          "text": "が悪いの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8850534",
+        "englishSentenceId": "2204519",
+        "url": "https://tatoeba.org/en/sentences/show/8850534"
+      }
+    },
+    "acceptedJapanese": [
+      "裸",
+      "はだか"
+    ],
+    "acceptedEnglish": [
+      "nakedness",
+      "nudity",
+      "bareness",
+      "baldness",
+      "being uncovered",
+      "being penniless"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-bone-fracture-1777217248115",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "骨折",
+    "kanji": "骨折",
+    "kana": "こっせつ",
+    "meaning": "bone fracture",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"bone fracture\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "骨",
+        "meanings": [
+          "bone"
+        ]
+      },
+      {
+        "kanji": "折",
+        "meanings": [
+          "break off",
+          "fold",
+          "bend"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "腕を骨折しました。",
+      "english": "I fractured my arm.",
+      "furigana": [
+        {
+          "text": "腕を"
+        },
+        {
+          "text": "骨折",
+          "highlight": true,
+          "reading": "こっせつ"
+        },
+        {
+          "text": "しました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77115",
+        "englishSentenceId": "326604",
+        "url": "https://tatoeba.org/en/sentences/show/77115"
+      }
+    },
+    "acceptedJapanese": [
+      "骨折",
+      "こっせつ"
+    ],
+    "acceptedEnglish": [
+      "bone fracture"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-breath-1777217248151",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "息",
+    "kanji": "息",
+    "kana": "いき",
+    "meaning": "breath",
+    "explanation": "A JLPT N3 noun meaning \"breath\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "息",
+        "meanings": [
+          "breath"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は息をしていますか。",
+      "english": "Is he breathing?",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "息",
+          "highlight": true,
+          "reading": "いき"
+        },
+        {
+          "text": "をしていますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1282968",
+        "englishSentenceId": "239892",
+        "url": "https://tatoeba.org/en/sentences/show/1282968"
+      }
+    },
+    "acceptedJapanese": [
+      "息",
+      "いき"
+    ],
+    "acceptedEnglish": [
+      "breath",
+      "breathing",
+      "concord",
+      "harmony",
+      "rapport",
+      "steam"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-muscle-1777217248298",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "筋肉",
+    "kanji": "筋肉",
+    "kana": "きんにく",
+    "meaning": "muscle",
+    "explanation": "A JLPT N3 noun meaning \"muscle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "筋",
+        "meanings": [
+          "muscle",
+          "threadlike structure",
+          "line",
+          "plot"
+        ]
+      },
+      {
+        "kanji": "肉",
+        "meanings": [
+          "flesh",
+          "meat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "筋肉がなまった。",
+      "english": "My muscles have become soft.",
+      "furigana": [
+        {
+          "text": "筋肉",
+          "highlight": true,
+          "reading": "きんにく"
+        },
+        {
+          "text": "がなまった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "179948",
+        "englishSentenceId": "18807",
+        "url": "https://tatoeba.org/en/sentences/show/179948"
+      }
+    },
+    "acceptedJapanese": [
+      "筋肉",
+      "きんにく"
+    ],
+    "acceptedEnglish": [
+      "muscle"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-abstaining-from-smoking-1777217248376",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "禁煙",
+    "kanji": "禁煙",
+    "kana": "きんえん",
+    "meaning": "abstaining from smoking",
+    "explanation": "A JLPT N3 noun, suru noun, intransitive verb meaning \"abstaining from smoking\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "禁",
+        "meanings": [
+          "prohibit"
+        ]
+      },
+      {
+        "kanji": "煙",
+        "meanings": [
+          "smoke"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "禁煙です！",
+      "english": "No smoking!",
+      "furigana": [
+        {
+          "text": "禁煙",
+          "highlight": true,
+          "reading": "きんえん"
+        },
+        {
+          "text": "です！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2583537",
+        "englishSentenceId": "1866930",
+        "url": "https://tatoeba.org/en/sentences/show/2583537"
+      }
+    },
+    "acceptedJapanese": [
+      "禁煙",
+      "きんえん"
+    ],
+    "acceptedEnglish": [
+      "abstaining from smoking",
+      "quitting smoking",
+      "prohibition of smoking"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-chest-1777217248604",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "胸",
+    "kanji": "胸",
+    "kana": "むね",
+    "meaning": "chest",
+    "explanation": "A JLPT N3 noun meaning \"chest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "胸",
+        "meanings": [
+          "chest",
+          "breast"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "胸の痛みがあるんです。",
+      "english": "I have chest pain.",
+      "furigana": [
+        {
+          "text": "胸",
+          "highlight": true,
+          "reading": "むね"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "痛み",
+          "reading": "いたみ"
+        },
+        {
+          "text": "があるんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11574162",
+        "englishSentenceId": "10695756",
+        "url": "https://tatoeba.org/en/sentences/show/11574162"
+      }
+    },
+    "acceptedJapanese": [
+      "胸",
+      "むね"
+    ],
+    "acceptedEnglish": [
+      "chest",
+      "breast",
+      "breasts",
+      "bosom",
+      "bust",
+      "heart"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-smiling-face-1777217248853",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "笑顔",
+    "kanji": "笑顔",
+    "kana": "えがお",
+    "meaning": "smiling face",
+    "explanation": "A JLPT N3 noun meaning \"smiling face\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "笑",
+        "meanings": [
+          "laugh"
+        ]
+      },
+      {
+        "kanji": "顔",
+        "meanings": [
+          "face"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "笑顔を続けて。",
+      "english": "Keep smiling.",
+      "furigana": [
+        {
+          "text": "笑顔",
+          "highlight": true,
+          "reading": "えがお"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "続",
+          "reading": "ぞく"
+        },
+        {
+          "text": "けて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1278410",
+        "englishSentenceId": "2111637",
+        "url": "https://tatoeba.org/en/sentences/show/1278410"
+      }
+    },
+    "acceptedJapanese": [
+      "笑顔",
+      "えがお"
+    ],
+    "acceptedEnglish": [
+      "smiling face",
+      "smile"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-tooth-decay-1777217249018",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "虫歯",
+    "kanji": "虫歯",
+    "kana": "むしば",
+    "meaning": "tooth decay",
+    "explanation": "A JLPT N3 noun meaning \"tooth decay\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "虫",
+        "meanings": [
+          "insect",
+          "bug"
+        ]
+      },
+      {
+        "kanji": "歯",
+        "meanings": [
+          "tooth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どうも虫歯のようです。",
+      "english": "I think I have a cavity.",
+      "furigana": [
+        {
+          "text": "どうも"
+        },
+        {
+          "text": "虫歯",
+          "highlight": true,
+          "reading": "むしば"
+        },
+        {
+          "text": "のようです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "201176",
+        "englishSentenceId": "528637",
+        "url": "https://tatoeba.org/en/sentences/show/201176"
+      }
+    },
+    "acceptedJapanese": [
+      "虫歯",
+      "むしば"
+    ],
+    "acceptedEnglish": [
+      "tooth decay",
+      "decayed tooth",
+      "dental cavity",
+      "dental caries"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-abdomen-1777217249054",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "腹",
+    "kanji": "腹",
+    "kana": "はら",
+    "meaning": "abdomen",
+    "explanation": "A JLPT N3 noun meaning \"abdomen\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "腹",
+        "meanings": [
+          "belly",
+          "heart",
+          "mind"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お腹が痛いです。",
+      "english": "My stomach hurts.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "腹",
+          "highlight": true,
+          "reading": "はら"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10008425",
+        "englishSentenceId": "28159",
+        "url": "https://tatoeba.org/en/sentences/show/10008425"
+      }
+    },
+    "acceptedJapanese": [
+      "腹",
+      "はら"
+    ],
+    "acceptedEnglish": [
+      "abdomen",
+      "belly",
+      "stomach",
+      "womb",
+      "one's mind",
+      "one's real intentions"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-body-1777217249123",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "身体",
+    "kanji": "身体",
+    "kana": "しんたい",
+    "meaning": "body",
+    "explanation": "A JLPT N3 noun meaning \"body\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "身体、硬いね。",
+      "english": "My body is stiff.",
+      "furigana": [
+        {
+          "text": "身体",
+          "highlight": true,
+          "reading": "しんたい"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "硬い",
+          "reading": "かたい"
+        },
+        {
+          "text": "ね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9042359",
+        "englishSentenceId": "10214445",
+        "url": "https://tatoeba.org/en/sentences/show/9042359"
+      }
+    },
+    "acceptedJapanese": [
+      "身体",
+      "しんたい"
+    ],
+    "acceptedEnglish": [
+      "body",
+      "physical system",
+      "person"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-nerve-1777217249246",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "神経",
+    "kanji": "神経",
+    "kana": "しんけい",
+    "meaning": "nerve",
+    "explanation": "A JLPT N3 noun meaning \"nerve\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "神",
+        "meanings": [
+          "god",
+          "mind"
+        ]
+      },
+      {
+        "kanji": "経",
+        "meanings": [
+          "pass through",
+          "manage",
+          "sutra"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "神経は抜くのですか。",
+      "english": "Are you going to remove the nerve?",
+      "furigana": [
+        {
+          "text": "神経",
+          "highlight": true,
+          "reading": "しんけい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "抜く",
+          "reading": "ぬく"
+        },
+        {
+          "text": "のですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144890",
+        "englishSentenceId": "269674",
+        "url": "https://tatoeba.org/en/sentences/show/144890"
+      }
+    },
+    "acceptedJapanese": [
+      "神経",
+      "しんけい"
+    ],
+    "acceptedEnglish": [
+      "nerve",
+      "nerves",
+      "sensitivity"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-height-1777217249345",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "背",
+    "kanji": "背",
+    "kana": "せい",
+    "meaning": "height",
+    "explanation": "A JLPT N3 noun meaning \"height\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "背",
+        "meanings": [
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "背の順に並んでください。",
+      "english": "Line up by height, please.",
+      "furigana": [
+        {
+          "text": "背",
+          "highlight": true,
+          "reading": "せい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "順に",
+          "reading": "じゅんに"
+        },
+        {
+          "text": "並",
+          "reading": "なみ"
+        },
+        {
+          "text": "んでください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2397851",
+        "englishSentenceId": "2397871",
+        "url": "https://tatoeba.org/en/sentences/show/2397851"
+      }
+    },
+    "acceptedJapanese": [
+      "背",
+      "せい"
+    ],
+    "acceptedEnglish": [
+      "height",
+      "stature"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-height-1777217249480",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "身長",
+    "kanji": "身長",
+    "kana": "しんちょう",
+    "meaning": "height",
+    "explanation": "A JLPT N3 noun meaning \"height\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      },
+      {
+        "kanji": "長",
+        "meanings": [
+          "long",
+          "chief"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "身長と体重は？",
+      "english": "What is your height and weight?",
+      "furigana": [
+        {
+          "text": "身長",
+          "highlight": true,
+          "reading": "しんちょう"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "体重",
+          "reading": "たいじゅう"
+        },
+        {
+          "text": "は？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11800995",
+        "englishSentenceId": "2826357",
+        "url": "https://tatoeba.org/en/sentences/show/11800995"
+      }
+    },
+    "acceptedJapanese": [
+      "身長",
+      "しんちょう"
+    ],
+    "acceptedEnglish": [
+      "height",
+      "stature"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-cough-1777217249819",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "咳",
+    "kanji": "咳",
+    "kana": "せき",
+    "meaning": "cough",
+    "explanation": "A JLPT N3 noun meaning \"cough\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "咳",
+        "meanings": [
+          "cough",
+          "clear throat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "咳が出ますか。",
+      "english": "Do you have a cough?",
+      "furigana": [
+        {
+          "text": "咳",
+          "highlight": true,
+          "reading": "せき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        },
+        {
+          "text": "ますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184712",
+        "englishSentenceId": "3318983",
+        "url": "https://tatoeba.org/en/sentences/show/184712"
+      }
+    },
+    "acceptedJapanese": [
+      "咳",
+      "せき"
+    ],
+    "acceptedEnglish": [
+      "cough",
+      "coughing",
+      "tussis"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-doctor-1777217249828",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "医師",
+    "kanji": "医師",
+    "kana": "いし",
+    "meaning": "doctor",
+    "explanation": "A JLPT N3 noun meaning \"doctor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "医",
+        "meanings": [
+          "medicine",
+          "doctor"
+        ]
+      },
+      {
+        "kanji": "師",
+        "meanings": [
+          "master",
+          "teacher"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家内は医師です。",
+      "english": "My wife is a doctor.",
+      "furigana": [
+        {
+          "text": "家内は"
+        },
+        {
+          "text": "医師",
+          "highlight": true,
+          "reading": "いし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "404078",
+        "englishSentenceId": "370580",
+        "url": "https://tatoeba.org/en/sentences/show/404078"
+      }
+    },
+    "acceptedJapanese": [
+      "医師",
+      "いし"
+    ],
+    "acceptedEnglish": [
+      "doctor",
+      "physician"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-pain-1777217249897",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "痛み",
+    "kanji": "痛み",
+    "kana": "いたみ",
+    "meaning": "pain",
+    "explanation": "A JLPT N3 noun meaning \"pain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "痛",
+        "meanings": [
+          "pain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どこが痛みますか。",
+      "english": "Where is the pain?",
+      "furigana": [
+        {
+          "text": "どこが"
+        },
+        {
+          "text": "痛み",
+          "highlight": true,
+          "reading": "いたみ"
+        },
+        {
+          "text": "ますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "403282",
+        "englishSentenceId": "403284",
+        "url": "https://tatoeba.org/en/sentences/show/403282"
+      }
+    },
+    "acceptedJapanese": [
+      "痛み",
+      "いたみ"
+    ],
+    "acceptedEnglish": [
+      "pain",
+      "ache",
+      "soreness",
+      "grief",
+      "distress",
+      "damage"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n3-health-body-breathing-1777217250041",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "呼吸",
+    "kanji": "呼吸",
+    "kana": "こきゅう",
+    "meaning": "breathing",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb, intransitive verb meaning \"breathing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "呼",
+        "meanings": [
+          "call",
+          "invite"
+        ]
+      },
+      {
+        "kanji": "吸",
+        "meanings": [
+          "suck",
+          "breathe in",
+          "inhale",
+          "smoke"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "呼吸は？",
+      "english": "Is he breathing?",
+      "furigana": [
+        {
+          "text": "呼吸",
+          "highlight": true,
+          "reading": "こきゅう"
+        },
+        {
+          "text": "は？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "174577",
+        "englishSentenceId": "239892",
+        "url": "https://tatoeba.org/en/sentences/show/174577"
+      }
+    },
+    "acceptedJapanese": [
+      "呼吸",
+      "こきゅう"
+    ],
+    "acceptedEnglish": [
+      "breathing",
+      "respiration"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-heart-1777217250098",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "心臓",
+    "kanji": "心臓",
+    "kana": "しんぞう",
+    "meaning": "heart",
+    "explanation": "A JLPT N3 noun meaning \"heart\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "心",
+        "meanings": [
+          "heart"
+        ]
+      },
+      {
+        "kanji": "臓",
+        "meanings": [
+          "internal organ"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は心臓が悪い。",
+      "english": "He has a bad heart.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "心臓",
+          "highlight": true,
+          "reading": "しんぞう"
+        },
+        {
+          "text": "が悪い。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "103848",
+        "englishSentenceId": "299844",
+        "url": "https://tatoeba.org/en/sentences/show/103848"
+      }
+    },
+    "acceptedJapanese": [
+      "心臓",
+      "しんぞう"
+    ],
+    "acceptedEnglish": [
+      "heart",
+      "guts",
+      "nerve",
+      "cheek",
+      "gall",
+      "spine"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-one-s-body-1777217250179",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "身",
+    "kanji": "身",
+    "kana": "み",
+    "meaning": "one's body",
+    "explanation": "A JLPT N3 noun meaning \"one's body\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "身",
+        "meanings": [
+          "body",
+          "oneself"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "身の程を知れ。",
+      "english": "Know your place.",
+      "furigana": [
+        {
+          "text": "身",
+          "highlight": true,
+          "reading": "み"
+        },
+        {
+          "text": "の程",
+          "reading": "のほど"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "知",
+          "reading": "ち"
+        },
+        {
+          "text": "れ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144749",
+        "englishSentenceId": "10221927",
+        "url": "https://tatoeba.org/en/sentences/show/144749"
+      }
+    },
+    "acceptedJapanese": [
+      "身",
+      "み"
+    ],
+    "acceptedEnglish": [
+      "one's body",
+      "one's person",
+      "oneself",
+      "one's appearance",
+      "one's place",
+      "one's position"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-medical-treatment-1777217250182",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "医療",
+    "kanji": "医療",
+    "kana": "いりょう",
+    "meaning": "medical treatment",
+    "explanation": "A JLPT N3 noun meaning \"medical treatment\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "医",
+        "meanings": [
+          "medicine",
+          "doctor"
+        ]
+      },
+      {
+        "kanji": "療",
+        "meanings": [
+          "treat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "医療の分野で働きたいです。",
+      "english": "I want to work in the medical field.",
+      "furigana": [
+        {
+          "text": "医療",
+          "highlight": true,
+          "reading": "いりょう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "働き",
+          "reading": "はたらき"
+        },
+        {
+          "text": "たいです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10616097",
+        "englishSentenceId": "10616098",
+        "url": "https://tatoeba.org/en/sentences/show/10616097"
+      }
+    },
+    "acceptedJapanese": [
+      "医療",
+      "いりょう"
+    ],
+    "acceptedEnglish": [
+      "medical treatment",
+      "medical care"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-wound-1777217250224",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "傷",
+    "kanji": "傷",
+    "kana": "きず",
+    "meaning": "wound",
+    "explanation": "A JLPT N3 noun meaning \"wound\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "傷",
+        "meanings": [
+          "wound",
+          "injury",
+          "hurt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "傷がふさがりません。",
+      "english": "The wound won't close.",
+      "furigana": [
+        {
+          "text": "傷",
+          "highlight": true,
+          "reading": "きず"
+        },
+        {
+          "text": "がふさがりません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147216",
+        "englishSentenceId": "267345",
+        "url": "https://tatoeba.org/en/sentences/show/147216"
+      }
+    },
+    "acceptedJapanese": [
+      "傷",
+      "きず"
+    ],
+    "acceptedEnglish": [
+      "wound",
+      "injury",
+      "cut",
+      "gash",
+      "bruise",
+      "scratch"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-nutrition-1777217250350",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "栄養",
+    "kanji": "栄養",
+    "kana": "えいよう",
+    "meaning": "nutrition",
+    "explanation": "A JLPT N3 noun meaning \"nutrition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "栄",
+        "meanings": [
+          "flourish",
+          "glory",
+          "honor",
+          "prosper"
+        ]
+      },
+      {
+        "kanji": "養",
+        "meanings": [
+          "foster",
+          "rear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は子供の栄養に気をつけている。",
+      "english": "She is careful about her child's nutrition.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "子供",
+          "reading": "こども"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "栄養",
+          "highlight": true,
+          "reading": "えいよう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "気",
+          "reading": "き"
+        },
+        {
+          "text": "をつけている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "89733",
+        "englishSentenceId": "313982",
+        "url": "https://tatoeba.org/en/sentences/show/89733"
+      }
+    },
+    "acceptedJapanese": [
+      "栄養",
+      "えいよう"
+    ],
+    "acceptedEnglish": [
+      "nutrition",
+      "nourishment"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-armpit-1777217250368",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "脇",
+    "kanji": "脇",
+    "kana": "わき",
+    "meaning": "armpit",
+    "explanation": "A JLPT N3 noun meaning \"armpit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "脇",
+        "meanings": [
+          "armpit",
+          "the other way",
+          "another place",
+          "flank"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "脇によってください。",
+      "english": "Please step aside.",
+      "furigana": [
+        {
+          "text": "脇",
+          "highlight": true,
+          "reading": "わき"
+        },
+        {
+          "text": "によってください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77135",
+        "englishSentenceId": "326584",
+        "url": "https://tatoeba.org/en/sentences/show/77135"
+      }
+    },
+    "acceptedJapanese": [
+      "脇",
+      "わき"
+    ],
+    "acceptedEnglish": [
+      "armpit",
+      "under one's arm",
+      "side",
+      "flank",
+      "beside",
+      "close to"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n3-health-body-skin-1777217250488",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "肌",
+    "kanji": "肌",
+    "kana": "はだ",
+    "meaning": "skin",
+    "explanation": "A JLPT N3 noun meaning \"skin\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "肌",
+        "meanings": [
+          "skin"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "肌が脂っぽいのです。",
+      "english": "I have greasy skin.",
+      "furigana": [
+        {
+          "text": "肌",
+          "highlight": true,
+          "reading": "はだ"
+        },
+        {
+          "text": "が脂っぽいのです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121343",
+        "englishSentenceId": "282663",
+        "url": "https://tatoeba.org/en/sentences/show/121343"
+      }
+    },
+    "acceptedJapanese": [
+      "肌",
+      "はだ"
+    ],
+    "acceptedEnglish": [
+      "skin",
+      "body"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-pain-1777217250530",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "苦痛",
+    "kanji": "苦痛",
+    "kana": "くつう",
+    "meaning": "pain",
+    "explanation": "A JLPT N3 noun meaning \"pain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "苦",
+        "meanings": [
+          "suffering",
+          "bitter",
+          "painful"
+        ]
+      },
+      {
+        "kanji": "痛",
+        "meanings": [
+          "pain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その男は苦痛でうめいた。",
+      "english": "The man groaned in pain.",
+      "furigana": [
+        {
+          "text": "その男は"
+        },
+        {
+          "text": "苦痛",
+          "highlight": true,
+          "reading": "くつう"
+        },
+        {
+          "text": "でうめいた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "208073",
+        "englishSentenceId": "45330",
+        "url": "https://tatoeba.org/en/sentences/show/208073"
+      }
+    },
+    "acceptedJapanese": [
+      "苦痛",
+      "くつう"
+    ],
+    "acceptedEnglish": [
+      "pain",
+      "agony",
+      "suffering",
+      "distress",
+      "torment"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-stomach-1777217250641",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "胃",
+    "kanji": "胃",
+    "kana": "い",
+    "meaning": "stomach",
+    "explanation": "A JLPT N3 noun meaning \"stomach\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "胃",
+        "meanings": [
+          "stomach"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "胃が痛みます。",
+      "english": "My stomach hurts.",
+      "furigana": [
+        {
+          "text": "胃",
+          "highlight": true,
+          "reading": "い"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛み",
+          "reading": "いたみ"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "191000",
+        "englishSentenceId": "28159",
+        "url": "https://tatoeba.org/en/sentences/show/191000"
+      }
+    },
+    "acceptedJapanese": [
+      "胃",
+      "い"
+    ],
+    "acceptedEnglish": [
+      "stomach",
+      "Chinese \"stomach\" constellation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-headache-1777217250704",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "頭痛",
+    "kanji": "頭痛",
+    "kana": "ずつう",
+    "meaning": "headache",
+    "explanation": "A JLPT N3 noun meaning \"headache\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頭",
+        "meanings": [
+          "head"
+        ]
+      },
+      {
+        "kanji": "痛",
+        "meanings": [
+          "pain"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "頭痛がします。",
+      "english": "I have a headache.",
+      "furigana": [
+        {
+          "text": "頭痛",
+          "highlight": true,
+          "reading": "ずつう"
+        },
+        {
+          "text": "がします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123823",
+        "englishSentenceId": "1712",
+        "url": "https://tatoeba.org/en/sentences/show/123823"
+      }
+    },
+    "acceptedJapanese": [
+      "頭痛",
+      "ずつう"
+    ],
+    "acceptedEnglish": [
+      "headache"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-muscle-1777217250755",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "筋",
+    "kanji": "筋",
+    "kana": "すじ",
+    "meaning": "muscle",
+    "explanation": "A JLPT N3 noun meaning \"muscle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "筋",
+        "meanings": [
+          "muscle",
+          "threadlike structure",
+          "line",
+          "plot"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "筋が通ってないだろう。",
+      "english": "It would be illogical.",
+      "furigana": [
+        {
+          "text": "筋",
+          "highlight": true,
+          "reading": "すじ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "通",
+          "reading": "つう"
+        },
+        {
+          "text": "ってないだろう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9482981",
+        "englishSentenceId": "2891529",
+        "url": "https://tatoeba.org/en/sentences/show/9482981"
+      }
+    },
+    "acceptedJapanese": [
+      "筋",
+      "すじ"
+    ],
+    "acceptedEnglish": [
+      "muscle",
+      "tendon",
+      "sinew",
+      "vein",
+      "artery",
+      "fibre"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n3-health-body-health-1777217250800",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "健康",
+    "kanji": "健康",
+    "kana": "けんこう",
+    "meaning": "health",
+    "explanation": "A JLPT N3 noun meaning \"health\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "健",
+        "meanings": [
+          "robust",
+          "healthy"
+        ]
+      },
+      {
+        "kanji": "康",
+        "meanings": [
+          "healthy",
+          "composure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は健康だ。",
+      "english": "He enjoys good health.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "健康",
+          "highlight": true,
+          "reading": "けんこう"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "107761",
+        "englishSentenceId": "295924",
+        "url": "https://tatoeba.org/en/sentences/show/107761"
+      }
+    },
+    "acceptedJapanese": [
+      "健康",
+      "けんこう"
+    ],
+    "acceptedEnglish": [
+      "health"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n3-health-body-medical-examination-1777217250824",
+    "jlpt": "N3",
+    "subcategory": "Health/Body",
+    "name": "診察",
+    "kanji": "診察",
+    "kana": "しんさつ",
+    "meaning": "medical examination",
+    "explanation": "A JLPT N3 noun, suru noun, transitive verb meaning \"medical examination\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "診",
+        "meanings": [
+          "checkup",
+          "seeing",
+          "diagnose",
+          "examine"
+        ]
+      },
+      {
+        "kanji": "察",
+        "meanings": [
+          "inspect",
+          "guess",
+          "surmise",
+          "judge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "診察は以上です。",
+      "english": "That's it for your medical exam.",
+      "furigana": [
+        {
+          "text": "診察",
+          "highlight": true,
+          "reading": "しんさつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144768",
+        "englishSentenceId": "269796",
+        "url": "https://tatoeba.org/en/sentences/show/144768"
+      }
+    },
+    "acceptedJapanese": [
+      "診察",
+      "しんさつ"
+    ],
+    "acceptedEnglish": [
+      "medical examination",
+      "checkup",
+      "consultation"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

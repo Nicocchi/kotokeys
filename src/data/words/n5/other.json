@@ -12,7 +12,10 @@
       {
         "kanji": "而",
         "meanings": [
-          "and"
+          "and yet",
+          "and then",
+          "but",
+          "however"
         ]
       }
     ],
@@ -125,7 +128,10 @@
       {
         "kanji": "此",
         "meanings": [
-          "this"
+          "this",
+          "current",
+          "next",
+          "coming"
         ]
       }
     ],
@@ -239,13 +245,16 @@
       {
         "kanji": "一",
         "meanings": [
-          "together"
+          "one"
         ]
       },
       {
         "kanji": "緒",
         "meanings": [
-          "together"
+          "outset",
+          "cord",
+          "strap",
+          "beginning"
         ]
       }
     ],
@@ -303,7 +312,8 @@
       {
         "kanji": "余",
         "meanings": [
-          "remainder"
+          "remaining",
+          "excess"
         ]
       }
     ],
@@ -365,13 +375,14 @@
       {
         "kanji": "一",
         "meanings": [
-          "a little"
+          "one"
         ]
       },
       {
         "kanji": "寸",
         "meanings": [
-          "a little"
+          "a bit of",
+          "unit of length"
         ]
       }
     ],
@@ -496,13 +507,15 @@
       {
         "kanji": "意",
         "meanings": [
-          "meaning"
+          "mind",
+          "meaning",
+          "will"
         ]
       },
       {
         "kanji": "味",
         "meanings": [
-          "meaning"
+          "taste"
         ]
       }
     ],
@@ -554,13 +567,17 @@
       {
         "kanji": "如",
         "meanings": [
-          "how"
+          "likeness",
+          "like",
+          "such as",
+          "as if"
         ]
       },
       {
         "kanji": "何",
         "meanings": [
-          "how"
+          "what",
+          "how many"
         ]
       }
     ],
@@ -612,13 +629,13 @@
       {
         "kanji": "全",
         "meanings": [
-          "all"
+          "whole"
         ]
       },
       {
         "kanji": "部",
         "meanings": [
-          "all"
+          "section"
         ]
       }
     ],
@@ -771,7 +788,7 @@
       {
         "kanji": "其",
         "meanings": [
-          "and then"
+          "that"
         ]
       }
     ],
@@ -828,7 +845,7 @@
       {
         "kanji": "其",
         "meanings": [
-          "well"
+          "that"
         ]
       }
     ],
@@ -889,13 +906,14 @@
       {
         "kanji": "大",
         "meanings": [
-          "very"
+          "big"
         ]
       },
       {
         "kanji": "変",
         "meanings": [
-          "very"
+          "change",
+          "abnormal"
         ]
       }
     ],
@@ -945,7 +963,7 @@
       {
         "kanji": "良",
         "meanings": [
-          "nicely"
+          "good"
         ]
       }
     ],
@@ -1164,13 +1182,16 @@
       {
         "kanji": "丁",
         "meanings": [
-          "exactly"
+          "town subsection",
+          "miscellaneous counter",
+          "even number"
         ]
       },
       {
         "kanji": "度",
         "meanings": [
-          "exactly"
+          "degree",
+          "time"
         ]
       }
     ],
@@ -1229,7 +1250,8 @@
       {
         "kanji": "然",
         "meanings": [
-          "and"
+          "modifier forming suffix",
+          "as"
         ]
       }
     ],
@@ -1287,7 +1309,8 @@
       {
         "kanji": "然",
         "meanings": [
-          "however"
+          "modifier forming suffix",
+          "as"
         ]
       }
     ],
@@ -1345,7 +1368,9 @@
       {
         "kanji": "直",
         "meanings": [
-          "immediately"
+          "straight",
+          "fix",
+          "repair"
         ]
       }
     ],
@@ -1409,7 +1434,8 @@
       {
         "kanji": "何",
         "meanings": [
-          "which"
+          "what",
+          "how many"
         ]
       }
     ],
@@ -1457,13 +1483,14 @@
       {
         "kanji": "一",
         "meanings": [
-          "once more"
+          "one"
         ]
       },
       {
         "kanji": "度",
         "meanings": [
-          "once more"
+          "degree",
+          "time"
         ]
       }
     ],
@@ -1565,6 +1592,7 @@
       {
         "kanji": "迚",
         "meanings": [
+          "some way or other",
           "very"
         ]
       }
@@ -1627,7 +1655,8 @@
       {
         "kanji": "何",
         "meanings": [
-          "what"
+          "what",
+          "how many"
         ]
       }
     ],
@@ -1685,7 +1714,8 @@
       {
         "kanji": "前",
         "meanings": [
-          "name"
+          "before",
+          "front"
         ]
       }
     ],
@@ -1741,7 +1771,9 @@
       {
         "kanji": "又",
         "meanings": [
-          "again"
+          "or again",
+          "furthermore",
+          "on the other hand"
         ]
       }
     ],
@@ -1937,7 +1969,7 @@
       {
         "kanji": "下",
         "meanings": [
-          "please"
+          "down"
         ]
       }
     ],
@@ -1977,6 +2009,65 @@
       "please"
     ],
     "pitchAccentNumber": 3
+  },
+  {
+    "id": "n5-other-truth-1777217253770",
+    "jlpt": "N5",
+    "subcategory": "Other",
+    "name": "本当",
+    "kanji": "本当",
+    "kana": "ほんとう",
+    "meaning": "truth",
+    "explanation": "A JLPT N5 noun, no adjective, na adjective meaning \"truth\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "本",
+        "meanings": [
+          "basis",
+          "book",
+          "this"
+        ]
+      },
+      {
+        "kanji": "当",
+        "meanings": [
+          "present",
+          "hit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "本当ですよ。",
+      "english": "It's the truth.",
+      "furigana": [
+        {
+          "text": "本当",
+          "highlight": true,
+          "reading": "ほんとう"
+        },
+        {
+          "text": "ですよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81564",
+        "englishSentenceId": "560933",
+        "url": "https://tatoeba.org/en/sentences/show/81564"
+      }
+    },
+    "acceptedJapanese": [
+      "本当",
+      "ほんとう"
+    ],
+    "acceptedEnglish": [
+      "truth",
+      "reality",
+      "actuality",
+      "fact"
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-other-then-1777217253800",
@@ -2042,13 +2133,17 @@
       {
         "kanji": "如",
         "meanings": [
-          "how"
+          "likeness",
+          "like",
+          "such as",
+          "as if"
         ]
       },
       {
         "kanji": "何",
         "meanings": [
-          "how"
+          "what",
+          "how many"
         ]
       }
     ],
@@ -2215,13 +2310,17 @@
       {
         "kanji": "何",
         "meanings": [
-          "why"
+          "what",
+          "how many"
         ]
       },
       {
         "kanji": "故",
         "meanings": [
-          "why"
+          "old",
+          "the late",
+          "deceased",
+          "reason"
         ]
       }
     ],
@@ -2330,54 +2429,60 @@
     ]
   },
   {
-    "id": "n5-other-beginning-1777217254079",
+    "id": "n5-other-a-little-1777217254076",
     "jlpt": "N5",
     "subcategory": "Other",
-    "name": "始め",
-    "kanji": "始め",
-    "kana": "はじめ",
-    "meaning": "beginning",
-    "explanation": "A JLPT N5 noun, adverb meaning \"beginning\".",
+    "name": "少し",
+    "kanji": "少し",
+    "kana": "すこし",
+    "meaning": "a little",
+    "explanation": "A JLPT N5 adverb meaning \"a little\".",
     "kanjiBreakdown": [
       {
-        "kanji": "始",
+        "kanji": "少",
         "meanings": [
-          "beginning"
+          "little"
         ]
       }
     ],
     "example": {
-      "japanese": "始めましょう。",
-      "english": "Let's start!",
+      "japanese": "少し疲れた。",
+      "english": "I'm a bit tired.",
       "furigana": [
         {
-          "text": "始め",
+          "text": "少し",
           "highlight": true,
-          "reading": "はじめ"
+          "reading": "すこし"
         },
         {
-          "text": "ましょう。"
+          "text": "疲れ",
+          "reading": "つかれ"
+        },
+        {
+          "text": "た。"
         }
       ],
       "source": {
         "name": "Tatoeba",
         "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "442923",
-        "englishSentenceId": "387428",
-        "url": "https://tatoeba.org/en/sentences/show/442923"
+        "japaneseSentenceId": "146779",
+        "englishSentenceId": "258672",
+        "url": "https://tatoeba.org/en/sentences/show/146779"
       }
     },
     "acceptedJapanese": [
-      "始め",
-      "はじめ"
+      "少し",
+      "すこし"
     ],
     "acceptedEnglish": [
-      "beginning",
-      "start",
-      "outset",
-      "opening"
+      "a little",
+      "a bit",
+      "a small amount",
+      "a few",
+      "some",
+      "slightly"
     ],
-    "pitchAccentNumber": 0
+    "pitchAccentNumber": 2
   },
   {
     "id": "n5-other-probably-1777217254154",
@@ -2392,13 +2497,15 @@
       {
         "kanji": "多",
         "meanings": [
-          "probably"
+          "many"
         ]
       },
       {
         "kanji": "分",
         "meanings": [
-          "probably"
+          "divide",
+          "part",
+          "minute"
         ]
       }
     ],
@@ -2562,7 +2669,7 @@
       {
         "kanji": "未",
         "meanings": [
-          "still"
+          "not yet"
         ]
       }
     ],
@@ -2609,18 +2716,18 @@
     "pitchAccentNumber": 1
   },
   {
-    "id": "n5-other-thank-you-1777217254484",
+    "id": "n5-other-gradually-1777217254484",
     "jlpt": "N5",
     "subcategory": "Other",
     "name": "だんだん",
     "kanji": "だんだん",
     "kana": "だんだん",
-    "meaning": "thank you",
-    "explanation": "A JLPT N5 interjection meaning \"thank you\".",
+    "meaning": "gradually",
+    "explanation": "A JLPT N5 interjection meaning \"gradually\".",
     "kanjiBreakdown": [],
     "example": {
-      "japanese": "だんだん暖かくなります。",
-      "english": "It will get warmer and warmer.",
+      "japanese": "だんだん腹立ってきた。",
+      "english": "Little by little I'm getting angry.",
       "furigana": [
         {
           "text": "だ",
@@ -2643,26 +2750,32 @@
           "reading": "だんだん"
         },
         {
-          "text": "暖",
-          "reading": "だん"
+          "text": "腹",
+          "reading": "はら"
         },
         {
-          "text": "かくなります。"
+          "text": "立",
+          "reading": "た"
+        },
+        {
+          "text": "ってきた。"
         }
       ],
       "source": {
         "name": "Tatoeba",
         "license": "CC BY 2.0 FR",
-        "japaneseSentenceId": "203062",
-        "englishSentenceId": "40297",
-        "url": "https://tatoeba.org/en/sentences/show/203062"
+        "japaneseSentenceId": "2751826",
+        "englishSentenceId": "6106124",
+        "url": "https://tatoeba.org/en/sentences/show/2751826"
       }
     },
     "acceptedJapanese": [
       "だんだん"
     ],
     "acceptedEnglish": [
-      "thank you"
+      "gradually",
+      "by degrees",
+      "little by little"
     ]
   },
   {

@@ -1,1 +1,2832 @@
-[]
+[
+  {
+    "id": "n2-people-roles-craftsman-1777217240951",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "職人",
+    "kanji": "職人",
+    "kana": "しょくにん",
+    "meaning": "craftsman",
+    "explanation": "A JLPT N2 noun meaning \"craftsman\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "職",
+        "meanings": [
+          "employment"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "へたな職人は道具のせいにする。",
+      "english": "A bad workman blames his tools.",
+      "furigana": [
+        {
+          "text": "へたな"
+        },
+        {
+          "text": "職人",
+          "highlight": true,
+          "reading": "しょくにん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "text": "のせいにする。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "196809",
+        "englishSentenceId": "33988",
+        "url": "https://tatoeba.org/en/sentences/show/196809"
+      }
+    },
+    "acceptedJapanese": [
+      "職人",
+      "しょくにん"
+    ],
+    "acceptedEnglish": [
+      "craftsman",
+      "artisan",
+      "tradesman",
+      "worker",
+      "workman"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-prime-minister-1777217241074",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "総理大臣",
+    "kanji": "総理大臣",
+    "kana": "そうりだいじん",
+    "meaning": "prime minister",
+    "explanation": "A JLPT N2 noun meaning \"prime minister\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "総",
+        "meanings": [
+          "total",
+          "general",
+          "overall"
+        ]
+      },
+      {
+        "kanji": "理",
+        "meanings": [
+          "reason",
+          "basic principle"
+        ]
+      },
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "臣",
+        "meanings": [
+          "retainer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "総理大臣が辞任した。",
+      "english": "The Prime Minister has resigned.",
+      "furigana": [
+        {
+          "text": "総理大臣",
+          "highlight": true,
+          "reading": "そうりだいじん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "辞任",
+          "reading": "じにん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140305",
+        "englishSentenceId": "274268",
+        "url": "https://tatoeba.org/en/sentences/show/140305"
+      }
+    },
+    "acceptedJapanese": [
+      "総理大臣",
+      "そうりだいじん"
+    ],
+    "acceptedEnglish": [
+      "prime minister",
+      "premier"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-people-roles-close-friendship-1777217241221",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "仲良し",
+    "kanji": "仲良し",
+    "kana": "なかよし",
+    "meaning": "close friendship",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"close friendship\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "仲",
+        "meanings": [
+          "intermediary",
+          "personal relations",
+          "relation"
+        ]
+      },
+      {
+        "kanji": "良",
+        "meanings": [
+          "good"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私はビルと仲良しです。",
+      "english": "I am good friends with Bill.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はビルと"
+        },
+        {
+          "text": "仲良し",
+          "highlight": true,
+          "reading": "なかよし"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "159031",
+        "englishSentenceId": "255494",
+        "url": "https://tatoeba.org/en/sentences/show/159031"
+      }
+    },
+    "acceptedJapanese": [
+      "仲良し",
+      "なかよし"
+    ],
+    "acceptedEnglish": [
+      "close friendship",
+      "close friend",
+      "good friend",
+      "bosom buddy",
+      "chum",
+      "pal"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-people-roles-buddhist-priest-1777217241386",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "坊さん",
+    "kanji": "坊さん",
+    "kana": "ぼうさん",
+    "meaning": "Buddhist priest",
+    "explanation": "A JLPT N2 noun meaning \"Buddhist priest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "坊",
+        "meanings": [
+          "Buddhist priest",
+          "boy",
+          "colloquial person suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの偉い坊さんを見ろよ。",
+      "english": "Look at the big shot.",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "偉い",
+          "reading": "えらい"
+        },
+        {
+          "text": "坊さん",
+          "highlight": true,
+          "reading": "ぼうさん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "ろよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "231217",
+        "englishSentenceId": "68585",
+        "url": "https://tatoeba.org/en/sentences/show/231217"
+      }
+    },
+    "acceptedJapanese": [
+      "坊さん",
+      "ぼうさん"
+    ],
+    "acceptedEnglish": [
+      "Buddhist priest",
+      "monk",
+      "boy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-boy-1777217241716",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "坊や",
+    "kanji": "坊や",
+    "kana": "ぼうや",
+    "meaning": "boy",
+    "explanation": "A JLPT N2 noun meaning \"boy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "坊",
+        "meanings": [
+          "Buddhist priest",
+          "boy",
+          "colloquial person suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どこの坊やかな？親はどこかな？",
+      "english": "Whose little child is this? Where are his parents?",
+      "furigana": [
+        {
+          "text": "どこの"
+        },
+        {
+          "text": "坊や",
+          "highlight": true,
+          "reading": "ぼうや"
+        },
+        {
+          "text": "かな？親はどこかな？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8764347",
+        "englishSentenceId": "8764288",
+        "url": "https://tatoeba.org/en/sentences/show/8764347"
+      }
+    },
+    "acceptedJapanese": [
+      "坊や",
+      "ぼうや"
+    ],
+    "acceptedEnglish": [
+      "boy",
+      "son",
+      "child",
+      "mere boy",
+      "stripling",
+      "greenhorn"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-leading-part-1777217241806",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "主役",
+    "kanji": "主役",
+    "kana": "しゅやく",
+    "meaning": "leading part",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"leading part\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "役",
+        "meanings": [
+          "service",
+          "role"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の妹が主役を演じた。",
+      "english": "My sister played the leading character.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の妹が"
+        },
+        {
+          "text": "主役",
+          "highlight": true,
+          "reading": "しゅやく"
+        },
+        {
+          "text": "を演じた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "162624",
+        "englishSentenceId": "251890",
+        "url": "https://tatoeba.org/en/sentences/show/162624"
+      }
+    },
+    "acceptedJapanese": [
+      "主役",
+      "しゅやく"
+    ],
+    "acceptedEnglish": [
+      "leading part",
+      "leading actor",
+      "leading actress"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-subordinate-1777217241956",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "目下",
+    "kanji": "目下",
+    "kana": "めした",
+    "meaning": "subordinate",
+    "explanation": "A JLPT N2 noun meaning \"subordinate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye",
+          "item"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "目下の者をないがしろにするな。",
+      "english": "Don't ignore your subordinates.",
+      "furigana": [
+        {
+          "text": "目下",
+          "highlight": true,
+          "reading": "めした"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "者",
+          "reading": "もの"
+        },
+        {
+          "text": "をないがしろにするな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79919",
+        "englishSentenceId": "323798",
+        "url": "https://tatoeba.org/en/sentences/show/79919"
+      }
+    },
+    "acceptedJapanese": [
+      "目下",
+      "めした"
+    ],
+    "acceptedEnglish": [
+      "subordinate",
+      "subordinates",
+      "inferior",
+      "inferiors",
+      "junior"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-children-1777217241962",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "児童",
+    "kanji": "児童",
+    "kana": "じどう",
+    "meaning": "children",
+    "explanation": "A JLPT N2 noun meaning \"children\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "児",
+        "meanings": [
+          "child"
+        ]
+      },
+      {
+        "kanji": "童",
+        "meanings": [
+          "child"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "児童はみんなその新しい先生が好きになった。",
+      "english": "Every child took to the new teacher.",
+      "furigana": [
+        {
+          "text": "児童",
+          "highlight": true,
+          "reading": "じどう"
+        },
+        {
+          "text": "はみんなその"
+        },
+        {
+          "text": "新しい",
+          "reading": "あたらしい"
+        },
+        {
+          "text": "先",
+          "reading": "さき"
+        },
+        {
+          "text": "生",
+          "reading": "は"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "になった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150739",
+        "englishSentenceId": "263818",
+        "url": "https://tatoeba.org/en/sentences/show/150739"
+      }
+    },
+    "acceptedJapanese": [
+      "児童",
+      "じどう"
+    ],
+    "acceptedEnglish": [
+      "children",
+      "juvenile"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-princess-1777217241992",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "王女",
+    "kanji": "王女",
+    "kana": "おうじょ",
+    "meaning": "princess",
+    "explanation": "A JLPT N2 noun meaning \"princess\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "王",
+        "meanings": [
+          "king"
+        ]
+      },
+      {
+        "kanji": "女",
+        "meanings": [
+          "woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "王の娘は王女である。",
+      "english": "A king's daughter is a princess.",
+      "furigana": [
+        {
+          "text": "王の娘は"
+        },
+        {
+          "text": "王女",
+          "highlight": true,
+          "reading": "おうじょ"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2141427",
+        "englishSentenceId": "873771",
+        "url": "https://tatoeba.org/en/sentences/show/2141427"
+      }
+    },
+    "acceptedJapanese": [
+      "王女",
+      "おうじょ"
+    ],
+    "acceptedEnglish": [
+      "princess"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-samurai-1777217242097",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "武士",
+    "kanji": "武士",
+    "kana": "ぶし",
+    "meaning": "samurai",
+    "explanation": "A JLPT N2 noun meaning \"samurai\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "武",
+        "meanings": [
+          "military"
+        ]
+      },
+      {
+        "kanji": "士",
+        "meanings": [
+          "military man",
+          "profession suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "江戸時代、武士は刀を２本刺していた。",
+      "english": "A samurai in the Edo era carried two swords.",
+      "furigana": [
+        {
+          "text": "江戸時代",
+          "reading": "えどじだい"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "武士",
+          "highlight": true,
+          "reading": "ぶし"
+        },
+        {
+          "text": "は刀を２本"
+        },
+        {
+          "text": "刺し",
+          "reading": "さし"
+        },
+        {
+          "text": "ていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173555",
+        "englishSentenceId": "240915",
+        "url": "https://tatoeba.org/en/sentences/show/173555"
+      }
+    },
+    "acceptedJapanese": [
+      "武士",
+      "ぶし"
+    ],
+    "acceptedEnglish": [
+      "samurai",
+      "warrior"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-middle-age-1777217242148",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "中年",
+    "kanji": "中年",
+    "kana": "ちゅうねん",
+    "meaning": "middle-age",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"middle-age\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      },
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は中年デブだ。",
+      "english": "She's a middle-aged fat woman.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "中年",
+          "highlight": true,
+          "reading": "ちゅうねん"
+        },
+        {
+          "text": "デブだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87904",
+        "englishSentenceId": "1189864",
+        "url": "https://tatoeba.org/en/sentences/show/87904"
+      }
+    },
+    "acceptedJapanese": [
+      "中年",
+      "ちゅうねん"
+    ],
+    "acceptedEnglish": [
+      "middle-age",
+      "middle age",
+      "midlife",
+      "one's middle years"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-journalist-1777217242154",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "ジャーナリスト",
+    "kanji": "ジャーナリスト",
+    "kana": "ジャーナリスト",
+    "meaning": "journalist",
+    "explanation": "A JLPT N2 noun meaning \"journalist\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "息子はジャーナリストなんです。",
+      "english": "My son is a journalist.",
+      "furigana": [
+        {
+          "text": "息子",
+          "reading": "むすこ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ジャーナリスト"
+        },
+        {
+          "text": "なんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8985051",
+        "englishSentenceId": "514903",
+        "url": "https://tatoeba.org/en/sentences/show/8985051"
+      }
+    },
+    "acceptedJapanese": [
+      "ジャーナリスト"
+    ],
+    "acceptedEnglish": [
+      "journalist"
+    ]
+  },
+  {
+    "id": "n2-people-roles-cook-1777217242181",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "コック",
+    "kanji": "コック",
+    "kana": "コック",
+    "meaning": "cook",
+    "explanation": "A JLPT N2 noun meaning \"cook\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私はコックです。",
+      "english": "I'm a cook.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "コック"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "コック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "コック"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "161037",
+        "englishSentenceId": "5828911",
+        "url": "https://tatoeba.org/en/sentences/show/161037"
+      }
+    },
+    "acceptedJapanese": [
+      "コック"
+    ],
+    "acceptedEnglish": [
+      "cook",
+      "chef"
+    ]
+  },
+  {
+    "id": "n2-people-roles-friend-1777217242235",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "知人",
+    "kanji": "知人",
+    "kana": "ちじん",
+    "meaning": "friend",
+    "explanation": "A JLPT N2 noun meaning \"friend\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "知",
+        "meanings": [
+          "know"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼には知人は多いが友人は少ない。",
+      "english": "He has many acquaintances but few friends.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "知人",
+          "highlight": true,
+          "reading": "ちじん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "友人",
+          "reading": "ゆうじん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "少ない",
+          "reading": "すくない"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "118785",
+        "englishSentenceId": "284878",
+        "url": "https://tatoeba.org/en/sentences/show/118785"
+      }
+    },
+    "acceptedJapanese": [
+      "知人",
+      "ちじん"
+    ],
+    "acceptedEnglish": [
+      "friend",
+      "acquaintance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-judge-1777217242241",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "判事",
+    "kanji": "判事",
+    "kana": "はんじ",
+    "meaning": "judge",
+    "explanation": "A JLPT N2 noun meaning \"judge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "判",
+        "meanings": [
+          "stamp",
+          "seal",
+          "judge"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "判事には時間を止めれない。",
+      "english": "The judge can't stop.",
+      "furigana": [
+        {
+          "text": "判事",
+          "highlight": true,
+          "reading": "はんじ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "止",
+          "reading": "と"
+        },
+        {
+          "text": "めれない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121269",
+        "englishSentenceId": "282737",
+        "url": "https://tatoeba.org/en/sentences/show/121269"
+      }
+    },
+    "acceptedJapanese": [
+      "判事",
+      "はんじ"
+    ],
+    "acceptedEnglish": [
+      "judge",
+      "judiciary"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-young-people-1777217242247",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "青少年",
+    "kanji": "青少年",
+    "kana": "せいしょうねん",
+    "meaning": "young people",
+    "explanation": "A JLPT N2 noun meaning \"young people\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "青",
+        "meanings": [
+          "blue"
+        ]
+      },
+      {
+        "kanji": "少",
+        "meanings": [
+          "little"
+        ]
+      },
+      {
+        "kanji": "年",
+        "meanings": [
+          "year"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私には青少年の心理がわからない。",
+      "english": "I can not understand the psychology of adolescents.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "青少年",
+          "highlight": true,
+          "reading": "せいしょうねん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "心理",
+          "reading": "しんり"
+        },
+        {
+          "text": "がわからない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "164568",
+        "englishSentenceId": "249939",
+        "url": "https://tatoeba.org/en/sentences/show/164568"
+      }
+    },
+    "acceptedJapanese": [
+      "青少年",
+      "せいしょうねん"
+    ],
+    "acceptedEnglish": [
+      "young people",
+      "youth",
+      "the younger generation"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-people-roles-woman-1777217242292",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "ウーマン",
+    "kanji": "ウーマン",
+    "kana": "ウーマン",
+    "meaning": "woman",
+    "explanation": "A JLPT N2 noun meaning \"woman\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼女はウーマンリブ運動の指導者だと言われている。",
+      "english": "She is said to be a leader in the women's liberation movement.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ウ",
+          "highlight": true,
+          "reading": "ウーマン"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ウーマン"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "ウーマン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ウーマン"
+        },
+        {
+          "text": "リブ"
+        },
+        {
+          "text": "運動",
+          "reading": "うんどう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "指導者",
+          "reading": "しどうしゃ"
+        },
+        {
+          "text": "だと"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "われている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "93177",
+        "englishSentenceId": "310532",
+        "url": "https://tatoeba.org/en/sentences/show/93177"
+      }
+    },
+    "acceptedJapanese": [
+      "ウーマン"
+    ],
+    "acceptedEnglish": [
+      "woman"
+    ]
+  },
+  {
+    "id": "n2-people-roles-government-official-1777217242526",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "役人",
+    "kanji": "役人",
+    "kana": "やくにん",
+    "meaning": "government official",
+    "explanation": "A JLPT N2 noun meaning \"government official\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "役",
+        "meanings": [
+          "service",
+          "role"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "税関の役人は箱を検査した。",
+      "english": "The customs officials examined the boxes.",
+      "furigana": [
+        {
+          "text": "税関",
+          "reading": "ぜいかん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "役人",
+          "highlight": true,
+          "reading": "やくにん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "箱",
+          "reading": "はこ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "検査",
+          "reading": "けんさ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "142490",
+        "englishSentenceId": "272080",
+        "url": "https://tatoeba.org/en/sentences/show/142490"
+      }
+    },
+    "acceptedJapanese": [
+      "役人",
+      "やくにん"
+    ],
+    "acceptedEnglish": [
+      "government official"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-actor-1777217242565",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "役者",
+    "kanji": "役者",
+    "kana": "やくしゃ",
+    "meaning": "actor",
+    "explanation": "A JLPT N2 noun meaning \"actor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "役",
+        "meanings": [
+          "service",
+          "role"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は役者中の役者だ。",
+      "english": "He is an actor among actors.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "役者",
+          "reading": "やくしゃ"
+        },
+        {
+          "text": "中の"
+        },
+        {
+          "text": "役者",
+          "highlight": true,
+          "reading": "やくしゃ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "99411",
+        "englishSentenceId": "304287",
+        "url": "https://tatoeba.org/en/sentences/show/99411"
+      }
+    },
+    "acceptedJapanese": [
+      "役者",
+      "やくしゃ"
+    ],
+    "acceptedEnglish": [
+      "actor",
+      "actress",
+      "man of wits",
+      "clever person",
+      "cunning fellow"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-gang-1777217242613",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "ギャング",
+    "kanji": "ギャング",
+    "kana": "ギャング",
+    "meaning": "gang",
+    "explanation": "A JLPT N2 noun meaning \"gang\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ギャングの一団が金を盗んだ。",
+      "english": "A group of gangsters stole money.",
+      "furigana": [
+        {
+          "text": "ギ",
+          "highlight": true,
+          "reading": "ギャング"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "ギャング"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ギャング"
+        },
+        {
+          "text": "グ",
+          "highlight": true,
+          "reading": "ギャング"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "一団",
+          "reading": "いちだん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "金",
+          "reading": "かね"
+        },
+        {
+          "text": "を盗んだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190337",
+        "englishSentenceId": "27495",
+        "url": "https://tatoeba.org/en/sentences/show/190337"
+      }
+    },
+    "acceptedJapanese": [
+      "ギャング"
+    ],
+    "acceptedEnglish": [
+      "gang",
+      "gangster"
+    ]
+  },
+  {
+    "id": "n2-people-roles-soldier-1777217242676",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "兵隊",
+    "kanji": "兵隊",
+    "kana": "へいたい",
+    "meaning": "soldier",
+    "explanation": "A JLPT N2 noun meaning \"soldier\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "兵",
+        "meanings": [
+          "soldier"
+        ]
+      },
+      {
+        "kanji": "隊",
+        "meanings": [
+          "party",
+          "squad",
+          "unit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "兵隊が橋を見張っていた。",
+      "english": "The soldiers were guarding the bridge.",
+      "furigana": [
+        {
+          "text": "兵隊",
+          "highlight": true,
+          "reading": "へいたい"
+        },
+        {
+          "text": "が橋を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "張",
+          "reading": "ちょう"
+        },
+        {
+          "text": "っていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83583",
+        "englishSentenceId": "320133",
+        "url": "https://tatoeba.org/en/sentences/show/83583"
+      }
+    },
+    "acceptedJapanese": [
+      "兵隊",
+      "へいたい"
+    ],
+    "acceptedEnglish": [
+      "soldier",
+      "sailor"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-acquaintance-1777217242784",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "知り合い",
+    "kanji": "知り合い",
+    "kana": "しりあい",
+    "meaning": "acquaintance",
+    "explanation": "A JLPT N2 noun meaning \"acquaintance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "知",
+        "meanings": [
+          "know"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は私の妻の知り合いだ。",
+      "english": "He is my wife's acquaintance.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の妻の"
+        },
+        {
+          "text": "知り合い",
+          "highlight": true,
+          "reading": "しりあい"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105830",
+        "englishSentenceId": "2800086",
+        "url": "https://tatoeba.org/en/sentences/show/105830"
+      }
+    },
+    "acceptedJapanese": [
+      "知り合い",
+      "しりあい"
+    ],
+    "acceptedEnglish": [
+      "acquaintance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-woman-1777217242874",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "女の人",
+    "kanji": "女の人",
+    "kana": "おんなのひと",
+    "meaning": "woman",
+    "explanation": "A JLPT N2 expression, noun meaning \"woman\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "女",
+        "meanings": [
+          "woman"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの女の人は誰ですか。",
+      "english": "Who's that woman?",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "女の人",
+          "highlight": true,
+          "reading": "おんなのひと"
+        },
+        {
+          "text": "は誰ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "230877",
+        "englishSentenceId": "6440582",
+        "url": "https://tatoeba.org/en/sentences/show/230877"
+      }
+    },
+    "acceptedJapanese": [
+      "女の人",
+      "おんなのひと"
+    ],
+    "acceptedEnglish": [
+      "woman"
+    ]
+  },
+  {
+    "id": "n2-people-roles-young-child-1777217243012",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "幼児",
+    "kanji": "幼児",
+    "kana": "ようじ",
+    "meaning": "young child",
+    "explanation": "A JLPT N2 noun meaning \"young child\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "幼",
+        "meanings": [
+          "very young",
+          "infantile"
+        ]
+      },
+      {
+        "kanji": "児",
+        "meanings": [
+          "child"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その若い女は腕に幼児を抱いていた。",
+      "english": "The young woman was carrying a baby in her arms.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "若い",
+          "reading": "わかい"
+        },
+        {
+          "text": "女は腕に"
+        },
+        {
+          "text": "幼児",
+          "highlight": true,
+          "reading": "ようじ"
+        },
+        {
+          "text": "を抱いていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "209542",
+        "englishSentenceId": "2944068",
+        "url": "https://tatoeba.org/en/sentences/show/209542"
+      }
+    },
+    "acceptedJapanese": [
+      "幼児",
+      "ようじ"
+    ],
+    "acceptedEnglish": [
+      "young child",
+      "toddler",
+      "child over 1 but not yet of school age"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-waitress-1777217243120",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "ウェイトレス",
+    "kanji": "ウェイトレス",
+    "kana": "ウェイトレス",
+    "meaning": "waitress",
+    "explanation": "A JLPT N2 noun meaning \"waitress\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ウェイトレスはジュースを私の前に置いた。",
+      "english": "The waitress set a glass of juice in front of me.",
+      "furigana": [
+        {
+          "text": "ウ",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "ェ",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ウェイトレス"
+        },
+        {
+          "text": "はジュースを"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "に置いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "228307",
+        "englishSentenceId": "65662",
+        "url": "https://tatoeba.org/en/sentences/show/228307"
+      }
+    },
+    "acceptedJapanese": [
+      "ウェイトレス"
+    ],
+    "acceptedEnglish": [
+      "waitress"
+    ]
+  },
+  {
+    "id": "n2-people-roles-fisherman-1777217243237",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "漁師",
+    "kanji": "漁師",
+    "kana": "りょうし",
+    "meaning": "fisherman",
+    "explanation": "A JLPT N2 noun meaning \"fisherman\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "漁",
+        "meanings": [
+          "fish",
+          "fishing"
+        ]
+      },
+      {
+        "kanji": "師",
+        "meanings": [
+          "master",
+          "teacher"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "漁師は釣り糸を水中に投げた。",
+      "english": "The fisherman cast his line into the water.",
+      "furigana": [
+        {
+          "text": "漁師",
+          "highlight": true,
+          "reading": "りょうし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "釣り糸",
+          "reading": "つりいと"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "水中",
+          "reading": "すいちゅう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "投げ",
+          "reading": "なげ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182135",
+        "englishSentenceId": "19376",
+        "url": "https://tatoeba.org/en/sentences/show/182135"
+      }
+    },
+    "acceptedJapanese": [
+      "漁師",
+      "りょうし"
+    ],
+    "acceptedEnglish": [
+      "fisherman"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-writer-1777217243465",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "筆者",
+    "kanji": "筆者",
+    "kana": "ひっしゃ",
+    "meaning": "writer",
+    "explanation": "A JLPT N2 noun meaning \"writer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "筆",
+        "meanings": [
+          "brush",
+          "writing"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この記事の筆者は有名な評論家です。",
+      "english": "The author of this article is a famous critic.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "記事",
+          "reading": "きじ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "筆者",
+          "highlight": true,
+          "reading": "ひっしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "評論家",
+          "reading": "ひょうろんか"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11198983",
+        "englishSentenceId": "59738",
+        "url": "https://tatoeba.org/en/sentences/show/11198983"
+      }
+    },
+    "acceptedJapanese": [
+      "筆者",
+      "ひっしゃ"
+    ],
+    "acceptedEnglish": [
+      "writer",
+      "author"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-maid-1777217243585",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "お手伝いさん",
+    "kanji": "お手伝いさん",
+    "kana": "おてつだいさん",
+    "meaning": "maid",
+    "explanation": "A JLPT N2 noun meaning \"maid\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "伝",
+        "meanings": [
+          "transmit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私はあなたのお手伝いさんじゃありません。",
+      "english": "I'm not your maid.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はあなたの"
+        },
+        {
+          "text": "お手伝いさん",
+          "highlight": true,
+          "reading": "おてつだいさん"
+        },
+        {
+          "text": "じゃありません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10099981",
+        "englishSentenceId": "3986767",
+        "url": "https://tatoeba.org/en/sentences/show/10099981"
+      }
+    },
+    "acceptedJapanese": [
+      "お手伝いさん",
+      "おてつだいさん"
+    ],
+    "acceptedEnglish": [
+      "maid"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-people-roles-carpenter-1777217243768",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "大工",
+    "kanji": "大工",
+    "kana": "だいく",
+    "meaning": "carpenter",
+    "explanation": "A JLPT N2 noun meaning \"carpenter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "工",
+        "meanings": [
+          "manufacture",
+          "construction"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の職業は大工です。",
+      "english": "He is a carpenter by trade.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "職業",
+          "reading": "しょくぎょう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大工",
+          "highlight": true,
+          "reading": "だいく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "116886",
+        "englishSentenceId": "286782",
+        "url": "https://tatoeba.org/en/sentences/show/116886"
+      }
+    },
+    "acceptedJapanese": [
+      "大工",
+      "だいく"
+    ],
+    "acceptedEnglish": [
+      "carpenter"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-drunkard-1777217243849",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "酔っ払い",
+    "kanji": "酔っ払い",
+    "kana": "よっぱらい",
+    "meaning": "drunkard",
+    "explanation": "A JLPT N2 noun meaning \"drunkard\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "酔",
+        "meanings": [
+          "drunk",
+          "feel sick",
+          "poisoned",
+          "elated"
+        ]
+      },
+      {
+        "kanji": "払",
+        "meanings": [
+          "sweep away",
+          "pay"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "酔っ払い！",
+      "english": "Drunkard!",
+      "furigana": [
+        {
+          "text": "酔っ払い",
+          "highlight": true,
+          "reading": "よっぱらい"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13082687",
+        "englishSentenceId": "11813905",
+        "url": "https://tatoeba.org/en/sentences/show/13082687"
+      }
+    },
+    "acceptedJapanese": [
+      "酔っ払い",
+      "よっぱらい"
+    ],
+    "acceptedEnglish": [
+      "drunkard"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-creator-1777217244092",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "作者",
+    "kanji": "作者",
+    "kana": "さくしゃ",
+    "meaning": "creator",
+    "explanation": "A JLPT N2 noun meaning \"creator\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この小説の作者は誰ですか。",
+      "english": "Who's the author of this story?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "小説",
+          "reading": "しょうせつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "作者",
+          "highlight": true,
+          "reading": "さくしゃ"
+        },
+        {
+          "text": "は誰ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "221172",
+        "englishSentenceId": "7784981",
+        "url": "https://tatoeba.org/en/sentences/show/221172"
+      }
+    },
+    "acceptedJapanese": [
+      "作者",
+      "さくしゃ"
+    ],
+    "acceptedEnglish": [
+      "creator",
+      "author",
+      "writer",
+      "artist",
+      "composer",
+      "playwright"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-veteran-1777217244110",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "ベテラン",
+    "kanji": "ベテラン",
+    "kana": "ベテラン",
+    "meaning": "veteran",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"veteran\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "あなたってベテランさんですよね？",
+      "english": "You're a veteran, right?",
+      "furigana": [
+        {
+          "text": "あなたって"
+        },
+        {
+          "text": "ベ",
+          "highlight": true,
+          "reading": "ベテラン"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "ベテラン"
+        },
+        {
+          "text": "ラ",
+          "highlight": true,
+          "reading": "ベテラン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ベテラン"
+        },
+        {
+          "text": "さんですよね？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10076286",
+        "englishSentenceId": "10119836",
+        "url": "https://tatoeba.org/en/sentences/show/10076286"
+      }
+    },
+    "acceptedJapanese": [
+      "ベテラン"
+    ],
+    "acceptedEnglish": [
+      "veteran",
+      "person with a lot of experience",
+      "old hand"
+    ]
+  },
+  {
+    "id": "n2-people-roles-the-public-1777217244269",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "公衆",
+    "kanji": "公衆",
+    "kana": "こうしゅう",
+    "meaning": "the public",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"the public\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "公",
+        "meanings": [
+          "public",
+          "official"
+        ]
+      },
+      {
+        "kanji": "衆",
+        "meanings": [
+          "multitude",
+          "populace"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "公衆の面前でキスするなよ。",
+      "english": "Don't kiss in public.",
+      "furigana": [
+        {
+          "text": "公衆",
+          "highlight": true,
+          "reading": "こうしゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "面前",
+          "reading": "めんぜん"
+        },
+        {
+          "text": "でキスするなよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11630767",
+        "englishSentenceId": "8508840",
+        "url": "https://tatoeba.org/en/sentences/show/11630767"
+      }
+    },
+    "acceptedJapanese": [
+      "公衆",
+      "こうしゅう"
+    ],
+    "acceptedEnglish": [
+      "the public",
+      "general public"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-landlord-1777217244914",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "家主",
+    "kanji": "家主",
+    "kana": "やぬし",
+    "meaning": "landlord",
+    "explanation": "A JLPT N2 noun meaning \"landlord\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家主は肩と腕に銃撃を受けた。",
+      "english": "The landlord was shot in the shoulder and arm.",
+      "furigana": [
+        {
+          "text": "家主",
+          "highlight": true,
+          "reading": "やぬし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "肩",
+          "reading": "かた"
+        },
+        {
+          "text": "と腕に"
+        },
+        {
+          "text": "銃撃",
+          "reading": "じゅうげき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "受け",
+          "reading": "うけ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9288928",
+        "englishSentenceId": "9288930",
+        "url": "https://tatoeba.org/en/sentences/show/9288928"
+      }
+    },
+    "acceptedJapanese": [
+      "家主",
+      "やぬし"
+    ],
+    "acceptedEnglish": [
+      "landlord",
+      "landlady",
+      "house owner",
+      "home owner",
+      "head of the household"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-police-officer-1777217244992",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "巡査",
+    "kanji": "巡査",
+    "kana": "じゅんさ",
+    "meaning": "police officer",
+    "explanation": "A JLPT N2 noun meaning \"police officer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "巡",
+        "meanings": [
+          "patrol",
+          "go around",
+          "circumference"
+        ]
+      },
+      {
+        "kanji": "査",
+        "meanings": [
+          "look into",
+          "investigate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "すぐに巡査が呼びにやられた。",
+      "english": "A policeman was sent for at once.",
+      "furigana": [
+        {
+          "text": "すぐに"
+        },
+        {
+          "text": "巡査",
+          "highlight": true,
+          "reading": "じゅんさ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "呼び",
+          "reading": "よび"
+        },
+        {
+          "text": "にやられた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214857",
+        "englishSentenceId": "52150",
+        "url": "https://tatoeba.org/en/sentences/show/214857"
+      }
+    },
+    "acceptedJapanese": [
+      "巡査",
+      "じゅんさ"
+    ],
+    "acceptedEnglish": [
+      "police officer",
+      "policeman",
+      "constable"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-king-1777217245166",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "国王",
+    "kanji": "国王",
+    "kana": "こくおう",
+    "meaning": "king",
+    "explanation": "A JLPT N2 noun meaning \"king\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "国",
+        "meanings": [
+          "country"
+        ]
+      },
+      {
+        "kanji": "王",
+        "meanings": [
+          "king"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "国王は権力を奪われた。",
+      "english": "The king was deprived of his power.",
+      "furigana": [
+        {
+          "text": "国王",
+          "highlight": true,
+          "reading": "こくおう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "権力",
+          "reading": "けんりょく"
+        },
+        {
+          "text": "を奪われた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173106",
+        "englishSentenceId": "241366",
+        "url": "https://tatoeba.org/en/sentences/show/173106"
+      }
+    },
+    "acceptedJapanese": [
+      "国王",
+      "こくおう"
+    ],
+    "acceptedEnglish": [
+      "king",
+      "queen",
+      "monarch",
+      "sovereign",
+      "the Crown",
+      "the throne"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-people-roles-consul-1777217245328",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "領事",
+    "kanji": "領事",
+    "kana": "りょうじ",
+    "meaning": "consul",
+    "explanation": "A JLPT N2 noun meaning \"consul\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "領",
+        "meanings": [
+          "territory",
+          "govern",
+          "rule"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「領事」は日本語の言葉です。",
+      "english": "\"consul\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "領事",
+          "reading": "りょうじ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "領事",
+      "りょうじ"
+    ],
+    "acceptedEnglish": [
+      "consul"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-amateur-1777217245652",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "素人",
+    "kanji": "素人",
+    "kana": "しろうと",
+    "meaning": "amateur",
+    "explanation": "A JLPT N2 noun meaning \"amateur\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "素",
+        "meanings": [
+          "element",
+          "plain"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "僕も素人です。",
+      "english": "I'm also an amateur.",
+      "furigana": [
+        {
+          "text": "僕",
+          "reading": "ぼく"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "素人",
+          "highlight": true,
+          "reading": "しろうと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1468393",
+        "englishSentenceId": "5700110",
+        "url": "https://tatoeba.org/en/sentences/show/1468393"
+      }
+    },
+    "acceptedJapanese": [
+      "素人",
+      "しろうと"
+    ],
+    "acceptedEnglish": [
+      "amateur",
+      "layman",
+      "ordinary person",
+      "novice",
+      "respectable woman"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-people-roles-sex-1777217245754",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "性別",
+    "kanji": "性別",
+    "kana": "せいべつ",
+    "meaning": "sex",
+    "explanation": "A JLPT N2 noun meaning \"sex\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "性",
+        "meanings": [
+          "nature",
+          "sex",
+          "-ity",
+          "gender"
+        ]
+      },
+      {
+        "kanji": "別",
+        "meanings": [
+          "separate",
+          "another"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "性別による差別は禁じられています。",
+      "english": "Discrimination on the basis of gender is prohibited.",
+      "furigana": [
+        {
+          "text": "性別",
+          "highlight": true,
+          "reading": "せいべつ"
+        },
+        {
+          "text": "による差"
+        },
+        {
+          "text": "別",
+          "reading": "べつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "禁",
+          "reading": "きん"
+        },
+        {
+          "text": "じられています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5085118",
+        "englishSentenceId": "3473492",
+        "url": "https://tatoeba.org/en/sentences/show/5085118"
+      }
+    },
+    "acceptedJapanese": [
+      "性別",
+      "せいべつ"
+    ],
+    "acceptedEnglish": [
+      "sex",
+      "gender"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-superior-1777217245814",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "目上",
+    "kanji": "目上",
+    "kana": "めうえ",
+    "meaning": "superior",
+    "explanation": "A JLPT N2 noun meaning \"superior\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye",
+          "item"
+        ]
+      },
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は目上の人に対して丁重である。",
+      "english": "He behaves respectfully toward his superiors.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "目上",
+          "highlight": true,
+          "reading": "めうえ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "対して",
+          "reading": "たいして"
+        },
+        {
+          "text": "丁重",
+          "reading": "ていちょう"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "99494",
+        "englishSentenceId": "304204",
+        "url": "https://tatoeba.org/en/sentences/show/99494"
+      }
+    },
+    "acceptedJapanese": [
+      "目上",
+      "めうえ"
+    ],
+    "acceptedEnglish": [
+      "superior",
+      "superiors",
+      "senior"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-people-roles-stewardess-1777217245850",
+    "jlpt": "N2",
+    "subcategory": "People/Roles",
+    "name": "スチュワーデス",
+    "kanji": "スチュワーデス",
+    "kana": "スチュワーデス",
+    "meaning": "stewardess",
+    "explanation": "A JLPT N2 noun meaning \"stewardess\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼はスチュワーデスと結婚した。",
+      "english": "He married a stewardess.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "ュ",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "ワ",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "デ",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スチュワーデス"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "結婚",
+          "reading": "けっこん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "113396",
+        "englishSentenceId": "290277",
+        "url": "https://tatoeba.org/en/sentences/show/113396"
+      }
+    },
+    "acceptedJapanese": [
+      "スチュワーデス"
+    ],
+    "acceptedEnglish": [
+      "stewardess",
+      "flight attendant"
+    ]
+  }
+]

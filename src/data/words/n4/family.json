@@ -1,1 +1,574 @@
-[]
+[
+  {
+    "id": "n4-family-grandfather-1777217250941",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "祖父",
+    "kanji": "祖父",
+    "kana": "そふ",
+    "meaning": "grandfather",
+    "explanation": "A JLPT N4 noun meaning \"grandfather\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祖",
+        "meanings": [
+          "ancestor"
+        ]
+      },
+      {
+        "kanji": "父",
+        "meanings": [
+          "father"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の祖父です。",
+      "english": "This is my grandfather.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "祖父",
+          "highlight": true,
+          "reading": "そふ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10763900",
+        "englishSentenceId": "1898106",
+        "url": "https://tatoeba.org/en/sentences/show/10763900"
+      }
+    },
+    "acceptedJapanese": [
+      "祖父",
+      "そふ"
+    ],
+    "acceptedEnglish": [
+      "grandfather",
+      "old man",
+      "kyogen mask used for the role of an old man"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-family-grandmother-1777217250968",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "祖母",
+    "kanji": "祖母",
+    "kana": "そぼ",
+    "meaning": "grandmother",
+    "explanation": "A JLPT N4 noun meaning \"grandmother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祖",
+        "meanings": [
+          "ancestor"
+        ]
+      },
+      {
+        "kanji": "母",
+        "meanings": [
+          "mother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "祖母はゆっくり話す。",
+      "english": "My grandmother speaks slowly.",
+      "furigana": [
+        {
+          "text": "祖母",
+          "highlight": true,
+          "reading": "そぼ"
+        },
+        {
+          "text": "はゆっくり"
+        },
+        {
+          "text": "話す",
+          "reading": "はなす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140669",
+        "englishSentenceId": "273903",
+        "url": "https://tatoeba.org/en/sentences/show/140669"
+      }
+    },
+    "acceptedJapanese": [
+      "祖母",
+      "そぼ"
+    ],
+    "acceptedEnglish": [
+      "grandmother"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-family-son-1777217251274",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "息子",
+    "kanji": "息子",
+    "kana": "むすこ",
+    "meaning": "son",
+    "explanation": "A JLPT N4 noun meaning \"son\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "息",
+        "meanings": [
+          "breath"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "息子です。",
+      "english": "He's my son.",
+      "furigana": [
+        {
+          "text": "息子",
+          "highlight": true,
+          "reading": "むすこ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4562142",
+        "englishSentenceId": "4703087",
+        "url": "https://tatoeba.org/en/sentences/show/4562142"
+      }
+    },
+    "acceptedJapanese": [
+      "息子",
+      "むすこ"
+    ],
+    "acceptedEnglish": [
+      "son",
+      "penis"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-family-wife-1777217251967",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "妻",
+    "kanji": "妻",
+    "kana": "つま",
+    "meaning": "wife",
+    "explanation": "A JLPT N4 noun meaning \"wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "妻",
+        "meanings": [
+          "wife"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "妻だ。",
+      "english": "She's my wife.",
+      "furigana": [
+        {
+          "text": "妻",
+          "highlight": true,
+          "reading": "つま"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13259323",
+        "englishSentenceId": "1325177",
+        "url": "https://tatoeba.org/en/sentences/show/13259323"
+      }
+    },
+    "acceptedJapanese": [
+      "妻",
+      "つま"
+    ],
+    "acceptedEnglish": [
+      "wife",
+      "garnish",
+      "trimmings",
+      "accompaniment",
+      "side"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-family-parent-1777217252003",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "親",
+    "kanji": "親",
+    "kana": "おや",
+    "meaning": "parent",
+    "explanation": "A JLPT N4 noun meaning \"parent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "親が払うよ。",
+      "english": "My parents will pay for it.",
+      "furigana": [
+        {
+          "text": "親",
+          "highlight": true,
+          "reading": "おや"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "払う",
+          "reading": "はらう"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11241514",
+        "englishSentenceId": "3295223",
+        "url": "https://tatoeba.org/en/sentences/show/11241514"
+      }
+    },
+    "acceptedJapanese": [
+      "親",
+      "おや"
+    ],
+    "acceptedEnglish": [
+      "parent",
+      "parents",
+      "mother and father",
+      "dealer",
+      "banker",
+      "founder"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-family-wife-1777217252036",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "家内",
+    "kanji": "家内",
+    "kana": "かない",
+    "meaning": "wife",
+    "explanation": "A JLPT N4 noun meaning \"wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "内",
+        "meanings": [
+          "inside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "家内だ。",
+      "english": "She's my wife.",
+      "furigana": [
+        {
+          "text": "家内",
+          "highlight": true,
+          "reading": "かない"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13259319",
+        "englishSentenceId": "1325177",
+        "url": "https://tatoeba.org/en/sentences/show/13259319"
+      }
+    },
+    "acceptedJapanese": [
+      "家内",
+      "かない"
+    ],
+    "acceptedEnglish": [
+      "wife",
+      "inside the home",
+      "one's family"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-family-husband-1777217252219",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "夫",
+    "kanji": "夫",
+    "kana": "おっと",
+    "meaning": "husband",
+    "explanation": "A JLPT N4 noun meaning \"husband\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夫",
+        "meanings": [
+          "husband",
+          "man laborer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夫です。",
+      "english": "He is my husband.",
+      "furigana": [
+        {
+          "text": "夫",
+          "highlight": true,
+          "reading": "おっと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13260811",
+        "englishSentenceId": "3534048",
+        "url": "https://tatoeba.org/en/sentences/show/13260811"
+      }
+    },
+    "acceptedJapanese": [
+      "夫",
+      "おっと"
+    ],
+    "acceptedEnglish": [
+      "husband"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-family-daughter-1777217252231",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "娘",
+    "kanji": "娘",
+    "kana": "むすめ",
+    "meaning": "daughter",
+    "explanation": "A JLPT N4 noun meaning \"daughter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "娘",
+        "meanings": [
+          "daughter",
+          "girl"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは娘です。",
+      "english": "This is my daughter.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "娘",
+          "highlight": true,
+          "reading": "むすめ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2213091",
+        "englishSentenceId": "61484",
+        "url": "https://tatoeba.org/en/sentences/show/2213091"
+      }
+    },
+    "acceptedJapanese": [
+      "娘",
+      "むすめ"
+    ],
+    "acceptedEnglish": [
+      "daughter",
+      "girl"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-family-daughter-1777217252477",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "お嬢さん",
+    "kanji": "お嬢さん",
+    "kana": "おじょうさん",
+    "meaning": "daughter",
+    "explanation": "A JLPT N4 noun meaning \"daughter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嬢",
+        "meanings": [
+          "lass",
+          "girl",
+          "Miss",
+          "daughter"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お嬢さん、背が高いですね。",
+      "english": "Your daughter is tall.",
+      "furigana": [
+        {
+          "text": "お嬢さん",
+          "highlight": true,
+          "reading": "おじょうさん"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "背",
+          "reading": "せ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "高い",
+          "reading": "たかい"
+        },
+        {
+          "text": "ですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10614937",
+        "englishSentenceId": "6484268",
+        "url": "https://tatoeba.org/en/sentences/show/10614937"
+      }
+    },
+    "acceptedJapanese": [
+      "お嬢さん",
+      "おじょうさん"
+    ],
+    "acceptedEnglish": [
+      "daughter",
+      "young lady"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-family-your-husband-1777217252642",
+    "jlpt": "N4",
+    "subcategory": "Family",
+    "name": "ご主人",
+    "kanji": "ご主人",
+    "kana": "ごしゅじん",
+    "meaning": "your husband",
+    "explanation": "A JLPT N4 noun meaning \"your husband\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご主人はご在宅ですか。",
+      "english": "Is your husband at home?",
+      "furigana": [
+        {
+          "text": "ご主人",
+          "highlight": true,
+          "reading": "ごしゅじん"
+        },
+        {
+          "text": "はご"
+        },
+        {
+          "text": "在宅",
+          "reading": "ざいたく"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217138",
+        "englishSentenceId": "1192252",
+        "url": "https://tatoeba.org/en/sentences/show/217138"
+      }
+    },
+    "acceptedJapanese": [
+      "ご主人",
+      "ごしゅじん"
+    ],
+    "acceptedEnglish": [
+      "your husband",
+      "her husband"
+    ]
+  }
+]

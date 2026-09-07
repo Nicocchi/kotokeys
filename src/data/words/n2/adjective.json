@@ -1,1 +1,8831 @@
-[]
+[
+  {
+    "id": "n2-adjective-regrettable-1777217240963",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "惜しい",
+    "kanji": "惜しい",
+    "kana": "おしい",
+    "meaning": "regrettable",
+    "explanation": "A JLPT N2 i adjective meaning \"regrettable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "惜",
+        "meanings": [
+          "pity",
+          "be sparing of",
+          "frugal",
+          "stingy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私はとても命が惜しい。",
+      "english": "Life is very dear to me.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はとても"
+        },
+        {
+          "text": "命",
+          "reading": "めい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "惜しい",
+          "highlight": true,
+          "reading": "おしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "159261",
+        "englishSentenceId": "255263",
+        "url": "https://tatoeba.org/en/sentences/show/159261"
+      }
+    },
+    "acceptedJapanese": [
+      "惜しい",
+      "おしい"
+    ],
+    "acceptedEnglish": [
+      "regrettable",
+      "disappointing",
+      "unfortunate",
+      "precious",
+      "dear",
+      "valuable"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-dangerous-1777217240996",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "危うい",
+    "kanji": "危うい",
+    "kana": "あやうい",
+    "meaning": "dangerous",
+    "explanation": "A JLPT N2 i adjective meaning \"dangerous\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "危",
+        "meanings": [
+          "dangerous"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "危うい所を助かった。",
+      "english": "I had a narrow escape.",
+      "furigana": [
+        {
+          "text": "危うい",
+          "highlight": true,
+          "reading": "あやうい"
+        },
+        {
+          "text": "所を"
+        },
+        {
+          "text": "助",
+          "reading": "たす"
+        },
+        {
+          "text": "かった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183602",
+        "englishSentenceId": "20724",
+        "url": "https://tatoeba.org/en/sentences/show/183602"
+      }
+    },
+    "acceptedJapanese": [
+      "危うい",
+      "あやうい"
+    ],
+    "acceptedEnglish": [
+      "dangerous",
+      "in danger",
+      "facing imminent danger",
+      "precarious",
+      "perilous",
+      "in doubt"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-inverted-1777217241017",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "逆さ",
+    "kanji": "逆さ",
+    "kana": "さかさ",
+    "meaning": "inverted",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"inverted\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "逆",
+        "meanings": [
+          "reverse",
+          "be contrary"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "逆さまだよ。",
+      "english": "It's upside down.",
+      "furigana": [
+        {
+          "text": "逆さ",
+          "highlight": true,
+          "reading": "さかさ"
+        },
+        {
+          "text": "まだよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12296493",
+        "englishSentenceId": "7760442",
+        "url": "https://tatoeba.org/en/sentences/show/12296493"
+      }
+    },
+    "acceptedJapanese": [
+      "逆さ",
+      "さかさ"
+    ],
+    "acceptedEnglish": [
+      "inverted",
+      "upside down",
+      "reversed",
+      "back to front"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-yearned-for-1777217241080",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "恋しい",
+    "kanji": "恋しい",
+    "kana": "こいしい",
+    "meaning": "yearned for",
+    "explanation": "A JLPT N2 i adjective meaning \"yearned for\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "恋",
+        "meanings": [
+          "love"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "友達が恋しいです。",
+      "english": "I miss my friend.",
+      "furigana": [
+        {
+          "text": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "恋しい",
+          "highlight": true,
+          "reading": "こいしい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9932183",
+        "englishSentenceId": "8751892",
+        "url": "https://tatoeba.org/en/sentences/show/9932183"
+      }
+    },
+    "acceptedJapanese": [
+      "恋しい",
+      "こいしい"
+    ],
+    "acceptedEnglish": [
+      "yearned for",
+      "longed for",
+      "missed"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-happy-1777217241101",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "目出度い",
+    "kanji": "目出度い",
+    "kana": "めでたい",
+    "meaning": "happy",
+    "explanation": "A JLPT N2 i adjective meaning \"happy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye",
+          "item"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「目出度い」は日本語の言葉です。",
+      "english": "\"happy\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "目出度い",
+          "reading": "めでたい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "目出度い",
+      "めでたい"
+    ],
+    "acceptedEnglish": [
+      "happy",
+      "auspicious",
+      "propitious",
+      "joyous",
+      "naive"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-cool-1777217241104",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "平気",
+    "kanji": "平気",
+    "kana": "へいき",
+    "meaning": "cool",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"cool\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "平気だよ。",
+      "english": "I'm cool with that.",
+      "furigana": [
+        {
+          "text": "平気",
+          "highlight": true,
+          "reading": "へいき"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83566",
+        "englishSentenceId": "2194321",
+        "url": "https://tatoeba.org/en/sentences/show/83566"
+      }
+    },
+    "acceptedJapanese": [
+      "平気",
+      "へいき"
+    ],
+    "acceptedEnglish": [
+      "cool",
+      "calm",
+      "composed",
+      "unconcerned",
+      "nonchalant",
+      "unmoved"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-square-1777217241125",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "四角い",
+    "kanji": "四角い",
+    "kana": "しかくい",
+    "meaning": "square",
+    "explanation": "A JLPT N2 i adjective meaning \"square\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      },
+      {
+        "kanji": "角",
+        "meanings": [
+          "angle",
+          "horn",
+          "corner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "必要なのは四角いテーブルで、円卓ではない。",
+      "english": "We need a square table, not a round one.",
+      "furigana": [
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "なのは"
+        },
+        {
+          "text": "四角い",
+          "highlight": true,
+          "reading": "しかくい"
+        },
+        {
+          "text": "テーブルで、"
+        },
+        {
+          "text": "円卓",
+          "reading": "えんたく"
+        },
+        {
+          "text": "ではない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "85453",
+        "englishSentenceId": "318260",
+        "url": "https://tatoeba.org/en/sentences/show/85453"
+      }
+    },
+    "acceptedJapanese": [
+      "四角い",
+      "しかくい"
+    ],
+    "acceptedEnglish": [
+      "square",
+      "rectangular"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-humid-1777217241137",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "蒸し暑い",
+    "kanji": "蒸し暑い",
+    "kana": "むしあつい",
+    "meaning": "humid",
+    "explanation": "A JLPT N2 i adjective meaning \"humid\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "蒸",
+        "meanings": [
+          "steam",
+          "evaporate"
+        ]
+      },
+      {
+        "kanji": "暑",
+        "meanings": [
+          "summer heat",
+          "hot"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここはすごく蒸し暑い。",
+      "english": "It's very humid here.",
+      "furigana": [
+        {
+          "text": "ここはすごく"
+        },
+        {
+          "text": "蒸し暑い",
+          "highlight": true,
+          "reading": "むしあつい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12593104",
+        "englishSentenceId": "11953737",
+        "url": "https://tatoeba.org/en/sentences/show/12593104"
+      }
+    },
+    "acceptedJapanese": [
+      "蒸し暑い",
+      "むしあつい"
+    ],
+    "acceptedEnglish": [
+      "humid",
+      "sultry"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-inexcusable-1777217241146",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "済まない",
+    "kanji": "済まない",
+    "kana": "すまない",
+    "meaning": "inexcusable",
+    "explanation": "A JLPT N2 i adjective meaning \"inexcusable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "済",
+        "meanings": [
+          "settle",
+          "relieve",
+          "finish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ただでは済まないぞ。",
+      "english": "You won't get away with it.",
+      "furigana": [
+        {
+          "text": "ただでは"
+        },
+        {
+          "text": "済まない",
+          "highlight": true,
+          "reading": "すまない"
+        },
+        {
+          "text": "ぞ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10917228",
+        "englishSentenceId": "2543880",
+        "url": "https://tatoeba.org/en/sentences/show/10917228"
+      }
+    },
+    "acceptedJapanese": [
+      "済まない",
+      "すまない"
+    ],
+    "acceptedEnglish": [
+      "inexcusable",
+      "unjustifiable",
+      "unpardonable",
+      "sorry",
+      "remorseful",
+      "apologetic"
+    ]
+  },
+  {
+    "id": "n2-adjective-coarse-1777217241155",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "粗い",
+    "kanji": "粗い",
+    "kana": "あらい",
+    "meaning": "coarse",
+    "explanation": "A JLPT N2 i adjective meaning \"coarse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "粗",
+        "meanings": [
+          "coarse",
+          "rough",
+          "rugged"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その物体の表面はかなり粗い。",
+      "english": "The surface of the object is fairly rough.",
+      "furigana": [
+        {
+          "text": "その物体の"
+        },
+        {
+          "text": "表面",
+          "reading": "ひょうめん"
+        },
+        {
+          "text": "はかなり"
+        },
+        {
+          "text": "粗い",
+          "highlight": true,
+          "reading": "あらい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "206883",
+        "englishSentenceId": "44132",
+        "url": "https://tatoeba.org/en/sentences/show/206883"
+      }
+    },
+    "acceptedJapanese": [
+      "粗い",
+      "あらい"
+    ],
+    "acceptedEnglish": [
+      "coarse",
+      "rough"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-gently-sloping-1777217241161",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "なだらか",
+    "kanji": "なだらか",
+    "kana": "なだらか",
+    "meaning": "gently sloping",
+    "explanation": "A JLPT N2 na adjective meaning \"gently sloping\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "道はなだらかな上がりになっていた。",
+      "english": "The road climbed gradually.",
+      "furigana": [
+        {
+          "text": "道は"
+        },
+        {
+          "text": "な",
+          "highlight": true,
+          "reading": "なだらか"
+        },
+        {
+          "text": "だ",
+          "highlight": true,
+          "reading": "なだらか"
+        },
+        {
+          "text": "ら",
+          "highlight": true,
+          "reading": "なだらか"
+        },
+        {
+          "text": "か",
+          "highlight": true,
+          "reading": "なだらか"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "上がり",
+          "reading": "あがり"
+        },
+        {
+          "text": "になっていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123585",
+        "englishSentenceId": "280412",
+        "url": "https://tatoeba.org/en/sentences/show/123585"
+      }
+    },
+    "acceptedJapanese": [
+      "なだらか"
+    ],
+    "acceptedEnglish": [
+      "gently sloping",
+      "gentle",
+      "gradual",
+      "easy",
+      "smooth",
+      "slow"
+    ]
+  },
+  {
+    "id": "n2-adjective-powerful-1777217241200",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "力強い",
+    "kanji": "力強い",
+    "kana": "ちからづよい",
+    "meaning": "powerful",
+    "explanation": "A JLPT N2 i adjective meaning \"powerful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "力",
+        "meanings": [
+          "power",
+          "force"
+        ]
+      },
+      {
+        "kanji": "強",
+        "meanings": [
+          "strong"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "なるほどこの車は小さいが力強い。",
+      "english": "Indeed this car is small, but it is powerful.",
+      "furigana": [
+        {
+          "text": "なるほどこの"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "小さい",
+          "reading": "ちいさい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "力強い",
+          "highlight": true,
+          "reading": "ちからづよい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "199053",
+        "englishSentenceId": "36251",
+        "url": "https://tatoeba.org/en/sentences/show/199053"
+      }
+    },
+    "acceptedJapanese": [
+      "力強い",
+      "ちからづよい"
+    ],
+    "acceptedEnglish": [
+      "powerful",
+      "strong",
+      "forceful",
+      "vigorous",
+      "reassuring",
+      "encouraging"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-absurd-1777217241218",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "馬鹿らしい",
+    "kanji": "馬鹿らしい",
+    "kana": "ばからしい",
+    "meaning": "absurd",
+    "explanation": "A JLPT N2 i adjective meaning \"absurd\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "馬",
+        "meanings": [
+          "horse"
+        ]
+      },
+      {
+        "kanji": "鹿",
+        "meanings": [
+          "deer"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は馬鹿らしい質問をされていらいらした。",
+      "english": "She got rattled by the stupid question.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "馬鹿らしい",
+          "highlight": true,
+          "reading": "ばからしい"
+        },
+        {
+          "text": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "text": "をされていらいらした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87569",
+        "englishSentenceId": "316140",
+        "url": "https://tatoeba.org/en/sentences/show/87569"
+      }
+    },
+    "acceptedJapanese": [
+      "馬鹿らしい",
+      "ばからしい"
+    ],
+    "acceptedEnglish": [
+      "absurd",
+      "foolish",
+      "stupid",
+      "silly",
+      "nonsense",
+      "ludicrous"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-high-class-1777217241350",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "高等",
+    "kanji": "高等",
+    "kana": "こうとう",
+    "meaning": "high class",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"high class\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "高",
+        "meanings": [
+          "high"
+        ]
+      },
+      {
+        "kanji": "等",
+        "meanings": [
+          "equal",
+          "class"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「高等」は日本語の言葉です。",
+      "english": "\"high class\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "高等",
+          "reading": "こうとう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "高等",
+      "こうとう"
+    ],
+    "acceptedEnglish": [
+      "high class",
+      "high grade"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-youthful-1777217241401",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "若々しい",
+    "kanji": "若々しい",
+    "kana": "わかわかしい",
+    "meaning": "youthful",
+    "explanation": "A JLPT N2 i adjective meaning \"youthful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "若",
+        "meanings": [
+          "young"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は相変わらず若々しい。",
+      "english": "She looks as young as ever.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "相変わらず",
+          "reading": "あいかわらず"
+        },
+        {
+          "text": "若々しい",
+          "highlight": true,
+          "reading": "わかわかしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "88181",
+        "englishSentenceId": "315526",
+        "url": "https://tatoeba.org/en/sentences/show/88181"
+      }
+    },
+    "acceptedJapanese": [
+      "若々しい",
+      "わかわかしい"
+    ],
+    "acceptedEnglish": [
+      "youthful",
+      "young",
+      "young-looking"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-dear-1777217241449",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "懐かしい",
+    "kanji": "懐かしい",
+    "kana": "なつかしい",
+    "meaning": "dear",
+    "explanation": "A JLPT N2 i adjective meaning \"dear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "懐",
+        "meanings": [
+          "feelings",
+          "heart",
+          "yearn",
+          "miss someone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "懐かしいな。",
+      "english": "I'm feeling nostalgic.",
+      "furigana": [
+        {
+          "text": "懐かしい",
+          "highlight": true,
+          "reading": "なつかしい"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10087566",
+        "englishSentenceId": "10139360",
+        "url": "https://tatoeba.org/en/sentences/show/10087566"
+      }
+    },
+    "acceptedJapanese": [
+      "懐かしい",
+      "なつかしい"
+    ],
+    "acceptedEnglish": [
+      "dear",
+      "fondly remembered",
+      "beloved",
+      "missed",
+      "nostalgic"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-unevenness-1777217241593",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "凸凹",
+    "kanji": "凸凹",
+    "kana": "でこぼこ",
+    "meaning": "unevenness",
+    "explanation": "A JLPT N2 noun, no adjective, na adjective, suru noun, intransitive verb meaning \"unevenness\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "凸",
+        "meanings": [
+          "convex",
+          "beetle brow",
+          "uneven"
+        ]
+      },
+      {
+        "kanji": "凹",
+        "meanings": [
+          "concave",
+          "hollow",
+          "sunken"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この道路は未舗装で凸凹している。",
+      "english": "This road is unpaved and uneven.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "道路",
+          "reading": "どうろ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "未",
+          "reading": "ひつじ"
+        },
+        {
+          "text": "舗装",
+          "reading": "ほそう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "凸凹",
+          "highlight": true,
+          "reading": "でこぼこ"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9837289",
+        "englishSentenceId": "10122728",
+        "url": "https://tatoeba.org/en/sentences/show/9837289"
+      }
+    },
+    "acceptedJapanese": [
+      "凸凹",
+      "でこぼこ"
+    ],
+    "acceptedEnglish": [
+      "unevenness",
+      "roughness",
+      "ruggedness",
+      "bumpiness"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-hateful-1777217241605",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "憎い",
+    "kanji": "憎い",
+    "kana": "にくい",
+    "meaning": "hateful",
+    "explanation": "A JLPT N2 i adjective meaning \"hateful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "憎",
+        "meanings": [
+          "hate",
+          "hatred",
+          "hateful"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "憎い憎いは可愛いの裏。",
+      "english": "Those who are cute have a hateful backside.",
+      "furigana": [
+        {
+          "text": "憎い",
+          "highlight": true,
+          "reading": "にくい"
+        },
+        {
+          "text": "憎い",
+          "reading": "にくい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "可愛い",
+          "reading": "かわいい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "裏",
+          "reading": "うら"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140231",
+        "englishSentenceId": "12613037",
+        "url": "https://tatoeba.org/en/sentences/show/140231"
+      }
+    },
+    "acceptedJapanese": [
+      "憎い",
+      "にくい"
+    ],
+    "acceptedEnglish": [
+      "hateful",
+      "detestable",
+      "abominable",
+      "vexing",
+      "provoking",
+      "amazing"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-easy-1777217241698",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "呑気",
+    "kanji": "呑気",
+    "kana": "のんき",
+    "meaning": "easy",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"easy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "呑",
+        "meanings": [
+          "drink"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "トムは呑気でマイペースな性格だ。",
+      "english": "Tom tends to do things at his own pace.",
+      "furigana": [
+        {
+          "text": "トムは"
+        },
+        {
+          "text": "呑気",
+          "highlight": true,
+          "reading": "のんき"
+        },
+        {
+          "text": "でマイペースな"
+        },
+        {
+          "text": "性格",
+          "reading": "せいかく"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2955229",
+        "englishSentenceId": "9990213",
+        "url": "https://tatoeba.org/en/sentences/show/2955229"
+      }
+    },
+    "acceptedJapanese": [
+      "呑気",
+      "のんき"
+    ],
+    "acceptedEnglish": [
+      "easy",
+      "easygoing",
+      "carefree",
+      "happy-go-lucky",
+      "optimistic",
+      "leisurely"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-unclean-1777217241725",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "不潔",
+    "kanji": "不潔",
+    "kana": "ふけつ",
+    "meaning": "unclean",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"unclean\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "不",
+        "meanings": [
+          "not"
+        ]
+      },
+      {
+        "kanji": "潔",
+        "meanings": [
+          "immaculate",
+          "pure",
+          "righteous"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "不潔は病気を生み出す。",
+      "english": "Filth breeds illnesses.",
+      "furigana": [
+        {
+          "text": "不潔",
+          "highlight": true,
+          "reading": "ふけつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "病気",
+          "reading": "びょうき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "生み出す",
+          "reading": "うみだす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "85110",
+        "englishSentenceId": "318603",
+        "url": "https://tatoeba.org/en/sentences/show/85110"
+      }
+    },
+    "acceptedJapanese": [
+      "不潔",
+      "ふけつ"
+    ],
+    "acceptedEnglish": [
+      "unclean",
+      "dirty",
+      "unsanitary",
+      "filthy",
+      "indecent",
+      "obscene"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-reliable-1777217241764",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "頼もしい",
+    "kanji": "頼もしい",
+    "kana": "たのもしい",
+    "meaning": "reliable",
+    "explanation": "A JLPT N2 i adjective meaning \"reliable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "頼",
+        "meanings": [
+          "rely on",
+          "request"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は頼もしい男だ。",
+      "english": "He's a reliable man.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "頼もしい",
+          "highlight": true,
+          "reading": "たのもしい"
+        },
+        {
+          "text": "男だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "99111",
+        "englishSentenceId": "3526702",
+        "url": "https://tatoeba.org/en/sentences/show/99111"
+      }
+    },
+    "acceptedJapanese": [
+      "頼もしい",
+      "たのもしい"
+    ],
+    "acceptedEnglish": [
+      "reliable",
+      "dependable",
+      "trustworthy",
+      "reassuring",
+      "hopeful",
+      "promising"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-accurate-1777217241809",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "的確",
+    "kanji": "的確",
+    "kana": "てきかく",
+    "meaning": "accurate",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"accurate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "的",
+        "meanings": [
+          "target",
+          "adjectival suffix"
+        ]
+      },
+      {
+        "kanji": "確",
+        "meanings": [
+          "certain",
+          "verify"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の答えは的確だ。",
+      "english": "His answer is to the point.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "答え",
+          "reading": "こたえ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "的確",
+          "highlight": true,
+          "reading": "てきかく"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1143770",
+        "englishSentenceId": "287251",
+        "url": "https://tatoeba.org/en/sentences/show/1143770"
+      }
+    },
+    "acceptedJapanese": [
+      "的確",
+      "てきかく"
+    ],
+    "acceptedEnglish": [
+      "accurate",
+      "precise",
+      "exact",
+      "appropriate",
+      "apt",
+      "right"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-equal-1777217241833",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "イコール",
+    "kanji": "イコール",
+    "kana": "イコール",
+    "meaning": "equal",
+    "explanation": "A JLPT N2 na adjective meaning \"equal\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "誰でも２足す２イコール４であることを知っている。",
+      "english": "Everybody knows two and two make four.",
+      "furigana": [
+        {
+          "text": "誰でも２"
+        },
+        {
+          "text": "足す",
+          "reading": "たす"
+        },
+        {
+          "text": "２"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "イコール"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "イコール"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "イコール"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "イコール"
+        },
+        {
+          "text": "４であることを"
+        },
+        {
+          "text": "知",
+          "reading": "ち"
+        },
+        {
+          "text": "っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "546344",
+        "englishSentenceId": "7516838",
+        "url": "https://tatoeba.org/en/sentences/show/546344"
+      }
+    },
+    "acceptedJapanese": [
+      "イコール"
+    ],
+    "acceptedEnglish": [
+      "equal",
+      "equivalent"
+    ]
+  },
+  {
+    "id": "n2-adjective-frank-1777217241839",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "率直",
+    "kanji": "率直",
+    "kana": "そっちょく",
+    "meaning": "frank",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"frank\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "率",
+        "meanings": [
+          "rate",
+          "lead",
+          "command"
+        ]
+      },
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "かなり率直なご質問ですね。",
+      "english": "That's a pretty straightforward question.",
+      "furigana": [
+        {
+          "text": "かなり"
+        },
+        {
+          "text": "率直",
+          "highlight": true,
+          "reading": "そっちょく"
+        },
+        {
+          "text": "なご"
+        },
+        {
+          "text": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "text": "ですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10512877",
+        "englishSentenceId": "5131327",
+        "url": "https://tatoeba.org/en/sentences/show/10512877"
+      }
+    },
+    "acceptedJapanese": [
+      "率直",
+      "そっちょく"
+    ],
+    "acceptedEnglish": [
+      "frank",
+      "candid",
+      "straightforward",
+      "openhearted",
+      "direct",
+      "outspoken"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-sudden-1777217241842",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "俄",
+    "kanji": "俄",
+    "kana": "にわか",
+    "meaning": "sudden",
+    "explanation": "A JLPT N2 na adjective, no adjective meaning \"sudden\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "俄",
+        "meanings": [
+          "sudden",
+          "abrupt",
+          "improvised"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「俄」は日本語の言葉です。",
+      "english": "\"sudden\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "俄",
+          "reading": "にわか",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "俄",
+      "にわか"
+    ],
+    "acceptedEnglish": [
+      "sudden",
+      "abrupt",
+      "unexpected",
+      "immediate",
+      "hasty",
+      "improvised"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-confident-1777217241902",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "強気",
+    "kanji": "強気",
+    "kana": "つよき",
+    "meaning": "confident",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"confident\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "強",
+        "meanings": [
+          "strong"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は強気だ。",
+      "english": "He comes on strong.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "強気",
+          "highlight": true,
+          "reading": "つよき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108382",
+        "englishSentenceId": "295304",
+        "url": "https://tatoeba.org/en/sentences/show/108382"
+      }
+    },
+    "acceptedJapanese": [
+      "強気",
+      "つよき"
+    ],
+    "acceptedEnglish": [
+      "confident",
+      "assured",
+      "self-assured",
+      "firm",
+      "strong",
+      "cocksure"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-repetitious-1777217241944",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "諄い",
+    "kanji": "諄い",
+    "kana": "くどい",
+    "meaning": "repetitious",
+    "explanation": "A JLPT N2 i adjective meaning \"repetitious\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "諄",
+        "meanings": [
+          "tedious"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「諄い」は日本語の言葉です。",
+      "english": "\"repetitious\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "諄い",
+          "reading": "くどい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "諄い",
+      "くどい"
+    ],
+    "acceptedEnglish": [
+      "repetitious",
+      "long-winded",
+      "tedious",
+      "wordy",
+      "verbose",
+      "insistent"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-particular-1777217242010",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "格別",
+    "kanji": "格別",
+    "kana": "かくべつ",
+    "meaning": "particular",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"particular\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "格",
+        "meanings": [
+          "norm",
+          "status",
+          "rank",
+          "standard"
+        ]
+      },
+      {
+        "kanji": "別",
+        "meanings": [
+          "separate",
+          "another"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ばあちゃんのシチューは格別だよ。",
+      "english": "Grandma's stew is really exceptional!",
+      "furigana": [
+        {
+          "text": "ばあちゃんのシチューは"
+        },
+        {
+          "text": "格別",
+          "highlight": true,
+          "reading": "かくべつ"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9641481",
+        "englishSentenceId": "10926479",
+        "url": "https://tatoeba.org/en/sentences/show/9641481"
+      }
+    },
+    "acceptedJapanese": [
+      "格別",
+      "かくべつ"
+    ],
+    "acceptedEnglish": [
+      "particular",
+      "special",
+      "exceptional",
+      "especial"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-noisy-1777217242013",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "騒がしい",
+    "kanji": "騒がしい",
+    "kana": "さわがしい",
+    "meaning": "noisy",
+    "explanation": "A JLPT N2 i adjective meaning \"noisy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "騒",
+        "meanings": [
+          "clamor",
+          "make noise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここは騒がしいな。",
+      "english": "It's too noisy in here.",
+      "furigana": [
+        {
+          "text": "ここは"
+        },
+        {
+          "text": "騒がしい",
+          "highlight": true,
+          "reading": "さわがしい"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10557681",
+        "englishSentenceId": "3635912",
+        "url": "https://tatoeba.org/en/sentences/show/10557681"
+      }
+    },
+    "acceptedJapanese": [
+      "騒がしい",
+      "さわがしい"
+    ],
+    "acceptedEnglish": [
+      "noisy",
+      "boisterous",
+      "turbulent",
+      "troubled"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-dangerous-1777217242040",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "物騒",
+    "kanji": "物騒",
+    "kana": "ぶっそう",
+    "meaning": "dangerous",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"dangerous\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      },
+      {
+        "kanji": "騒",
+        "meanings": [
+          "clamor",
+          "make noise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "デトロイトは物騒だ。",
+      "english": "Detroit is a dangerous city.",
+      "furigana": [
+        {
+          "text": "デトロイトは"
+        },
+        {
+          "text": "物騒",
+          "highlight": true,
+          "reading": "ぶっそう"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10979817",
+        "englishSentenceId": "1676714",
+        "url": "https://tatoeba.org/en/sentences/show/10979817"
+      }
+    },
+    "acceptedJapanese": [
+      "物騒",
+      "ぶっそう"
+    ],
+    "acceptedEnglish": [
+      "dangerous",
+      "unsettled",
+      "troubled",
+      "disturbed",
+      "insecure"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-excess-1777217242055",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "過剰",
+    "kanji": "過剰",
+    "kana": "かじょう",
+    "meaning": "excess",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"excess\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "過",
+        "meanings": [
+          "pass by",
+          "exceed",
+          "spend (time)",
+          "err"
+        ]
+      },
+      {
+        "kanji": "剰",
+        "meanings": [
+          "surplus",
+          "besides"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "塩を過剰に使うのは避けるべきだ。",
+      "english": "The excessive use of salt should be taboo.",
+      "furigana": [
+        {
+          "text": "塩",
+          "reading": "しお"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "過剰",
+          "highlight": true,
+          "reading": "かじょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "使う",
+          "reading": "つかう"
+        },
+        {
+          "text": "のは"
+        },
+        {
+          "text": "避け",
+          "reading": "よけ"
+        },
+        {
+          "text": "るべきだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188593",
+        "englishSentenceId": "25739",
+        "url": "https://tatoeba.org/en/sentences/show/188593"
+      }
+    },
+    "acceptedJapanese": [
+      "過剰",
+      "かじょう"
+    ],
+    "acceptedEnglish": [
+      "excess",
+      "surplus",
+      "superabundance",
+      "overabundance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-plain-1777217242058",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "地味",
+    "kanji": "地味",
+    "kana": "じみ",
+    "meaning": "plain",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"plain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "味",
+        "meanings": [
+          "taste"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は地味な色を好む。",
+      "english": "She likes subdued colors.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "地味",
+          "highlight": true,
+          "reading": "じみ"
+        },
+        {
+          "text": "な色を"
+        },
+        {
+          "text": "好む",
+          "reading": "このむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "87931",
+        "englishSentenceId": "485583",
+        "url": "https://tatoeba.org/en/sentences/show/87931"
+      }
+    },
+    "acceptedJapanese": [
+      "地味",
+      "じみ"
+    ],
+    "acceptedEnglish": [
+      "plain",
+      "simple",
+      "subdued",
+      "sober",
+      "reserved",
+      "modest"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-rough-1777217242133",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "大雑把",
+    "kanji": "大雑把",
+    "kana": "おおざっぱ",
+    "meaning": "rough",
+    "explanation": "A JLPT N2 na adjective meaning \"rough\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "雑",
+        "meanings": [
+          "miscellaneous",
+          "mixed"
+        ]
+      },
+      {
+        "kanji": "把",
+        "meanings": [
+          "grasp",
+          "faggot",
+          "bunch",
+          "counter for bundles"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大雑把に言えば、バスには３０名ほどの人達がいました。",
+      "english": "Roughly speaking, there were about 30 people in the bus.",
+      "furigana": [
+        {
+          "text": "大雑把",
+          "highlight": true,
+          "reading": "おおざっぱ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "えば、バスには３０名ほどの"
+        },
+        {
+          "text": "人達",
+          "reading": "ひとたち"
+        },
+        {
+          "text": "がいました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137537",
+        "englishSentenceId": "275699",
+        "url": "https://tatoeba.org/en/sentences/show/137537"
+      }
+    },
+    "acceptedJapanese": [
+      "大雑把",
+      "おおざっぱ"
+    ],
+    "acceptedEnglish": [
+      "rough",
+      "broad",
+      "general",
+      "sweeping",
+      "loose",
+      "careless"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-careless-1777217242145",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "そそっかしい",
+    "kanji": "そそっかしい",
+    "kana": "そそっかしい",
+    "meaning": "careless",
+    "explanation": "A JLPT N2 i adjective meaning \"careless\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "君はそそっかしい。",
+      "english": "You're careless.",
+      "furigana": [
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "っ",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "か",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "し",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "い",
+          "highlight": true,
+          "reading": "そそっかしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9668985",
+        "englishSentenceId": "2202642",
+        "url": "https://tatoeba.org/en/sentences/show/9668985"
+      }
+    },
+    "acceptedJapanese": [
+      "そそっかしい"
+    ],
+    "acceptedEnglish": [
+      "careless",
+      "thoughtless",
+      "hasty",
+      "rash"
+    ]
+  },
+  {
+    "id": "n2-adjective-rare-1777217242157",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "稀",
+    "kanji": "稀",
+    "kana": "まれ",
+    "meaning": "rare",
+    "explanation": "A JLPT N2 na adjective meaning \"rare\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "稀",
+        "meanings": [
+          "rare",
+          "phenomenal",
+          "dilute (acid)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "津波はごく稀にしか発生しない。",
+      "english": "Tsunamis are very rare.",
+      "furigana": [
+        {
+          "text": "津波",
+          "reading": "つなみ"
+        },
+        {
+          "text": "はごく"
+        },
+        {
+          "text": "稀",
+          "highlight": true,
+          "reading": "まれ"
+        },
+        {
+          "text": "にしか"
+        },
+        {
+          "text": "発生",
+          "reading": "はっせい"
+        },
+        {
+          "text": "しない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12957298",
+        "englishSentenceId": "5767640",
+        "url": "https://tatoeba.org/en/sentences/show/12957298"
+      }
+    },
+    "acceptedJapanese": [
+      "稀",
+      "まれ"
+    ],
+    "acceptedEnglish": [
+      "rare",
+      "seldom"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-cowardly-1777217242175",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "卑怯",
+    "kanji": "卑怯",
+    "kana": "ひきょう",
+    "meaning": "cowardly",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"cowardly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "卑",
+        "meanings": [
+          "lowly",
+          "base",
+          "vile",
+          "vulgar"
+        ]
+      },
+      {
+        "kanji": "怯",
+        "meanings": [
+          "cowardice",
+          "wince",
+          "flinch",
+          "hesitate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そんなふうに言うなんて卑怯だ。",
+      "english": "It's mean of you to talk that way.",
+      "furigana": [
+        {
+          "text": "そんなふうに"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "うなんて"
+        },
+        {
+          "text": "卑怯",
+          "highlight": true,
+          "reading": "ひきょう"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204204",
+        "englishSentenceId": "41446",
+        "url": "https://tatoeba.org/en/sentences/show/204204"
+      }
+    },
+    "acceptedJapanese": [
+      "卑怯",
+      "ひきょう"
+    ],
+    "acceptedEnglish": [
+      "cowardly",
+      "craven",
+      "unfair",
+      "mean",
+      "sneaky",
+      "dirty"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-slovenly-1777217242214",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "だらし無い",
+    "kanji": "だらし無い",
+    "kana": "だらしない",
+    "meaning": "slovenly",
+    "explanation": "A JLPT N2 i adjective meaning \"slovenly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "無",
+        "meanings": [
+          "without",
+          "nothing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「だらし無い」は日本語の言葉です。",
+      "english": "\"slovenly\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "だらし無い",
+          "reading": "だらしない",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "だらし無い",
+      "だらしない"
+    ],
+    "acceptedEnglish": [
+      "slovenly",
+      "sloppy",
+      "untidy",
+      "undisciplined",
+      "careless",
+      "loose"
+    ]
+  },
+  {
+    "id": "n2-adjective-free-1777217242265",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "フリー",
+    "kanji": "フリー",
+    "kana": "フリー",
+    "meaning": "free",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"free\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "このソフトはフリーです。",
+      "english": "This software is free.",
+      "furigana": [
+        {
+          "text": "このソフトは"
+        },
+        {
+          "text": "フ",
+          "highlight": true,
+          "reading": "フリー"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "フリー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "フリー"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12954944",
+        "englishSentenceId": "12716265",
+        "url": "https://tatoeba.org/en/sentences/show/12954944"
+      }
+    },
+    "acceptedJapanese": [
+      "フリー"
+    ],
+    "acceptedEnglish": [
+      "free"
+    ]
+  },
+  {
+    "id": "n2-adjective-suspicious-1777217242313",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "怪しい",
+    "kanji": "怪しい",
+    "kana": "あやしい",
+    "meaning": "suspicious",
+    "explanation": "A JLPT N2 i adjective meaning \"suspicious\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "怪",
+        "meanings": [
+          "mysterious",
+          "strange",
+          "doubt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼が怪しい。",
+      "english": "He looks suspicious.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "怪しい",
+          "highlight": true,
+          "reading": "あやしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1051715",
+        "englishSentenceId": "72055",
+        "url": "https://tatoeba.org/en/sentences/show/1051715"
+      }
+    },
+    "acceptedJapanese": [
+      "怪しい",
+      "あやしい"
+    ],
+    "acceptedEnglish": [
+      "suspicious",
+      "dubious",
+      "questionable",
+      "dodgy",
+      "shady",
+      "fishy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-rough-1777217242355",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "荒い",
+    "kanji": "荒い",
+    "kana": "あらい",
+    "meaning": "rough",
+    "explanation": "A JLPT N2 i adjective meaning \"rough\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "荒",
+        "meanings": [
+          "wild",
+          "violent",
+          "rough",
+          "devastate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は運転が荒い。",
+      "english": "He drives roughly.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "荒い",
+          "highlight": true,
+          "reading": "あらい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "109797",
+        "englishSentenceId": "293893",
+        "url": "https://tatoeba.org/en/sentences/show/109797"
+      }
+    },
+    "acceptedJapanese": [
+      "荒い",
+      "あらい"
+    ],
+    "acceptedEnglish": [
+      "rough",
+      "wild",
+      "violent",
+      "rude",
+      "coarse",
+      "harsh"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-extreme-1777217242427",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "甚だしい",
+    "kanji": "甚だしい",
+    "kana": "はなはだしい",
+    "meaning": "extreme",
+    "explanation": "A JLPT N2 i adjective meaning \"extreme\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "甚",
+        "meanings": [
+          "tremendously",
+          "very",
+          "great",
+          "exceedingly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あんなことを彼女に言うなんて非常識も甚だしい。",
+      "english": "It's quite absurd of you to tell her that sort of thing.",
+      "furigana": [
+        {
+          "text": "あんなことを"
+        },
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "うなんて"
+        },
+        {
+          "text": "非常識",
+          "reading": "ひじょうしき"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "甚だしい",
+          "highlight": true,
+          "reading": "はなはだしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "229582",
+        "englishSentenceId": "66942",
+        "url": "https://tatoeba.org/en/sentences/show/229582"
+      }
+    },
+    "acceptedJapanese": [
+      "甚だしい",
+      "はなはだしい"
+    ],
+    "acceptedEnglish": [
+      "extreme",
+      "excessive",
+      "terrible",
+      "intense",
+      "severe",
+      "serious"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-pure-1777217242442",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "純粋",
+    "kanji": "純粋",
+    "kana": "じゅんすい",
+    "meaning": "pure",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"pure\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "純",
+        "meanings": [
+          "pure"
+        ]
+      },
+      {
+        "kanji": "粋",
+        "meanings": [
+          "chic",
+          "style",
+          "purity",
+          "essence"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は純粋の貴族だ。",
+      "english": "He's a genuine aristocrat.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "純粋",
+          "highlight": true,
+          "reading": "じゅんすい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "貴族",
+          "reading": "きぞく"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104277",
+        "englishSentenceId": "299414",
+        "url": "https://tatoeba.org/en/sentences/show/104277"
+      }
+    },
+    "acceptedJapanese": [
+      "純粋",
+      "じゅんすい"
+    ],
+    "acceptedEnglish": [
+      "pure",
+      "true",
+      "genuine",
+      "unmixed"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-smoky-1777217242445",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "煙い",
+    "kanji": "煙い",
+    "kana": "けむい",
+    "meaning": "smoky",
+    "explanation": "A JLPT N2 i adjective meaning \"smoky\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "煙",
+        "meanings": [
+          "smoke"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "タバコが煙い！",
+      "english": "Your smoking bothers me.",
+      "furigana": [
+        {
+          "text": "タバコが"
+        },
+        {
+          "text": "煙い",
+          "highlight": true,
+          "reading": "けむい"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11254068",
+        "englishSentenceId": "10256135",
+        "url": "https://tatoeba.org/en/sentences/show/11254068"
+      }
+    },
+    "acceptedJapanese": [
+      "煙い",
+      "けむい"
+    ],
+    "acceptedEnglish": [
+      "smoky"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-impudent-1777217242475",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "図々しい",
+    "kanji": "図々しい",
+    "kana": "ずうずうしい",
+    "meaning": "impudent",
+    "explanation": "A JLPT N2 i adjective meaning \"impudent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "図",
+        "meanings": [
+          "drawing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "図々しい奴め。",
+      "english": "You're shameless.",
+      "furigana": [
+        {
+          "text": "図々しい",
+          "highlight": true,
+          "reading": "ずうずうしい"
+        },
+        {
+          "text": "奴め",
+          "reading": "やつめ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11571164",
+        "englishSentenceId": "2203338",
+        "url": "https://tatoeba.org/en/sentences/show/11571164"
+      }
+    },
+    "acceptedJapanese": [
+      "図々しい",
+      "ずうずうしい"
+    ],
+    "acceptedEnglish": [
+      "impudent",
+      "shameless",
+      "brazen",
+      "forward",
+      "audacious",
+      "cheeky"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-malicious-1777217242499",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "意地悪",
+    "kanji": "意地悪",
+    "kana": "いじわる",
+    "meaning": "malicious",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"malicious\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "意",
+        "meanings": [
+          "mind",
+          "meaning",
+          "will"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "悪",
+        "meanings": [
+          "bad",
+          "evil"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "意地悪しないで。",
+      "english": "Don't be mean.",
+      "furigana": [
+        {
+          "text": "意地悪",
+          "highlight": true,
+          "reading": "いじわる"
+        },
+        {
+          "text": "しないで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2125059",
+        "englishSentenceId": "1860514",
+        "url": "https://tatoeba.org/en/sentences/show/2125059"
+      }
+    },
+    "acceptedJapanese": [
+      "意地悪",
+      "いじわる"
+    ],
+    "acceptedEnglish": [
+      "malicious",
+      "ill-tempered",
+      "unkind",
+      "mean",
+      "nasty"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-pure-white-1777217242550",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "真っ白",
+    "kanji": "真っ白",
+    "kana": "まっしろ",
+    "meaning": "pure white",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"pure white\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "白",
+        "meanings": [
+          "white"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "真っ白です。",
+      "english": "It's all white.",
+      "furigana": [
+        {
+          "text": "真っ白",
+          "highlight": true,
+          "reading": "まっしろ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145002",
+        "englishSentenceId": "593234",
+        "url": "https://tatoeba.org/en/sentences/show/145002"
+      }
+    },
+    "acceptedJapanese": [
+      "真っ白",
+      "まっしろ"
+    ],
+    "acceptedEnglish": [
+      "pure white",
+      "blank"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-pure-heart-1777217242562",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "純情",
+    "kanji": "純情",
+    "kana": "じゅんじょう",
+    "meaning": "pure heart",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"pure heart\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "純",
+        "meanings": [
+          "pure"
+        ]
+      },
+      {
+        "kanji": "情",
+        "meanings": [
+          "emotion",
+          "actual conditions"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "君って、意外に純情だね。",
+      "english": "I'm surprised you're so naive.",
+      "furigana": [
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "って、"
+        },
+        {
+          "text": "意外",
+          "reading": "いがい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "純情",
+          "highlight": true,
+          "reading": "じゅんじょう"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "177469",
+        "englishSentenceId": "7196718",
+        "url": "https://tatoeba.org/en/sentences/show/177469"
+      }
+    },
+    "acceptedJapanese": [
+      "純情",
+      "じゅんじょう"
+    ],
+    "acceptedEnglish": [
+      "pure heart",
+      "naivete",
+      "innocence"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-sly-1777217242586",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "狡い",
+    "kanji": "狡い",
+    "kana": "ずるい",
+    "meaning": "sly",
+    "explanation": "A JLPT N2 i adjective meaning \"sly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "狡",
+        "meanings": [
+          "cunning",
+          "sly",
+          "crafty",
+          "miserly"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「狡い」は日本語の言葉です。",
+      "english": "\"sly\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "狡い",
+          "reading": "ずるい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "狡い",
+      "ずるい"
+    ],
+    "acceptedEnglish": [
+      "sly",
+      "cunning",
+      "sneaky",
+      "crafty",
+      "unfair",
+      "dishonest"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-empty-1777217242595",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "空っぽ",
+    "kanji": "空っぽ",
+    "kana": "からっぽ",
+    "meaning": "empty",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"empty\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "空",
+        "meanings": [
+          "sky",
+          "air",
+          "empty"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空っぽだ。",
+      "english": "It's empty.",
+      "furigana": [
+        {
+          "text": "空っぽ",
+          "highlight": true,
+          "reading": "からっぽ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3488487",
+        "englishSentenceId": "2123605",
+        "url": "https://tatoeba.org/en/sentences/show/3488487"
+      }
+    },
+    "acceptedJapanese": [
+      "空っぽ",
+      "からっぽ"
+    ],
+    "acceptedEnglish": [
+      "empty",
+      "vacant",
+      "hollow"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-brave-1777217242598",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "勇ましい",
+    "kanji": "勇ましい",
+    "kana": "いさましい",
+    "meaning": "brave",
+    "explanation": "A JLPT N2 i adjective meaning \"brave\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勇",
+        "meanings": [
+          "brave",
+          "be spirited",
+          "encouraged"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一人で原始林へ乗り込もうとは君はなんて勇ましいんだ。",
+      "english": "How brave of you to go alone into the primaeval forest!",
+      "furigana": [
+        {
+          "text": "一"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "原始林",
+          "reading": "げんしりん"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "乗り",
+          "reading": "のり"
+        },
+        {
+          "text": "込もうとは"
+        },
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "はなんて"
+        },
+        {
+          "text": "勇ましい",
+          "highlight": true,
+          "reading": "いさましい"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74800",
+        "englishSentenceId": "328919",
+        "url": "https://tatoeba.org/en/sentences/show/74800"
+      }
+    },
+    "acceptedJapanese": [
+      "勇ましい",
+      "いさましい"
+    ],
+    "acceptedEnglish": [
+      "brave",
+      "valiant",
+      "gallant",
+      "courageous",
+      "stirring",
+      "vigorous"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-cannot-be-helped-1777217242673",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "やむを得ない",
+    "kanji": "やむを得ない",
+    "kana": "やむをえない",
+    "meaning": "cannot be helped",
+    "explanation": "A JLPT N2 expression, i adjective meaning \"cannot be helped\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "得",
+        "meanings": [
+          "acquire",
+          "gain",
+          "profit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "戦争はやむを得ない。",
+      "english": "War is unavoidable.",
+      "furigana": [
+        {
+          "text": "戦争",
+          "reading": "せんそう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "やむを得ない",
+          "highlight": true,
+          "reading": "やむをえない"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11792740",
+        "englishSentenceId": "9935748",
+        "url": "https://tatoeba.org/en/sentences/show/11792740"
+      }
+    },
+    "acceptedJapanese": [
+      "やむを得ない",
+      "やむをえない"
+    ],
+    "acceptedEnglish": [
+      "cannot be helped",
+      "unavoidable"
+    ]
+  },
+  {
+    "id": "n2-adjective-nonsense-1777217242679",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "出鱈目",
+    "kanji": "出鱈目",
+    "kana": "でたらめ",
+    "meaning": "nonsense",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"nonsense\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "鱈",
+        "meanings": [
+          "codfish"
+        ]
+      },
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye",
+          "item"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「出鱈目」は日本語の言葉です。",
+      "english": "\"nonsense\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "出鱈目",
+          "reading": "でたらめ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "出鱈目",
+      "でたらめ"
+    ],
+    "acceptedEnglish": [
+      "nonsense",
+      "irresponsible remark",
+      "codswallop",
+      "hogwash",
+      "rubbish"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-light-brown-1777217242790",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "茶色い",
+    "kanji": "茶色い",
+    "kana": "ちゃい",
+    "meaning": "light brown",
+    "explanation": "A JLPT N2 i adjective meaning \"light brown\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      },
+      {
+        "kanji": "色",
+        "meanings": [
+          "color"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの茶色いのも私のです。",
+      "english": "That brown one is mine, too.",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "茶色い",
+          "highlight": true,
+          "reading": "ちゃい"
+        },
+        {
+          "text": "のも"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "のです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "230578",
+        "englishSentenceId": "67945",
+        "url": "https://tatoeba.org/en/sentences/show/230578"
+      }
+    },
+    "acceptedJapanese": [
+      "茶色い",
+      "ちゃい"
+    ],
+    "acceptedEnglish": [
+      "light brown",
+      "tawny"
+    ]
+  },
+  {
+    "id": "n2-adjective-itchy-1777217242811",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "痒い",
+    "kanji": "痒い",
+    "kana": "かゆい",
+    "meaning": "itchy",
+    "explanation": "A JLPT N2 i adjective meaning \"itchy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "痒",
+        "meanings": [
+          "itchy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手が痒いよ。",
+      "english": "My hand is itchy.",
+      "furigana": [
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痒い",
+          "highlight": true,
+          "reading": "かゆい"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10586287",
+        "englishSentenceId": "8858038",
+        "url": "https://tatoeba.org/en/sentences/show/10586287"
+      }
+    },
+    "acceptedJapanese": [
+      "痒い",
+      "かゆい"
+    ],
+    "acceptedEnglish": [
+      "itchy"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-impudent-1777217242838",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "厚かましい",
+    "kanji": "厚かましい",
+    "kana": "あつかましい",
+    "meaning": "impudent",
+    "explanation": "A JLPT N2 i adjective meaning \"impudent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "厚",
+        "meanings": [
+          "thick",
+          "kind"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "厚かましいなぁ。",
+      "english": "You're shameless.",
+      "furigana": [
+        {
+          "text": "厚かましい",
+          "highlight": true,
+          "reading": "あつかましい"
+        },
+        {
+          "text": "なぁ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11571166",
+        "englishSentenceId": "2203338",
+        "url": "https://tatoeba.org/en/sentences/show/11571166"
+      }
+    },
+    "acceptedJapanese": [
+      "厚かましい",
+      "あつかましい"
+    ],
+    "acceptedEnglish": [
+      "impudent",
+      "shameless",
+      "brazen",
+      "cheeky",
+      "presumptuous"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-dim-1777217242880",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "薄暗い",
+    "kanji": "薄暗い",
+    "kana": "うすぐらい",
+    "meaning": "dim",
+    "explanation": "A JLPT N2 i adjective meaning \"dim\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "薄",
+        "meanings": [
+          "thin",
+          "weak",
+          "light",
+          "fade"
+        ]
+      },
+      {
+        "kanji": "暗",
+        "meanings": [
+          "dark",
+          "dim"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "薄暗い光の中で彼の顔を見た。",
+      "english": "I saw his face in the dim light.",
+      "furigana": [
+        {
+          "text": "薄暗い",
+          "highlight": true,
+          "reading": "うすぐらい"
+        },
+        {
+          "text": "光",
+          "reading": "ひかり"
+        },
+        {
+          "text": "の中で"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "顔",
+          "reading": "かお"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121398",
+        "englishSentenceId": "282608",
+        "url": "https://tatoeba.org/en/sentences/show/121398"
+      }
+    },
+    "acceptedJapanese": [
+      "薄暗い",
+      "うすぐらい"
+    ],
+    "acceptedEnglish": [
+      "dim",
+      "gloomy"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-smart-1777217242925",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "スマート",
+    "kanji": "スマート",
+    "kana": "スマート",
+    "meaning": "smart",
+    "explanation": "A JLPT N2 na adjective meaning \"smart\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スマートウォッチを買ってあげようよ。",
+      "english": "Let's buy him a smart watch.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スマート"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "スマート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スマート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "スマート"
+        },
+        {
+          "text": "ウォッチを買ってあげようよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11870745",
+        "englishSentenceId": "11118131",
+        "url": "https://tatoeba.org/en/sentences/show/11870745"
+      }
+    },
+    "acceptedJapanese": [
+      "スマート"
+    ],
+    "acceptedEnglish": [
+      "smart",
+      "stylish",
+      "slim",
+      "slender",
+      "skilful",
+      "slick"
+    ]
+  },
+  {
+    "id": "n2-adjective-purple-1777217242931",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "紫",
+    "kanji": "紫",
+    "kana": "むらさき",
+    "meaning": "purple",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"purple\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "紫",
+        "meanings": [
+          "purple",
+          "violet"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "青というより、紫ね。",
+      "english": "It's more purple than blue.",
+      "furigana": [
+        {
+          "text": "青",
+          "reading": "あお"
+        },
+        {
+          "text": "というより、"
+        },
+        {
+          "text": "紫",
+          "highlight": true,
+          "reading": "むらさき"
+        },
+        {
+          "text": "ね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11571527",
+        "englishSentenceId": "9126778",
+        "url": "https://tatoeba.org/en/sentences/show/11571527"
+      }
+    },
+    "acceptedJapanese": [
+      "紫",
+      "むらさき"
+    ],
+    "acceptedEnglish": [
+      "purple",
+      "violet"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-miserable-1777217242943",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "惨め",
+    "kanji": "惨め",
+    "kana": "みじめ",
+    "meaning": "miserable",
+    "explanation": "A JLPT N2 na adjective meaning \"miserable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "惨",
+        "meanings": [
+          "wretched",
+          "disaster",
+          "cruelty",
+          "harsh"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは惨めな犯人に同情した。",
+      "english": "They sympathized with the miserable criminal.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "惨め",
+          "highlight": true,
+          "reading": "みじめ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "犯人",
+          "reading": "はんにん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "同情",
+          "reading": "どうじょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "97085",
+        "englishSentenceId": "306619",
+        "url": "https://tatoeba.org/en/sentences/show/97085"
+      }
+    },
+    "acceptedJapanese": [
+      "惨め",
+      "みじめ"
+    ],
+    "acceptedEnglish": [
+      "miserable",
+      "wretched",
+      "unhappy",
+      "sad",
+      "pitiable"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-horizontal-1777217242982",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "水平",
+    "kanji": "水平",
+    "kana": "すいへい",
+    "meaning": "horizontal",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"horizontal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      },
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "水は水平になろうとする。",
+      "english": "Water tries to find its own level.",
+      "furigana": [
+        {
+          "text": "水は"
+        },
+        {
+          "text": "水平",
+          "highlight": true,
+          "reading": "すいへい"
+        },
+        {
+          "text": "になろうとする。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143749",
+        "englishSentenceId": "270817",
+        "url": "https://tatoeba.org/en/sentences/show/143749"
+      }
+    },
+    "acceptedJapanese": [
+      "水平",
+      "すいへい"
+    ],
+    "acceptedEnglish": [
+      "horizontal",
+      "level",
+      "even"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-heavy-1777217243000",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "重たい",
+    "kanji": "重たい",
+    "kana": "おもたい",
+    "meaning": "heavy",
+    "explanation": "A JLPT N2 i adjective meaning \"heavy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "重",
+        "meanings": [
+          "heavy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このテーブルは重たい。",
+      "english": "This table is heavy.",
+      "furigana": [
+        {
+          "text": "このテーブルは"
+        },
+        {
+          "text": "重たい",
+          "highlight": true,
+          "reading": "おもたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1077930",
+        "englishSentenceId": "464216",
+        "url": "https://tatoeba.org/en/sentences/show/1077930"
+      }
+    },
+    "acceptedJapanese": [
+      "重たい",
+      "おもたい"
+    ],
+    "acceptedEnglish": [
+      "heavy",
+      "weighty",
+      "serious",
+      "gloomy",
+      "depressing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-strict-1777217243063",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "厳重",
+    "kanji": "厳重",
+    "kana": "げんじゅう",
+    "meaning": "strict",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"strict\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "厳",
+        "meanings": [
+          "severe",
+          "strict",
+          "solemn"
+        ]
+      },
+      {
+        "kanji": "重",
+        "meanings": [
+          "heavy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "道路法規は厳重に守らなければならない。",
+      "english": "The rule of the road must be strictly observed.",
+      "furigana": [
+        {
+          "text": "道路",
+          "reading": "どうろ"
+        },
+        {
+          "text": "法規",
+          "reading": "ほうき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "厳重",
+          "highlight": true,
+          "reading": "げんじゅう"
+        },
+        {
+          "text": "に守らなければならない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123495",
+        "englishSentenceId": "280502",
+        "url": "https://tatoeba.org/en/sentences/show/123495"
+      }
+    },
+    "acceptedJapanese": [
+      "厳重",
+      "げんじゅう"
+    ],
+    "acceptedEnglish": [
+      "strict",
+      "severe",
+      "stringent",
+      "rigorous",
+      "rigid",
+      "firm"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-grateful-1777217243192",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "有難い",
+    "kanji": "有難い",
+    "kana": "ありがたい",
+    "meaning": "grateful",
+    "explanation": "A JLPT N2 i adjective meaning \"grateful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "有",
+        "meanings": [
+          "have"
+        ]
+      },
+      {
+        "kanji": "難",
+        "meanings": [
+          "difficult",
+          "disaster"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは有難い。",
+      "english": "That's very big of you.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "有難い",
+          "highlight": true,
+          "reading": "ありがたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204805",
+        "englishSentenceId": "42047",
+        "url": "https://tatoeba.org/en/sentences/show/204805"
+      }
+    },
+    "acceptedJapanese": [
+      "有難い",
+      "ありがたい"
+    ],
+    "acceptedEnglish": [
+      "grateful",
+      "thankful",
+      "welcome",
+      "appreciated",
+      "evoking gratitude"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-for-congratulations-1777217243216",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "お目出度い",
+    "kanji": "お目出度い",
+    "kana": "おめでたい",
+    "meaning": "for congratulations",
+    "explanation": "A JLPT N2 i adjective meaning \"for congratulations\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "目",
+        "meanings": [
+          "eye",
+          "item"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「お目出度い」は日本語の言葉です。",
+      "english": "\"for congratulations\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "お目出度い",
+          "reading": "おめでたい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "お目出度い",
+      "おめでたい"
+    ],
+    "acceptedEnglish": [
+      "for congratulations",
+      "worthy of celebration",
+      "happy",
+      "joyous",
+      "auspicious",
+      "naive"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-bothersome-1777217243396",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "面倒くさい",
+    "kanji": "面倒くさい",
+    "kana": "めんどくさい",
+    "meaning": "bothersome",
+    "explanation": "A JLPT N2 i adjective meaning \"bothersome\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "面",
+        "meanings": [
+          "face",
+          "mask",
+          "surface"
+        ]
+      },
+      {
+        "kanji": "倒",
+        "meanings": [
+          "topple",
+          "collapse",
+          "fall over"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "面倒くさいことは嫌いなんだ。",
+      "english": "I hate troublesome things.",
+      "furigana": [
+        {
+          "text": "面倒くさい",
+          "highlight": true,
+          "reading": "めんどくさい"
+        },
+        {
+          "text": "ことは"
+        },
+        {
+          "text": "嫌い",
+          "reading": "きらい"
+        },
+        {
+          "text": "なんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2752667",
+        "englishSentenceId": "9062282",
+        "url": "https://tatoeba.org/en/sentences/show/2752667"
+      }
+    },
+    "acceptedJapanese": [
+      "面倒くさい",
+      "めんどくさい"
+    ],
+    "acceptedEnglish": [
+      "bothersome",
+      "tiresome",
+      "bother to do"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-easy-1777217243435",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "安易",
+    "kanji": "安易",
+    "kana": "あんい",
+    "meaning": "easy",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"easy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "安",
+        "meanings": [
+          "peaceful",
+          "inexpensive"
+        ]
+      },
+      {
+        "kanji": "易",
+        "meanings": [
+          "easy",
+          "exchange"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そんなに安易に妥協しないでください。",
+      "english": "Don't give in so easily.",
+      "furigana": [
+        {
+          "text": "そんなに"
+        },
+        {
+          "text": "安易",
+          "highlight": true,
+          "reading": "あんい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "妥協",
+          "reading": "だきょう"
+        },
+        {
+          "text": "しないでください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8854414",
+        "englishSentenceId": "13941391",
+        "url": "https://tatoeba.org/en/sentences/show/8854414"
+      }
+    },
+    "acceptedJapanese": [
+      "安易",
+      "あんい"
+    ],
+    "acceptedEnglish": [
+      "easy",
+      "simple",
+      "easygoing",
+      "lighthearted",
+      "simplistic",
+      "irresponsible"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-separate-1777217243474",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "別々",
+    "kanji": "別々",
+    "kana": "べつべつ",
+    "meaning": "separate",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"separate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "別",
+        "meanings": [
+          "separate",
+          "another"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "別々に払います。",
+      "english": "Please bill us separately.",
+      "furigana": [
+        {
+          "text": "別々",
+          "highlight": true,
+          "reading": "べつべつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "払い",
+          "reading": "はらい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83396",
+        "englishSentenceId": "320321",
+        "url": "https://tatoeba.org/en/sentences/show/83396"
+      }
+    },
+    "acceptedJapanese": [
+      "別々",
+      "べつべつ"
+    ],
+    "acceptedEnglish": [
+      "separate",
+      "respective",
+      "different"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-pink-1777217243486",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "ピンク",
+    "kanji": "ピンク",
+    "kana": "ピンク",
+    "meaning": "pink",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"pink\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "尿の色がピンクです。",
+      "english": "My urine is pink.",
+      "furigana": [
+        {
+          "text": "尿の色が"
+        },
+        {
+          "text": "ピ",
+          "highlight": true,
+          "reading": "ピンク"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ピンク"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "ピンク"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "122049",
+        "englishSentenceId": "281955",
+        "url": "https://tatoeba.org/en/sentences/show/122049"
+      }
+    },
+    "acceptedJapanese": [
+      "ピンク"
+    ],
+    "acceptedEnglish": [
+      "pink"
+    ]
+  },
+  {
+    "id": "n2-adjective-insistent-1777217243528",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "執拗い",
+    "kanji": "執拗い",
+    "kana": "しつこい",
+    "meaning": "insistent",
+    "explanation": "A JLPT N2 i adjective meaning \"insistent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "執",
+        "meanings": [
+          "tenacious",
+          "take hold",
+          "grasp",
+          "take to heart"
+        ]
+      },
+      {
+        "kanji": "拗",
+        "meanings": [
+          "crooked",
+          "twisted",
+          "distorted",
+          "perverted"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「執拗い」は日本語の言葉です。",
+      "english": "\"insistent\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "執拗い",
+          "reading": "しつこい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "執拗い",
+      "しつこい"
+    ],
+    "acceptedEnglish": [
+      "insistent",
+      "obstinate",
+      "persistent",
+      "tenacious",
+      "too rich",
+      "fatty"
+    ]
+  },
+  {
+    "id": "n2-adjective-obedient-1777217243552",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "素直",
+    "kanji": "素直",
+    "kana": "すなお",
+    "meaning": "obedient",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"obedient\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "素",
+        "meanings": [
+          "element",
+          "plain"
+        ]
+      },
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "素直になりなよ。",
+      "english": "Be honest with yourself.",
+      "furigana": [
+        {
+          "text": "素直",
+          "highlight": true,
+          "reading": "すなお"
+        },
+        {
+          "text": "になりなよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10040050",
+        "englishSentenceId": "5957030",
+        "url": "https://tatoeba.org/en/sentences/show/10040050"
+      }
+    },
+    "acceptedJapanese": [
+      "素直",
+      "すなお"
+    ],
+    "acceptedEnglish": [
+      "obedient",
+      "meek",
+      "docile",
+      "unaffected",
+      "honest",
+      "frank"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-impertinent-1777217243561",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "生意気",
+    "kanji": "生意気",
+    "kana": "なまいき",
+    "meaning": "impertinent",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"impertinent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "生",
+        "meanings": [
+          "life",
+          "be born",
+          "student"
+        ]
+      },
+      {
+        "kanji": "意",
+        "meanings": [
+          "mind",
+          "meaning",
+          "will"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "生意気な小僧がよ。",
+      "english": "Cheeky little boy!",
+      "furigana": [
+        {
+          "text": "生意気",
+          "highlight": true,
+          "reading": "なまいき"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "小僧",
+          "reading": "こぞう"
+        },
+        {
+          "text": "がよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11056532",
+        "englishSentenceId": "13315335",
+        "url": "https://tatoeba.org/en/sentences/show/11056532"
+      }
+    },
+    "acceptedJapanese": [
+      "生意気",
+      "なまいき"
+    ],
+    "acceptedEnglish": [
+      "impertinent",
+      "saucy",
+      "cheeky",
+      "impudent",
+      "audacious",
+      "cocky"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-unexpected-1777217243783",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "思いがけない",
+    "kanji": "思いがけない",
+    "kana": "おもいがけない",
+    "meaning": "unexpected",
+    "explanation": "A JLPT N2 i adjective meaning \"unexpected\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "思",
+        "meanings": [
+          "think"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "注意深かったのに彼は思いがけない間違いをした。",
+      "english": "Careful as he was he made unexpected mistakes.",
+      "furigana": [
+        {
+          "text": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "text": "深",
+          "reading": "ふけ"
+        },
+        {
+          "text": "かったのに"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "思いがけない",
+          "highlight": true,
+          "reading": "おもいがけない"
+        },
+        {
+          "text": "間違い",
+          "reading": "まちがい"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126340",
+        "englishSentenceId": "277651",
+        "url": "https://tatoeba.org/en/sentences/show/126340"
+      }
+    },
+    "acceptedJapanese": [
+      "思いがけない",
+      "おもいがけない"
+    ],
+    "acceptedEnglish": [
+      "unexpected",
+      "contrary to expectations",
+      "by chance",
+      "casual"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-i-m-sorry-1777217243795",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "申し訳ない",
+    "kanji": "申し訳ない",
+    "kana": "もうしわけない",
+    "meaning": "I'm sorry",
+    "explanation": "A JLPT N2 expression, i adjective meaning \"I'm sorry\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "申",
+        "meanings": [
+          "report",
+          "speak humbly"
+        ]
+      },
+      {
+        "kanji": "訳",
+        "meanings": [
+          "translate",
+          "sense",
+          "reason"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "遅れて申し訳ない。",
+      "english": "Sorry to be late.",
+      "furigana": [
+        {
+          "text": "遅れ",
+          "reading": "おくれ"
+        },
+        {
+          "text": "て"
+        },
+        {
+          "text": "申し訳ない",
+          "highlight": true,
+          "reading": "もうしわけない"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126706",
+        "englishSentenceId": "277384",
+        "url": "https://tatoeba.org/en/sentences/show/126706"
+      }
+    },
+    "acceptedJapanese": [
+      "申し訳ない",
+      "もうしわけない"
+    ],
+    "acceptedEnglish": [
+      "I'm sorry",
+      "inexcusable",
+      "I feel regretful",
+      "I feel guilty",
+      "thank you very much"
+    ],
+    "pitchAccentNumber": 6
+  },
+  {
+    "id": "n2-adjective-special-1777217243933",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "特殊",
+    "kanji": "特殊",
+    "kana": "とくしゅ",
+    "meaning": "special",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"special\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "特",
+        "meanings": [
+          "special"
+        ]
+      },
+      {
+        "kanji": "殊",
+        "meanings": [
+          "particularly",
+          "especially",
+          "exceptionally"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "間違いなく特殊なケースです。",
+      "english": "Without a doubt, yours is a special case.",
+      "furigana": [
+        {
+          "text": "間違い",
+          "reading": "まちがい"
+        },
+        {
+          "text": "なく"
+        },
+        {
+          "text": "特殊",
+          "highlight": true,
+          "reading": "とくしゅ"
+        },
+        {
+          "text": "なケースです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10684376",
+        "englishSentenceId": "10684377",
+        "url": "https://tatoeba.org/en/sentences/show/10684376"
+      }
+    },
+    "acceptedJapanese": [
+      "特殊",
+      "とくしゅ"
+    ],
+    "acceptedEnglish": [
+      "special",
+      "particular",
+      "peculiar",
+      "unique"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-cheerful-1777217243984",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "朗らか",
+    "kanji": "朗らか",
+    "kana": "ほがらか",
+    "meaning": "cheerful",
+    "explanation": "A JLPT N2 na adjective meaning \"cheerful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "朗",
+        "meanings": [
+          "cheerful",
+          "clear",
+          "bright"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はいつも朗らかだ。",
+      "english": "He is always cheerful.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はいつも"
+        },
+        {
+          "text": "朗らか",
+          "highlight": true,
+          "reading": "ほがらか"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2233177",
+        "englishSentenceId": "289223",
+        "url": "https://tatoeba.org/en/sentences/show/2233177"
+      }
+    },
+    "acceptedJapanese": [
+      "朗らか",
+      "ほがらか"
+    ],
+    "acceptedEnglish": [
+      "cheerful",
+      "merry",
+      "sunny",
+      "melodious",
+      "bright",
+      "fine"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-high-class-1777217244020",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "高級",
+    "kanji": "高級",
+    "kana": "こうきゅう",
+    "meaning": "high-class",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"high-class\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "高",
+        "meanings": [
+          "high"
+        ]
+      },
+      {
+        "kanji": "級",
+        "meanings": [
+          "grade"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "高級の食べ物をください。",
+      "english": "Give me your best food.",
+      "furigana": [
+        {
+          "text": "高級",
+          "highlight": true,
+          "reading": "こうきゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "食べ物",
+          "reading": "たべもの"
+        },
+        {
+          "text": "をください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "619638",
+        "englishSentenceId": "619609",
+        "url": "https://tatoeba.org/en/sentences/show/619638"
+      }
+    },
+    "acceptedJapanese": [
+      "高級",
+      "こうきゅう"
+    ],
+    "acceptedEnglish": [
+      "high-class",
+      "high-grade",
+      "high-quality",
+      "high-end",
+      "luxury"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-extra-1777217244083",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "余計",
+    "kanji": "余計",
+    "kana": "よけい",
+    "meaning": "extra",
+    "explanation": "A JLPT N2 na adjective meaning \"extra\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "余",
+        "meanings": [
+          "remaining",
+          "excess"
+        ]
+      },
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "余計なこと言っちゃった。",
+      "english": "Unfortunately, I said too much.",
+      "furigana": [
+        {
+          "text": "余計",
+          "highlight": true,
+          "reading": "よけい"
+        },
+        {
+          "text": "なこと"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        },
+        {
+          "text": "っちゃった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11427638",
+        "englishSentenceId": "13696513",
+        "url": "https://tatoeba.org/en/sentences/show/11427638"
+      }
+    },
+    "acceptedJapanese": [
+      "余計",
+      "よけい"
+    ],
+    "acceptedEnglish": [
+      "extra",
+      "more",
+      "too much",
+      "too many",
+      "excessive",
+      "superfluous"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-vague-1777217244122",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "曖昧",
+    "kanji": "曖昧",
+    "kana": "あいまい",
+    "meaning": "vague",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"vague\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "曖",
+        "meanings": [
+          "dark",
+          "not clear"
+        ]
+      },
+      {
+        "kanji": "昧",
+        "meanings": [
+          "dark",
+          "foolish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これはちょっと曖昧だね。",
+      "english": "This is a bit vague.",
+      "furigana": [
+        {
+          "text": "これはちょっと"
+        },
+        {
+          "text": "曖昧",
+          "highlight": true,
+          "reading": "あいまい"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12300806",
+        "englishSentenceId": "12311079",
+        "url": "https://tatoeba.org/en/sentences/show/12300806"
+      }
+    },
+    "acceptedJapanese": [
+      "曖昧",
+      "あいまい"
+    ],
+    "acceptedEnglish": [
+      "vague",
+      "ambiguous",
+      "unclear",
+      "shady",
+      "disreputable",
+      "fuzzy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-modest-1777217244161",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "謙虚",
+    "kanji": "謙虚",
+    "kana": "けんきょ",
+    "meaning": "modest",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"modest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "謙",
+        "meanings": [
+          "self-effacing",
+          "humble oneself",
+          "condescend",
+          "be modest"
+        ]
+      },
+      {
+        "kanji": "虚",
+        "meanings": [
+          "void",
+          "emptiness",
+          "unpreparedness",
+          "crack"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "謙虚さは美徳です。",
+      "english": "Modesty is a virtue.",
+      "furigana": [
+        {
+          "text": "謙虚",
+          "highlight": true,
+          "reading": "けんきょ"
+        },
+        {
+          "text": "さは"
+        },
+        {
+          "text": "美徳",
+          "reading": "びとく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10300404",
+        "englishSentenceId": "7637253",
+        "url": "https://tatoeba.org/en/sentences/show/10300404"
+      }
+    },
+    "acceptedJapanese": [
+      "謙虚",
+      "けんきょ"
+    ],
+    "acceptedEnglish": [
+      "modest",
+      "humble"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-pale-1777217244167",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "青白い",
+    "kanji": "青白い",
+    "kana": "あおじろい",
+    "meaning": "pale",
+    "explanation": "A JLPT N2 i adjective meaning \"pale\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "青",
+        "meanings": [
+          "blue"
+        ]
+      },
+      {
+        "kanji": "白",
+        "meanings": [
+          "white"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "病気ですか。顔が青白いよ。",
+      "english": "Are you sick? You look pale.",
+      "furigana": [
+        {
+          "text": "病気",
+          "reading": "びょうき"
+        },
+        {
+          "text": "ですか。"
+        },
+        {
+          "text": "顔",
+          "reading": "かお"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "青白い",
+          "highlight": true,
+          "reading": "あおじろい"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "85314",
+        "englishSentenceId": "318399",
+        "url": "https://tatoeba.org/en/sentences/show/85314"
+      }
+    },
+    "acceptedJapanese": [
+      "青白い",
+      "あおじろい"
+    ],
+    "acceptedEnglish": [
+      "pale",
+      "pallid",
+      "bluish-white"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-justice-1777217244194",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "公正",
+    "kanji": "公正",
+    "kana": "こうせい",
+    "meaning": "justice",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"justice\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "公",
+        "meanings": [
+          "public",
+          "official"
+        ]
+      },
+      {
+        "kanji": "正",
+        "meanings": [
+          "right",
+          "correct"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "公正に見れば彼は勤勉で親切だ。",
+      "english": "To do him justice, he is diligent and kind.",
+      "furigana": [
+        {
+          "text": "公正",
+          "highlight": true,
+          "reading": "こうせい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "れば"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "勤勉",
+          "reading": "きんべん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "親切",
+          "reading": "しんせつ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173993",
+        "englishSentenceId": "240477",
+        "url": "https://tatoeba.org/en/sentences/show/173993"
+      }
+    },
+    "acceptedJapanese": [
+      "公正",
+      "こうせい"
+    ],
+    "acceptedEnglish": [
+      "justice",
+      "fairness",
+      "impartiality"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-pitch-black-1777217244200",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "真っ黒",
+    "kanji": "真っ黒",
+    "kana": "まっくろ",
+    "meaning": "pitch black",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"pitch black\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "黒",
+        "meanings": [
+          "black"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "魚が真っ黒に焦げた。",
+      "english": "The fish is burnt black.",
+      "furigana": [
+        {
+          "text": "魚が"
+        },
+        {
+          "text": "真っ黒",
+          "highlight": true,
+          "reading": "まっくろ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "焦",
+          "reading": "こ"
+        },
+        {
+          "text": "げた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "182122",
+        "englishSentenceId": "19368",
+        "url": "https://tatoeba.org/en/sentences/show/182122"
+      }
+    },
+    "acceptedJapanese": [
+      "真っ黒",
+      "まっくろ"
+    ],
+    "acceptedEnglish": [
+      "pitch black"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-handy-1777217244257",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "手ごろ",
+    "kanji": "手ごろ",
+    "kana": "てごろ",
+    "meaning": "handy",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"handy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その値段は手ごろです。",
+      "english": "The price is reasonable.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "手ごろ",
+          "highlight": true,
+          "reading": "てごろ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207993",
+        "englishSentenceId": "45250",
+        "url": "https://tatoeba.org/en/sentences/show/207993"
+      }
+    },
+    "acceptedJapanese": [
+      "手ごろ",
+      "てごろ"
+    ],
+    "acceptedEnglish": [
+      "handy",
+      "convenient",
+      "suitable",
+      "reasonable",
+      "moderate"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-fresh-1777217244263",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "爽やか",
+    "kanji": "爽やか",
+    "kana": "さわやか",
+    "meaning": "fresh",
+    "explanation": "A JLPT N2 na adjective meaning \"fresh\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "爽",
+        "meanings": [
+          "refreshing",
+          "bracing",
+          "resonant",
+          "sweet"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は爽やかな日だね。",
+      "english": "It's balmy today.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "爽やか",
+          "highlight": true,
+          "reading": "さわやか"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9034299",
+        "englishSentenceId": "33598",
+        "url": "https://tatoeba.org/en/sentences/show/9034299"
+      }
+    },
+    "acceptedJapanese": [
+      "爽やか",
+      "さわやか"
+    ],
+    "acceptedEnglish": [
+      "fresh",
+      "refreshing",
+      "invigorating",
+      "pleasant",
+      "delightful",
+      "clear"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-shameful-1777217244272",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "見っともない",
+    "kanji": "見っともない",
+    "kana": "みっともない",
+    "meaning": "shameful",
+    "explanation": "A JLPT N2 i adjective meaning \"shameful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「見っともない」は日本語の言葉です。",
+      "english": "\"shameful\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "見っともない",
+          "reading": "みっともない",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "見っともない",
+      "みっともない"
+    ],
+    "acceptedEnglish": [
+      "shameful",
+      "disgraceful",
+      "unsightly",
+      "indecent",
+      "unseemly",
+      "unbecoming"
+    ]
+  },
+  {
+    "id": "n2-adjective-precipitous-1777217244305",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "険しい",
+    "kanji": "険しい",
+    "kana": "けわしい",
+    "meaning": "precipitous",
+    "explanation": "A JLPT N2 i adjective meaning \"precipitous\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "険",
+        "meanings": [
+          "danger",
+          "steep"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私たちは険しい山を登った。",
+      "english": "We climbed up the steep mountain.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "たちは"
+        },
+        {
+          "text": "険しい",
+          "highlight": true,
+          "reading": "けわしい"
+        },
+        {
+          "text": "山を登った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "165873",
+        "englishSentenceId": "248631",
+        "url": "https://tatoeba.org/en/sentences/show/165873"
+      }
+    },
+    "acceptedJapanese": [
+      "険しい",
+      "けわしい"
+    ],
+    "acceptedEnglish": [
+      "precipitous",
+      "rugged",
+      "inaccessible",
+      "impregnable",
+      "steep",
+      "grim"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-clean-1777217244320",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "清い",
+    "kanji": "清い",
+    "kana": "きよい",
+    "meaning": "clean",
+    "explanation": "A JLPT N2 i adjective meaning \"clean\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "清",
+        "meanings": [
+          "clear",
+          "purify",
+          "pure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "心の清い人たちは幸いである。",
+      "english": "Blessed are the pure in heart.",
+      "furigana": [
+        {
+          "text": "心の"
+        },
+        {
+          "text": "清い",
+          "highlight": true,
+          "reading": "きよい"
+        },
+        {
+          "text": "人たち",
+          "reading": "ひとたち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "幸い",
+          "reading": "さいわい"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145591",
+        "englishSentenceId": "268971",
+        "url": "https://tatoeba.org/en/sentences/show/145591"
+      }
+    },
+    "acceptedJapanese": [
+      "清い",
+      "きよい"
+    ],
+    "acceptedEnglish": [
+      "clean",
+      "clear",
+      "pure",
+      "honest",
+      "innocent",
+      "platonic"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-modesty-1777217244359",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "謙遜",
+    "kanji": "謙遜",
+    "kana": "けんそん",
+    "meaning": "modesty",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb, na adjective meaning \"modesty\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "謙",
+        "meanings": [
+          "self-effacing",
+          "humble oneself",
+          "condescend",
+          "be modest"
+        ]
+      },
+      {
+        "kanji": "遜",
+        "meanings": [
+          "humble",
+          "modest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "謙遜している場合じゃないよ。",
+      "english": "This is no time for modesty.",
+      "furigana": [
+        {
+          "text": "謙遜",
+          "highlight": true,
+          "reading": "けんそん"
+        },
+        {
+          "text": "している"
+        },
+        {
+          "text": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "text": "じゃないよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10300405",
+        "englishSentenceId": "3730253",
+        "url": "https://tatoeba.org/en/sentences/show/10300405"
+      }
+    },
+    "acceptedJapanese": [
+      "謙遜",
+      "けんそん"
+    ],
+    "acceptedEnglish": [
+      "modesty",
+      "humility",
+      "being humble"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-noisy-1777217244419",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "喧しい",
+    "kanji": "喧しい",
+    "kana": "やかましい",
+    "meaning": "noisy",
+    "explanation": "A JLPT N2 i adjective meaning \"noisy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "喧",
+        "meanings": [
+          "noisy",
+          "boisterous"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「喧しい」は日本語の言葉です。",
+      "english": "\"noisy\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "喧しい",
+          "reading": "やかましい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "喧しい",
+      "やかましい"
+    ],
+    "acceptedEnglish": [
+      "noisy",
+      "loud",
+      "clamorous",
+      "boisterous",
+      "much talked of",
+      "much-discussed"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-innumerable-1777217244434",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "無数",
+    "kanji": "無数",
+    "kana": "むすう",
+    "meaning": "innumerable",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"innumerable\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "無",
+        "meanings": [
+          "without",
+          "nothing"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空には無数の星が見えた。",
+      "english": "There were countless stars in the sky.",
+      "furigana": [
+        {
+          "text": "空",
+          "reading": "から"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "無数",
+          "highlight": true,
+          "reading": "むすう"
+        },
+        {
+          "text": "の星が"
+        },
+        {
+          "text": "見え",
+          "reading": "みえ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "179453",
+        "englishSentenceId": "18311",
+        "url": "https://tatoeba.org/en/sentences/show/179453"
+      }
+    },
+    "acceptedJapanese": [
+      "無数",
+      "むすう"
+    ],
+    "acceptedEnglish": [
+      "innumerable",
+      "countless",
+      "numberless"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-grey-1777217244524",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "灰色",
+    "kanji": "灰色",
+    "kana": "はいいろ",
+    "meaning": "grey",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"grey\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "灰",
+        "meanings": [
+          "ash"
+        ]
+      },
+      {
+        "kanji": "色",
+        "meanings": [
+          "color"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "灰色が好き。",
+      "english": "I like the color gray.",
+      "furigana": [
+        {
+          "text": "灰色",
+          "highlight": true,
+          "reading": "はいいろ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9992990",
+        "englishSentenceId": "8345955",
+        "url": "https://tatoeba.org/en/sentences/show/9992990"
+      }
+    },
+    "acceptedJapanese": [
+      "灰色",
+      "はいいろ"
+    ],
+    "acceptedEnglish": [
+      "grey",
+      "gray",
+      "ashen"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-odious-1777217244539",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "憎らしい",
+    "kanji": "憎らしい",
+    "kana": "にくらしい",
+    "meaning": "odious",
+    "explanation": "A JLPT N2 i adjective meaning \"odious\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "憎",
+        "meanings": [
+          "hate",
+          "hatred",
+          "hateful"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの男性は憎らしい人だよ！",
+      "english": "That man is an odious person!",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "男性",
+          "reading": "だんせい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "憎らしい",
+          "highlight": true,
+          "reading": "にくらしい"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "だよ！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10281672",
+        "englishSentenceId": "10281677",
+        "url": "https://tatoeba.org/en/sentences/show/10281672"
+      }
+    },
+    "acceptedJapanese": [
+      "憎らしい",
+      "にくらしい"
+    ],
+    "acceptedEnglish": [
+      "odious",
+      "hateful",
+      "detestable",
+      "horrible",
+      "darling"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-showy-1777217244542",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "派手",
+    "kanji": "派手",
+    "kana": "はで",
+    "meaning": "showy",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"showy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "派",
+        "meanings": [
+          "sect",
+          "group",
+          "dispatch"
+        ]
+      },
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "派手すぎるよ。",
+      "english": "It's too loud.",
+      "furigana": [
+        {
+          "text": "派手",
+          "highlight": true,
+          "reading": "はで"
+        },
+        {
+          "text": "すぎるよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1747735",
+        "englishSentenceId": "275485",
+        "url": "https://tatoeba.org/en/sentences/show/1747735"
+      }
+    },
+    "acceptedJapanese": [
+      "派手",
+      "はで"
+    ],
+    "acceptedEnglish": [
+      "showy",
+      "loud",
+      "flashy",
+      "gaudy"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-absurd-1777217244569",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "滅茶苦茶",
+    "kanji": "滅茶苦茶",
+    "kana": "めちゃくちゃ",
+    "meaning": "absurd",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"absurd\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "滅",
+        "meanings": [
+          "destroy",
+          "ruin",
+          "overthrow",
+          "perish"
+        ]
+      },
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      },
+      {
+        "kanji": "苦",
+        "meanings": [
+          "suffering",
+          "bitter",
+          "painful"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そりゃまた滅茶苦茶だな。",
+      "english": "That's quite absurd.",
+      "furigana": [
+        {
+          "text": "そりゃまた"
+        },
+        {
+          "text": "滅茶苦茶",
+          "highlight": true,
+          "reading": "めちゃくちゃ"
+        },
+        {
+          "text": "だな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10503853",
+        "englishSentenceId": "42263",
+        "url": "https://tatoeba.org/en/sentences/show/10503853"
+      }
+    },
+    "acceptedJapanese": [
+      "滅茶苦茶",
+      "めちゃくちゃ"
+    ],
+    "acceptedEnglish": [
+      "absurd",
+      "unreasonable",
+      "nonsensical",
+      "preposterous",
+      "incoherent",
+      "extreme"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-salty-1777217244602",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "塩辛い",
+    "kanji": "塩辛い",
+    "kana": "しおからい",
+    "meaning": "salty",
+    "explanation": "A JLPT N2 i adjective meaning \"salty\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "塩",
+        "meanings": [
+          "salt"
+        ]
+      },
+      {
+        "kanji": "辛",
+        "meanings": [
+          "pungent",
+          "hard",
+          "spicy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この水は少し塩辛い。",
+      "english": "This water is a little salty.",
+      "furigana": [
+        {
+          "text": "この水は"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "塩辛い",
+          "highlight": true,
+          "reading": "しおからい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220967",
+        "englishSentenceId": "58289",
+        "url": "https://tatoeba.org/en/sentences/show/220967"
+      }
+    },
+    "acceptedJapanese": [
+      "塩辛い",
+      "しおからい"
+    ],
+    "acceptedEnglish": [
+      "salty",
+      "briny"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-dull-1777217244701",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "鈍い",
+    "kanji": "鈍い",
+    "kana": "にぶい",
+    "meaning": "dull",
+    "explanation": "A JLPT N2 i adjective meaning \"dull\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鈍",
+        "meanings": [
+          "dull",
+          "slow-witted",
+          "blunt",
+          "dim"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は感覚が鈍い。",
+      "english": "He has dull senses.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "感覚",
+          "reading": "かんかく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "鈍い",
+          "highlight": true,
+          "reading": "にぶい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108775",
+        "englishSentenceId": "294914",
+        "url": "https://tatoeba.org/en/sentences/show/108775"
+      }
+    },
+    "acceptedJapanese": [
+      "鈍い",
+      "にぶい"
+    ],
+    "acceptedEnglish": [
+      "dull",
+      "blunt",
+      "thickheaded",
+      "obtuse",
+      "stupid",
+      "dim"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-slanting-1777217244731",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "斜め",
+    "kanji": "斜め",
+    "kana": "ななめ",
+    "meaning": "slanting",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"slanting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "斜",
+        "meanings": [
+          "diagonal",
+          "slanting",
+          "oblique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "布を斜めに切ります。",
+      "english": "Cut the cloth diagonally.",
+      "furigana": [
+        {
+          "text": "布を"
+        },
+        {
+          "text": "斜め",
+          "highlight": true,
+          "reading": "ななめ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "切り",
+          "reading": "きり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8763985",
+        "englishSentenceId": "1439976",
+        "url": "https://tatoeba.org/en/sentences/show/8763985"
+      }
+    },
+    "acceptedJapanese": [
+      "斜め",
+      "ななめ"
+    ],
+    "acceptedEnglish": [
+      "slanting",
+      "tilted",
+      "sloping",
+      "diagonal",
+      "oblique",
+      "distorted"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-negative-1777217244785",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "消極的",
+    "kanji": "消極的",
+    "kana": "しょうきょくてき",
+    "meaning": "negative",
+    "explanation": "A JLPT N2 na adjective meaning \"negative\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
+        ]
+      },
+      {
+        "kanji": "極",
+        "meanings": [
+          "extreme",
+          "pole"
+        ]
+      },
+      {
+        "kanji": "的",
+        "meanings": [
+          "target",
+          "adjectival suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は消極的な性格だ。",
+      "english": "He has a passive character.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "消極的",
+          "highlight": true,
+          "reading": "しょうきょくてき"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "性格",
+          "reading": "せいかく"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104049",
+        "englishSentenceId": "299643",
+        "url": "https://tatoeba.org/en/sentences/show/104049"
+      }
+    },
+    "acceptedJapanese": [
+      "消極的",
+      "しょうきょくてき"
+    ],
+    "acceptedEnglish": [
+      "negative",
+      "passive",
+      "half-hearted",
+      "unmotivated"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-noisy-1777217244800",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "騒々しい",
+    "kanji": "騒々しい",
+    "kana": "そうぞうしい",
+    "meaning": "noisy",
+    "explanation": "A JLPT N2 i adjective meaning \"noisy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "騒",
+        "meanings": [
+          "clamor",
+          "make noise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その通りは騒々しい。",
+      "english": "That street is very noisy.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "通り",
+          "reading": "とおり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "騒々しい",
+          "highlight": true,
+          "reading": "そうぞうしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207724",
+        "englishSentenceId": "44978",
+        "url": "https://tatoeba.org/en/sentences/show/207724"
+      }
+    },
+    "acceptedJapanese": [
+      "騒々しい",
+      "そうぞうしい"
+    ],
+    "acceptedEnglish": [
+      "noisy",
+      "loud",
+      "boisterous",
+      "clamorous",
+      "raucous",
+      "turbulent"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-gentle-1777217244812",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "大人しい",
+    "kanji": "大人しい",
+    "kana": "おとなしい",
+    "meaning": "gentle",
+    "explanation": "A JLPT N2 i adjective meaning \"gentle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "生意気に見えるのは君が彼をそう振る舞わさせているからだ。彼は普段は大人しい男だよ。",
+      "english": "He just seems cocky because you make him be like that. He's usually pretty meek.",
+      "furigana": [
+        {
+          "text": "生意気",
+          "reading": "なまいき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "見え",
+          "reading": "みえ"
+        },
+        {
+          "text": "るのは"
+        },
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "をそう振る"
+        },
+        {
+          "text": "舞",
+          "reading": "まい"
+        },
+        {
+          "text": "わさせているからだ。"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "普段",
+          "reading": "ふだん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大人しい",
+          "highlight": true,
+          "reading": "おとなしい"
+        },
+        {
+          "text": "男だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10079764",
+        "englishSentenceId": "10569960",
+        "url": "https://tatoeba.org/en/sentences/show/10079764"
+      }
+    },
+    "acceptedJapanese": [
+      "大人しい",
+      "おとなしい"
+    ],
+    "acceptedEnglish": [
+      "gentle",
+      "quiet",
+      "mild",
+      "meek",
+      "obedient",
+      "docile"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-so-so-1777217244815",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "まあまあ",
+    "kanji": "まあまあ",
+    "kana": "まあまあ",
+    "meaning": "so-so",
+    "explanation": "A JLPT N2 no adjective, na adjective, adverb meaning \"so-so\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "まあまあ。大したことないよ。",
+      "english": "So-so, nothing special.",
+      "furigana": [
+        {
+          "text": "ま",
+          "highlight": true,
+          "reading": "まあまあ"
+        },
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "まあまあ"
+        },
+        {
+          "text": "ま",
+          "highlight": true,
+          "reading": "まあまあ"
+        },
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "まあまあ"
+        },
+        {
+          "text": "。"
+        },
+        {
+          "text": "大した",
+          "reading": "たいした"
+        },
+        {
+          "text": "ことないよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11064159",
+        "englishSentenceId": "2886625",
+        "url": "https://tatoeba.org/en/sentences/show/11064159"
+      }
+    },
+    "acceptedJapanese": [
+      "まあまあ"
+    ],
+    "acceptedEnglish": [
+      "so-so",
+      "passable",
+      "not bad",
+      "reasonable"
+    ]
+  },
+  {
+    "id": "n2-adjective-ugly-1777217244824",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "醜い",
+    "kanji": "醜い",
+    "kana": "みにくい",
+    "meaning": "ugly",
+    "explanation": "A JLPT N2 i adjective meaning \"ugly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "醜",
+        "meanings": [
+          "ugly",
+          "unclean",
+          "shame",
+          "bad looking"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私を醜いと思いますか。",
+      "english": "Do you think I'm ugly?",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "醜い",
+          "highlight": true,
+          "reading": "みにくい"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "思い",
+          "reading": "おもい"
+        },
+        {
+          "text": "ますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1533048",
+        "englishSentenceId": "953230",
+        "url": "https://tatoeba.org/en/sentences/show/1533048"
+      }
+    },
+    "acceptedJapanese": [
+      "醜い",
+      "みにくい"
+    ],
+    "acceptedEnglish": [
+      "ugly",
+      "unattractive",
+      "bad-looking",
+      "unsightly",
+      "unseemly",
+      "disgraceful"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-transparent-1777217244842",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "透明",
+    "kanji": "透明",
+    "kana": "とうめい",
+    "meaning": "transparent",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"transparent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "透",
+        "meanings": [
+          "transparent",
+          "permeate",
+          "filter",
+          "penetrate"
+        ]
+      },
+      {
+        "kanji": "明",
+        "meanings": [
+          "bright",
+          "clear"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この透明な液体には毒が含まれている。",
+      "english": "This transparent liquid contains poison.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "透明",
+          "highlight": true,
+          "reading": "とうめい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "液体",
+          "reading": "えきたい"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "毒",
+          "reading": "どく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "含",
+          "reading": "ふく"
+        },
+        {
+          "text": "まれている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220324",
+        "englishSentenceId": "57644",
+        "url": "https://tatoeba.org/en/sentences/show/220324"
+      }
+    },
+    "acceptedJapanese": [
+      "透明",
+      "とうめい"
+    ],
+    "acceptedEnglish": [
+      "transparent",
+      "clear"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-busy-1777217244848",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "慌ただしい",
+    "kanji": "慌ただしい",
+    "kana": "あわただしい",
+    "meaning": "busy",
+    "explanation": "A JLPT N2 i adjective meaning \"busy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "慌",
+        "meanings": [
+          "disconcerted",
+          "be confused",
+          "lose one's head"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は慌ただしいな。",
+      "english": "Today's hectic.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "慌ただしい",
+          "highlight": true,
+          "reading": "あわただしい"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10171281",
+        "englishSentenceId": "8035210",
+        "url": "https://tatoeba.org/en/sentences/show/10171281"
+      }
+    },
+    "acceptedJapanese": [
+      "慌ただしい",
+      "あわただしい"
+    ],
+    "acceptedEnglish": [
+      "busy",
+      "hectic",
+      "hurried",
+      "rushed",
+      "rapid",
+      "quick"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-deep-blue-1777217244869",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "真っ青",
+    "kanji": "真っ青",
+    "kana": "まっさお",
+    "meaning": "deep blue",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"deep blue\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "青",
+        "meanings": [
+          "blue"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空は真っ青だった。",
+      "english": "The sky was a deep blue.",
+      "furigana": [
+        {
+          "text": "空",
+          "reading": "から"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "真っ青",
+          "highlight": true,
+          "reading": "まっさお"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12167748",
+        "englishSentenceId": "10619180",
+        "url": "https://tatoeba.org/en/sentences/show/12167748"
+      }
+    },
+    "acceptedJapanese": [
+      "真っ青",
+      "まっさお"
+    ],
+    "acceptedEnglish": [
+      "deep blue",
+      "bright blue",
+      "ghastly pale",
+      "pallid",
+      "white as a sheet"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-vertical-1777217244938",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "垂直",
+    "kanji": "垂直",
+    "kana": "すいちょく",
+    "meaning": "vertical",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"vertical\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "垂",
+        "meanings": [
+          "hang down",
+          "drip"
+        ]
+      },
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その崖はほとんど垂直です。",
+      "english": "The cliff is almost vertical.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "崖",
+          "reading": "がけ"
+        },
+        {
+          "text": "はほとんど"
+        },
+        {
+          "text": "垂直",
+          "highlight": true,
+          "reading": "すいちょく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "211692",
+        "englishSentenceId": "48970",
+        "url": "https://tatoeba.org/en/sentences/show/211692"
+      }
+    },
+    "acceptedJapanese": [
+      "垂直",
+      "すいちょく"
+    ],
+    "acceptedEnglish": [
+      "vertical"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-pitch-dark-1777217245004",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "真っ暗",
+    "kanji": "真っ暗",
+    "kana": "まっくら",
+    "meaning": "pitch-dark",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"pitch-dark\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "暗",
+        "meanings": [
+          "dark",
+          "dim"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "深海は、真っ暗です。",
+      "english": "The deep sea is completely dark.",
+      "furigana": [
+        {
+          "text": "深海",
+          "reading": "しんかい"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "真っ暗",
+          "highlight": true,
+          "reading": "まっくら"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11016617",
+        "englishSentenceId": "9169188",
+        "url": "https://tatoeba.org/en/sentences/show/11016617"
+      }
+    },
+    "acceptedJapanese": [
+      "真っ暗",
+      "まっくら"
+    ],
+    "acceptedEnglish": [
+      "pitch-dark",
+      "pitch-black",
+      "completely dark",
+      "very bleak",
+      "utterly hopeless"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-envious-1777217245031",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "羨ましい",
+    "kanji": "羨ましい",
+    "kana": "うらやましい",
+    "meaning": "envious",
+    "explanation": "A JLPT N2 i adjective meaning \"envious\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "羨",
+        "meanings": [
+          "envious",
+          "be jealous",
+          "covet"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "羨ましい！",
+      "english": "I'm so jealous!",
+      "furigana": [
+        {
+          "text": "羨ましい",
+          "highlight": true,
+          "reading": "うらやましい"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3488339",
+        "englishSentenceId": "4058195",
+        "url": "https://tatoeba.org/en/sentences/show/3488339"
+      }
+    },
+    "acceptedJapanese": [
+      "羨ましい",
+      "うらやましい"
+    ],
+    "acceptedEnglish": [
+      "envious",
+      "jealous",
+      "enviable"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-adjective-valid-1777217245061",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "妥当",
+    "kanji": "妥当",
+    "kana": "だとう",
+    "meaning": "valid",
+    "explanation": "A JLPT N2 na adjective, noun, suru noun, intransitive verb meaning \"valid\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "妥",
+        "meanings": [
+          "gentle",
+          "peace",
+          "satisfactory",
+          "appropriate"
+        ]
+      },
+      {
+        "kanji": "当",
+        "meanings": [
+          "present",
+          "hit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "中止は妥当な判断だね。",
+      "english": "Canceling is the right call.",
+      "furigana": [
+        {
+          "text": "中止",
+          "reading": "ちゅうし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "妥当",
+          "highlight": true,
+          "reading": "だとう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10987935",
+        "englishSentenceId": "12368528",
+        "url": "https://tatoeba.org/en/sentences/show/10987935"
+      }
+    },
+    "acceptedJapanese": [
+      "妥当",
+      "だとう"
+    ],
+    "acceptedEnglish": [
+      "valid",
+      "proper",
+      "right",
+      "appropriate",
+      "reasonable"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-overbearing-1777217245136",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "強引",
+    "kanji": "強引",
+    "kana": "ごういん",
+    "meaning": "overbearing",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"overbearing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "強",
+        "meanings": [
+          "strong"
+        ]
+      },
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "与党は強引に税制法案を通過させた。",
+      "english": "The ruling party pushed its tax bill through.",
+      "furigana": [
+        {
+          "text": "与党",
+          "reading": "よとう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "強引",
+          "highlight": true,
+          "reading": "ごういん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "税制",
+          "reading": "ぜいせい"
+        },
+        {
+          "text": "法案",
+          "reading": "ほうあん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "通過",
+          "reading": "つうか"
+        },
+        {
+          "text": "させた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "78933",
+        "englishSentenceId": "324783",
+        "url": "https://tatoeba.org/en/sentences/show/78933"
+      }
+    },
+    "acceptedJapanese": [
+      "強引",
+      "ごういん"
+    ],
+    "acceptedEnglish": [
+      "overbearing",
+      "coercive",
+      "pushy",
+      "forcible",
+      "high-handed"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-extensive-1777217245256",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "広々",
+    "kanji": "広々",
+    "kana": "ひろびろ",
+    "meaning": "extensive",
+    "explanation": "A JLPT N2 adverb taking the 'to' particle, adverb, suru noun, na adjective meaning \"extensive\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "広",
+        "meanings": [
+          "wide"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らの家の食堂はとても広々としている。",
+      "english": "Their dining room is very spacious.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "の家の"
+        },
+        {
+          "text": "食",
+          "reading": "しょく"
+        },
+        {
+          "text": "堂",
+          "reading": "どう"
+        },
+        {
+          "text": "はとても"
+        },
+        {
+          "text": "広々",
+          "highlight": true,
+          "reading": "ひろびろ"
+        },
+        {
+          "text": "としている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "98553",
+        "englishSentenceId": "305147",
+        "url": "https://tatoeba.org/en/sentences/show/98553"
+      }
+    },
+    "acceptedJapanese": [
+      "広々",
+      "ひろびろ"
+    ],
+    "acceptedEnglish": [
+      "extensive",
+      "spacious"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-sour-1777217245271",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "酸っぱい",
+    "kanji": "酸っぱい",
+    "kana": "すっぱい",
+    "meaning": "sour",
+    "explanation": "A JLPT N2 i adjective meaning \"sour\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "酸",
+        "meanings": [
+          "acid",
+          "oxygen"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "レモンは酸っぱい。",
+      "english": "Lemon is sour.",
+      "furigana": [
+        {
+          "text": "レモンは"
+        },
+        {
+          "text": "酸っぱい",
+          "highlight": true,
+          "reading": "すっぱい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192323",
+        "englishSentenceId": "29487",
+        "url": "https://tatoeba.org/en/sentences/show/192323"
+      }
+    },
+    "acceptedJapanese": [
+      "酸っぱい",
+      "すっぱい"
+    ],
+    "acceptedEnglish": [
+      "sour",
+      "acid"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-terrific-1777217245304",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "物凄い",
+    "kanji": "物凄い",
+    "kana": "ものすごい",
+    "meaning": "terrific",
+    "explanation": "A JLPT N2 i adjective meaning \"terrific\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      },
+      {
+        "kanji": "凄",
+        "meanings": [
+          "uncanny",
+          "weird",
+          "threatening",
+          "horrible"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「物凄い」は日本語の言葉です。",
+      "english": "\"terrific\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "物凄い",
+          "reading": "ものすごい",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "物凄い",
+      "ものすごい"
+    ],
+    "acceptedEnglish": [
+      "terrific",
+      "staggering",
+      "tremendous",
+      "incredible",
+      "extreme",
+      "frightful"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-adjective-modern-1777217245346",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "モダン",
+    "kanji": "モダン",
+    "kana": "モダン",
+    "meaning": "modern",
+    "explanation": "A JLPT N2 na adjective meaning \"modern\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私はモダンな家具が好きだ。",
+      "english": "I prefer modern furniture.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "モ",
+          "highlight": true,
+          "reading": "モダン"
+        },
+        {
+          "text": "ダ",
+          "highlight": true,
+          "reading": "モダン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "モダン"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "家具",
+          "reading": "かぐ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "158724",
+        "englishSentenceId": "255804",
+        "url": "https://tatoeba.org/en/sentences/show/158724"
+      }
+    },
+    "acceptedJapanese": [
+      "モダン"
+    ],
+    "acceptedEnglish": [
+      "modern"
+    ]
+  },
+  {
+    "id": "n2-adjective-loose-1777217245388",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "緩い",
+    "kanji": "緩い",
+    "kana": "ゆるい",
+    "meaning": "loose",
+    "explanation": "A JLPT N2 i adjective meaning \"loose\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "緩",
+        "meanings": [
+          "slacken",
+          "loosen",
+          "relax",
+          "lessen"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このボタンは緩い。",
+      "english": "This button is loose.",
+      "furigana": [
+        {
+          "text": "このボタンは"
+        },
+        {
+          "text": "緩い",
+          "highlight": true,
+          "reading": "ゆるい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223176",
+        "englishSentenceId": "60508",
+        "url": "https://tatoeba.org/en/sentences/show/223176"
+      }
+    },
+    "acceptedJapanese": [
+      "緩い",
+      "ゆるい"
+    ],
+    "acceptedEnglish": [
+      "loose",
+      "lenient",
+      "lax",
+      "gentle",
+      "slow",
+      "weak"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-greed-1777217245430",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "欲張り",
+    "kanji": "欲張り",
+    "kana": "よくばり",
+    "meaning": "greed",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"greed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "欲",
+        "meanings": [
+          "desire",
+          "want"
+        ]
+      },
+      {
+        "kanji": "張",
+        "meanings": [
+          "spread",
+          "strain",
+          "stretch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "欲張りすぎると、あとで痛い目にあうよね。",
+      "english": "It hurts to be too greedy.",
+      "furigana": [
+        {
+          "text": "欲張り",
+          "highlight": true,
+          "reading": "よくばり"
+        },
+        {
+          "text": "すぎると、あとで"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "目にあうよね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9934212",
+        "englishSentenceId": "10119872",
+        "url": "https://tatoeba.org/en/sentences/show/9934212"
+      }
+    },
+    "acceptedJapanese": [
+      "欲張り",
+      "よくばり"
+    ],
+    "acceptedEnglish": [
+      "greed",
+      "avarice",
+      "covetousness",
+      "greedy person"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-huge-1777217245538",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "膨大",
+    "kanji": "膨大",
+    "kana": "ぼうだい",
+    "meaning": "huge",
+    "explanation": "A JLPT N2 na adjective meaning \"huge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "膨",
+        "meanings": [
+          "swell",
+          "get fat",
+          "thick"
+        ]
+      },
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "辞書の編纂には膨大な時間がかかる。",
+      "english": "Compiling a dictionary demands an enormous amount of time.",
+      "furigana": [
+        {
+          "text": "辞書",
+          "reading": "じしょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "編纂",
+          "reading": "へんさん"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "膨大",
+          "highlight": true,
+          "reading": "ぼうだい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "がかかる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2418232",
+        "englishSentenceId": "264908",
+        "url": "https://tatoeba.org/en/sentences/show/2418232"
+      }
+    },
+    "acceptedJapanese": [
+      "膨大",
+      "ぼうだい"
+    ],
+    "acceptedEnglish": [
+      "huge",
+      "vast",
+      "enormous",
+      "colossal",
+      "extensive",
+      "large"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-ordinary-1777217245556",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "平凡",
+    "kanji": "平凡",
+    "kana": "へいぼん",
+    "meaning": "ordinary",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"ordinary\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "平",
+        "meanings": [
+          "flat",
+          "calm"
+        ]
+      },
+      {
+        "kanji": "凡",
+        "meanings": [
+          "commonplace",
+          "ordinary",
+          "mediocre"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "平凡な毎日さ。",
+      "english": "I live an ordinary life.",
+      "furigana": [
+        {
+          "text": "平凡",
+          "highlight": true,
+          "reading": "へいぼん"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "毎日",
+          "reading": "まいにち"
+        },
+        {
+          "text": "さ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12593114",
+        "englishSentenceId": "12041386",
+        "url": "https://tatoeba.org/en/sentences/show/12593114"
+      }
+    },
+    "acceptedJapanese": [
+      "平凡",
+      "へいぼん"
+    ],
+    "acceptedEnglish": [
+      "ordinary",
+      "common",
+      "commonplace",
+      "mediocre",
+      "unremarkable",
+      "undistinguished"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-dazzling-1777217245577",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "眩しい",
+    "kanji": "眩しい",
+    "kana": "まぶしい",
+    "meaning": "dazzling",
+    "explanation": "A JLPT N2 i adjective meaning \"dazzling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "眩",
+        "meanings": [
+          "faint",
+          "dizzy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "眩しいな。",
+      "english": "It's so bright.",
+      "furigana": [
+        {
+          "text": "眩しい",
+          "highlight": true,
+          "reading": "まぶしい"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11263449",
+        "englishSentenceId": "8315314",
+        "url": "https://tatoeba.org/en/sentences/show/11263449"
+      }
+    },
+    "acceptedJapanese": [
+      "眩しい",
+      "まぶしい"
+    ],
+    "acceptedEnglish": [
+      "dazzling",
+      "radiant"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-frustrated-1777217245616",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "悔しい",
+    "kanji": "悔しい",
+    "kana": "くやしい",
+    "meaning": "frustrated",
+    "explanation": "A JLPT N2 i adjective meaning \"frustrated\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "悔",
+        "meanings": [
+          "repent",
+          "regret"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "悔しい？",
+      "english": "Are you disappointed?",
+      "furigana": [
+        {
+          "text": "悔しい",
+          "highlight": true,
+          "reading": "くやしい"
+        },
+        {
+          "text": "？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11161621",
+        "englishSentenceId": "2244939",
+        "url": "https://tatoeba.org/en/sentences/show/11161621"
+      }
+    },
+    "acceptedJapanese": [
+      "悔しい",
+      "くやしい"
+    ],
+    "acceptedEnglish": [
+      "frustrated",
+      "annoyed",
+      "chagrined",
+      "disappointed",
+      "bitter",
+      "vexed"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-adjective-vulgar-1777217245646",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "下品",
+    "kanji": "下品",
+    "kana": "げひん",
+    "meaning": "vulgar",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"vulgar\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "品",
+        "meanings": [
+          "article",
+          "goods"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そんな悪趣味で下品なネタを話すな。",
+      "english": "Don't talk about such vulgar topics in bad taste.",
+      "furigana": [
+        {
+          "text": "そんな"
+        },
+        {
+          "text": "悪趣味",
+          "reading": "あくしゅみ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "下品",
+          "highlight": true,
+          "reading": "げひん"
+        },
+        {
+          "text": "なネタを"
+        },
+        {
+          "text": "話す",
+          "reading": "はなす"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8602061",
+        "englishSentenceId": "9984420",
+        "url": "https://tatoeba.org/en/sentences/show/8602061"
+      }
+    },
+    "acceptedJapanese": [
+      "下品",
+      "げひん"
+    ],
+    "acceptedEnglish": [
+      "vulgar",
+      "indecent",
+      "coarse",
+      "crude"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-there-s-no-way-1777217245739",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "仕様がない",
+    "kanji": "仕様がない",
+    "kana": "しょうがない",
+    "meaning": "there's no way",
+    "explanation": "A JLPT N2 expression, i adjective meaning \"there's no way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "仕",
+        "meanings": [
+          "serve",
+          "do"
+        ]
+      },
+      {
+        "kanji": "様",
+        "meanings": [
+          "mode",
+          "way",
+          "formal title",
+          "manner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "運転しなかったら、車持ってても仕様がないでしょ？",
+      "english": "What's the good of having a car if you don't drive?",
+      "furigana": [
+        {
+          "text": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "text": "しなかったら、"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "持ってても"
+        },
+        {
+          "text": "仕様がない",
+          "highlight": true,
+          "reading": "しょうがない"
+        },
+        {
+          "text": "でしょ？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10202885",
+        "englishSentenceId": "265603",
+        "url": "https://tatoeba.org/en/sentences/show/10202885"
+      }
+    },
+    "acceptedJapanese": [
+      "仕様がない",
+      "しょうがない"
+    ],
+    "acceptedEnglish": [
+      "there's no way",
+      "cannot be helped",
+      "unavoidable",
+      "inevitable",
+      "nothing one can do",
+      "having no choice"
+    ]
+  },
+  {
+    "id": "n2-adjective-irony-1777217245802",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "皮肉",
+    "kanji": "皮肉",
+    "kana": "ひにく",
+    "meaning": "irony",
+    "explanation": "A JLPT N2 noun, na adjective, no adjective meaning \"irony\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "皮",
+        "meanings": [
+          "skin",
+          "hide",
+          "rind",
+          "leather"
+        ]
+      },
+      {
+        "kanji": "肉",
+        "meanings": [
+          "flesh",
+          "meat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は皮肉を解さない。",
+      "english": "She doesn't understand sarcasm.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "皮肉",
+          "highlight": true,
+          "reading": "ひにく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "解",
+          "reading": "かい"
+        },
+        {
+          "text": "さない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1749144",
+        "englishSentenceId": "1749140",
+        "url": "https://tatoeba.org/en/sentences/show/1749144"
+      }
+    },
+    "acceptedJapanese": [
+      "皮肉",
+      "ひにく"
+    ],
+    "acceptedEnglish": [
+      "irony",
+      "sarcasm",
+      "cynicism",
+      "satire"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-natural-1777217245805",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "当たり前",
+    "kanji": "当たり前",
+    "kana": "あたりまえ",
+    "meaning": "natural",
+    "explanation": "A JLPT N2 no adjective, na adjective, noun meaning \"natural\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "当",
+        "meanings": [
+          "present",
+          "hit"
+        ]
+      },
+      {
+        "kanji": "前",
+        "meanings": [
+          "before",
+          "front"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "当たり前だろ。",
+      "english": "Obviously.",
+      "furigana": [
+        {
+          "text": "当たり前",
+          "highlight": true,
+          "reading": "あたりまえ"
+        },
+        {
+          "text": "だろ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124116",
+        "englishSentenceId": "279879",
+        "url": "https://tatoeba.org/en/sentences/show/124116"
+      }
+    },
+    "acceptedJapanese": [
+      "当たり前",
+      "あたりまえ"
+    ],
+    "acceptedEnglish": [
+      "natural",
+      "reasonable",
+      "obvious",
+      "usual",
+      "common",
+      "ordinary"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-irregular-1777217245877",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "不規則",
+    "kanji": "不規則",
+    "kana": "ふきそく",
+    "meaning": "irregular",
+    "explanation": "A JLPT N2 na adjective, noun meaning \"irregular\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "不",
+        "meanings": [
+          "not"
+        ]
+      },
+      {
+        "kanji": "規",
+        "meanings": [
+          "regulation",
+          "measure"
+        ]
+      },
+      {
+        "kanji": "則",
+        "meanings": [
+          "rule",
+          "law"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "生理が不規則です。",
+      "english": "My menstrual cycle is irregular.",
+      "furigana": [
+        {
+          "text": "生理",
+          "reading": "せいり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "不規則",
+          "highlight": true,
+          "reading": "ふきそく"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "142680",
+        "englishSentenceId": "271890",
+        "url": "https://tatoeba.org/en/sentences/show/142680"
+      }
+    },
+    "acceptedJapanese": [
+      "不規則",
+      "ふきそく"
+    ],
+    "acceptedEnglish": [
+      "irregular",
+      "unsystematic",
+      "unsteady",
+      "disorderly"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-trivial-1777217245901",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "下らない",
+    "kanji": "下らない",
+    "kana": "くだらない",
+    "meaning": "trivial",
+    "explanation": "A JLPT N2 i adjective meaning \"trivial\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「下らない」は日本語の言葉です。",
+      "english": "\"trivial\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "下らない",
+          "reading": "くだらない",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "下らない",
+      "くだらない"
+    ],
+    "acceptedEnglish": [
+      "trivial",
+      "trifling",
+      "insignificant",
+      "not worth bothering with",
+      "worthless",
+      "useless"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-navy-blue-1777217245904",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "紺",
+    "kanji": "紺",
+    "kana": "こん",
+    "meaning": "navy blue",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"navy blue\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "紺",
+        "meanings": [
+          "dark blue",
+          "navy"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "医者は紺のスーツの上に白衣を着ていた。",
+      "english": "The doctor was wearing a white coat over a blue suit.",
+      "furigana": [
+        {
+          "text": "医者",
+          "reading": "いしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "紺",
+          "highlight": true,
+          "reading": "こん"
+        },
+        {
+          "text": "のスーツの"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "に白衣を"
+        },
+        {
+          "text": "着",
+          "reading": "ちゃく"
+        },
+        {
+          "text": "ていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190825",
+        "englishSentenceId": "27985",
+        "url": "https://tatoeba.org/en/sentences/show/190825"
+      }
+    },
+    "acceptedJapanese": [
+      "紺",
+      "こん"
+    ],
+    "acceptedEnglish": [
+      "navy blue",
+      "deep blue"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-inverted-1777217245988",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "逆さま",
+    "kanji": "逆さま",
+    "kana": "さかさま",
+    "meaning": "inverted",
+    "explanation": "A JLPT N2 na adjective, no adjective, noun meaning \"inverted\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "逆",
+        "meanings": [
+          "reverse",
+          "be contrary"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "何もかも逆さまだ。",
+      "english": "Everything is upside down.",
+      "furigana": [
+        {
+          "text": "何もかも",
+          "reading": "なにもかも"
+        },
+        {
+          "text": "逆さま",
+          "highlight": true,
+          "reading": "さかさま"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2876214",
+        "englishSentenceId": "383646",
+        "url": "https://tatoeba.org/en/sentences/show/2876214"
+      }
+    },
+    "acceptedJapanese": [
+      "逆さま",
+      "さかさま"
+    ],
+    "acceptedEnglish": [
+      "inverted",
+      "upside down",
+      "reversed",
+      "back to front",
+      "wrong way round"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-misfortune-1777217246006",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "不運",
+    "kanji": "不運",
+    "kana": "ふうん",
+    "meaning": "misfortune",
+    "explanation": "A JLPT N2 noun, na adjective meaning \"misfortune\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "不",
+        "meanings": [
+          "not"
+        ]
+      },
+      {
+        "kanji": "運",
+        "meanings": [
+          "carry",
+          "move",
+          "fortune"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は失敗を不運のせいにした。",
+      "english": "He attributed his failure to bad luck.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "不運",
+          "highlight": true,
+          "reading": "ふうん"
+        },
+        {
+          "text": "のせいにした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104750",
+        "englishSentenceId": "298941",
+        "url": "https://tatoeba.org/en/sentences/show/104750"
+      }
+    },
+    "acceptedJapanese": [
+      "不運",
+      "ふうん"
+    ],
+    "acceptedEnglish": [
+      "misfortune",
+      "bad luck",
+      "ill luck",
+      "ill fortune"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-adjective-great-1777217246048",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "偉い",
+    "kanji": "偉い",
+    "kana": "えらい",
+    "meaning": "great",
+    "explanation": "A JLPT N2 i adjective meaning \"great\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "偉",
+        "meanings": [
+          "great",
+          "eminent",
+          "remarkable"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "偉い人は身なりを気にしない。",
+      "english": "A great man doesn't care about his appearance.",
+      "furigana": [
+        {
+          "text": "偉い",
+          "highlight": true,
+          "reading": "えらい"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "身なり",
+          "reading": "みなり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "気",
+          "reading": "き"
+        },
+        {
+          "text": "にしない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "191138",
+        "englishSentenceId": "28298",
+        "url": "https://tatoeba.org/en/sentences/show/191138"
+      }
+    },
+    "acceptedJapanese": [
+      "偉い",
+      "えらい"
+    ],
+    "acceptedEnglish": [
+      "great",
+      "excellent",
+      "admirable",
+      "commendable",
+      "laudable",
+      "honorable"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-violence-1777217246054",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "乱暴",
+    "kanji": "乱暴",
+    "kana": "らんぼう",
+    "meaning": "violence",
+    "explanation": "A JLPT N2 noun, na adjective, suru noun, intransitive verb meaning \"violence\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "乱",
+        "meanings": [
+          "disordered",
+          "riot",
+          "confusion"
+        ]
+      },
+      {
+        "kanji": "暴",
+        "meanings": [
+          "violent",
+          "rage",
+          "expose"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "道具を乱暴に扱うな。",
+      "english": "Don't handle the tools roughly.",
+      "furigana": [
+        {
+          "text": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "乱暴",
+          "highlight": true,
+          "reading": "らんぼう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "扱う",
+          "reading": "あつかう"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123551",
+        "englishSentenceId": "280447",
+        "url": "https://tatoeba.org/en/sentences/show/123551"
+      }
+    },
+    "acceptedJapanese": [
+      "乱暴",
+      "らんぼう"
+    ],
+    "acceptedEnglish": [
+      "violence",
+      "assault",
+      "rowdiness",
+      "wildness",
+      "running riot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-adjective-stylish-1777217246090",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "お洒落",
+    "kanji": "お洒落",
+    "kana": "おしゃれ",
+    "meaning": "stylish",
+    "explanation": "A JLPT N2 na adjective meaning \"stylish\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "洒",
+        "meanings": [
+          "wash",
+          "sprinkle"
+        ]
+      },
+      {
+        "kanji": "落",
+        "meanings": [
+          "fall"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お洒落しなくてもいいのよ。",
+      "english": "You don't have to dress up.",
+      "furigana": [
+        {
+          "text": "お洒落",
+          "highlight": true,
+          "reading": "おしゃれ"
+        },
+        {
+          "text": "しなくてもいいのよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9930519",
+        "englishSentenceId": "271898",
+        "url": "https://tatoeba.org/en/sentences/show/9930519"
+      }
+    },
+    "acceptedJapanese": [
+      "お洒落",
+      "おしゃれ"
+    ],
+    "acceptedEnglish": [
+      "stylish",
+      "fashionable",
+      "trendy",
+      "chic",
+      "smartly dressed",
+      "careful about one's appearance"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-adjective-wasteful-1777217246093",
+    "jlpt": "N2",
+    "subcategory": "Adjective",
+    "name": "勿体ない",
+    "kanji": "勿体ない",
+    "kana": "もったいない",
+    "meaning": "wasteful",
+    "explanation": "A JLPT N2 i adjective meaning \"wasteful\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勿",
+        "meanings": [
+          "not",
+          "must not",
+          "do not",
+          "be not"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「勿体ない」は日本語の言葉です。",
+      "english": "\"wasteful\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "勿体ない",
+          "reading": "もったいない",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "勿体ない",
+      "もったいない"
+    ],
+    "acceptedEnglish": [
+      "wasteful",
+      "a waste",
+      "too good",
+      "more than one deserves",
+      "unworthy of",
+      "impious"
+    ],
+    "pitchAccentNumber": 5
+  }
+]

@@ -12,13 +12,13 @@
       {
         "kanji": "動",
         "meanings": [
-          "animal"
+          "move"
         ]
       },
       {
         "kanji": "物",
         "meanings": [
-          "animal"
+          "thing"
         ]
       }
     ],
@@ -72,7 +72,10 @@
       {
         "kanji": "鳴",
         "meanings": [
-          "to make sound"
+          "cry",
+          "sound",
+          "ring",
+          "sing"
         ]
       }
     ],
@@ -131,7 +134,9 @@
       {
         "kanji": "鳥",
         "meanings": [
-          "bird"
+          "bird",
+          "fowl",
+          "poultry"
         ]
       }
     ],
@@ -235,19 +240,19 @@
     "pitchAccentNumber": 1
   },
   {
-    "id": "n5-animals-dog-familiaris-1777217254388",
+    "id": "n5-animals-dog-1777217254388",
     "jlpt": "N5",
     "subcategory": "Animals",
     "name": "犬",
     "kanji": "犬",
     "kana": "いぬ",
-    "meaning": "dog familiaris)",
-    "explanation": "A JLPT N5 noun meaning \"dog familiaris)\".",
+    "meaning": "dog",
+    "explanation": "A JLPT N5 noun meaning \"dog\".",
     "kanjiBreakdown": [
       {
         "kanji": "犬",
         "meanings": [
-          "dog familiaris)"
+          "dog"
         ]
       }
     ],
@@ -284,7 +289,7 @@
       "いぬ"
     ],
     "acceptedEnglish": [
-      "dog familiaris)",
+      "dog",
       "squealer",
       "rat",
       "snitch",

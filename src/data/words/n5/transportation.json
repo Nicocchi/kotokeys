@@ -12,7 +12,7 @@
       {
         "kanji": "駅",
         "meanings": [
-          "railway station"
+          "station"
         ]
       }
     ],
@@ -61,18 +61,20 @@
       {
         "kanji": "自",
         "meanings": [
-          "car"
+          "self"
         ]
       },
       {
         "kanji": "動",
         "meanings": [
-          "car"
+          "move"
         ]
       },
       {
         "kanji": "車",
         "meanings": [
+          "vehicle",
+          "wheel",
           "car"
         ]
       }
@@ -201,19 +203,22 @@
       {
         "kanji": "地",
         "meanings": [
-          "subway"
+          "ground",
+          "place",
+          "base",
+          "earth"
         ]
       },
       {
         "kanji": "下",
         "meanings": [
-          "subway"
+          "down"
         ]
       },
       {
         "kanji": "鉄",
         "meanings": [
-          "subway"
+          "iron"
         ]
       }
     ],
@@ -269,13 +274,13 @@
       {
         "kanji": "切",
         "meanings": [
-          "ticket"
+          "cut"
         ]
       },
       {
         "kanji": "符",
         "meanings": [
-          "ticket"
+          "symbol"
         ]
       }
     ],
@@ -332,19 +337,23 @@
       {
         "kanji": "自",
         "meanings": [
-          "bicycle"
+          "self"
         ]
       },
       {
         "kanji": "転",
         "meanings": [
-          "bicycle"
+          "turn",
+          "roll over",
+          "fall down"
         ]
       },
       {
         "kanji": "車",
         "meanings": [
-          "bicycle"
+          "vehicle",
+          "wheel",
+          "car"
         ]
       }
     ],
@@ -399,13 +408,15 @@
       {
         "kanji": "電",
         "meanings": [
-          "train"
+          "electricity"
         ]
       },
       {
         "kanji": "車",
         "meanings": [
-          "train"
+          "vehicle",
+          "wheel",
+          "car"
         ]
       }
     ],
@@ -524,19 +535,22 @@
       {
         "kanji": "飛",
         "meanings": [
-          "airplane"
+          "fly"
         ]
       },
       {
         "kanji": "行",
         "meanings": [
-          "airplane"
+          "go",
+          "act",
+          "line"
         ]
       },
       {
         "kanji": "機",
         "meanings": [
-          "airplane"
+          "machine",
+          "opportunity"
         ]
       }
     ],
@@ -593,6 +607,8 @@
       {
         "kanji": "車",
         "meanings": [
+          "vehicle",
+          "wheel",
           "car"
         ]
       }

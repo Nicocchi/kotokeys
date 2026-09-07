@@ -1,1 +1,1194 @@
-[]
+[
+  {
+    "id": "n4-health-body-medical-science-1777217250992",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "医学",
+    "kanji": "医学",
+    "kana": "いがく",
+    "meaning": "medical science",
+    "explanation": "A JLPT N4 noun meaning \"medical science\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "医",
+        "meanings": [
+          "medicine",
+          "doctor"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は医学の学生だ。",
+      "english": "He is a medical student.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "医学",
+          "highlight": true,
+          "reading": "いがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "学",
+          "reading": "がく"
+        },
+        {
+          "text": "生",
+          "reading": "い"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "110090",
+        "englishSentenceId": "293599",
+        "url": "https://tatoeba.org/en/sentences/show/110090"
+      }
+    },
+    "acceptedJapanese": [
+      "医学",
+      "いがく"
+    ],
+    "acceptedEnglish": [
+      "medical science",
+      "medicine"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-health-body-moustache-1777217251031",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "髭",
+    "kanji": "髭",
+    "kana": "ひげ",
+    "meaning": "moustache",
+    "explanation": "A JLPT N4 noun meaning \"moustache\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "髭",
+        "meanings": [
+          "beard",
+          "mustache"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "髭もじゃの男が大好きです。",
+      "english": "I love men with beards.",
+      "furigana": [
+        {
+          "text": "髭",
+          "highlight": true,
+          "reading": "ひげ"
+        },
+        {
+          "text": "もじゃの男が"
+        },
+        {
+          "text": "大好き",
+          "reading": "だいすき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11700323",
+        "englishSentenceId": "3115580",
+        "url": "https://tatoeba.org/en/sentences/show/11700323"
+      }
+    },
+    "acceptedJapanese": [
+      "髭",
+      "ひげ"
+    ],
+    "acceptedEnglish": [
+      "moustache",
+      "mustache",
+      "beard",
+      "whiskers",
+      "sideburns",
+      "feelers"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-neck-1777217251055",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "首",
+    "kanji": "首",
+    "kana": "くび",
+    "meaning": "neck",
+    "explanation": "A JLPT N4 noun meaning \"neck\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "首",
+        "meanings": [
+          "head",
+          "neck",
+          "leader"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は太い首をしている。",
+      "english": "He has a thick neck.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "太い",
+          "reading": "ふとい"
+        },
+        {
+          "text": "首",
+          "highlight": true,
+          "reading": "くび"
+        },
+        {
+          "text": "をしている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "102554",
+        "englishSentenceId": "301140",
+        "url": "https://tatoeba.org/en/sentences/show/102554"
+      }
+    },
+    "acceptedJapanese": [
+      "首",
+      "くび"
+    ],
+    "acceptedEnglish": [
+      "neck",
+      "head",
+      "dismissal",
+      "firing",
+      "sacking"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-condition-1777217251112",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "具合",
+    "kanji": "具合",
+    "kana": "ぐあい",
+    "meaning": "condition",
+    "explanation": "A JLPT N4 noun meaning \"condition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "具",
+        "meanings": [
+          "implement",
+          "tool"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は体の具合がよくありません。",
+      "english": "He is in poor health.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は体の"
+        },
+        {
+          "text": "具合",
+          "highlight": true,
+          "reading": "ぐあい"
+        },
+        {
+          "text": "がよくありません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "210196",
+        "englishSentenceId": "47461",
+        "url": "https://tatoeba.org/en/sentences/show/210196"
+      }
+    },
+    "acceptedJapanese": [
+      "具合",
+      "ぐあい"
+    ],
+    "acceptedEnglish": [
+      "condition",
+      "state",
+      "health",
+      "way",
+      "manner",
+      "circumstance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-visit-1777217251130",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "お見舞い",
+    "kanji": "お見舞い",
+    "kana": "おみまい",
+    "meaning": "visit",
+    "explanation": "A JLPT N4 noun meaning \"visit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      },
+      {
+        "kanji": "舞",
+        "meanings": [
+          "dance"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "入院中の祖母のお見舞いに行くんです。",
+      "english": "I'm visiting my grandmother in the hospital.",
+      "furigana": [
+        {
+          "text": "入院",
+          "reading": "にゅういん"
+        },
+        {
+          "text": "中の"
+        },
+        {
+          "text": "祖母",
+          "reading": "そぼ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "お見舞い",
+          "highlight": true,
+          "reading": "おみまい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "おこな"
+        },
+        {
+          "text": "くんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1555126",
+        "englishSentenceId": "436453",
+        "url": "https://tatoeba.org/en/sentences/show/1555126"
+      }
+    },
+    "acceptedJapanese": [
+      "お見舞い",
+      "おみまい"
+    ],
+    "acceptedEnglish": [
+      "visit",
+      "call",
+      "inquiry",
+      "expression of sympathy",
+      "letter of inquiry",
+      "letter of sympathy"
+    ]
+  },
+  {
+    "id": "n4-health-body-injury-1777217251433",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "怪我",
+    "kanji": "怪我",
+    "kana": "けが",
+    "meaning": "injury",
+    "explanation": "A JLPT N4 noun, suru noun meaning \"injury\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "怪",
+        "meanings": [
+          "mysterious",
+          "strange",
+          "doubt"
+        ]
+      },
+      {
+        "kanji": "我",
+        "meanings": [
+          "self",
+          "I",
+          "my",
+          "our"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は事故で怪我をした。",
+      "english": "He was hurt in the accident.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "事故",
+          "reading": "じこ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "怪我",
+          "highlight": true,
+          "reading": "けが"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105371",
+        "englishSentenceId": "298318",
+        "url": "https://tatoeba.org/en/sentences/show/105371"
+      }
+    },
+    "acceptedJapanese": [
+      "怪我",
+      "けが"
+    ],
+    "acceptedEnglish": [
+      "injury",
+      "wound",
+      "mistake",
+      "accident",
+      "loss"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-health-body-hospitalisation-1777217251478",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "入院",
+    "kanji": "入院",
+    "kana": "にゅういん",
+    "meaning": "hospitalisation",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"hospitalisation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      },
+      {
+        "kanji": "院",
+        "meanings": [
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "入院してます。",
+      "english": "I'm in hospital.",
+      "furigana": [
+        {
+          "text": "入院",
+          "highlight": true,
+          "reading": "にゅういん"
+        },
+        {
+          "text": "してます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11508401",
+        "englishSentenceId": "10791667",
+        "url": "https://tatoeba.org/en/sentences/show/11508401"
+      }
+    },
+    "acceptedJapanese": [
+      "入院",
+      "にゅういん"
+    ],
+    "acceptedEnglish": [
+      "hospitalisation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-hair-1777217251553",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "髪",
+    "kanji": "髪",
+    "kana": "かみ",
+    "meaning": "hair",
+    "explanation": "A JLPT N4 noun meaning \"hair\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "髪",
+        "meanings": [
+          "hair (on the head)"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "髪をとかした。",
+      "english": "I combed my hair.",
+      "furigana": [
+        {
+          "text": "髪",
+          "highlight": true,
+          "reading": "かみ"
+        },
+        {
+          "text": "をとかした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9089095",
+        "englishSentenceId": "6710468",
+        "url": "https://tatoeba.org/en/sentences/show/9089095"
+      }
+    },
+    "acceptedJapanese": [
+      "髪",
+      "かみ"
+    ],
+    "acceptedEnglish": [
+      "hair"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-health-body-leaving-hospital-1777217251559",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "退院",
+    "kanji": "退院",
+    "kana": "たいいん",
+    "meaning": "leaving hospital",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"leaving hospital\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "退",
+        "meanings": [
+          "retreat",
+          "drive away",
+          "repel"
+        ]
+      },
+      {
+        "kanji": "院",
+        "meanings": [
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "患者は退院した。",
+      "english": "The patient was discharged from hospital.",
+      "furigana": [
+        {
+          "text": "患者",
+          "reading": "かんじゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "退院",
+          "highlight": true,
+          "reading": "たいいん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183930",
+        "englishSentenceId": "21056",
+        "url": "https://tatoeba.org/en/sentences/show/183930"
+      }
+    },
+    "acceptedJapanese": [
+      "退院",
+      "たいいん"
+    ],
+    "acceptedEnglish": [
+      "leaving hospital",
+      "discharge from hospital"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-hair-1777217251808",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "毛",
+    "kanji": "毛",
+    "kana": "け",
+    "meaning": "hair",
+    "explanation": "A JLPT N4 noun meaning \"hair\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "毛",
+        "meanings": [
+          "hair",
+          "fur",
+          "feather",
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は巻き毛だ。",
+      "english": "He has curly hair.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "巻き"
+        },
+        {
+          "text": "毛",
+          "highlight": true,
+          "reading": "け"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3357985",
+        "englishSentenceId": "2940765",
+        "url": "https://tatoeba.org/en/sentences/show/3357985"
+      }
+    },
+    "acceptedJapanese": [
+      "毛",
+      "け"
+    ],
+    "acceptedEnglish": [
+      "hair",
+      "fur",
+      "wool",
+      "down",
+      "plumage",
+      "feathers"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-finger-1777217252105",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "指",
+    "kanji": "指",
+    "kana": "ゆび",
+    "meaning": "finger",
+    "explanation": "A JLPT N4 noun meaning \"finger\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "指を開いて。",
+      "english": "Spread your fingers.",
+      "furigana": [
+        {
+          "text": "指",
+          "highlight": true,
+          "reading": "ゆび"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "開",
+          "reading": "ひら"
+        },
+        {
+          "text": "いて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10153663",
+        "englishSentenceId": "9853909",
+        "url": "https://tatoeba.org/en/sentences/show/10153663"
+      }
+    },
+    "acceptedJapanese": [
+      "指",
+      "ゆび"
+    ],
+    "acceptedEnglish": [
+      "finger",
+      "toe",
+      "digit"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-health-body-back-1777217252222",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "背中",
+    "kanji": "背中",
+    "kana": "せなか",
+    "meaning": "back",
+    "explanation": "A JLPT N4 noun meaning \"back\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "背",
+        "meanings": [
+          "back"
+        ]
+      },
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "背中かいて。",
+      "english": "Scratch my back.",
+      "furigana": [
+        {
+          "text": "背中",
+          "highlight": true,
+          "reading": "せなか"
+        },
+        {
+          "text": "かいて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12070374",
+        "englishSentenceId": "7078369",
+        "url": "https://tatoeba.org/en/sentences/show/12070374"
+      }
+    },
+    "acceptedJapanese": [
+      "背中",
+      "せなか"
+    ],
+    "acceptedEnglish": [
+      "back"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-dentist-1777217252225",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "歯医者",
+    "kanji": "歯医者",
+    "kana": "はいしゃ",
+    "meaning": "dentist",
+    "explanation": "A JLPT N4 noun meaning \"dentist\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歯",
+        "meanings": [
+          "tooth"
+        ]
+      },
+      {
+        "kanji": "医",
+        "meanings": [
+          "medicine",
+          "doctor"
+        ]
+      },
+      {
+        "kanji": "者",
+        "meanings": [
+          "person"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は歯医者に行った。",
+      "english": "He went to the dentist.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "歯医者",
+          "highlight": true,
+          "reading": "はいしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "おこな"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105390",
+        "englishSentenceId": "298299",
+        "url": "https://tatoeba.org/en/sentences/show/105390"
+      }
+    },
+    "acceptedJapanese": [
+      "歯医者",
+      "はいしゃ"
+    ],
+    "acceptedEnglish": [
+      "dentist"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-health-body-injection-1777217252378",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "注射",
+    "kanji": "注射",
+    "kana": "ちゅうしゃ",
+    "meaning": "injection",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"injection\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "注",
+        "meanings": [
+          "pour",
+          "concentrate",
+          "note"
+        ]
+      },
+      {
+        "kanji": "射",
+        "meanings": [
+          "shoot"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "注射の時間ですよ。",
+      "english": "It's time for your shot.",
+      "furigana": [
+        {
+          "text": "注射",
+          "highlight": true,
+          "reading": "ちゅうしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "ですよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9859643",
+        "englishSentenceId": "2882850",
+        "url": "https://tatoeba.org/en/sentences/show/9859643"
+      }
+    },
+    "acceptedJapanese": [
+      "注射",
+      "ちゅうしゃ"
+    ],
+    "acceptedEnglish": [
+      "injection",
+      "jab",
+      "shot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-blood-1777217252483",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "血",
+    "kanji": "血",
+    "kana": "ち",
+    "meaning": "blood",
+    "explanation": "A JLPT N4 noun meaning \"blood\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "血",
+        "meanings": [
+          "blood"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "血たんが出ます。",
+      "english": "My phlegm has blood in it.",
+      "furigana": [
+        {
+          "text": "血",
+          "highlight": true,
+          "reading": "ち"
+        },
+        {
+          "text": "たんが出ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175717",
+        "englishSentenceId": "238748",
+        "url": "https://tatoeba.org/en/sentences/show/175717"
+      }
+    },
+    "acceptedJapanese": [
+      "血",
+      "ち"
+    ],
+    "acceptedEnglish": [
+      "blood",
+      "ancestry",
+      "lineage",
+      "stock",
+      "feelings",
+      "passions"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-health-body-throat-1777217252540",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "喉",
+    "kanji": "喉",
+    "kana": "のど",
+    "meaning": "throat",
+    "explanation": "A JLPT N4 noun meaning \"throat\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "喉",
+        "meanings": [
+          "throat",
+          "voice"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "喉が痛い。",
+      "english": "My throat hurts.",
+      "furigana": [
+        {
+          "text": "喉",
+          "highlight": true,
+          "reading": "のど"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛い",
+          "reading": "いたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173826",
+        "englishSentenceId": "3256233",
+        "url": "https://tatoeba.org/en/sentences/show/173826"
+      }
+    },
+    "acceptedJapanese": [
+      "喉",
+      "のど"
+    ],
+    "acceptedEnglish": [
+      "throat",
+      "singing voice",
+      "gutter"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-health-body-nurse-1777217252546",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "看護婦",
+    "kanji": "看護婦",
+    "kana": "かんごふ",
+    "meaning": "nurse",
+    "explanation": "A JLPT N4 noun meaning \"nurse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "看",
+        "meanings": [
+          "watch",
+          "care for"
+        ]
+      },
+      {
+        "kanji": "護",
+        "meanings": [
+          "protect"
+        ]
+      },
+      {
+        "kanji": "婦",
+        "meanings": [
+          "adult woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は看護婦です。",
+      "english": "She's a nurse.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "看護婦",
+          "highlight": true,
+          "reading": "かんごふ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "90655",
+        "englishSentenceId": "6589074",
+        "url": "https://tatoeba.org/en/sentences/show/90655"
+      }
+    },
+    "acceptedJapanese": [
+      "看護婦",
+      "かんごふ"
+    ],
+    "acceptedEnglish": [
+      "nurse"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-health-body-arm-1777217252591",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "腕",
+    "kanji": "腕",
+    "kana": "うで",
+    "meaning": "arm",
+    "explanation": "A JLPT N4 noun meaning \"arm\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "腕",
+        "meanings": [
+          "arm"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は腕が上がった。",
+      "english": "He has improved in skill.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "腕",
+          "highlight": true,
+          "reading": "うで"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "がった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "98836",
+        "englishSentenceId": "304863",
+        "url": "https://tatoeba.org/en/sentences/show/98836"
+      }
+    },
+    "acceptedJapanese": [
+      "腕",
+      "うで"
+    ],
+    "acceptedEnglish": [
+      "arm",
+      "ability",
+      "skill",
+      "talent",
+      "competence",
+      "strength"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-health-body-heat-1777217252597",
+    "jlpt": "N4",
+    "subcategory": "Health/Body",
+    "name": "熱",
+    "kanji": "熱",
+    "kana": "ねつ",
+    "meaning": "heat",
+    "explanation": "A JLPT N4 noun meaning \"heat\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "熱",
+        "meanings": [
+          "heat",
+          "hot",
+          "fever"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "熱はありますか。",
+      "english": "Any fever?",
+      "furigana": [
+        {
+          "text": "熱",
+          "highlight": true,
+          "reading": "ねつ"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "121893",
+        "englishSentenceId": "282111",
+        "url": "https://tatoeba.org/en/sentences/show/121893"
+      }
+    },
+    "acceptedJapanese": [
+      "熱",
+      "ねつ"
+    ],
+    "acceptedEnglish": [
+      "heat",
+      "fever",
+      "temperature"
+    ],
+    "pitchAccentNumber": 2
+  }
+]

@@ -1,1 +1,7641 @@
-[]
+[
+  {
+    "id": "n4-other-at-last-1777217250869",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "漸と",
+    "kanji": "漸と",
+    "kana": "やっと",
+    "meaning": "at last",
+    "explanation": "A JLPT N4 adverb meaning \"at last\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "漸",
+        "meanings": [
+          "steadily",
+          "gradually advancing",
+          "finally",
+          "barely"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「漸と」は日本語の言葉です。",
+      "english": "\"at last\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "漸と",
+          "reading": "やっと",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "漸と",
+      "やっと"
+    ],
+    "acceptedEnglish": [
+      "at last",
+      "finally",
+      "barely",
+      "narrowly",
+      "just",
+      "by the skin of one's teeth"
+    ]
+  },
+  {
+    "id": "n4-other-of-course-1777217250896",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "勿論",
+    "kanji": "勿論",
+    "kana": "もちろん",
+    "meaning": "of course",
+    "explanation": "A JLPT N4 adverb meaning \"of course\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勿",
+        "meanings": [
+          "not",
+          "must not",
+          "do not",
+          "be not"
+        ]
+      },
+      {
+        "kanji": "論",
+        "meanings": [
+          "argue",
+          "theory",
+          "thesis"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "クレーンを操縦するのには、勿論、免許が必要です。",
+      "english": "Of course, a license is needed to operate a crane.",
+      "furigana": [
+        {
+          "text": "クレーンを"
+        },
+        {
+          "text": "操縦",
+          "reading": "そうじゅう"
+        },
+        {
+          "text": "するのには、"
+        },
+        {
+          "text": "勿論",
+          "highlight": true,
+          "reading": "もちろん"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "免許",
+          "reading": "めんきょ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "74652",
+        "englishSentenceId": "329067",
+        "url": "https://tatoeba.org/en/sentences/show/74652"
+      }
+    },
+    "acceptedJapanese": [
+      "勿論",
+      "もちろん"
+    ],
+    "acceptedEnglish": [
+      "of course",
+      "certainly",
+      "naturally"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-technology-1777217250902",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "技術",
+    "kanji": "技術",
+    "kana": "ぎじゅつ",
+    "meaning": "technology",
+    "explanation": "A JLPT N4 noun meaning \"technology\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "技",
+        "meanings": [
+          "skill",
+          "technique"
+        ]
+      },
+      {
+        "kanji": "術",
+        "meanings": [
+          "practical art",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "バカみたいな技術だな。",
+      "english": "The technology seems stupid.",
+      "furigana": [
+        {
+          "text": "バカみたいな"
+        },
+        {
+          "text": "技術",
+          "highlight": true,
+          "reading": "ぎじゅつ"
+        },
+        {
+          "text": "だな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10990176",
+        "englishSentenceId": "13677514",
+        "url": "https://tatoeba.org/en/sentences/show/10990176"
+      }
+    },
+    "acceptedJapanese": [
+      "技術",
+      "ぎじゅつ"
+    ],
+    "acceptedEnglish": [
+      "technology",
+      "engineering",
+      "technique",
+      "skill",
+      "art",
+      "craft"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-surely-1777217250914",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "屹度",
+    "kanji": "屹度",
+    "kana": "きっと",
+    "meaning": "surely",
+    "explanation": "A JLPT N4 adverb meaning \"surely\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "屹",
+        "meanings": [
+          "towering mountains"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「屹度」は日本語の言葉です。",
+      "english": "\"surely\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "屹度",
+          "reading": "きっと",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "屹度",
+      "きっと"
+    ],
+    "acceptedEnglish": [
+      "surely",
+      "undoubtedly",
+      "almost certainly",
+      "most likely",
+      "sternly",
+      "severely"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-force-1777217250935",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "力",
+    "kanji": "力",
+    "kana": "ちから",
+    "meaning": "force",
+    "explanation": "A JLPT N4 noun meaning \"force\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "力",
+        "meanings": [
+          "power",
+          "force"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "力は正義なり。",
+      "english": "Might is right.",
+      "furigana": [
+        {
+          "text": "力",
+          "highlight": true,
+          "reading": "ちから"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "正義",
+          "reading": "せいぎ"
+        },
+        {
+          "text": "なり。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77809",
+        "englishSentenceId": "325909",
+        "url": "https://tatoeba.org/en/sentences/show/77809"
+      }
+    },
+    "acceptedJapanese": [
+      "力",
+      "ちから"
+    ],
+    "acceptedEnglish": [
+      "force",
+      "strength",
+      "might",
+      "vigour",
+      "energy",
+      "capability"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-distinction-1777217250947",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "別",
+    "kanji": "別",
+    "kana": "べつ",
+    "meaning": "distinction",
+    "explanation": "A JLPT N4 noun meaning \"distinction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "別",
+        "meanings": [
+          "separate",
+          "another"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "別々に払います。",
+      "english": "Please bill us separately.",
+      "furigana": [
+        {
+          "text": "別",
+          "highlight": true,
+          "reading": "べつ"
+        },
+        {
+          "text": "々",
+          "reading": "べつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "払い",
+          "reading": "はらい"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83396",
+        "englishSentenceId": "320321",
+        "url": "https://tatoeba.org/en/sentences/show/83396"
+      }
+    },
+    "acceptedJapanese": [
+      "別",
+      "べつ"
+    ],
+    "acceptedEnglish": [
+      "distinction",
+      "difference",
+      "discrimination",
+      "exception",
+      "exclusion"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-reason-1777217250956",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "理由",
+    "kanji": "理由",
+    "kana": "りゆう",
+    "meaning": "reason",
+    "explanation": "A JLPT N4 noun meaning \"reason\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "理",
+        "meanings": [
+          "reason",
+          "basic principle"
+        ]
+      },
+      {
+        "kanji": "由",
+        "meanings": [
+          "reason"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "理由は簡単だよ。",
+      "english": "The reason is simple.",
+      "furigana": [
+        {
+          "text": "理由",
+          "highlight": true,
+          "reading": "りゆう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12505126",
+        "englishSentenceId": "3896455",
+        "url": "https://tatoeba.org/en/sentences/show/12505126"
+      }
+    },
+    "acceptedJapanese": [
+      "理由",
+      "りゆう"
+    ],
+    "acceptedEnglish": [
+      "reason",
+      "grounds",
+      "pretext",
+      "excuse",
+      "motive"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-so-much-1777217250974",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "そんなに",
+    "kanji": "そんなに",
+    "kana": "そんなに",
+    "meaning": "so much",
+    "explanation": "A JLPT N4 adverb meaning \"so much\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "そんなに騒ぐな。",
+      "english": "Don't make so much noise.",
+      "furigana": [
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そんなに"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "そんなに"
+        },
+        {
+          "text": "な",
+          "highlight": true,
+          "reading": "そんなに"
+        },
+        {
+          "text": "に",
+          "highlight": true,
+          "reading": "そんなに"
+        },
+        {
+          "text": "騒ぐ",
+          "reading": "さわぐ"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204251",
+        "englishSentenceId": "41493",
+        "url": "https://tatoeba.org/en/sentences/show/204251"
+      }
+    },
+    "acceptedJapanese": [
+      "そんなに"
+    ],
+    "acceptedEnglish": [
+      "so much",
+      "so",
+      "like that"
+    ]
+  },
+  {
+    "id": "n4-other-particularly-1777217250983",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "特に",
+    "kanji": "特に",
+    "kana": "とくに",
+    "meaning": "particularly",
+    "explanation": "A JLPT N4 adverb meaning \"particularly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "特",
+        "meanings": [
+          "special"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "特に犬が好きだ。",
+      "english": "He especially likes dogs.",
+      "furigana": [
+        {
+          "text": "特に",
+          "highlight": true,
+          "reading": "とくに"
+        },
+        {
+          "text": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123475",
+        "englishSentenceId": "10194831",
+        "url": "https://tatoeba.org/en/sentences/show/123475"
+      }
+    },
+    "acceptedJapanese": [
+      "特に",
+      "とくに"
+    ],
+    "acceptedEnglish": [
+      "particularly",
+      "especially",
+      "in particular",
+      "expressly"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-ever-1777217250989",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "決して",
+    "kanji": "決して",
+    "kana": "けっして",
+    "meaning": "ever",
+    "explanation": "A JLPT N4 adverb meaning \"ever\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "決",
+        "meanings": [
+          "decide"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "決して放さないで。",
+      "english": "Never let me go.",
+      "furigana": [
+        {
+          "text": "決して",
+          "highlight": true,
+          "reading": "けっして"
+        },
+        {
+          "text": "放さないで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175928",
+        "englishSentenceId": "238537",
+        "url": "https://tatoeba.org/en/sentences/show/175928"
+      }
+    },
+    "acceptedJapanese": [
+      "決して",
+      "けっして"
+    ],
+    "acceptedEnglish": [
+      "ever",
+      "by any means",
+      "in the least",
+      "in any way",
+      "at all"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-society-1777217250998",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "社会",
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "meaning": "society",
+    "explanation": "A JLPT N4 noun meaning \"society\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "社",
+        "meanings": [
+          "company",
+          "society"
+        ]
+      },
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "社会が変化している。",
+      "english": "Society is changing.",
+      "furigana": [
+        {
+          "text": "社会",
+          "highlight": true,
+          "reading": "しゃかい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "変",
+          "reading": "へん"
+        },
+        {
+          "text": "化",
+          "reading": "か"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2973587",
+        "englishSentenceId": "2423889",
+        "url": "https://tatoeba.org/en/sentences/show/2973587"
+      }
+    },
+    "acceptedJapanese": [
+      "社会",
+      "しゃかい"
+    ],
+    "acceptedEnglish": [
+      "society",
+      "public",
+      "community",
+      "the world",
+      "social studies"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-accident-1777217251001",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "事故",
+    "kanji": "事故",
+    "kana": "じこ",
+    "meaning": "accident",
+    "explanation": "A JLPT N4 noun meaning \"accident\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      },
+      {
+        "kanji": "故",
+        "meanings": [
+          "old",
+          "the late",
+          "deceased",
+          "reason"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "事故があった。",
+      "english": "There's been an accident.",
+      "furigana": [
+        {
+          "text": "事故",
+          "highlight": true,
+          "reading": "じこ"
+        },
+        {
+          "text": "があった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150889",
+        "englishSentenceId": "263667",
+        "url": "https://tatoeba.org/en/sentences/show/150889"
+      }
+    },
+    "acceptedJapanese": [
+      "事故",
+      "じこ"
+    ],
+    "acceptedEnglish": [
+      "accident",
+      "incident",
+      "trouble",
+      "circumstances",
+      "reasons"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-hurrying-1777217251004",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "急行",
+    "kanji": "急行",
+    "kana": "きゅうこう",
+    "meaning": "hurrying",
+    "explanation": "A JLPT N4 noun, suru noun, no adjective meaning \"hurrying\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "急",
+        "meanings": [
+          "urgent",
+          "hurry",
+          "sudden"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは急行ですか。",
+      "english": "Is this an express?",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "急行",
+          "highlight": true,
+          "reading": "きゅうこう"
+        },
+        {
+          "text": "ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "218451",
+        "englishSentenceId": "55761",
+        "url": "https://tatoeba.org/en/sentences/show/218451"
+      }
+    },
+    "acceptedJapanese": [
+      "急行",
+      "きゅうこう"
+    ],
+    "acceptedEnglish": [
+      "hurrying",
+      "rushing",
+      "hastening"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-good-1777217251016",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "為",
+    "kanji": "為",
+    "kana": "ため",
+    "meaning": "good",
+    "explanation": "A JLPT N4 noun, adverb meaning \"good\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "為",
+        "meanings": [
+          "do",
+          "change",
+          "make",
+          "benefit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは国の為に戦った。",
+      "english": "They fought for the sake of their country.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "国",
+          "reading": "くに"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "為",
+          "highlight": true,
+          "reading": "ため"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "戦",
+          "reading": "いくさ"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "97155",
+        "englishSentenceId": "306548",
+        "url": "https://tatoeba.org/en/sentences/show/97155"
+      }
+    },
+    "acceptedJapanese": [
+      "為",
+      "ため"
+    ],
+    "acceptedEnglish": [
+      "good",
+      "advantage",
+      "benefit",
+      "welfare",
+      "sake",
+      "purpose"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-but-1777217251022",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "けれど",
+    "kanji": "けれど",
+    "kana": "けれど",
+    "meaning": "but",
+    "explanation": "A JLPT N4 conjunction, particle meaning \"but\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "けれども、とうとう、寝込んでしまいました。",
+      "english": "However, I finally fell asleep.",
+      "furigana": [
+        {
+          "text": "け",
+          "highlight": true,
+          "reading": "けれど"
+        },
+        {
+          "text": "れ",
+          "highlight": true,
+          "reading": "けれど"
+        },
+        {
+          "text": "ど",
+          "highlight": true,
+          "reading": "けれど"
+        },
+        {
+          "text": "も、とうとう、寝"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "んでしまいました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10899677",
+        "englishSentenceId": "12460831",
+        "url": "https://tatoeba.org/en/sentences/show/10899677"
+      }
+    },
+    "acceptedJapanese": [
+      "けれど"
+    ],
+    "acceptedEnglish": [
+      "but",
+      "however",
+      "although"
+    ]
+  },
+  {
+    "id": "n4-other-feeling-1777217251040",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "気分",
+    "kanji": "気分",
+    "kana": "きぶん",
+    "meaning": "feeling",
+    "explanation": "A JLPT N4 noun meaning \"feeling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "気分はどうですか。",
+      "english": "How are you feeling?",
+      "furigana": [
+        {
+          "text": "気分",
+          "highlight": true,
+          "reading": "きぶん"
+        },
+        {
+          "text": "はどうですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183161",
+        "englishSentenceId": "1839466",
+        "url": "https://tatoeba.org/en/sentences/show/183161"
+      }
+    },
+    "acceptedJapanese": [
+      "気分",
+      "きぶん"
+    ],
+    "acceptedEnglish": [
+      "feeling",
+      "mood"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-that-sort-of-1777217251052",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "あんな",
+    "kanji": "あんな",
+    "kana": "あんな",
+    "meaning": "that sort of",
+    "explanation": "A JLPT N4 pre-noun adjectival (rentaishi) meaning \"that sort of\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "あんな男、嫌い。",
+      "english": "I don't like men like that.",
+      "furigana": [
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "あんな"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "あんな"
+        },
+        {
+          "text": "な",
+          "highlight": true,
+          "reading": "あんな"
+        },
+        {
+          "text": "男、"
+        },
+        {
+          "text": "嫌い",
+          "reading": "きらい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10635049",
+        "englishSentenceId": "10632451",
+        "url": "https://tatoeba.org/en/sentences/show/10635049"
+      }
+    },
+    "acceptedJapanese": [
+      "あんな"
+    ],
+    "acceptedEnglish": [
+      "that sort of",
+      "that kind of",
+      "like that",
+      "such",
+      "so"
+    ]
+  },
+  {
+    "id": "n4-other-in-this-way-1777217251064",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "斯う",
+    "kanji": "斯う",
+    "kana": "こう",
+    "meaning": "in this way",
+    "explanation": "A JLPT N4 adverb meaning \"in this way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "斯",
+        "meanings": [
+          "this",
+          "thus",
+          "such",
+          "verbal pause"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「斯う」は日本語の言葉です。",
+      "english": "\"in this way\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "斯う",
+          "reading": "こう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "斯う",
+      "こう"
+    ],
+    "acceptedEnglish": [
+      "in this way",
+      "like this",
+      "so",
+      "thus",
+      "this"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-promise-1777217251094",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "約束",
+    "kanji": "約束",
+    "kana": "やくそく",
+    "meaning": "promise",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"promise\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "約",
+        "meanings": [
+          "promise",
+          "contract",
+          "approximately"
+        ]
+      },
+      {
+        "kanji": "束",
+        "meanings": [
+          "tie up",
+          "bundle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "約束しますか。",
+      "english": "Do you promise?",
+      "furigana": [
+        {
+          "text": "約束",
+          "highlight": true,
+          "reading": "やくそく"
+        },
+        {
+          "text": "しますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13238594",
+        "englishSentenceId": "1886067",
+        "url": "https://tatoeba.org/en/sentences/show/13238594"
+      }
+    },
+    "acceptedJapanese": [
+      "約束",
+      "やくそく"
+    ],
+    "acceptedEnglish": [
+      "promise",
+      "agreement",
+      "arrangement",
+      "one's word",
+      "contract",
+      "pact"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-a-particular-1777217251115",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "然る",
+    "kanji": "然る",
+    "kana": "さる",
+    "meaning": "a particular",
+    "explanation": "A JLPT N4 pre-noun adjectival (rentaishi) meaning \"a particular\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "然",
+        "meanings": [
+          "modifier forming suffix",
+          "as"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「然る」は日本語の言葉です。",
+      "english": "\"a particular\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "然る",
+          "reading": "さる",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "然る",
+      "さる"
+    ],
+    "acceptedEnglish": [
+      "a particular",
+      "a certain",
+      "that kind of",
+      "such a"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-opinion-1777217251121",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "意見",
+    "kanji": "意見",
+    "kana": "いけん",
+    "meaning": "opinion",
+    "explanation": "A JLPT N4 noun meaning \"opinion\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "意",
+        "meanings": [
+          "mind",
+          "meaning",
+          "will"
+        ]
+      },
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あなたの意見はどうですか。",
+      "english": "What's your opinion?",
+      "furigana": [
+        {
+          "text": "あなたの"
+        },
+        {
+          "text": "意見",
+          "highlight": true,
+          "reading": "いけん"
+        },
+        {
+          "text": "はどうですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "233471",
+        "englishSentenceId": "70841",
+        "url": "https://tatoeba.org/en/sentences/show/233471"
+      }
+    },
+    "acceptedJapanese": [
+      "意見",
+      "いけん"
+    ],
+    "acceptedEnglish": [
+      "opinion",
+      "view",
+      "comment"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-feeling-1777217251181",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "気持ち",
+    "kanji": "気持ち",
+    "kana": "きもち",
+    "meaning": "feeling",
+    "explanation": "A JLPT N4 noun meaning \"feeling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      },
+      {
+        "kanji": "持",
+        "meanings": [
+          "hold"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "気持ちは分かる。",
+      "english": "I understand the feeling.",
+      "furigana": [
+        {
+          "text": "気持ち",
+          "highlight": true,
+          "reading": "きもち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "分かる",
+          "reading": "わかる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10913712",
+        "englishSentenceId": "10913713",
+        "url": "https://tatoeba.org/en/sentences/show/10913712"
+      }
+    },
+    "acceptedJapanese": [
+      "気持ち",
+      "きもち"
+    ],
+    "acceptedEnglish": [
+      "feeling",
+      "sensation",
+      "mood",
+      "state of mind",
+      "preparedness",
+      "readiness"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-substitute-1777217251205",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "代わり",
+    "kanji": "代わり",
+    "kana": "かわり",
+    "meaning": "substitute",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"substitute\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "代",
+        "meanings": [
+          "substitute",
+          "generation",
+          "charge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はベルの代わりに明かりを用いた。",
+      "english": "He substituted a light for the bell.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はベルの"
+        },
+        {
+          "text": "代わり",
+          "highlight": true,
+          "reading": "かわり"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "明かり",
+          "reading": "あかり"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "用",
+          "reading": "よう"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "111011",
+        "englishSentenceId": "292675",
+        "url": "https://tatoeba.org/en/sentences/show/111011"
+      }
+    },
+    "acceptedJapanese": [
+      "代わり",
+      "かわり"
+    ],
+    "acceptedEnglish": [
+      "substitute",
+      "replacement",
+      "substituting",
+      "replacing",
+      "stand-in",
+      "proxy"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-then-1777217251214",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "すると",
+    "kanji": "すると",
+    "kana": "すると",
+    "meaning": "then",
+    "explanation": "A JLPT N4 conjunction meaning \"then\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "もう帰宅するところです。",
+      "english": "I'm going home now.",
+      "furigana": [
+        {
+          "text": "もう"
+        },
+        {
+          "text": "帰宅",
+          "reading": "きたく"
+        },
+        {
+          "text": "す",
+          "highlight": true,
+          "reading": "すると"
+        },
+        {
+          "text": "る",
+          "highlight": true,
+          "reading": "すると"
+        },
+        {
+          "text": "と",
+          "highlight": true,
+          "reading": "すると"
+        },
+        {
+          "text": "ころです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2265682",
+        "englishSentenceId": "56277",
+        "url": "https://tatoeba.org/en/sentences/show/2265682"
+      }
+    },
+    "acceptedJapanese": [
+      "すると"
+    ],
+    "acceptedEnglish": [
+      "then",
+      "and",
+      "thereupon",
+      "whereupon",
+      "in that case",
+      "so"
+    ]
+  },
+  {
+    "id": "n4-other-politics-1777217251235",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "政治",
+    "kanji": "政治",
+    "kana": "せいじ",
+    "meaning": "politics",
+    "explanation": "A JLPT N4 noun meaning \"politics\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "政",
+        "meanings": [
+          "political administration",
+          "government",
+          "rule"
+        ]
+      },
+      {
+        "kanji": "治",
+        "meanings": [
+          "govern",
+          "cure",
+          "heal"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "我々は政治を論じた。",
+      "english": "We argued politics.",
+      "furigana": [
+        {
+          "text": "我々",
+          "reading": "われわれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "政治",
+          "highlight": true,
+          "reading": "せいじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "論",
+          "reading": "ろん"
+        },
+        {
+          "text": "じた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185734",
+        "englishSentenceId": "22866",
+        "url": "https://tatoeba.org/en/sentences/show/185734"
+      }
+    },
+    "acceptedJapanese": [
+      "政治",
+      "せいじ"
+    ],
+    "acceptedEnglish": [
+      "politics",
+      "government"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-not-less-than-1777217251244",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "以上",
+    "kanji": "以上",
+    "kana": "いじょう",
+    "meaning": "not less than ...",
+    "explanation": "A JLPT N4 noun, used as a suffix meaning \"not less than ...\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それ以上はお役に立てません。",
+      "english": "Beyond that I cannot help you.",
+      "furigana": [
+        {
+          "text": "それ"
+        },
+        {
+          "text": "以上",
+          "highlight": true,
+          "reading": "いじょう"
+        },
+        {
+          "text": "はお"
+        },
+        {
+          "text": "役に立",
+          "reading": "やくにた"
+        },
+        {
+          "text": "てません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204496",
+        "englishSentenceId": "41737",
+        "url": "https://tatoeba.org/en/sentences/show/204496"
+      }
+    },
+    "acceptedJapanese": [
+      "以上",
+      "いじょう"
+    ],
+    "acceptedEnglish": [
+      "not less than ...",
+      "... and over",
+      "... and above",
+      "... and upwards",
+      "... or more",
+      "beyond"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-finally-1777217251250",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "到頭",
+    "kanji": "到頭",
+    "kana": "とうとう",
+    "meaning": "finally",
+    "explanation": "A JLPT N4 adverb meaning \"finally\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "到",
+        "meanings": [
+          "arrive",
+          "reach"
+        ]
+      },
+      {
+        "kanji": "頭",
+        "meanings": [
+          "head"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「到頭」は日本語の言葉です。",
+      "english": "\"finally\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "到頭",
+          "reading": "とうとう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "到頭",
+      "とうとう"
+    ],
+    "acceptedEnglish": [
+      "finally",
+      "at last",
+      "in the end",
+      "ultimately"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-congratulation-1777217251259",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "お祝い",
+    "kanji": "お祝い",
+    "kana": "おいわい",
+    "meaning": "congratulation",
+    "explanation": "A JLPT N4 noun meaning \"congratulation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祝",
+        "meanings": [
+          "celebrate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "心からお祝いを申し上げます。",
+      "english": "I offer you my hearty congratulations.",
+      "furigana": [
+        {
+          "text": "心",
+          "reading": "こころ"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "お祝い",
+          "highlight": true,
+          "reading": "おいわい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "申し上",
+          "reading": "もうしあ"
+        },
+        {
+          "text": "げます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145611",
+        "englishSentenceId": "268951",
+        "url": "https://tatoeba.org/en/sentences/show/145611"
+      }
+    },
+    "acceptedJapanese": [
+      "お祝い",
+      "おいわい"
+    ],
+    "acceptedEnglish": [
+      "congratulation",
+      "congratulations",
+      "celebration",
+      "festival",
+      "congratulatory gift",
+      "present"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-attention-1777217251283",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "注意",
+    "kanji": "注意",
+    "kana": "ちゅうい",
+    "meaning": "attention",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"attention\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "注",
+        "meanings": [
+          "pour",
+          "concentrate",
+          "note"
+        ]
+      },
+      {
+        "kanji": "意",
+        "meanings": [
+          "mind",
+          "meaning",
+          "will"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "注意！",
+      "english": "Attention!",
+      "furigana": [
+        {
+          "text": "注意",
+          "highlight": true,
+          "reading": "ちゅうい"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8534510",
+        "englishSentenceId": "513069",
+        "url": "https://tatoeba.org/en/sentences/show/8534510"
+      }
+    },
+    "acceptedJapanese": [
+      "注意",
+      "ちゅうい"
+    ],
+    "acceptedEnglish": [
+      "attention",
+      "notice",
+      "heed",
+      "care",
+      "caution",
+      "precaution"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-most-1777217251286",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "最も",
+    "kanji": "最も",
+    "kana": "もっとも",
+    "meaning": "most",
+    "explanation": "A JLPT N4 adverb meaning \"most\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "最",
+        "meanings": [
+          "most"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は最も美しい花が好きだ。",
+      "english": "He likes the most beautiful flower.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "最も",
+          "highlight": true,
+          "reading": "もっとも"
+        },
+        {
+          "text": "美しい",
+          "reading": "うつくしい"
+        },
+        {
+          "text": "花",
+          "reading": "はな"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "106977",
+        "englishSentenceId": "296709",
+        "url": "https://tatoeba.org/en/sentences/show/106977"
+      }
+    },
+    "acceptedJapanese": [
+      "最も",
+      "もっとも"
+    ],
+    "acceptedEnglish": [
+      "most",
+      "extremely"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-way-1777217251292",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "仕方",
+    "kanji": "仕方",
+    "kana": "しかた",
+    "meaning": "way",
+    "explanation": "A JLPT N4 noun meaning \"way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "仕",
+        "meanings": [
+          "serve",
+          "do"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "仕方がないよ。",
+      "english": "It can't be helped.",
+      "furigana": [
+        {
+          "text": "仕方",
+          "highlight": true,
+          "reading": "しかた"
+        },
+        {
+          "text": "がないよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "169010",
+        "englishSentenceId": "38612",
+        "url": "https://tatoeba.org/en/sentences/show/169010"
+      }
+    },
+    "acceptedJapanese": [
+      "仕方",
+      "しかた"
+    ],
+    "acceptedEnglish": [
+      "way",
+      "method",
+      "means",
+      "resource",
+      "course"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-so-1777217251295",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "だから",
+    "kanji": "だから",
+    "kana": "だから",
+    "meaning": "so",
+    "explanation": "A JLPT N4 conjunction meaning \"so\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "だから何？",
+      "english": "Therefore?",
+      "furigana": [
+        {
+          "text": "だ",
+          "highlight": true,
+          "reading": "だから"
+        },
+        {
+          "text": "か",
+          "highlight": true,
+          "reading": "だから"
+        },
+        {
+          "text": "ら",
+          "highlight": true,
+          "reading": "だから"
+        },
+        {
+          "text": "何？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4765",
+        "englishSentenceId": "5366774",
+        "url": "https://tatoeba.org/en/sentences/show/4765"
+      }
+    },
+    "acceptedJapanese": [
+      "だから"
+    ],
+    "acceptedEnglish": [
+      "so",
+      "therefore",
+      "accordingly",
+      "consequently",
+      "on those grounds",
+      "that is why"
+    ]
+  },
+  {
+    "id": "n4-other-for-example-1777217251301",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "例えば",
+    "kanji": "例えば",
+    "kana": "たとえば",
+    "meaning": "for example",
+    "explanation": "A JLPT N4 adverb meaning \"for example\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "例",
+        "meanings": [
+          "example"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "例えば、これはペンです。",
+      "english": "For example, this is a pen.",
+      "furigana": [
+        {
+          "text": "例えば",
+          "highlight": true,
+          "reading": "たとえば"
+        },
+        {
+          "text": "、これはペンです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "665090",
+        "englishSentenceId": "326004",
+        "url": "https://tatoeba.org/en/sentences/show/665090"
+      }
+    },
+    "acceptedJapanese": [
+      "例えば",
+      "たとえば"
+    ],
+    "acceptedEnglish": [
+      "for example",
+      "for instance",
+      "e.g"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-lie-1777217251313",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "嘘",
+    "kanji": "嘘",
+    "kana": "うそ",
+    "meaning": "lie",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"lie\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "嘘",
+        "meanings": [
+          "lie",
+          "falsehood"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "嘘！",
+      "english": "No way!",
+      "furigana": [
+        {
+          "text": "嘘",
+          "highlight": true,
+          "reading": "うそ"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "536720",
+        "englishSentenceId": "2175",
+        "url": "https://tatoeba.org/en/sentences/show/536720"
+      }
+    },
+    "acceptedJapanese": [
+      "嘘",
+      "うそ"
+    ],
+    "acceptedEnglish": [
+      "lie",
+      "fib",
+      "falsehood",
+      "untruth",
+      "mistake",
+      "error"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-extent-1777217251334",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "程",
+    "kanji": "程",
+    "kana": "ほど",
+    "meaning": "extent",
+    "explanation": "A JLPT N4 noun, adverb meaning \"extent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "身の程を知れ。",
+      "english": "Know your place.",
+      "furigana": [
+        {
+          "text": "身の",
+          "reading": "みの"
+        },
+        {
+          "text": "程",
+          "highlight": true,
+          "reading": "ほど"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "知",
+          "reading": "ち"
+        },
+        {
+          "text": "れ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "144749",
+        "englishSentenceId": "10221927",
+        "url": "https://tatoeba.org/en/sentences/show/144749"
+      }
+    },
+    "acceptedJapanese": [
+      "程",
+      "ほど"
+    ],
+    "acceptedEnglish": [
+      "extent",
+      "degree",
+      "measure"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-particle-indicating-a-command-1777217251337",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "こと",
+    "kanji": "こと",
+    "kana": "こと",
+    "meaning": "particle indicating a command",
+    "explanation": "A JLPT N4 particle meaning \"particle indicating a command\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "そういうことです。",
+      "english": "That's right.",
+      "furigana": [
+        {
+          "text": "そういう"
+        },
+        {
+          "text": "こ",
+          "highlight": true,
+          "reading": "こと"
+        },
+        {
+          "text": "と",
+          "highlight": true,
+          "reading": "こと"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2171509",
+        "englishSentenceId": "1216015",
+        "url": "https://tatoeba.org/en/sentences/show/2171509"
+      }
+    },
+    "acceptedJapanese": [
+      "こと"
+    ],
+    "acceptedEnglish": [
+      "particle indicating a command",
+      "particle indicating mild enthusiasm",
+      "particle indicating a gentle interrogative",
+      "particle used to soften a judgment or conclusion"
+    ]
+  },
+  {
+    "id": "n4-other-dot-1777217251358",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "点",
+    "kanji": "点",
+    "kana": "てん",
+    "meaning": "dot",
+    "explanation": "A JLPT N4 noun meaning \"dot\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それが重要な点です。",
+      "english": "That's the point.",
+      "furigana": [
+        {
+          "text": "それが"
+        },
+        {
+          "text": "重要",
+          "reading": "じゅうよう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "点",
+          "highlight": true,
+          "reading": "てん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "205871",
+        "englishSentenceId": "43117",
+        "url": "https://tatoeba.org/en/sentences/show/205871"
+      }
+    },
+    "acceptedJapanese": [
+      "点",
+      "てん"
+    ],
+    "acceptedEnglish": [
+      "dot",
+      "spot",
+      "point",
+      "speck",
+      "mark",
+      "grade"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-international-1777217251364",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "国際",
+    "kanji": "国際",
+    "kana": "こくさい",
+    "meaning": "international",
+    "explanation": "A JLPT N4 no adjective, noun meaning \"international\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "国",
+        "meanings": [
+          "country"
+        ]
+      },
+      {
+        "kanji": "際",
+        "meanings": [
+          "verge",
+          "occasion",
+          "edge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "8月8日は国際ネコの日です。",
+      "english": "The 8th of August is International Cat Day.",
+      "furigana": [
+        {
+          "text": "8"
+        },
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "国際",
+          "highlight": true,
+          "reading": "こくさい"
+        },
+        {
+          "text": "ネコの"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2718479",
+        "englishSentenceId": "9235175",
+        "url": "https://tatoeba.org/en/sentences/show/2718479"
+      }
+    },
+    "acceptedJapanese": [
+      "国際",
+      "こくさい"
+    ],
+    "acceptedEnglish": [
+      "international"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-experience-1777217251379",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "経験",
+    "kanji": "経験",
+    "kana": "けいけん",
+    "meaning": "experience",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"experience\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "経",
+        "meanings": [
+          "pass through",
+          "manage",
+          "sutra"
+        ]
+      },
+      {
+        "kanji": "験",
+        "meanings": [
+          "test"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大切なのは経験です。",
+      "english": "What matters is the experience.",
+      "furigana": [
+        {
+          "text": "大"
+        },
+        {
+          "text": "切",
+          "reading": "せつ"
+        },
+        {
+          "text": "なのは"
+        },
+        {
+          "text": "経験",
+          "highlight": true,
+          "reading": "けいけん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10125545",
+        "englishSentenceId": "3454339",
+        "url": "https://tatoeba.org/en/sentences/show/10125545"
+      }
+    },
+    "acceptedJapanese": [
+      "経験",
+      "けいけん"
+    ],
+    "acceptedEnglish": [
+      "experience"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-mostly-1777217251382",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "大抵",
+    "kanji": "大抵",
+    "kana": "たいてい",
+    "meaning": "mostly",
+    "explanation": "A JLPT N4 na adjective, adverb, noun meaning \"mostly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "抵",
+        "meanings": [
+          "resist"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "父は大抵６時には帰宅します。",
+      "english": "My father usually comes home at six.",
+      "furigana": [
+        {
+          "text": "父",
+          "reading": "ちち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大抵",
+          "highlight": true,
+          "reading": "たいてい"
+        },
+        {
+          "text": "６"
+        },
+        {
+          "text": "時に",
+          "reading": "ときに"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "帰宅",
+          "reading": "きたく"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2174730",
+        "englishSentenceId": "251629",
+        "url": "https://tatoeba.org/en/sentences/show/2174730"
+      }
+    },
+    "acceptedJapanese": [
+      "大抵",
+      "たいてい"
+    ],
+    "acceptedEnglish": [
+      "mostly",
+      "ordinarily",
+      "usually",
+      "generally",
+      "probably"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-very-1777217251385",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "非常に",
+    "kanji": "非常に",
+    "kana": "ひじょうに",
+    "meaning": "very",
+    "explanation": "A JLPT N4 adverb meaning \"very\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "非",
+        "meanings": [
+          "is not",
+          "mistake",
+          "non-",
+          "un-"
+        ]
+      },
+      {
+        "kanji": "常",
+        "meanings": [
+          "normal",
+          "regular",
+          "ever-",
+          "always"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は非常に暑い。",
+      "english": "Today is extremely hot.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "非常に",
+          "highlight": true,
+          "reading": "ひじょうに"
+        },
+        {
+          "text": "暑い",
+          "reading": "あつい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "171514",
+        "englishSentenceId": "242962",
+        "url": "https://tatoeba.org/en/sentences/show/171514"
+      }
+    },
+    "acceptedJapanese": [
+      "非常に",
+      "ひじょうに"
+    ],
+    "acceptedEnglish": [
+      "very",
+      "extremely",
+      "exceedingly"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-such-1777217251397",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "そんな",
+    "kanji": "そんな",
+    "kana": "そんな",
+    "meaning": "such",
+    "explanation": "A JLPT N4 pre-noun adjectival (rentaishi) meaning \"such\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "そんな感じです。",
+      "english": "It's like that.",
+      "furigana": [
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そんな"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "そんな"
+        },
+        {
+          "text": "な",
+          "highlight": true,
+          "reading": "そんな"
+        },
+        {
+          "text": "感じ",
+          "reading": "かんじ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11574865",
+        "englishSentenceId": "10215623",
+        "url": "https://tatoeba.org/en/sentences/show/11574865"
+      }
+    },
+    "acceptedJapanese": [
+      "そんな"
+    ],
+    "acceptedEnglish": [
+      "such",
+      "that sort of",
+      "that kind of",
+      "like that"
+    ]
+  },
+  {
+    "id": "n4-other-drumming-1777217251427",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "どんどん",
+    "kanji": "どんどん",
+    "kana": "どんどん",
+    "meaning": "drumming",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle meaning \"drumming\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "時間がどんどん経った。",
+      "english": "Time went quickly.",
+      "furigana": [
+        {
+          "text": "時間",
+          "reading": "じかん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "ど",
+          "highlight": true,
+          "reading": "どんどん"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "どんどん"
+        },
+        {
+          "text": "ど",
+          "highlight": true,
+          "reading": "どんどん"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "どんどん"
+        },
+        {
+          "text": "経った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "150628",
+        "englishSentenceId": "263929",
+        "url": "https://tatoeba.org/en/sentences/show/150628"
+      }
+    },
+    "acceptedJapanese": [
+      "どんどん"
+    ],
+    "acceptedEnglish": [
+      "drumming",
+      "beating",
+      "pounding",
+      "banging",
+      "booming",
+      "stamping"
+    ]
+  },
+  {
+    "id": "n4-other-telegram-1777217251430",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "電報",
+    "kanji": "電報",
+    "kana": "でんぽう",
+    "meaning": "telegram",
+    "explanation": "A JLPT N4 noun meaning \"telegram\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "電",
+        "meanings": [
+          "electricity"
+        ]
+      },
+      {
+        "kanji": "報",
+        "meanings": [
+          "inform",
+          "require",
+          "news",
+          "report"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "電報をすぐ送れ。",
+      "english": "Send the telegram at once.",
+      "furigana": [
+        {
+          "text": "電報",
+          "highlight": true,
+          "reading": "でんぽう"
+        },
+        {
+          "text": "をすぐ"
+        },
+        {
+          "text": "送",
+          "reading": "おく"
+        },
+        {
+          "text": "れ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124758",
+        "englishSentenceId": "279236",
+        "url": "https://tatoeba.org/en/sentences/show/124758"
+      }
+    },
+    "acceptedJapanese": [
+      "電報",
+      "でんぽう"
+    ],
+    "acceptedEnglish": [
+      "telegram"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-cause-1777217251436",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "原因",
+    "kanji": "原因",
+    "kana": "げんいん",
+    "meaning": "cause",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"cause\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "原",
+        "meanings": [
+          "plain",
+          "original"
+        ]
+      },
+      {
+        "kanji": "因",
+        "meanings": [
+          "cause",
+          "depend",
+          "be limited"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "原因は？",
+      "english": "What's the cause?",
+      "furigana": [
+        {
+          "text": "原因",
+          "highlight": true,
+          "reading": "げんいん"
+        },
+        {
+          "text": "は？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2684810",
+        "englishSentenceId": "25111",
+        "url": "https://tatoeba.org/en/sentences/show/2684810"
+      }
+    },
+    "acceptedJapanese": [
+      "原因",
+      "げんいん"
+    ],
+    "acceptedEnglish": [
+      "cause",
+      "origin",
+      "source"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-line-1777217251445",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "線",
+    "kanji": "線",
+    "kana": "せん",
+    "meaning": "line",
+    "explanation": "A JLPT N4 noun, noun, used as a suffix meaning \"line\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "線",
+        "meanings": [
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この線の終点はどこですか。",
+      "english": "Where is the end of this line?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "線",
+          "highlight": true,
+          "reading": "せん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "終点",
+          "reading": "しゅうてん"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220781",
+        "englishSentenceId": "58103",
+        "url": "https://tatoeba.org/en/sentences/show/220781"
+      }
+    },
+    "acceptedJapanese": [
+      "線",
+      "せん"
+    ],
+    "acceptedEnglish": [
+      "line",
+      "stripe",
+      "stria",
+      "wire",
+      "ray",
+      "beam"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-smell-1777217251451",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "匂い",
+    "kanji": "匂い",
+    "kana": "におい",
+    "meaning": "smell",
+    "explanation": "A JLPT N4 noun meaning \"smell\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "匂",
+        "meanings": [
+          "fragrant",
+          "stink",
+          "glow",
+          "insinuate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いい匂い。",
+      "english": "It smells good!",
+      "furigana": [
+        {
+          "text": "いい"
+        },
+        {
+          "text": "匂い",
+          "highlight": true,
+          "reading": "におい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "229327",
+        "englishSentenceId": "66685",
+        "url": "https://tatoeba.org/en/sentences/show/229327"
+      }
+    },
+    "acceptedJapanese": [
+      "匂い",
+      "におい"
+    ],
+    "acceptedEnglish": [
+      "smell",
+      "scent",
+      "odour",
+      "stench",
+      "aura",
+      "whiff"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-besides-1777217251472",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "其れに",
+    "kanji": "其れに",
+    "kana": "それに",
+    "meaning": "besides",
+    "explanation": "A JLPT N4 conjunction meaning \"besides\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "其",
+        "meanings": [
+          "that"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「其れに」は日本語の言葉です。",
+      "english": "\"besides\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "其れに",
+          "reading": "それに",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "其れに",
+      "それに"
+    ],
+    "acceptedEnglish": [
+      "besides",
+      "in addition",
+      "also",
+      "moreover"
+    ]
+  },
+  {
+    "id": "n4-other-at-all-1777217251490",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "些とも",
+    "kanji": "些とも",
+    "kana": "ちっとも",
+    "meaning": "at all",
+    "explanation": "A JLPT N4 adverb meaning \"at all\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "些",
+        "meanings": [
+          "a little bit",
+          "sometimes"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「些とも」は日本語の言葉です。",
+      "english": "\"at all\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "些とも",
+          "reading": "ちっとも",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "些とも",
+      "ちっとも"
+    ],
+    "acceptedEnglish": [
+      "at all",
+      "a bit",
+      "in the least",
+      "in the slightest"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-generally-1777217251493",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "大体",
+    "kanji": "大体",
+    "kana": "だいたい",
+    "meaning": "generally",
+    "explanation": "A JLPT N4 adverb meaning \"generally\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の意見は大体において正しい。",
+      "english": "His opinion is generally correct.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "意見",
+          "reading": "いけん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大体",
+          "highlight": true,
+          "reading": "だいたい"
+        },
+        {
+          "text": "において"
+        },
+        {
+          "text": "正しい",
+          "reading": "ただしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "118153",
+        "englishSentenceId": "285512",
+        "url": "https://tatoeba.org/en/sentences/show/118153"
+      }
+    },
+    "acceptedJapanese": [
+      "大体",
+      "だいたい"
+    ],
+    "acceptedEnglish": [
+      "generally",
+      "on the whole",
+      "mostly",
+      "almost",
+      "nearly",
+      "approximately"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-grace-1777217251502",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "お陰",
+    "kanji": "お陰",
+    "kana": "おかげ",
+    "meaning": "grace",
+    "explanation": "A JLPT N4 noun meaning \"grace\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "陰",
+        "meanings": [
+          "shade",
+          "yin",
+          "negative",
+          "sex organs"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私が今あるのは両親のお陰です。",
+      "english": "I owe what I am today to my parents.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "あるのは"
+        },
+        {
+          "text": "両",
+          "reading": "りょう"
+        },
+        {
+          "text": "親",
+          "reading": "おや"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "お陰",
+          "highlight": true,
+          "reading": "おかげ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "167744",
+        "englishSentenceId": "242571",
+        "url": "https://tatoeba.org/en/sentences/show/167744"
+      }
+    },
+    "acceptedJapanese": [
+      "お陰",
+      "おかげ"
+    ],
+    "acceptedEnglish": [
+      "grace",
+      "benevolence",
+      "blessing",
+      "assistance",
+      "help",
+      "aid"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-clearly-1777217251532",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "はっきり",
+    "kanji": "はっきり",
+    "kana": "はっきり",
+    "meaning": "clearly",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle meaning \"clearly\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "はっきり見えますか？",
+      "english": "Can you see it clearly?",
+      "furigana": [
+        {
+          "text": "は",
+          "highlight": true,
+          "reading": "はっきり"
+        },
+        {
+          "text": "っ",
+          "highlight": true,
+          "reading": "はっきり"
+        },
+        {
+          "text": "き",
+          "highlight": true,
+          "reading": "はっきり"
+        },
+        {
+          "text": "り",
+          "highlight": true,
+          "reading": "はっきり"
+        },
+        {
+          "text": "見え",
+          "reading": "みえ"
+        },
+        {
+          "text": "ますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13537593",
+        "englishSentenceId": "13535334",
+        "url": "https://tatoeba.org/en/sentences/show/13537593"
+      }
+    },
+    "acceptedJapanese": [
+      "はっきり"
+    ],
+    "acceptedEnglish": [
+      "clearly",
+      "plainly",
+      "distinctly"
+    ]
+  },
+  {
+    "id": "n4-other-excuse-me-1777217251547",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "もし",
+    "kanji": "もし",
+    "kana": "もし",
+    "meaning": "excuse me!",
+    "explanation": "A JLPT N4 interjection meaning \"excuse me!\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "もしもし。",
+      "english": "Excuse me!",
+      "furigana": [
+        {
+          "text": "も",
+          "highlight": true,
+          "reading": "もし"
+        },
+        {
+          "text": "し",
+          "highlight": true,
+          "reading": "もし"
+        },
+        {
+          "text": "もし。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "385517",
+        "englishSentenceId": "2425828",
+        "url": "https://tatoeba.org/en/sentences/show/385517"
+      }
+    },
+    "acceptedJapanese": [
+      "もし"
+    ],
+    "acceptedEnglish": [
+      "excuse me!"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-as-expected-1777217251613",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "矢張り",
+    "kanji": "矢張り",
+    "kana": "やはり",
+    "meaning": "as expected",
+    "explanation": "A JLPT N4 adverb meaning \"as expected\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "矢",
+        "meanings": [
+          "arrow"
+        ]
+      },
+      {
+        "kanji": "張",
+        "meanings": [
+          "spread",
+          "strain",
+          "stretch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「矢張り」は日本語の言葉です。",
+      "english": "\"as expected\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "矢張り",
+          "reading": "やはり",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "矢張り",
+      "やはり"
+    ],
+    "acceptedEnglish": [
+      "as expected",
+      "sure enough",
+      "just as one thought",
+      "after all",
+      "in the end",
+      "as one would expect"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-considerably-1777217251634",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "大分",
+    "kanji": "大分",
+    "kana": "だいぶ",
+    "meaning": "considerably",
+    "explanation": "A JLPT N4 adverb meaning \"considerably\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は大分に行く予定です。",
+      "english": "She's going to Ooita.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大分",
+          "highlight": true,
+          "reading": "だいぶ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "おこな"
+        },
+        {
+          "text": "く"
+        },
+        {
+          "text": "予定",
+          "reading": "よてい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "93708",
+        "englishSentenceId": "309999",
+        "url": "https://tatoeba.org/en/sentences/show/93708"
+      }
+    },
+    "acceptedJapanese": [
+      "大分",
+      "だいぶ"
+    ],
+    "acceptedEnglish": [
+      "considerably",
+      "greatly",
+      "a lot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-intention-1777217251640",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "積もり",
+    "kanji": "積もり",
+    "kana": "つもり",
+    "meaning": "intention",
+    "explanation": "A JLPT N4 noun meaning \"intention\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "積",
+        "meanings": [
+          "accumulate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "粉雪は、とけにくく積もりやすい。",
+      "english": "Powdered snow is hard to melt and piles up easily.",
+      "furigana": [
+        {
+          "text": "粉"
+        },
+        {
+          "text": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "text": "は、とけにくく"
+        },
+        {
+          "text": "積もり",
+          "highlight": true,
+          "reading": "つもり"
+        },
+        {
+          "text": "やすい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9868271",
+        "englishSentenceId": "10246176",
+        "url": "https://tatoeba.org/en/sentences/show/9868271"
+      }
+    },
+    "acceptedJapanese": [
+      "積もり",
+      "つもり"
+    ],
+    "acceptedEnglish": [
+      "intention",
+      "plan",
+      "purpose",
+      "expectation",
+      "belief",
+      "assumption"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-tightly-1777217251682",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "確り",
+    "kanji": "確り",
+    "kana": "しっかり",
+    "meaning": "tightly",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle, suru noun meaning \"tightly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "確",
+        "meanings": [
+          "certain",
+          "verify"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「確り」は日本語の言葉です。",
+      "english": "\"tightly\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "確り",
+          "reading": "しっかり",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "確り",
+      "しっかり"
+    ],
+    "acceptedEnglish": [
+      "tightly",
+      "firmly",
+      "securely",
+      "strongly",
+      "solidly",
+      "sturdily"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-knowing-1777217251688",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "ご存知",
+    "kanji": "ご存知",
+    "kana": "ごぞんじ",
+    "meaning": "knowing",
+    "explanation": "A JLPT N4 noun meaning \"knowing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "存",
+        "meanings": [
+          "exist",
+          "know"
+        ]
+      },
+      {
+        "kanji": "知",
+        "meanings": [
+          "know"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの方をご存知ですか？",
+      "english": "Do you know him?",
+      "furigana": [
+        {
+          "text": "あの方",
+          "reading": "あのかた"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "ご存知",
+          "highlight": true,
+          "reading": "ごぞんじ"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5408635",
+        "englishSentenceId": "69003",
+        "url": "https://tatoeba.org/en/sentences/show/5408635"
+      }
+    },
+    "acceptedJapanese": [
+      "ご存知",
+      "ごぞんじ"
+    ],
+    "acceptedEnglish": [
+      "knowing",
+      "being aware",
+      "acquaintance"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-check-1777217251697",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "チェック",
+    "kanji": "チェック",
+    "kana": "チェック",
+    "meaning": "check",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"check\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "チェックメイト！",
+      "english": "Checkmate!",
+      "furigana": [
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "チェック"
+        },
+        {
+          "text": "ェ",
+          "highlight": true,
+          "reading": "チェック"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "チェック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "チェック"
+        },
+        {
+          "text": "メイト！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12353871",
+        "englishSentenceId": "611140",
+        "url": "https://tatoeba.org/en/sentences/show/12353871"
+      }
+    },
+    "acceptedJapanese": [
+      "チェック"
+    ],
+    "acceptedEnglish": [
+      "check",
+      "plaid"
+    ]
+  },
+  {
+    "id": "n4-other-hot-water-1777217251718",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "湯",
+    "kanji": "湯",
+    "kana": "ゆ",
+    "meaning": "hot water",
+    "explanation": "A JLPT N4 noun meaning \"hot water\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "湯",
+        "meanings": [
+          "hot water"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お湯が出ません。",
+      "english": "There's no hot water.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "湯",
+          "highlight": true,
+          "reading": "ゆ"
+        },
+        {
+          "text": "が出ません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "226801",
+        "englishSentenceId": "2217696",
+        "url": "https://tatoeba.org/en/sentences/show/226801"
+      }
+    },
+    "acceptedJapanese": [
+      "湯",
+      "ゆ"
+    ],
+    "acceptedEnglish": [
+      "hot water",
+      "hot bath",
+      "hot spring",
+      "molten iron"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-spirit-1777217251739",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "気",
+    "kanji": "気",
+    "kana": "き",
+    "meaning": "spirit",
+    "explanation": "A JLPT N4 noun meaning \"spirit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "気にするな。",
+      "english": "Never mind!",
+      "furigana": [
+        {
+          "text": "気",
+          "highlight": true,
+          "reading": "き"
+        },
+        {
+          "text": "にするな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183270",
+        "englishSentenceId": "20394",
+        "url": "https://tatoeba.org/en/sentences/show/183270"
+      }
+    },
+    "acceptedJapanese": [
+      "気",
+      "き"
+    ],
+    "acceptedEnglish": [
+      "spirit",
+      "mind",
+      "heart",
+      "nature",
+      "disposition",
+      "intention"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-so-1777217251745",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "其れで",
+    "kanji": "其れで",
+    "kana": "それで",
+    "meaning": "so",
+    "explanation": "A JLPT N4 conjunction meaning \"so\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "其",
+        "meanings": [
+          "that"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「其れで」は日本語の言葉です。",
+      "english": "\"so\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "其れで",
+          "reading": "それで",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "其れで",
+      "それで"
+    ],
+    "acceptedEnglish": [
+      "so",
+      "therefore",
+      "and",
+      "then"
+    ]
+  },
+  {
+    "id": "n4-other-gas-1777217251784",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "瓦斯",
+    "kanji": "瓦斯",
+    "kana": "ガス",
+    "meaning": "gas",
+    "explanation": "A JLPT N4 noun meaning \"gas\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "瓦",
+        "meanings": [
+          "tile",
+          "gram"
+        ]
+      },
+      {
+        "kanji": "斯",
+        "meanings": [
+          "this",
+          "thus",
+          "such",
+          "verbal pause"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「瓦斯」は日本語の言葉です。",
+      "english": "\"gas\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "瓦斯",
+          "reading": "ガス",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "瓦斯",
+      "ガス"
+    ],
+    "acceptedEnglish": [
+      "gas",
+      "poison gas",
+      "dense fog",
+      "thick fog",
+      "gas stove",
+      "gas cooker"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-very-1777217251787",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "随分",
+    "kanji": "随分",
+    "kana": "ずいぶん",
+    "meaning": "very",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle meaning \"very\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "随",
+        "meanings": [
+          "follow",
+          "though",
+          "notwithstanding",
+          "while"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日の料理は随分と手が込んでいるね。",
+      "english": "Today's food is quite elaborate.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "随分",
+          "highlight": true,
+          "reading": "ずいぶん"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "んでいるね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1215455",
+        "englishSentenceId": "1229151",
+        "url": "https://tatoeba.org/en/sentences/show/1215455"
+      }
+    },
+    "acceptedJapanese": [
+      "随分",
+      "ずいぶん"
+    ],
+    "acceptedEnglish": [
+      "very",
+      "extremely",
+      "surprisingly",
+      "fairly",
+      "quite",
+      "considerably"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-life-1777217251802",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "生活",
+    "kanji": "生活",
+    "kana": "せいかつ",
+    "meaning": "life",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"life\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "生",
+        "meanings": [
+          "life",
+          "be born",
+          "student"
+        ]
+      },
+      {
+        "kanji": "活",
+        "meanings": [
+          "active",
+          "live"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここでの生活は大変ですか？",
+      "english": "Is life here hard?",
+      "furigana": [
+        {
+          "text": "ここでの"
+        },
+        {
+          "text": "生活",
+          "highlight": true,
+          "reading": "せいかつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "大変",
+          "reading": "たいへん"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8726074",
+        "englishSentenceId": "5369336",
+        "url": "https://tatoeba.org/en/sentences/show/8726074"
+      }
+    },
+    "acceptedJapanese": [
+      "生活",
+      "せいかつ"
+    ],
+    "acceptedEnglish": [
+      "life",
+      "living"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-or-1777217251835",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "又は",
+    "kanji": "又は",
+    "kana": "または",
+    "meaning": "or",
+    "explanation": "A JLPT N4 conjunction meaning \"or\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "又",
+        "meanings": [
+          "or again",
+          "furthermore",
+          "on the other hand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "当サイト上に表示された登録商標を 、違法に又は無断で使用することはできません。",
+      "english": "Trademarks placed on the site shall not be used or reproduced in any matter without permission.",
+      "furigana": [
+        {
+          "text": "当",
+          "reading": "とう"
+        },
+        {
+          "text": "サイト"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "表示",
+          "reading": "ひょうじ"
+        },
+        {
+          "text": "された"
+        },
+        {
+          "text": "登録商標",
+          "reading": "とうろくしょうひょう"
+        },
+        {
+          "text": "を 、"
+        },
+        {
+          "text": "違法",
+          "reading": "いほう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "又は",
+          "highlight": true,
+          "reading": "または"
+        },
+        {
+          "text": "無断",
+          "reading": "むだん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "使用",
+          "reading": "しよう"
+        },
+        {
+          "text": "することはできません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13056174",
+        "englishSentenceId": "13056175",
+        "url": "https://tatoeba.org/en/sentences/show/13056174"
+      }
+    },
+    "acceptedJapanese": [
+      "又は",
+      "または"
+    ],
+    "acceptedEnglish": [
+      "or",
+      "either ... or"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-fault-1777217251841",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "故障",
+    "kanji": "故障",
+    "kana": "こしょう",
+    "meaning": "fault",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"fault\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "故",
+        "meanings": [
+          "old",
+          "the late",
+          "deceased",
+          "reason"
+        ]
+      },
+      {
+        "kanji": "障",
+        "meanings": [
+          "hindrance",
+          "interfere with"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "故障しているようです。",
+      "english": "It seems out of order.",
+      "furigana": [
+        {
+          "text": "故障",
+          "highlight": true,
+          "reading": "こしょう"
+        },
+        {
+          "text": "しているようです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "174516",
+        "englishSentenceId": "239953",
+        "url": "https://tatoeba.org/en/sentences/show/174516"
+      }
+    },
+    "acceptedJapanese": [
+      "故障",
+      "こしょう"
+    ],
+    "acceptedEnglish": [
+      "fault",
+      "trouble",
+      "breakdown",
+      "failure",
+      "being out of order"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-not-exceeding-1777217251844",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "以下",
+    "kanji": "以下",
+    "kana": "いか",
+    "meaning": "not exceeding ...",
+    "explanation": "A JLPT N4 noun, used as a suffix meaning \"not exceeding ...\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は３０以下のはずはない。",
+      "english": "He can't be under thirty.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は３０"
+        },
+        {
+          "text": "以下",
+          "highlight": true,
+          "reading": "いか"
+        },
+        {
+          "text": "のはずはない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "115159",
+        "englishSentenceId": "282877",
+        "url": "https://tatoeba.org/en/sentences/show/115159"
+      }
+    },
+    "acceptedJapanese": [
+      "以下",
+      "いか"
+    ],
+    "acceptedEnglish": [
+      "not exceeding ...",
+      "not more than ...",
+      "... and under",
+      "... and below",
+      "... or fewer",
+      "below"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-absence-1777217251880",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "留守",
+    "kanji": "留守",
+    "kana": "るす",
+    "meaning": "absence",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb, intransitive verb, no adjective meaning \"absence\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "留",
+        "meanings": [
+          "keep",
+          "stay"
+        ]
+      },
+      {
+        "kanji": "守",
+        "meanings": [
+          "protect",
+          "obey",
+          "babysitter"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ピーターが君の留守にきた。",
+      "english": "Peter came in your absence.",
+      "furigana": [
+        {
+          "text": "ピーターが"
+        },
+        {
+          "text": "君",
+          "reading": "くん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "留守",
+          "highlight": true,
+          "reading": "るす"
+        },
+        {
+          "text": "にきた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "197708",
+        "englishSentenceId": "34895",
+        "url": "https://tatoeba.org/en/sentences/show/197708"
+      }
+    },
+    "acceptedJapanese": [
+      "留守",
+      "るす"
+    ],
+    "acceptedEnglish": [
+      "absence",
+      "being away from home"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-very-1777217251898",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "中々",
+    "kanji": "中々",
+    "kana": "なかなか",
+    "meaning": "very",
+    "explanation": "A JLPT N4 adverb, na adjective meaning \"very\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「中々」は日本語の言葉です。",
+      "english": "\"very\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "中々",
+          "reading": "なかなか",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "中々",
+      "なかなか"
+    ],
+    "acceptedEnglish": [
+      "very",
+      "considerably",
+      "easily",
+      "readily",
+      "fairly",
+      "quite"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-chance-1777217251925",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "機会",
+    "kanji": "機会",
+    "kana": "きかい",
+    "meaning": "chance",
+    "explanation": "A JLPT N4 noun meaning \"chance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "機",
+        "meanings": [
+          "machine",
+          "opportunity"
+        ]
+      },
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "別の機会を待て。",
+      "english": "Wait for a second chance.",
+      "furigana": [
+        {
+          "text": "別",
+          "reading": "べつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "機会",
+          "highlight": true,
+          "reading": "きかい"
+        },
+        {
+          "text": "を待て。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83420",
+        "englishSentenceId": "320296",
+        "url": "https://tatoeba.org/en/sentences/show/83420"
+      }
+    },
+    "acceptedJapanese": [
+      "機会",
+      "きかい"
+    ],
+    "acceptedEnglish": [
+      "chance",
+      "opportunity",
+      "occasion"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-war-1777217251928",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "戦争",
+    "kanji": "戦争",
+    "kana": "せんそう",
+    "meaning": "war",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"war\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "戦",
+        "meanings": [
+          "war",
+          "fight",
+          "battle"
+        ]
+      },
+      {
+        "kanji": "争",
+        "meanings": [
+          "contend",
+          "dispute",
+          "argue"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はベトナム戦争で戦死した。",
+      "english": "He died fighting in the Vietnam War.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はベトナム"
+        },
+        {
+          "text": "戦争",
+          "highlight": true,
+          "reading": "せんそう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "戦死",
+          "reading": "せんし"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "111019",
+        "englishSentenceId": "292667",
+        "url": "https://tatoeba.org/en/sentences/show/111019"
+      }
+    },
+    "acceptedJapanese": [
+      "戦争",
+      "せんそう"
+    ],
+    "acceptedEnglish": [
+      "war",
+      "fighting",
+      "fierce competition"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-certainly-1777217251952",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "是非",
+    "kanji": "是非",
+    "kana": "ぜひ",
+    "meaning": "certainly",
+    "explanation": "A JLPT N4 adverb meaning \"certainly\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "是",
+        "meanings": [
+          "just so",
+          "this",
+          "right",
+          "justice"
+        ]
+      },
+      {
+        "kanji": "非",
+        "meanings": [
+          "is not",
+          "mistake",
+          "non-",
+          "un-"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "是非どうぞ。",
+      "english": "By all means.",
+      "furigana": [
+        {
+          "text": "是非",
+          "highlight": true,
+          "reading": "ぜひ"
+        },
+        {
+          "text": "どうぞ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143328",
+        "englishSentenceId": "38522",
+        "url": "https://tatoeba.org/en/sentences/show/143328"
+      }
+    },
+    "acceptedJapanese": [
+      "是非",
+      "ぜひ"
+    ],
+    "acceptedEnglish": [
+      "certainly",
+      "without fail"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-export-1777217251961",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "輸出",
+    "kanji": "輸出",
+    "kana": "ゆしゅつ",
+    "meaning": "export",
+    "explanation": "A JLPT N4 noun, suru noun meaning \"export\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "輸",
+        "meanings": [
+          "transport"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ドル安は輸出にはずみをつけています。",
+      "english": "The cheap dollar is charging up exports.",
+      "furigana": [
+        {
+          "text": "ドル安",
+          "reading": "ドルやす"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "輸出",
+          "highlight": true,
+          "reading": "ゆしゅつ"
+        },
+        {
+          "text": "にはずみをつけています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "199679",
+        "englishSentenceId": "36881",
+        "url": "https://tatoeba.org/en/sentences/show/199679"
+      }
+    },
+    "acceptedJapanese": [
+      "輸出",
+      "ゆしゅつ"
+    ],
+    "acceptedEnglish": [
+      "export",
+      "exportation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-to-that-degree-1777217251964",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "それ程",
+    "kanji": "それ程",
+    "kana": "それほど",
+    "meaning": "to that degree",
+    "explanation": "A JLPT N4 adverb meaning \"to that degree\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「それ程」は日本語の言葉です。",
+      "english": "\"to that degree\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "それ程",
+          "reading": "それほど",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "それ程",
+      "それほど"
+    ],
+    "acceptedEnglish": [
+      "to that degree",
+      "to that extent",
+      "that much"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-relation-1777217251979",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "関係",
+    "kanji": "関係",
+    "kana": "かんけい",
+    "meaning": "relation",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"relation\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "関",
+        "meanings": [
+          "concern",
+          "barrier"
+        ]
+      },
+      {
+        "kanji": "係",
+        "meanings": [
+          "connect",
+          "person in charge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私には関係ない。",
+      "english": "This doesn't concern me.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "関係",
+          "highlight": true,
+          "reading": "かんけい"
+        },
+        {
+          "text": "ない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "395840",
+        "englishSentenceId": "395841",
+        "url": "https://tatoeba.org/en/sentences/show/395840"
+      }
+    },
+    "acceptedJapanese": [
+      "関係",
+      "かんけい"
+    ],
+    "acceptedEnglish": [
+      "relation",
+      "relationship",
+      "connection",
+      "participation",
+      "involvement",
+      "concern"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-fire-1777217251997",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "火事",
+    "kanji": "火事",
+    "kana": "かじ",
+    "meaning": "fire",
+    "explanation": "A JLPT N4 noun meaning \"fire\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "火",
+        "meanings": [
+          "fire"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "火事！",
+      "english": "Fire!",
+      "furigana": [
+        {
+          "text": "火事",
+          "highlight": true,
+          "reading": "かじ"
+        },
+        {
+          "text": "！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5955874",
+        "englishSentenceId": "1829639",
+        "url": "https://tatoeba.org/en/sentences/show/5955874"
+      }
+    },
+    "acceptedJapanese": [
+      "火事",
+      "かじ"
+    ],
+    "acceptedEnglish": [
+      "fire",
+      "conflagration"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-mind-1777217252018",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "心",
+    "kanji": "心",
+    "kana": "こころ",
+    "meaning": "mind",
+    "explanation": "A JLPT N4 noun meaning \"mind\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "心",
+        "meanings": [
+          "heart"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "心が痛みます。",
+      "english": "My heart hurts.",
+      "furigana": [
+        {
+          "text": "心",
+          "highlight": true,
+          "reading": "こころ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "痛み",
+          "reading": "いたみ"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "145605",
+        "englishSentenceId": "2474814",
+        "url": "https://tatoeba.org/en/sentences/show/145605"
+      }
+    },
+    "acceptedJapanese": [
+      "心",
+      "こころ"
+    ],
+    "acceptedEnglish": [
+      "mind",
+      "heart",
+      "spirit",
+      "the meaning of a phrase"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-rule-1777217252054",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "規則",
+    "kanji": "規則",
+    "kana": "きそく",
+    "meaning": "rule",
+    "explanation": "A JLPT N4 noun meaning \"rule\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "規",
+        "meanings": [
+          "regulation",
+          "measure"
+        ]
+      },
+      {
+        "kanji": "則",
+        "meanings": [
+          "rule",
+          "law"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "君は規則を破った。",
+      "english": "You broke the rule.",
+      "furigana": [
+        {
+          "text": "君",
+          "reading": "くん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "規則",
+          "highlight": true,
+          "reading": "きそく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "破",
+          "reading": "は"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "177366",
+        "englishSentenceId": "16216",
+        "url": "https://tatoeba.org/en/sentences/show/177366"
+      }
+    },
+    "acceptedJapanese": [
+      "規則",
+      "きそく"
+    ],
+    "acceptedEnglish": [
+      "rule",
+      "regulation"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-within-1777217252066",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "以内",
+    "kanji": "以内",
+    "kana": "いない",
+    "meaning": "within",
+    "explanation": "A JLPT N4 noun, noun, used as a suffix, adverb meaning \"within\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "内",
+        "meanings": [
+          "inside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "２０マイル以内の配達は無料です。",
+      "english": "We deliver your order free of charge within a 20-mile radius.",
+      "furigana": [
+        {
+          "text": "２０マイル"
+        },
+        {
+          "text": "以内",
+          "highlight": true,
+          "reading": "いない"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "配達",
+          "reading": "はいたつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "無料",
+          "reading": "むりょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235590",
+        "englishSentenceId": "72970",
+        "url": "https://tatoeba.org/en/sentences/show/235590"
+      }
+    },
+    "acceptedJapanese": [
+      "以内",
+      "いない"
+    ],
+    "acceptedEnglish": [
+      "within",
+      "inside of",
+      "less than"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-water-supply-1777217252078",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "水道",
+    "kanji": "水道",
+    "kana": "すいどう",
+    "meaning": "water supply",
+    "explanation": "A JLPT N4 noun meaning \"water supply\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      },
+      {
+        "kanji": "道",
+        "meanings": [
+          "way",
+          "street",
+          "road"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "水道がないんです。",
+      "english": "There's no running water.",
+      "furigana": [
+        {
+          "text": "水道",
+          "highlight": true,
+          "reading": "すいどう"
+        },
+        {
+          "text": "がないんです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10682357",
+        "englishSentenceId": "8864011",
+        "url": "https://tatoeba.org/en/sentences/show/10682357"
+      }
+    },
+    "acceptedJapanese": [
+      "水道",
+      "すいどう"
+    ],
+    "acceptedEnglish": [
+      "water supply",
+      "water service",
+      "waterworks",
+      "tap water",
+      "channel",
+      "strait"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-competition-1777217252081",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "競争",
+    "kanji": "競争",
+    "kana": "きょうそう",
+    "meaning": "competition",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb, intransitive verb meaning \"competition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "競",
+        "meanings": [
+          "compete"
+        ]
+      },
+      {
+        "kanji": "争",
+        "meanings": [
+          "contend",
+          "dispute",
+          "argue"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は彼と競争した。",
+      "english": "I had a race with him.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "競争",
+          "highlight": true,
+          "reading": "きょうそう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "154340",
+        "englishSentenceId": "260202",
+        "url": "https://tatoeba.org/en/sentences/show/154340"
+      }
+    },
+    "acceptedJapanese": [
+      "競争",
+      "きょうそう"
+    ],
+    "acceptedEnglish": [
+      "competition",
+      "contest",
+      "rivalry",
+      "race"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-rubbish-1777217252111",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "塵",
+    "kanji": "塵",
+    "kana": "ゴミ",
+    "meaning": "rubbish",
+    "explanation": "A JLPT N4 noun meaning \"rubbish\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "塵",
+        "meanings": [
+          "dust",
+          "trash",
+          "garbage"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "塵も積もれば山となる。",
+      "english": "Many a mickle makes a muckle.",
+      "furigana": [
+        {
+          "text": "塵",
+          "highlight": true,
+          "reading": "ゴミ"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "積",
+          "reading": "せき"
+        },
+        {
+          "text": "もれば山となる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143903",
+        "englishSentenceId": "270663",
+        "url": "https://tatoeba.org/en/sentences/show/143903"
+      }
+    },
+    "acceptedJapanese": [
+      "塵",
+      "ゴミ"
+    ],
+    "acceptedEnglish": [
+      "rubbish",
+      "trash",
+      "garbage",
+      "refuse",
+      "litter"
+    ]
+  },
+  {
+    "id": "n4-other-thanks-1777217252123",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "お礼",
+    "kanji": "お礼",
+    "kana": "おれい",
+    "meaning": "thanks",
+    "explanation": "A JLPT N4 noun meaning \"thanks\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "礼",
+        "meanings": [
+          "etiquette",
+          "rite",
+          "courtesy",
+          "gratitude"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お礼の手紙が届いた。",
+      "english": "We received a letter of thanks.",
+      "furigana": [
+        {
+          "text": "お礼",
+          "highlight": true,
+          "reading": "おれい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "届",
+          "reading": "とどけ"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8557835",
+        "englishSentenceId": "11138357",
+        "url": "https://tatoeba.org/en/sentences/show/8557835"
+      }
+    },
+    "acceptedJapanese": [
+      "お礼",
+      "おれい"
+    ],
+    "acceptedEnglish": [
+      "thanks",
+      "gratitude",
+      "manners",
+      "etiquette",
+      "bow",
+      "reward"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-failure-1777217252135",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "失敗",
+    "kanji": "失敗",
+    "kana": "しっぱい",
+    "meaning": "failure",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb, intransitive verb meaning \"failure\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "失",
+        "meanings": [
+          "lose",
+          "slip"
+        ]
+      },
+      {
+        "kanji": "敗",
+        "meanings": [
+          "be defeated"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "失敗するなよ。",
+      "english": "Don't make mistakes.",
+      "furigana": [
+        {
+          "text": "失敗",
+          "highlight": true,
+          "reading": "しっぱい"
+        },
+        {
+          "text": "するなよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13428320",
+        "englishSentenceId": "11540156",
+        "url": "https://tatoeba.org/en/sentences/show/13428320"
+      }
+    },
+    "acceptedJapanese": [
+      "失敗",
+      "しっぱい"
+    ],
+    "acceptedEnglish": [
+      "failure",
+      "mistake",
+      "blunder"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-ah-1777217252141",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "あっ",
+    "kanji": "あっ",
+    "kana": "あっ",
+    "meaning": "ah",
+    "explanation": "A JLPT N4 interjection meaning \"ah\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "あっち行け！",
+      "english": "Go to hell!",
+      "furigana": [
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "あっ"
+        },
+        {
+          "text": "っ",
+          "highlight": true,
+          "reading": "あっ"
+        },
+        {
+          "text": "ち"
+        },
+        {
+          "text": "行",
+          "reading": "おこな"
+        },
+        {
+          "text": "け！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13168044",
+        "englishSentenceId": "607840",
+        "url": "https://tatoeba.org/en/sentences/show/13168044"
+      }
+    },
+    "acceptedJapanese": [
+      "あっ"
+    ],
+    "acceptedEnglish": [
+      "ah",
+      "oh",
+      "hey!"
+    ]
+  },
+  {
+    "id": "n4-other-dream-1777217252144",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "夢",
+    "kanji": "夢",
+    "kana": "ゆめ",
+    "meaning": "dream",
+    "explanation": "A JLPT N4 noun meaning \"dream\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夢",
+        "meanings": [
+          "dream"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夢を持て。",
+      "english": "Dream.",
+      "furigana": [
+        {
+          "text": "夢",
+          "highlight": true,
+          "reading": "ゆめ"
+        },
+        {
+          "text": "を持て。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10326415",
+        "englishSentenceId": "9192368",
+        "url": "https://tatoeba.org/en/sentences/show/10326415"
+      }
+    },
+    "acceptedJapanese": [
+      "夢",
+      "ゆめ"
+    ],
+    "acceptedEnglish": [
+      "dream"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-plans-1777217252153",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "予定",
+    "kanji": "予定",
+    "kana": "よてい",
+    "meaning": "plans",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"plans\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "予",
+        "meanings": [
+          "in advance"
+        ]
+      },
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "予定を組んだ。",
+      "english": "I made plans.",
+      "furigana": [
+        {
+          "text": "予定",
+          "highlight": true,
+          "reading": "よてい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "組",
+          "reading": "くみ"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12164668",
+        "englishSentenceId": "2245975",
+        "url": "https://tatoeba.org/en/sentences/show/12164668"
+      }
+    },
+    "acceptedJapanese": [
+      "予定",
+      "よてい"
+    ],
+    "acceptedEnglish": [
+      "plans",
+      "arrangement",
+      "schedule",
+      "program",
+      "programme",
+      "expectation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-i-see-1777217252174",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "成る程",
+    "kanji": "成る程",
+    "kana": "なるほど",
+    "meaning": "I see",
+    "explanation": "A JLPT N4 interjection, adverb meaning \"I see\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "成",
+        "meanings": [
+          "form",
+          "achieve"
+        ]
+      },
+      {
+        "kanji": "程",
+        "meanings": [
+          "extent",
+          "established form",
+          "degree"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「成る程」は日本語の言葉です。",
+      "english": "\"I see\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "成る程",
+          "reading": "なるほど",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "成る程",
+      "なるほど"
+    ],
+    "acceptedEnglish": [
+      "I see",
+      "that's right",
+      "indeed"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-appearing-that-1777217252189",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "そう",
+    "kanji": "そう",
+    "kana": "そう",
+    "meaning": "appearing that",
+    "explanation": "A JLPT N4 auxiliary, na adjective meaning \"appearing that\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "元気そうだね。",
+      "english": "You're looking good!",
+      "furigana": [
+        {
+          "text": "元気",
+          "reading": "げんき"
+        },
+        {
+          "text": "そ",
+          "highlight": true,
+          "reading": "そう"
+        },
+        {
+          "text": "う",
+          "highlight": true,
+          "reading": "そう"
+        },
+        {
+          "text": "だね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175041",
+        "englishSentenceId": "239426",
+        "url": "https://tatoeba.org/en/sentences/show/175041"
+      }
+    },
+    "acceptedJapanese": [
+      "そう"
+    ],
+    "acceptedEnglish": [
+      "appearing that",
+      "seeming that",
+      "looking like",
+      "having the appearance of"
+    ]
+  },
+  {
+    "id": "n4-other-broadcasting-1777217252216",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "放送",
+    "kanji": "放送",
+    "kana": "ほうそう",
+    "meaning": "broadcasting",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"broadcasting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "放",
+        "meanings": [
+          "let go",
+          "release"
+        ]
+      },
+      {
+        "kanji": "送",
+        "meanings": [
+          "send"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "地方のニュースは次に放送されます。",
+      "english": "The local news will be broadcast next.",
+      "furigana": [
+        {
+          "text": "地方のニュースは"
+        },
+        {
+          "text": "次に",
+          "reading": "つぎに"
+        },
+        {
+          "text": "放送",
+          "highlight": true,
+          "reading": "ほうそう"
+        },
+        {
+          "text": "されます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126839",
+        "englishSentenceId": "277165",
+        "url": "https://tatoeba.org/en/sentences/show/126839"
+      }
+    },
+    "acceptedJapanese": [
+      "放送",
+      "ほうそう"
+    ],
+    "acceptedEnglish": [
+      "broadcasting",
+      "broadcast",
+      "program",
+      "announcement"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-all-1777217252237",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "すっかり",
+    "kanji": "すっかり",
+    "kana": "すっかり",
+    "meaning": "all",
+    "explanation": "A JLPT N4 adverb, adverb taking the 'to' particle meaning \"all\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "すっかり忘れたよ。",
+      "english": "I completely forgot.",
+      "furigana": [
+        {
+          "text": "す",
+          "highlight": true,
+          "reading": "すっかり"
+        },
+        {
+          "text": "っ",
+          "highlight": true,
+          "reading": "すっかり"
+        },
+        {
+          "text": "か",
+          "highlight": true,
+          "reading": "すっかり"
+        },
+        {
+          "text": "り",
+          "highlight": true,
+          "reading": "すっかり"
+        },
+        {
+          "text": "忘れたよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214667",
+        "englishSentenceId": "2782456",
+        "url": "https://tatoeba.org/en/sentences/show/214667"
+      }
+    },
+    "acceptedJapanese": [
+      "すっかり"
+    ],
+    "acceptedEnglish": [
+      "all",
+      "completely",
+      "totally",
+      "entirely",
+      "thoroughly"
+    ]
+  },
+  {
+    "id": "n4-other-way-of-swimming-1777217252240",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "泳ぎ方",
+    "kanji": "泳ぎ方",
+    "kana": "およぎかた",
+    "meaning": "way of swimming",
+    "explanation": "A JLPT N4 noun meaning \"way of swimming\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "泳",
+        "meanings": [
+          "swim"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は泳ぎ方を習った。",
+      "english": "He learned to swim.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "泳ぎ方",
+          "highlight": true,
+          "reading": "およぎかた"
+        },
+        {
+          "text": "を習った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "109762",
+        "englishSentenceId": "293937",
+        "url": "https://tatoeba.org/en/sentences/show/109762"
+      }
+    },
+    "acceptedJapanese": [
+      "泳ぎ方",
+      "およぎかた"
+    ],
+    "acceptedEnglish": [
+      "way of swimming"
+    ]
+  },
+  {
+    "id": "n4-other-plan-1777217252243",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "計画",
+    "kanji": "計画",
+    "kana": "けいかく",
+    "meaning": "plan",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"plan\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      },
+      {
+        "kanji": "画",
+        "meanings": [
+          "picture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "計画はできた。",
+      "english": "Our plan is made.",
+      "furigana": [
+        {
+          "text": "計画",
+          "highlight": true,
+          "reading": "けいかく"
+        },
+        {
+          "text": "はできた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176436",
+        "englishSentenceId": "238029",
+        "url": "https://tatoeba.org/en/sentences/show/176436"
+      }
+    },
+    "acceptedJapanese": [
+      "計画",
+      "けいかく"
+    ],
+    "acceptedEnglish": [
+      "plan",
+      "project",
+      "schedule",
+      "scheme",
+      "program",
+      "programme"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-habit-1777217252264",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "習慣",
+    "kanji": "習慣",
+    "kana": "しゅうかん",
+    "meaning": "habit",
+    "explanation": "A JLPT N4 noun meaning \"habit\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "習",
+        "meanings": [
+          "learn",
+          "custom"
+        ]
+      },
+      {
+        "kanji": "慣",
+        "meanings": [
+          "habitual practice",
+          "get used"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "習慣になりました。",
+      "english": "It has become habit.",
+      "furigana": [
+        {
+          "text": "習慣",
+          "highlight": true,
+          "reading": "しゅうかん"
+        },
+        {
+          "text": "になりました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11563298",
+        "englishSentenceId": "10666048",
+        "url": "https://tatoeba.org/en/sentences/show/11563298"
+      }
+    },
+    "acceptedJapanese": [
+      "習慣",
+      "しゅうかん"
+    ],
+    "acceptedEnglish": [
+      "habit",
+      "custom",
+      "practice",
+      "convention",
+      "tradition"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-excluding-1777217252267",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "以外",
+    "kanji": "以外",
+    "kana": "いがい",
+    "meaning": "excluding",
+    "explanation": "A JLPT N4 noun, used as a suffix meaning \"excluding\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "以",
+        "meanings": [
+          "to the ... of",
+          "by means of"
+        ]
+      },
+      {
+        "kanji": "外",
+        "meanings": [
+          "outside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ビル以外はみなあつまった。",
+      "english": "Except for Bill, they all made it.",
+      "furigana": [
+        {
+          "text": "ビル"
+        },
+        {
+          "text": "以外",
+          "highlight": true,
+          "reading": "いがい"
+        },
+        {
+          "text": "はみなあつまった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "197271",
+        "englishSentenceId": "34453",
+        "url": "https://tatoeba.org/en/sentences/show/197271"
+      }
+    },
+    "acceptedJapanese": [
+      "以外",
+      "いがい"
+    ],
+    "acceptedEnglish": [
+      "excluding",
+      "except",
+      "apart from",
+      "other than",
+      "besides",
+      "in addition to"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-as-much-as-one-can-1777217252282",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "出来るだけ",
+    "kanji": "出来るだけ",
+    "kana": "できるだけ",
+    "meaning": "as much as one can",
+    "explanation": "A JLPT N4 expression, adverb, no adjective meaning \"as much as one can\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "来",
+        "meanings": [
+          "come"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "出来るだけ早く参ります。",
+      "english": "I'll come as soon as possible.",
+      "furigana": [
+        {
+          "text": "出来るだけ",
+          "highlight": true,
+          "reading": "できるだけ"
+        },
+        {
+          "text": "早く",
+          "reading": "はやく"
+        },
+        {
+          "text": "参り",
+          "reading": "まいり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147784",
+        "englishSentenceId": "1224407",
+        "url": "https://tatoeba.org/en/sentences/show/147784"
+      }
+    },
+    "acceptedJapanese": [
+      "出来るだけ",
+      "できるだけ"
+    ],
+    "acceptedEnglish": [
+      "as much as one can",
+      "as much as possible",
+      "if at all possible"
+    ]
+  },
+  {
+    "id": "n4-other-always-1777217252318",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "必ず",
+    "kanji": "必ず",
+    "kana": "かならず",
+    "meaning": "always",
+    "explanation": "A JLPT N4 adverb meaning \"always\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "必",
+        "meanings": [
+          "without failure",
+          "surely"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ルーシーは必ず来る。",
+      "english": "Lucy will certainly come.",
+      "furigana": [
+        {
+          "text": "ルーシーは"
+        },
+        {
+          "text": "必ず",
+          "highlight": true,
+          "reading": "かならず"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "る。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192399",
+        "englishSentenceId": "502265",
+        "url": "https://tatoeba.org/en/sentences/show/192399"
+      }
+    },
+    "acceptedJapanese": [
+      "必ず",
+      "かならず"
+    ],
+    "acceptedEnglish": [
+      "always",
+      "without exception",
+      "necessarily",
+      "certainly",
+      "without fail",
+      "positively"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-at-all-1777217252321",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "全然",
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "meaning": "at all",
+    "explanation": "A JLPT N4 adverb meaning \"at all\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "全",
+        "meanings": [
+          "whole"
+        ]
+      },
+      {
+        "kanji": "然",
+        "meanings": [
+          "modifier forming suffix",
+          "as"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いや全然。",
+      "english": "No, not at all.",
+      "furigana": [
+        {
+          "text": "いや"
+        },
+        {
+          "text": "全然",
+          "highlight": true,
+          "reading": "ぜんぜん"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10906688",
+        "englishSentenceId": "880484",
+        "url": "https://tatoeba.org/en/sentences/show/10906688"
+      }
+    },
+    "acceptedJapanese": [
+      "全然",
+      "ぜんぜん"
+    ],
+    "acceptedEnglish": [
+      "at all",
+      "in the slightest",
+      "wholly",
+      "entirely",
+      "completely",
+      "totally"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-type-1777217252324",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "タイプ",
+    "kanji": "タイプ",
+    "kana": "タイプ",
+    "meaning": "type",
+    "explanation": "A JLPT N4 noun meaning \"type\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "彼女はタイプがうまい。",
+      "english": "She types well.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "タイプ"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "タイプ"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "タイプ"
+        },
+        {
+          "text": "がうまい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "92196",
+        "englishSentenceId": "311515",
+        "url": "https://tatoeba.org/en/sentences/show/92196"
+      }
+    },
+    "acceptedJapanese": [
+      "タイプ"
+    ],
+    "acceptedEnglish": [
+      "type",
+      "kind",
+      "sort",
+      "style",
+      "one's type",
+      "typewriter"
+    ]
+  },
+  {
+    "id": "n4-other-like-that-1777217252348",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "ああ",
+    "kanji": "ああ",
+    "kana": "ああ",
+    "meaning": "like that",
+    "explanation": "A JLPT N4 adverb meaning \"like that\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ああいう娘は嫌だな。",
+      "english": "I hate girls like that.",
+      "furigana": [
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "ああ"
+        },
+        {
+          "text": "あ",
+          "highlight": true,
+          "reading": "ああ"
+        },
+        {
+          "text": "いう"
+        },
+        {
+          "text": "娘",
+          "reading": "むすめ"
+        },
+        {
+          "text": "は嫌だな。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12957261",
+        "englishSentenceId": "2916682",
+        "url": "https://tatoeba.org/en/sentences/show/12957261"
+      }
+    },
+    "acceptedJapanese": [
+      "ああ"
+    ],
+    "acceptedEnglish": [
+      "like that",
+      "so"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-both-1777217252375",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "両方",
+    "kanji": "両方",
+    "kana": "りょうほう",
+    "meaning": "both",
+    "explanation": "A JLPT N4 noun, no adjective meaning \"both\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "両",
+        "meanings": [
+          "both"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "両方ともよい。",
+      "english": "They're both good.",
+      "furigana": [
+        {
+          "text": "両方",
+          "highlight": true,
+          "reading": "りょうほう"
+        },
+        {
+          "text": "ともよい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "77974",
+        "englishSentenceId": "2243599",
+        "url": "https://tatoeba.org/en/sentences/show/77974"
+      }
+    },
+    "acceptedJapanese": [
+      "両方",
+      "りょうほう"
+    ],
+    "acceptedEnglish": [
+      "both",
+      "both sides",
+      "both parties"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-law-1777217252381",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "法律",
+    "kanji": "法律",
+    "kana": "ほうりつ",
+    "meaning": "law",
+    "explanation": "A JLPT N4 noun meaning \"law\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "法",
+        "meanings": [
+          "law",
+          "method"
+        ]
+      },
+      {
+        "kanji": "律",
+        "meanings": [
+          "law",
+          "rhythm",
+          "regulation"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "法律です。",
+      "english": "It's the law.",
+      "furigana": [
+        {
+          "text": "法律",
+          "highlight": true,
+          "reading": "ほうりつ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "740581",
+        "englishSentenceId": "740376",
+        "url": "https://tatoeba.org/en/sentences/show/740581"
+      }
+    },
+    "acceptedJapanese": [
+      "法律",
+      "ほうりつ"
+    ],
+    "acceptedEnglish": [
+      "law"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-yes-1777217252393",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "うん",
+    "kanji": "うん",
+    "kana": "うん",
+    "meaning": "yes",
+    "explanation": "A JLPT N4 interjection meaning \"yes\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "うん。",
+      "english": "Yeah.",
+      "furigana": [
+        {
+          "text": "う",
+          "highlight": true,
+          "reading": "うん"
+        },
+        {
+          "text": "ん",
+          "highlight": true,
+          "reading": "うん"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1166625",
+        "englishSentenceId": "10136269",
+        "url": "https://tatoeba.org/en/sentences/show/1166625"
+      }
+    },
+    "acceptedJapanese": [
+      "うん"
+    ],
+    "acceptedEnglish": [
+      "yes",
+      "yeah",
+      "uh huh",
+      "hum",
+      "hmmm",
+      "well"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-should-1777217252414",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "筈",
+    "kanji": "筈",
+    "kana": "はず",
+    "meaning": "should",
+    "explanation": "A JLPT N4 auxiliary meaning \"should\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "筈",
+        "meanings": [
+          "notch of an arrow",
+          "ought",
+          "must",
+          "should be"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "本当の筈がない。",
+      "english": "It can't be true.",
+      "furigana": [
+        {
+          "text": "本"
+        },
+        {
+          "text": "当の",
+          "reading": "とうの"
+        },
+        {
+          "text": "筈",
+          "highlight": true,
+          "reading": "はず"
+        },
+        {
+          "text": "がない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81483",
+        "englishSentenceId": "42088",
+        "url": "https://tatoeba.org/en/sentences/show/81483"
+      }
+    },
+    "acceptedJapanese": [
+      "筈",
+      "はず"
+    ],
+    "acceptedEnglish": [
+      "should",
+      "bound",
+      "expected",
+      "must"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-as-expected-1777217252420",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "矢っ張り",
+    "kanji": "矢っ張り",
+    "kana": "やっぱり",
+    "meaning": "as expected",
+    "explanation": "A JLPT N4 adverb meaning \"as expected\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "矢",
+        "meanings": [
+          "arrow"
+        ]
+      },
+      {
+        "kanji": "張",
+        "meanings": [
+          "spread",
+          "strain",
+          "stretch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「矢っ張り」は日本語の言葉です。",
+      "english": "\"as expected\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "矢っ張り",
+          "reading": "やっぱり",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "矢っ張り",
+      "やっぱり"
+    ],
+    "acceptedEnglish": [
+      "as expected",
+      "sure enough",
+      "just as one thought",
+      "after all",
+      "in the end",
+      "as one would expect"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-circumstances-1777217252432",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "都合",
+    "kanji": "都合",
+    "kana": "つごう",
+    "meaning": "circumstances",
+    "explanation": "A JLPT N4 noun meaning \"circumstances\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "都",
+        "meanings": [
+          "capital (city)",
+          "metropolis"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご都合の良いときに。",
+      "english": "At your convenience.",
+      "furigana": [
+        {
+          "text": "ご"
+        },
+        {
+          "text": "都合",
+          "highlight": true,
+          "reading": "つごう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "良",
+          "reading": "りょう"
+        },
+        {
+          "text": "いときに。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "217045",
+        "englishSentenceId": "54352",
+        "url": "https://tatoeba.org/en/sentences/show/217045"
+      }
+    },
+    "acceptedJapanese": [
+      "都合",
+      "つごう"
+    ],
+    "acceptedEnglish": [
+      "circumstances",
+      "condition",
+      "convenience"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-knowledge-1777217252435",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "承知",
+    "kanji": "承知",
+    "kana": "しょうち",
+    "meaning": "knowledge",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"knowledge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "承",
+        "meanings": [
+          "agree to",
+          "hear",
+          "be told"
+        ]
+      },
+      {
+        "kanji": "知",
+        "meanings": [
+          "know"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は危険を承知しています。",
+      "english": "He acknowledges the danger.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "危険",
+          "reading": "きけん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "承知",
+          "highlight": true,
+          "reading": "しょうち"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "686041",
+        "englishSentenceId": "690426",
+        "url": "https://tatoeba.org/en/sentences/show/686041"
+      }
+    },
+    "acceptedJapanese": [
+      "承知",
+      "しょうち"
+    ],
+    "acceptedEnglish": [
+      "knowledge",
+      "awareness",
+      "acceptance",
+      "consent",
+      "assent",
+      "agreement"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-form-1777217252441",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "形",
+    "kanji": "形",
+    "kana": "かたち",
+    "meaning": "form",
+    "explanation": "A JLPT N4 noun meaning \"form\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "形",
+        "meanings": [
+          "shape"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "計画が形になってきたよ。",
+      "english": "The project's taking shape.",
+      "furigana": [
+        {
+          "text": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "形",
+          "highlight": true,
+          "reading": "かたち"
+        },
+        {
+          "text": "になってきたよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10108447",
+        "englishSentenceId": "2268473",
+        "url": "https://tatoeba.org/en/sentences/show/10108447"
+      }
+    },
+    "acceptedJapanese": [
+      "形",
+      "かたち"
+    ],
+    "acceptedEnglish": [
+      "form",
+      "shape",
+      "figure",
+      "visage"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-return-1777217252444",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "帰り",
+    "kanji": "帰り",
+    "kana": "かえり",
+    "meaning": "return",
+    "explanation": "A JLPT N4 noun meaning \"return\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "帰",
+        "meanings": [
+          "return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "明日お父さんが帰ります。",
+      "english": "Dad is coming home tomorrow.",
+      "furigana": [
+        {
+          "text": "明"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "お父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "帰り",
+          "highlight": true,
+          "reading": "かえり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "924616",
+        "englishSentenceId": "635618",
+        "url": "https://tatoeba.org/en/sentences/show/924616"
+      }
+    },
+    "acceptedJapanese": [
+      "帰り",
+      "かえり"
+    ],
+    "acceptedEnglish": [
+      "return",
+      "coming back"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-almost-1777217252450",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "殆ど",
+    "kanji": "殆ど",
+    "kana": "ほとんど",
+    "meaning": "almost",
+    "explanation": "A JLPT N4 adverb meaning \"almost\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "殆",
+        "meanings": [
+          "almost",
+          "quite",
+          "really"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日の会議で殆どみんなが私の案を支持してくれた。",
+      "english": "At today's meeting almost everybody backed my plan.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "殆ど",
+          "highlight": true,
+          "reading": "ほとんど"
+        },
+        {
+          "text": "みんなが"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の案を"
+        },
+        {
+          "text": "支持",
+          "reading": "しじ"
+        },
+        {
+          "text": "してくれた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "171969",
+        "englishSentenceId": "242498",
+        "url": "https://tatoeba.org/en/sentences/show/171969"
+      }
+    },
+    "acceptedJapanese": [
+      "殆ど",
+      "ほとんど"
+    ],
+    "acceptedEnglish": [
+      "almost",
+      "nearly",
+      "mostly",
+      "practically",
+      "virtually",
+      "basically"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-other-shape-1777217252462",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "格好",
+    "kanji": "格好",
+    "kana": "かっこう",
+    "meaning": "shape",
+    "explanation": "A JLPT N4 noun meaning \"shape\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "格",
+        "meanings": [
+          "norm",
+          "status",
+          "rank",
+          "standard"
+        ]
+      },
+      {
+        "kanji": "好",
+        "meanings": [
+          "like",
+          "favorable"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは格好のよい花瓶だ。",
+      "english": "This is a well-formed vase.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "格好",
+          "highlight": true,
+          "reading": "かっこう"
+        },
+        {
+          "text": "のよい"
+        },
+        {
+          "text": "花",
+          "reading": "はな"
+        },
+        {
+          "text": "瓶だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "218468",
+        "englishSentenceId": "55780",
+        "url": "https://tatoeba.org/en/sentences/show/218468"
+      }
+    },
+    "acceptedJapanese": [
+      "格好",
+      "かっこう"
+    ],
+    "acceptedEnglish": [
+      "shape",
+      "form",
+      "figure",
+      "posture",
+      "pose",
+      "appearance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-reply-1777217252486",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "返事",
+    "kanji": "返事",
+    "kana": "へんじ",
+    "meaning": "reply",
+    "explanation": "A JLPT N4 noun, suru noun, intransitive verb meaning \"reply\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "返",
+        "meanings": [
+          "return"
+        ]
+      },
+      {
+        "kanji": "事",
+        "meanings": [
+          "affair",
+          "abstract thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "返事がない。",
+      "english": "There is no reply.",
+      "furigana": [
+        {
+          "text": "返事",
+          "highlight": true,
+          "reading": "へんじ"
+        },
+        {
+          "text": "がない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10901650",
+        "englishSentenceId": "10916486",
+        "url": "https://tatoeba.org/en/sentences/show/10901650"
+      }
+    },
+    "acceptedJapanese": [
+      "返事",
+      "へんじ"
+    ],
+    "acceptedEnglish": [
+      "reply",
+      "answer",
+      "response"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-other-case-1777217252522",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "場合",
+    "kanji": "場合",
+    "kana": "ばあい",
+    "meaning": "case",
+    "explanation": "A JLPT N4 noun meaning \"case\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その場合は君が正しい。",
+      "english": "In that case, you are right.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "場",
+          "highlight": true,
+          "reading": "ばあい"
+        },
+        {
+          "text": "合",
+          "highlight": true,
+          "reading": "ばあい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "君",
+          "reading": "くん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "正しい",
+          "reading": "ただしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "208945",
+        "englishSentenceId": "46205",
+        "url": "https://tatoeba.org/en/sentences/show/208945"
+      }
+    },
+    "acceptedJapanese": [
+      "場合",
+      "ばあい"
+    ],
+    "acceptedEnglish": [
+      "case",
+      "occasion",
+      "situation",
+      "circumstances"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-reserve-1777217252531",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "遠慮",
+    "kanji": "遠慮",
+    "kana": "えんりょ",
+    "meaning": "reserve",
+    "explanation": "A JLPT N4 noun, suru noun meaning \"reserve\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遠",
+        "meanings": [
+          "distant",
+          "far"
+        ]
+      },
+      {
+        "kanji": "慮",
+        "meanings": [
+          "prudence",
+          "thought",
+          "concern",
+          "consider"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "そんな遠慮しないで。",
+      "english": "Don't be so reserved.",
+      "furigana": [
+        {
+          "text": "そんな"
+        },
+        {
+          "text": "遠慮",
+          "highlight": true,
+          "reading": "えんりょ"
+        },
+        {
+          "text": "しないで。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9142081",
+        "englishSentenceId": "51055",
+        "url": "https://tatoeba.org/en/sentences/show/9142081"
+      }
+    },
+    "acceptedJapanese": [
+      "遠慮",
+      "えんりょ"
+    ],
+    "acceptedEnglish": [
+      "reserve",
+      "constraint",
+      "restraint",
+      "modesty",
+      "diffidence",
+      "hesitation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-other-to-be-surprised-1777217252537",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "吃驚",
+    "kanji": "吃驚",
+    "kana": "びっくり",
+    "meaning": "to be surprised",
+    "explanation": "A JLPT N4 suru noun, intransitive verb, adverb meaning \"to be surprised\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吃",
+        "meanings": [
+          "stammer"
+        ]
+      },
+      {
+        "kanji": "驚",
+        "meanings": [
+          "surprise"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その質問は少し吃驚した。",
+      "english": "I was a little surprised at the question.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "吃驚",
+          "highlight": true,
+          "reading": "びっくり"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9638413",
+        "englishSentenceId": "9638072",
+        "url": "https://tatoeba.org/en/sentences/show/9638413"
+      }
+    },
+    "acceptedJapanese": [
+      "吃驚",
+      "びっくり"
+    ],
+    "acceptedEnglish": [
+      "to be surprised",
+      "to be amazed",
+      "to be frightened",
+      "to be astonished",
+      "to get startled",
+      "to jump"
+    ]
+  },
+  {
+    "id": "n4-other-interest-1777217252573",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "興味",
+    "kanji": "興味",
+    "kana": "きょうみ",
+    "meaning": "interest",
+    "explanation": "A JLPT N4 noun meaning \"interest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "興",
+        "meanings": [
+          "prosper",
+          "amusement",
+          "interest",
+          "revive"
+        ]
+      },
+      {
+        "kanji": "味",
+        "meanings": [
+          "taste"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "興味ないわ。",
+      "english": "I'm not interested.",
+      "furigana": [
+        {
+          "text": "興味",
+          "highlight": true,
+          "reading": "きょうみ"
+        },
+        {
+          "text": "ないわ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8532674",
+        "englishSentenceId": "1871847",
+        "url": "https://tatoeba.org/en/sentences/show/8532674"
+      }
+    },
+    "acceptedJapanese": [
+      "興味",
+      "きょうみ"
+    ],
+    "acceptedEnglish": [
+      "interest",
+      "curiosity",
+      "zest"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-straight-1777217252600",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "すっと",
+    "kanji": "すっと",
+    "kana": "すっと",
+    "meaning": "straight",
+    "explanation": "A JLPT N4 adverb, suru noun meaning \"straight\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "カタツムリがすっと角を出した。",
+      "english": "The snail shot out its horns.",
+      "furigana": [
+        {
+          "text": "カタツムリが"
+        },
+        {
+          "text": "す",
+          "highlight": true,
+          "reading": "すっと"
+        },
+        {
+          "text": "っ",
+          "highlight": true,
+          "reading": "すっと"
+        },
+        {
+          "text": "と",
+          "highlight": true,
+          "reading": "すっと"
+        },
+        {
+          "text": "角を"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76795",
+        "englishSentenceId": "326925",
+        "url": "https://tatoeba.org/en/sentences/show/76795"
+      }
+    },
+    "acceptedJapanese": [
+      "すっと"
+    ],
+    "acceptedEnglish": [
+      "straight",
+      "quickly",
+      "directly",
+      "all of a sudden",
+      "quietly",
+      "gently"
+    ]
+  },
+  {
+    "id": "n4-other-culture-1777217252654",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "文化",
+    "kanji": "文化",
+    "kana": "ぶんか",
+    "meaning": "culture",
+    "explanation": "A JLPT N4 noun meaning \"culture\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "文",
+        "meanings": [
+          "letter",
+          "writings",
+          "sentence"
+        ]
+      },
+      {
+        "kanji": "化",
+        "meanings": [
+          "change into"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "フランス文化が好きです。",
+      "english": "I love French culture.",
+      "furigana": [
+        {
+          "text": "フランス"
+        },
+        {
+          "text": "文化",
+          "highlight": true,
+          "reading": "ぶんか"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2575170",
+        "englishSentenceId": "2592581",
+        "url": "https://tatoeba.org/en/sentences/show/2575170"
+      }
+    },
+    "acceptedJapanese": [
+      "文化",
+      "ぶんか"
+    ],
+    "acceptedEnglish": [
+      "culture",
+      "civilisation",
+      "Bunka era"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-other-as-as-possible-1777217252699",
+    "jlpt": "N4",
+    "subcategory": "Other",
+    "name": "成るべく",
+    "kanji": "成るべく",
+    "kana": "なるべく",
+    "meaning": "as as possible",
+    "explanation": "A JLPT N4 adverb meaning \"as as possible\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "成",
+        "meanings": [
+          "form",
+          "achieve"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「成るべく」は日本語の言葉です。",
+      "english": "\"as as possible\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "成るべく",
+          "reading": "なるべく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "成るべく",
+      "なるべく"
+    ],
+    "acceptedEnglish": [
+      "as as possible",
+      "as as one can",
+      "wherever practicable",
+      "if possible"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

@@ -1,1 +1,2505 @@
-[]
+[
+  {
+    "id": "n4-objects-toy-1777217250878",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "玩具",
+    "kanji": "玩具",
+    "kana": "おもちゃ",
+    "meaning": "toy",
+    "explanation": "A JLPT N4 noun meaning \"toy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "玩",
+        "meanings": [
+          "play",
+          "take pleasure in",
+          "trifle with",
+          "make sport of"
+        ]
+      },
+      {
+        "kanji": "具",
+        "meanings": [
+          "implement",
+          "tool"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その玩具は木製だ。",
+      "english": "That toy is made out of wood.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "玩具",
+          "highlight": true,
+          "reading": "おもちゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "木製",
+          "reading": "もくせい"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1038415",
+        "englishSentenceId": "1037067",
+        "url": "https://tatoeba.org/en/sentences/show/1038415"
+      }
+    },
+    "acceptedJapanese": [
+      "玩具",
+      "おもちゃ"
+    ],
+    "acceptedEnglish": [
+      "toy",
+      "plaything"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-objects-suitcase-1777217250890",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "スーツケース",
+    "kanji": "スーツケース",
+    "kana": "スーツケース",
+    "meaning": "suitcase",
+    "explanation": "A JLPT N4 noun meaning \"suitcase\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スーツケース、お持ちします。",
+      "english": "I'll carry this suitcase for you.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "ツ",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "ケ",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スーツケース"
+        },
+        {
+          "text": "、お"
+        },
+        {
+          "text": "持ち",
+          "reading": "もち"
+        },
+        {
+          "text": "します。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "999924",
+        "englishSentenceId": "61007",
+        "url": "https://tatoeba.org/en/sentences/show/999924"
+      }
+    },
+    "acceptedJapanese": [
+      "スーツケース"
+    ],
+    "acceptedEnglish": [
+      "suitcase"
+    ]
+  },
+  {
+    "id": "n4-objects-glass-1777217250959",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "硝子",
+    "kanji": "硝子",
+    "kana": "ガラス",
+    "meaning": "glass",
+    "explanation": "A JLPT N4 noun meaning \"glass\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "硝",
+        "meanings": [
+          "nitrate",
+          "saltpeter"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「硝子」は日本語の言葉です。",
+      "english": "\"glass\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "硝子",
+          "reading": "ガラス",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "硝子",
+      "ガラス"
+    ],
+    "acceptedEnglish": [
+      "glass",
+      "pane"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-article-1777217251007",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "品物",
+    "kanji": "品物",
+    "kana": "しなもの",
+    "meaning": "article",
+    "explanation": "A JLPT N4 noun meaning \"article\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "品",
+        "meanings": [
+          "article",
+          "goods"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この品物は安い。",
+      "english": "This article is cheap.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "品物",
+          "highlight": true,
+          "reading": "しなもの"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "安い",
+          "reading": "やすい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220098",
+        "englishSentenceId": "57417",
+        "url": "https://tatoeba.org/en/sentences/show/220098"
+      }
+    },
+    "acceptedJapanese": [
+      "品物",
+      "しなもの"
+    ],
+    "acceptedEnglish": [
+      "article",
+      "item",
+      "thing",
+      "goods",
+      "wares"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-air-conditioning-1777217251019",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "冷房",
+    "kanji": "冷房",
+    "kana": "れいぼう",
+    "meaning": "air conditioning",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"air conditioning\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "冷",
+        "meanings": [
+          "cold"
+        ]
+      },
+      {
+        "kanji": "房",
+        "meanings": [
+          "tassel",
+          "tuft",
+          "fringe",
+          "bunch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その部屋は冷房がついていますか。",
+      "english": "Does the room have air conditioning?",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "冷房",
+          "highlight": true,
+          "reading": "れいぼう"
+        },
+        {
+          "text": "がついていますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "206940",
+        "englishSentenceId": "44190",
+        "url": "https://tatoeba.org/en/sentences/show/206940"
+      }
+    },
+    "acceptedJapanese": [
+      "冷房",
+      "れいぼう"
+    ],
+    "acceptedEnglish": [
+      "air conditioning",
+      "air cooling"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-sandal-1777217251073",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "サンダル",
+    "kanji": "サンダル",
+    "kana": "サンダル",
+    "meaning": "sandal",
+    "explanation": "A JLPT N4 noun meaning \"sandal\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "サンダルを買った。",
+      "english": "I bought sandals.",
+      "furigana": [
+        {
+          "text": "サ",
+          "highlight": true,
+          "reading": "サンダル"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "サンダル"
+        },
+        {
+          "text": "ダ",
+          "highlight": true,
+          "reading": "サンダル"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "サンダル"
+        },
+        {
+          "text": "を買った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9029275",
+        "englishSentenceId": "10159487",
+        "url": "https://tatoeba.org/en/sentences/show/9029275"
+      }
+    },
+    "acceptedJapanese": [
+      "サンダル"
+    ],
+    "acceptedEnglish": [
+      "sandal"
+    ]
+  },
+  {
+    "id": "n4-objects-thread-1777217251082",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "糸",
+    "kanji": "糸",
+    "kana": "いと",
+    "meaning": "thread",
+    "explanation": "A JLPT N4 noun, noun, used as a suffix meaning \"thread\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "糸",
+        "meanings": [
+          "thread"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "赤い糸がないです。",
+      "english": "There's no red thread.",
+      "furigana": [
+        {
+          "text": "赤い",
+          "reading": "あかい"
+        },
+        {
+          "text": "糸",
+          "highlight": true,
+          "reading": "いと"
+        },
+        {
+          "text": "がないです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13080947",
+        "englishSentenceId": "1310724",
+        "url": "https://tatoeba.org/en/sentences/show/13080947"
+      }
+    },
+    "acceptedJapanese": [
+      "糸",
+      "いと"
+    ],
+    "acceptedEnglish": [
+      "thread",
+      "yarn",
+      "string"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-objects-change-1777217251127",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "お釣り",
+    "kanji": "お釣り",
+    "kana": "おつり",
+    "meaning": "change",
+    "explanation": "A JLPT N4 noun meaning \"change\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "釣",
+        "meanings": [
+          "angling",
+          "fish",
+          "catch",
+          "allure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お釣りはいいです。",
+      "english": "Keep the change.",
+      "furigana": [
+        {
+          "text": "お釣り",
+          "highlight": true,
+          "reading": "おつり"
+        },
+        {
+          "text": "はいいです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9314776",
+        "englishSentenceId": "357219",
+        "url": "https://tatoeba.org/en/sentences/show/9314776"
+      }
+    },
+    "acceptedJapanese": [
+      "お釣り",
+      "おつり"
+    ],
+    "acceptedEnglish": [
+      "change",
+      "toilet splashback"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-heating-1777217251262",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "暖房",
+    "kanji": "暖房",
+    "kana": "だんぼう",
+    "meaning": "heating",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"heating\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "暖",
+        "meanings": [
+          "warm"
+        ]
+      },
+      {
+        "kanji": "房",
+        "meanings": [
+          "tassel",
+          "tuft",
+          "fringe",
+          "bunch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "暖房が故障しています。",
+      "english": "The heating doesn't work.",
+      "furigana": [
+        {
+          "text": "暖房",
+          "highlight": true,
+          "reading": "だんぼう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "text": "しています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "127291",
+        "englishSentenceId": "453201",
+        "url": "https://tatoeba.org/en/sentences/show/127291"
+      }
+    },
+    "acceptedJapanese": [
+      "暖房",
+      "だんぼう"
+    ],
+    "acceptedEnglish": [
+      "heating"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-kimono-1777217251268",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "着物",
+    "kanji": "着物",
+    "kana": "きもの",
+    "meaning": "kimono",
+    "explanation": "A JLPT N4 noun meaning \"kimono\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "着",
+        "meanings": [
+          "put on",
+          "arrive",
+          "stick"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "着物は着ますか。",
+      "english": "Do you wear a kimono?",
+      "furigana": [
+        {
+          "text": "着物",
+          "highlight": true,
+          "reading": "きもの"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "着",
+          "reading": "ちゃく"
+        },
+        {
+          "text": "ますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "126595",
+        "englishSentenceId": "277453",
+        "url": "https://tatoeba.org/en/sentences/show/126595"
+      }
+    },
+    "acceptedJapanese": [
+      "着物",
+      "きもの"
+    ],
+    "acceptedEnglish": [
+      "kimono",
+      "Japanese traditional clothing",
+      "clothing",
+      "clothes"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-lost-article-1777217251331",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "忘れ物",
+    "kanji": "忘れ物",
+    "kana": "わすれもの",
+    "meaning": "lost article",
+    "explanation": "A JLPT N4 noun meaning \"lost article\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "忘",
+        "meanings": [
+          "forget"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "車に忘れ物をした。",
+      "english": "I've left something in my car.",
+      "furigana": [
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "忘れ物",
+          "highlight": true,
+          "reading": "わすれもの"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12698636",
+        "englishSentenceId": "11966131",
+        "url": "https://tatoeba.org/en/sentences/show/12698636"
+      }
+    },
+    "acceptedJapanese": [
+      "忘れ物",
+      "わすれもの"
+    ],
+    "acceptedEnglish": [
+      "lost article",
+      "thing left behind",
+      "leaving something behind",
+      "forgetting something"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-electric-light-1777217251388",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "電灯",
+    "kanji": "電灯",
+    "kana": "でんとう",
+    "meaning": "electric light",
+    "explanation": "A JLPT N4 noun meaning \"electric light\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "電",
+        "meanings": [
+          "electricity"
+        ]
+      },
+      {
+        "kanji": "灯",
+        "meanings": [
+          "lamp",
+          "light"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "電灯が消えた。",
+      "english": "The electric light went out.",
+      "furigana": [
+        {
+          "text": "電灯",
+          "highlight": true,
+          "reading": "でんとう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "消",
+          "reading": "け"
+        },
+        {
+          "text": "えた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124766",
+        "englishSentenceId": "279228",
+        "url": "https://tatoeba.org/en/sentences/show/124766"
+      }
+    },
+    "acceptedJapanese": [
+      "電灯",
+      "でんとう"
+    ],
+    "acceptedEnglish": [
+      "electric light"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-fax-1777217251454",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "ＦＡＸ",
+    "kanji": "ＦＡＸ",
+    "kana": "ファックス",
+    "meaning": "fax",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"fax\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ＦＡＸで地図を送っていただけませんか。",
+      "english": "Could you send me a map by facsimile?",
+      "furigana": [
+        {
+          "text": "Ｆ",
+          "highlight": true,
+          "reading": "ファックス"
+        },
+        {
+          "text": "Ａ",
+          "highlight": true,
+          "reading": "ファックス"
+        },
+        {
+          "text": "Ｘ",
+          "highlight": true,
+          "reading": "ファックス"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "地図",
+          "reading": "ちず"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "送",
+          "reading": "おく"
+        },
+        {
+          "text": "っていただけませんか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "234850",
+        "englishSentenceId": "72227",
+        "url": "https://tatoeba.org/en/sentences/show/234850"
+      }
+    },
+    "acceptedJapanese": [
+      "ＦＡＸ",
+      "ファックス"
+    ],
+    "acceptedEnglish": [
+      "fax",
+      "facsimile"
+    ]
+  },
+  {
+    "id": "n4-objects-personal-computer-1777217251475",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "パソコン",
+    "kanji": "パソコン",
+    "kana": "パソコン",
+    "meaning": "personal computer",
+    "explanation": "A JLPT N4 noun meaning \"personal computer\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "パソコンは持ってます。",
+      "english": "I own a computer.",
+      "furigana": [
+        {
+          "text": "パ",
+          "highlight": true,
+          "reading": "パソコン"
+        },
+        {
+          "text": "ソ",
+          "highlight": true,
+          "reading": "パソコン"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "パソコン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "パソコン"
+        },
+        {
+          "text": "は持ってます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10844858",
+        "englishSentenceId": "1984328",
+        "url": "https://tatoeba.org/en/sentences/show/10844858"
+      }
+    },
+    "acceptedJapanese": [
+      "パソコン"
+    ],
+    "acceptedEnglish": [
+      "personal computer",
+      "PC"
+    ]
+  },
+  {
+    "id": "n4-objects-accessory-1777217251523",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "アクセサリー",
+    "kanji": "アクセサリー",
+    "kana": "アクセサリー",
+    "meaning": "accessory",
+    "explanation": "A JLPT N4 noun meaning \"accessory\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "この服にはどんなアクセサリーを付けるの？",
+      "english": "What sort of jewelry are you going to wear with this dress?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "服",
+          "reading": "ふく"
+        },
+        {
+          "text": "にはどんな"
+        },
+        {
+          "text": "ア",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "セ",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "サ",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "アクセサリー"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "付ける",
+          "reading": "つける"
+        },
+        {
+          "text": "の？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "219960",
+        "englishSentenceId": "57280",
+        "url": "https://tatoeba.org/en/sentences/show/219960"
+      }
+    },
+    "acceptedJapanese": [
+      "アクセサリー"
+    ],
+    "acceptedEnglish": [
+      "accessory",
+      "jewelry"
+    ]
+  },
+  {
+    "id": "n4-objects-underwear-1777217251550",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "下着",
+    "kanji": "下着",
+    "kana": "したぎ",
+    "meaning": "underwear",
+    "explanation": "A JLPT N4 noun meaning \"underwear\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "着",
+        "meanings": [
+          "put on",
+          "arrive",
+          "stick"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この下着は、洗わないと。",
+      "english": "This underwear needs to be washed.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "下着",
+          "highlight": true,
+          "reading": "したぎ"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "洗",
+          "reading": "すまし"
+        },
+        {
+          "text": "わないと。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11645048",
+        "englishSentenceId": "2774066",
+        "url": "https://tatoeba.org/en/sentences/show/11645048"
+      }
+    },
+    "acceptedJapanese": [
+      "下着",
+      "したぎ"
+    ],
+    "acceptedEnglish": [
+      "underwear",
+      "undergarment",
+      "underclothes",
+      "lingerie"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-present-1777217251658",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "プレゼント",
+    "kanji": "プレゼント",
+    "kana": "プレゼント",
+    "meaning": "present",
+    "explanation": "A JLPT N4 noun, suru noun, transitive verb meaning \"present\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "あなたへのプレゼントです。",
+      "english": "It's a present for you.",
+      "furigana": [
+        {
+          "text": "あなたへの"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "プレゼント"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "プレゼント"
+        },
+        {
+          "text": "ゼ",
+          "highlight": true,
+          "reading": "プレゼント"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "プレゼント"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "プレゼント"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "231480",
+        "englishSentenceId": "68848",
+        "url": "https://tatoeba.org/en/sentences/show/231480"
+      }
+    },
+    "acceptedJapanese": [
+      "プレゼント"
+    ],
+    "acceptedEnglish": [
+      "present",
+      "gift"
+    ]
+  },
+  {
+    "id": "n4-objects-computer-1777217251670",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "コンピュータ",
+    "kanji": "コンピュータ",
+    "kana": "コンピュータ",
+    "meaning": "computer",
+    "explanation": "A JLPT N4 noun meaning \"computer\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "コンピューターが落ちた。",
+      "english": "My computer fell.",
+      "furigana": [
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "ピ",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "ュ",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "コンピュータ"
+        },
+        {
+          "text": "ーが"
+        },
+        {
+          "text": "落ち",
+          "reading": "おち"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13914975",
+        "englishSentenceId": "13917277",
+        "url": "https://tatoeba.org/en/sentences/show/13914975"
+      }
+    },
+    "acceptedJapanese": [
+      "コンピュータ"
+    ],
+    "acceptedEnglish": [
+      "computer"
+    ]
+  },
+  {
+    "id": "n4-objects-shelf-1777217251730",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "棚",
+    "kanji": "棚",
+    "kana": "たな",
+    "meaning": "shelf",
+    "explanation": "A JLPT N4 noun meaning \"shelf\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "棚",
+        "meanings": [
+          "shelf",
+          "ledge",
+          "rack",
+          "mount"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それを棚に戻して。",
+      "english": "Put it back on the shelf.",
+      "furigana": [
+        {
+          "text": "それを"
+        },
+        {
+          "text": "棚",
+          "highlight": true,
+          "reading": "たな"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "戻し",
+          "reading": "もどし"
+        },
+        {
+          "text": "て。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10630183",
+        "englishSentenceId": "6577509",
+        "url": "https://tatoeba.org/en/sentences/show/10630183"
+      }
+    },
+    "acceptedJapanese": [
+      "棚",
+      "たな"
+    ],
+    "acceptedEnglish": [
+      "shelf",
+      "ledge",
+      "rack",
+      "trellis"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-ring-1777217251760",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "指輪",
+    "kanji": "指輪",
+    "kana": "ゆびわ",
+    "meaning": "ring",
+    "explanation": "A JLPT N4 noun meaning \"ring\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "指",
+        "meanings": [
+          "finger",
+          "point"
+        ]
+      },
+      {
+        "kanji": "輪",
+        "meanings": [
+          "wheel",
+          "ring",
+          "circle"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これは指輪。",
+      "english": "This is a ring.",
+      "furigana": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "指輪",
+          "highlight": true,
+          "reading": "ゆびわ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "12143105",
+        "englishSentenceId": "10735017",
+        "url": "https://tatoeba.org/en/sentences/show/12143105"
+      }
+    },
+    "acceptedJapanese": [
+      "指輪",
+      "ゆびわ"
+    ],
+    "acceptedEnglish": [
+      "ring"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-suit-1777217251769",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "スーツ",
+    "kanji": "スーツ",
+    "kana": "スーツ",
+    "meaning": "suit",
+    "explanation": "A JLPT N4 noun meaning \"suit\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スーツに着替えなさい。",
+      "english": "Change into your suit.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スーツ"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スーツ"
+        },
+        {
+          "text": "ツ",
+          "highlight": true,
+          "reading": "スーツ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "着替え",
+          "reading": "きがえ"
+        },
+        {
+          "text": "なさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "215067",
+        "englishSentenceId": "52363",
+        "url": "https://tatoeba.org/en/sentences/show/215067"
+      }
+    },
+    "acceptedJapanese": [
+      "スーツ"
+    ],
+    "acceptedEnglish": [
+      "suit"
+    ]
+  },
+  {
+    "id": "n4-objects-present-1777217251814",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "贈り物",
+    "kanji": "贈り物",
+    "kana": "おくりもの",
+    "meaning": "present",
+    "explanation": "A JLPT N4 noun meaning \"present\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "贈",
+        "meanings": [
+          "present a gift",
+          "give",
+          "bestow"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "贈り物があります。",
+      "english": "I have some gifts.",
+      "furigana": [
+        {
+          "text": "贈り物",
+          "highlight": true,
+          "reading": "おくりもの"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1323417",
+        "englishSentenceId": "274356",
+        "url": "https://tatoeba.org/en/sentences/show/1323417"
+      }
+    },
+    "acceptedJapanese": [
+      "贈り物",
+      "おくりもの"
+    ],
+    "acceptedEnglish": [
+      "present",
+      "gift"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-diary-1777217251859",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "日記",
+    "kanji": "日記",
+    "kana": "にっき",
+    "meaning": "diary",
+    "explanation": "A JLPT N4 noun meaning \"diary\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "日",
+        "meanings": [
+          "day",
+          "sun",
+          "Japan"
+        ]
+      },
+      {
+        "kanji": "記",
+        "meanings": [
+          "write down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日記をつけています。",
+      "english": "I keep a diary.",
+      "furigana": [
+        {
+          "text": "日記",
+          "highlight": true,
+          "reading": "にっき"
+        },
+        {
+          "text": "をつけています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8533443",
+        "englishSentenceId": "3887931",
+        "url": "https://tatoeba.org/en/sentences/show/8533443"
+      }
+    },
+    "acceptedJapanese": [
+      "日記",
+      "にっき"
+    ],
+    "acceptedEnglish": [
+      "diary",
+      "journal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-register-1777217251886",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "レジ",
+    "kanji": "レジ",
+    "kana": "レジ",
+    "meaning": "register",
+    "explanation": "A JLPT N4 noun meaning \"register\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "レジはどこですか。",
+      "english": "Where's the checkout counter?",
+      "furigana": [
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "レジ"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "レジ"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192354",
+        "englishSentenceId": "29518",
+        "url": "https://tatoeba.org/en/sentences/show/192354"
+      }
+    },
+    "acceptedJapanese": [
+      "レジ"
+    ],
+    "acceptedEnglish": [
+      "register",
+      "checkout",
+      "cashier"
+    ]
+  },
+  {
+    "id": "n4-objects-dictionary-1777217252021",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "辞典",
+    "kanji": "辞典",
+    "kana": "じてん",
+    "meaning": "dictionary",
+    "explanation": "A JLPT N4 noun meaning \"dictionary\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "辞",
+        "meanings": [
+          "word",
+          "resign",
+          "quit"
+        ]
+      },
+      {
+        "kanji": "典",
+        "meanings": [
+          "standard work",
+          "canon",
+          "law code",
+          "ceremony"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この辞典は全１２巻です。",
+      "english": "This dictionary has 12 volumes.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "辞典",
+          "highlight": true,
+          "reading": "じてん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "全",
+          "reading": "ぜん"
+        },
+        {
+          "text": "１２巻です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10611375",
+        "englishSentenceId": "58851",
+        "url": "https://tatoeba.org/en/sentences/show/10611375"
+      }
+    },
+    "acceptedJapanese": [
+      "辞典",
+      "じてん"
+    ],
+    "acceptedEnglish": [
+      "dictionary",
+      "lexicon"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-mirror-1777217252087",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "鏡",
+    "kanji": "鏡",
+    "kana": "かがみ",
+    "meaning": "mirror",
+    "explanation": "A JLPT N4 noun meaning \"mirror\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鏡",
+        "meanings": [
+          "mirror",
+          "optical instrument"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鏡はどこですか。",
+      "english": "Where's a mirror?",
+      "furigana": [
+        {
+          "text": "鏡",
+          "highlight": true,
+          "reading": "かがみ"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2117619",
+        "englishSentenceId": "1886605",
+        "url": "https://tatoeba.org/en/sentences/show/2117619"
+      }
+    },
+    "acceptedJapanese": [
+      "鏡",
+      "かがみ"
+    ],
+    "acceptedEnglish": [
+      "mirror",
+      "looking-glass",
+      "barrel head",
+      "date",
+      "author",
+      "etc."
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-objects-futon-1777217252138",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "布団",
+    "kanji": "布団",
+    "kana": "ふとん",
+    "meaning": "futon",
+    "explanation": "A JLPT N4 noun meaning \"futon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "布",
+        "meanings": [
+          "cloth",
+          "spread"
+        ]
+      },
+      {
+        "kanji": "団",
+        "meanings": [
+          "body",
+          "group"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "布団をはがされた。",
+      "english": "My futon was peeled away.",
+      "furigana": [
+        {
+          "text": "布団",
+          "highlight": true,
+          "reading": "ふとん"
+        },
+        {
+          "text": "をはがされた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "84914",
+        "englishSentenceId": "318799",
+        "url": "https://tatoeba.org/en/sentences/show/84914"
+      }
+    },
+    "acceptedJapanese": [
+      "布団",
+      "ふとん"
+    ],
+    "acceptedEnglish": [
+      "futon",
+      "round cushion used for Zen meditation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-screen-1777217252162",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "スクリーン",
+    "kanji": "スクリーン",
+    "kana": "スクリーン",
+    "meaning": "screen",
+    "explanation": "A JLPT N4 noun meaning \"screen\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "最も効果の高いサンスクリーンはどれですか。",
+      "english": "What's your strongest type of sunscreen?",
+      "furigana": [
+        {
+          "text": "最も",
+          "reading": "もっとも"
+        },
+        {
+          "text": "効果",
+          "reading": "こうか"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "高い",
+          "reading": "たかい"
+        },
+        {
+          "text": "サン"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スクリーン"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "スクリーン"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "スクリーン"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スクリーン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "スクリーン"
+        },
+        {
+          "text": "はどれですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "170794",
+        "englishSentenceId": "243686",
+        "url": "https://tatoeba.org/en/sentences/show/170794"
+      }
+    },
+    "acceptedJapanese": [
+      "スクリーン"
+    ],
+    "acceptedEnglish": [
+      "screen"
+    ]
+  },
+  {
+    "id": "n4-objects-cotton-1777217252168",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "木綿",
+    "kanji": "木綿",
+    "kana": "もめん",
+    "meaning": "cotton",
+    "explanation": "A JLPT N4 noun meaning \"cotton\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "木",
+        "meanings": [
+          "tree",
+          "wood"
+        ]
+      },
+      {
+        "kanji": "綿",
+        "meanings": [
+          "cotton"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は木綿のシャツを２枚買った。",
+      "english": "I bought two cotton shirts.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "木綿",
+          "highlight": true,
+          "reading": "もめん"
+        },
+        {
+          "text": "のシャツを"
+        },
+        {
+          "text": "２枚",
+          "reading": "にまい"
+        },
+        {
+          "text": "買った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "152577",
+        "englishSentenceId": "261972",
+        "url": "https://tatoeba.org/en/sentences/show/152577"
+      }
+    },
+    "acceptedJapanese": [
+      "木綿",
+      "もめん"
+    ],
+    "acceptedEnglish": [
+      "cotton",
+      "red silk-cotton tree"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-present-brought-by-a-visitor-1777217252354",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "お土産",
+    "kanji": "お土産",
+    "kana": "おみやげ",
+    "meaning": "local specialty or souvenir bought as a gift while traveling",
+    "explanation": "A JLPT N4 noun meaning \"local specialty or souvenir bought as a gift while traveling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "土",
+        "meanings": [
+          "soil",
+          "earth",
+          "ground"
+        ]
+      },
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このお土産かさばるなぁ。",
+      "english": "These presents are really bulky.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "お土産",
+          "highlight": true,
+          "reading": "おみやげ"
+        },
+        {
+          "text": "かさばるなぁ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223929",
+        "englishSentenceId": "61264",
+        "url": "https://tatoeba.org/en/sentences/show/223929"
+      }
+    },
+    "acceptedJapanese": [
+      "お土産",
+      "おみやげ"
+    ],
+    "acceptedEnglish": [
+      "present brought by a visitor",
+      "something unpleasant that one is given",
+      "unwelcome gift",
+      "disservice"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-handbag-1777217252396",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "ハンドバッグ",
+    "kanji": "ハンドバッグ",
+    "kana": "ハンドバッグ",
+    "meaning": "handbag",
+    "explanation": "A JLPT N4 noun meaning \"handbag\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "このハンドバッグは誰のですか。",
+      "english": "Whose handbag is this?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "ハ",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "ド",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "グ",
+          "highlight": true,
+          "reading": "ハンドバッグ"
+        },
+        {
+          "text": "は誰のですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223302",
+        "englishSentenceId": "60634",
+        "url": "https://tatoeba.org/en/sentences/show/223302"
+      }
+    },
+    "acceptedJapanese": [
+      "ハンドバッグ"
+    ],
+    "acceptedEnglish": [
+      "handbag",
+      "purse"
+    ]
+  },
+  {
+    "id": "n4-objects-stereo-1777217252405",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "ステレオ",
+    "kanji": "ステレオ",
+    "kana": "ステレオ",
+    "meaning": "stereo",
+    "explanation": "A JLPT N4 noun meaning \"stereo\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ステレオの音が大きすぎますよ。",
+      "english": "Turn down the stereo.",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "ステレオ"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "ステレオ"
+        },
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "ステレオ"
+        },
+        {
+          "text": "オ",
+          "highlight": true,
+          "reading": "ステレオ"
+        },
+        {
+          "text": "の音が"
+        },
+        {
+          "text": "大き",
+          "reading": "おおき"
+        },
+        {
+          "text": "すぎますよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214600",
+        "englishSentenceId": "51893",
+        "url": "https://tatoeba.org/en/sentences/show/214600"
+      }
+    },
+    "acceptedJapanese": [
+      "ステレオ"
+    ],
+    "acceptedEnglish": [
+      "stereo"
+    ]
+  },
+  {
+    "id": "n4-objects-glove-1777217252459",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "手袋",
+    "kanji": "手袋",
+    "kana": "てぶくろ",
+    "meaning": "glove",
+    "explanation": "A JLPT N4 noun meaning \"glove\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "袋",
+        "meanings": [
+          "bag",
+          "sack"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手袋が要りますか？",
+      "english": "Do you need gloves?",
+      "furigana": [
+        {
+          "text": "手袋",
+          "highlight": true,
+          "reading": "てぶくろ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "要り",
+          "reading": "いり"
+        },
+        {
+          "text": "ますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10701769",
+        "englishSentenceId": "10701316",
+        "url": "https://tatoeba.org/en/sentences/show/10701769"
+      }
+    },
+    "acceptedJapanese": [
+      "手袋",
+      "てぶくろ"
+    ],
+    "acceptedEnglish": [
+      "glove",
+      "mitten",
+      "mitt"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-objects-doll-1777217252468",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "人形",
+    "kanji": "人形",
+    "kana": "にんぎょう",
+    "meaning": "doll",
+    "explanation": "A JLPT N4 noun meaning \"doll\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "人",
+        "meanings": [
+          "human being",
+          "person"
+        ]
+      },
+      {
+        "kanji": "形",
+        "meanings": [
+          "shape"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは人形です。",
+      "english": "That's a doll.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "人形",
+          "highlight": true,
+          "reading": "にんぎょう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "205051",
+        "englishSentenceId": "42293",
+        "url": "https://tatoeba.org/en/sentences/show/205051"
+      }
+    },
+    "acceptedJapanese": [
+      "人形",
+      "にんぎょう"
+    ],
+    "acceptedEnglish": [
+      "doll",
+      "puppet",
+      "marionette",
+      "straw man",
+      "yes-man"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-bell-1777217252471",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "ベル",
+    "kanji": "ベル",
+    "kana": "ベル",
+    "meaning": "bell",
+    "explanation": "A JLPT N4 noun meaning \"bell\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ベルが鳴った。",
+      "english": "The bell rang.",
+      "furigana": [
+        {
+          "text": "ベ",
+          "highlight": true,
+          "reading": "ベル"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "ベル"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "鳴",
+          "reading": "な"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "537014",
+        "englishSentenceId": "385375",
+        "url": "https://tatoeba.org/en/sentences/show/537014"
+      }
+    },
+    "acceptedJapanese": [
+      "ベル"
+    ],
+    "acceptedEnglish": [
+      "bell"
+    ]
+  },
+  {
+    "id": "n4-objects-drawer-1777217252555",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "引き出し",
+    "kanji": "引き出し",
+    "kana": "ひきだし",
+    "meaning": "drawer",
+    "explanation": "A JLPT N4 noun meaning \"drawer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "机の引き出しが開いている。",
+      "english": "The desk drawer is open.",
+      "furigana": [
+        {
+          "text": "机",
+          "reading": "つくえ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "引き出し",
+          "highlight": true,
+          "reading": "ひきだし"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "開",
+          "reading": "ひら"
+        },
+        {
+          "text": "いている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183467",
+        "englishSentenceId": "20590",
+        "url": "https://tatoeba.org/en/sentences/show/183467"
+      }
+    },
+    "acceptedJapanese": [
+      "引き出し",
+      "ひきだし"
+    ],
+    "acceptedEnglish": [
+      "drawer",
+      "withdrawal"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-curtain-1777217252615",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "カーテン",
+    "kanji": "カーテン",
+    "kana": "カーテン",
+    "meaning": "curtain",
+    "explanation": "A JLPT N4 noun meaning \"curtain\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "カーテン下ろして。",
+      "english": "Lower the curtains.",
+      "furigana": [
+        {
+          "text": "カ",
+          "highlight": true,
+          "reading": "カーテン"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "カーテン"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "カーテン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "カーテン"
+        },
+        {
+          "text": "下ろし",
+          "reading": "おろし"
+        },
+        {
+          "text": "て。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11588303",
+        "englishSentenceId": "13043870",
+        "url": "https://tatoeba.org/en/sentences/show/11588303"
+      }
+    },
+    "acceptedJapanese": [
+      "カーテン"
+    ],
+    "acceptedEnglish": [
+      "curtain",
+      "curtains"
+    ]
+  },
+  {
+    "id": "n4-objects-closet-1777217252630",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "押入れ",
+    "kanji": "押入れ",
+    "kana": "おしいれ",
+    "meaning": "closet",
+    "explanation": "A JLPT N4 noun meaning \"closet\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "押",
+        "meanings": [
+          "push"
+        ]
+      },
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は押入れに閉じ込められるのがこわかった。",
+      "english": "I was afraid of being put into a closet.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "押入れ",
+          "highlight": true,
+          "reading": "おしいれ"
+        },
+        {
+          "text": "に閉じ"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "められるのがこわかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "158225",
+        "englishSentenceId": "256305",
+        "url": "https://tatoeba.org/en/sentences/show/158225"
+      }
+    },
+    "acceptedJapanese": [
+      "押入れ",
+      "おしいれ"
+    ],
+    "acceptedEnglish": [
+      "closet",
+      "wardrobe"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-objects-tool-1777217252663",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "道具",
+    "kanji": "道具",
+    "kana": "どうぐ",
+    "meaning": "tool",
+    "explanation": "A JLPT N4 noun meaning \"tool\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "道",
+        "meanings": [
+          "way",
+          "street",
+          "road"
+        ]
+      },
+      {
+        "kanji": "具",
+        "meanings": [
+          "implement",
+          "tool"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それを開ける道具が必要です。",
+      "english": "We need a tool to open it with.",
+      "furigana": [
+        {
+          "text": "それを"
+        },
+        {
+          "text": "開",
+          "reading": "ひら"
+        },
+        {
+          "text": "ける"
+        },
+        {
+          "text": "道具",
+          "highlight": true,
+          "reading": "どうぐ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "204616",
+        "englishSentenceId": "41856",
+        "url": "https://tatoeba.org/en/sentences/show/204616"
+      }
+    },
+    "acceptedJapanese": [
+      "道具",
+      "どうぐ"
+    ],
+    "acceptedEnglish": [
+      "tool",
+      "implement",
+      "instrument",
+      "utensil",
+      "apparatus",
+      "device"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-objects-silk-1777217252666",
+    "jlpt": "N4",
+    "subcategory": "Objects",
+    "name": "絹",
+    "kanji": "絹",
+    "kana": "きぬ",
+    "meaning": "silk",
+    "explanation": "A JLPT N4 noun meaning \"silk\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "絹",
+        "meanings": [
+          "silk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "絹は手触りが柔らかい。",
+      "english": "Silk feels soft.",
+      "furigana": [
+        {
+          "text": "絹",
+          "highlight": true,
+          "reading": "きぬ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "手触り",
+          "reading": "てざわり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "柔らかい",
+          "reading": "やわらかい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175205",
+        "englishSentenceId": "239261",
+        "url": "https://tatoeba.org/en/sentences/show/175205"
+      }
+    },
+    "acceptedJapanese": [
+      "絹",
+      "きぬ"
+    ],
+    "acceptedEnglish": [
+      "silk"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

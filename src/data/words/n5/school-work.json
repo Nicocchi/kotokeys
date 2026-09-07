@@ -12,13 +12,15 @@
       {
         "kanji": "宿",
         "meanings": [
-          "homework"
+          "lodge"
         ]
       },
       {
         "kanji": "題",
         "meanings": [
-          "homework"
+          "title",
+          "topic",
+          "problem"
         ]
       }
     ],
@@ -69,13 +71,13 @@
       {
         "kanji": "勉",
         "meanings": [
-          "study"
+          "endeavor"
         ]
       },
       {
         "kanji": "強",
         "meanings": [
-          "study"
+          "strong"
         ]
       }
     ],
@@ -174,13 +176,15 @@
       {
         "kanji": "言",
         "meanings": [
-          "language"
+          "say",
+          "speech"
         ]
       },
       {
         "kanji": "葉",
         "meanings": [
-          "language"
+          "leaf",
+          "foliage"
         ]
       }
     ],
@@ -291,13 +295,15 @@
       {
         "kanji": "先",
         "meanings": [
-          "teacher"
+          "ahead"
         ]
       },
       {
         "kanji": "生",
         "meanings": [
-          "teacher"
+          "life",
+          "be born",
+          "student"
         ]
       }
     ],
@@ -360,7 +366,9 @@
       {
         "kanji": "題",
         "meanings": [
-          "question"
+          "title",
+          "topic",
+          "problem"
         ]
       }
     ],
@@ -412,13 +420,16 @@
       {
         "kanji": "文",
         "meanings": [
-          "writing"
+          "letter",
+          "writings",
+          "sentence"
         ]
       },
       {
         "kanji": "章",
         "meanings": [
-          "writing"
+          "chapter",
+          "badge"
         ]
       }
     ],
@@ -477,13 +488,14 @@
       {
         "kanji": "鉛",
         "meanings": [
-          "pencil"
+          "lead"
         ]
       },
       {
         "kanji": "筆",
         "meanings": [
-          "pencil"
+          "brush",
+          "writing"
         ]
       }
     ],
@@ -521,6 +533,74 @@
     "pitchAccentNumber": 0
   },
   {
+    "id": "n5-school-work-company-1777217253224",
+    "jlpt": "N5",
+    "subcategory": "School/Work",
+    "name": "会社",
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "meaning": "company",
+    "explanation": "A JLPT N5 noun meaning \"company\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      },
+      {
+        "kanji": "社",
+        "meanings": [
+          "company",
+          "society"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "スバルは車の会社です。",
+      "english": "Subaru is a car firm.",
+      "furigana": [
+        {
+          "text": "スバルは"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "会社",
+          "highlight": true,
+          "reading": "かいしゃ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10193001",
+        "englishSentenceId": "10193004",
+        "url": "https://tatoeba.org/en/sentences/show/10193001"
+      }
+    },
+    "acceptedJapanese": [
+      "会社",
+      "かいしゃ"
+    ],
+    "acceptedEnglish": [
+      "company",
+      "corporation",
+      "firm",
+      "one's workplace"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
     "id": "n5-school-work-lesson-1777217253242",
     "jlpt": "N5",
     "subcategory": "School/Work",
@@ -533,13 +613,15 @@
       {
         "kanji": "授",
         "meanings": [
-          "lesson"
+          "confer"
         ]
       },
       {
         "kanji": "業",
         "meanings": [
-          "lesson"
+          "work",
+          "business",
+          "industry"
         ]
       }
     ],
@@ -598,13 +680,14 @@
       {
         "kanji": "漢",
         "meanings": [
-          "kanji"
+          "Chinese",
+          "fellow"
         ]
       },
       {
         "kanji": "字",
         "meanings": [
-          "kanji"
+          "character"
         ]
       }
     ],
@@ -659,13 +742,16 @@
       {
         "kanji": "作",
         "meanings": [
-          "writing"
+          "make",
+          "work"
         ]
       },
       {
         "kanji": "文",
         "meanings": [
-          "writing"
+          "letter",
+          "writings",
+          "sentence"
         ]
       }
     ],
@@ -728,13 +814,18 @@
       {
         "kanji": "生",
         "meanings": [
-          "pupil"
+          "life",
+          "be born",
+          "student"
         ]
       },
       {
         "kanji": "徒",
         "meanings": [
-          "pupil"
+          "follower",
+          "vain",
+          "useless",
+          "on foot"
         ]
       }
     ],
@@ -790,13 +881,15 @@
       {
         "kanji": "練",
         "meanings": [
-          "practice"
+          "train",
+          "knead"
         ]
       },
       {
         "kanji": "習",
         "meanings": [
-          "practice"
+          "learn",
+          "custom"
         ]
       }
     ],
@@ -929,19 +1022,20 @@
       {
         "kanji": "万",
         "meanings": [
-          "fountain pen"
+          "ten thousand"
         ]
       },
       {
         "kanji": "年",
         "meanings": [
-          "fountain pen"
+          "year"
         ]
       },
       {
         "kanji": "筆",
         "meanings": [
-          "fountain pen"
+          "brush",
+          "writing"
         ]
       }
     ],
@@ -1042,12 +1136,16 @@
       {
         "kanji": "学",
         "meanings": [
-          "student"
+          "study",
+          "educational",
+          "institution"
         ]
       },
       {
         "kanji": "生",
         "meanings": [
+          "life",
+          "be born",
           "student"
         ]
       }
@@ -1095,13 +1193,15 @@
       {
         "kanji": "仕",
         "meanings": [
-          "work"
+          "serve",
+          "do"
         ]
       },
       {
         "kanji": "事",
         "meanings": [
-          "work"
+          "affair",
+          "abstract thing"
         ]
       }
     ],
@@ -1202,7 +1302,8 @@
       {
         "kanji": "質",
         "meanings": [
-          "question"
+          "quality",
+          "matter"
         ]
       },
       {
@@ -1261,13 +1362,16 @@
       {
         "kanji": "英",
         "meanings": [
-          "English"
+          "distinguished",
+          "England"
         ]
       },
       {
         "kanji": "語",
         "meanings": [
-          "English"
+          "language",
+          "word",
+          "tell"
         ]
       }
     ],
@@ -1321,19 +1425,24 @@
       {
         "kanji": "留",
         "meanings": [
-          "overseas student"
+          "keep",
+          "stay"
         ]
       },
       {
         "kanji": "学",
         "meanings": [
-          "overseas student"
+          "study",
+          "educational",
+          "institution"
         ]
       },
       {
         "kanji": "生",
         "meanings": [
-          "overseas student"
+          "life",
+          "be born",
+          "student"
         ]
       }
     ],
@@ -1388,13 +1497,13 @@
       {
         "kanji": "手",
         "meanings": [
-          "letter"
+          "hand"
         ]
       },
       {
         "kanji": "紙",
         "meanings": [
-          "letter"
+          "paper"
         ]
       }
     ],

@@ -1,1 +1,3101 @@
-[]
+[
+  {
+    "id": "n2-numbers-counting-milli-1777217240987",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "ミリ",
+    "kanji": "ミリ",
+    "kana": "ミリ",
+    "meaning": "milli-",
+    "explanation": "A JLPT N2 prefix meaning \"milli-\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私の名前はエミリーです。",
+      "english": "My name is Emily.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "text": "はエ"
+        },
+        {
+          "text": "ミ",
+          "highlight": true,
+          "reading": "ミリ"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "ミリ"
+        },
+        {
+          "text": "ーです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2423784",
+        "englishSentenceId": "2566189",
+        "url": "https://tatoeba.org/en/sentences/show/2423784"
+      }
+    },
+    "acceptedJapanese": [
+      "ミリ"
+    ],
+    "acceptedEnglish": [
+      "milli-",
+      "10^-3"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-speed-1777217240993",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "時速",
+    "kanji": "時速",
+    "kana": "じそく",
+    "meaning": "speed",
+    "explanation": "A JLPT N2 noun meaning \"speed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "時",
+        "meanings": [
+          "time"
+        ]
+      },
+      {
+        "kanji": "速",
+        "meanings": [
+          "quick",
+          "fast",
+          "prompt"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「ひかり」は時速２００キロで走る。",
+      "english": "The Hikari runs at a speed of 200 kilometres an hour.",
+      "furigana": [
+        {
+          "text": "「ひかり」は"
+        },
+        {
+          "text": "時速",
+          "highlight": true,
+          "reading": "じそく"
+        },
+        {
+          "text": "２００キロで"
+        },
+        {
+          "text": "走る",
+          "reading": "はしる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "236450",
+        "englishSentenceId": "73816",
+        "url": "https://tatoeba.org/en/sentences/show/236450"
+      }
+    },
+    "acceptedJapanese": [
+      "時速",
+      "じそく"
+    ],
+    "acceptedEnglish": [
+      "speed"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-deduction-1777217241377",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "差し引き",
+    "kanji": "差し引き",
+    "kana": "さしひき",
+    "meaning": "deduction",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"deduction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "差",
+        "meanings": [
+          "difference"
+        ]
+      },
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「差し引き」は日本語の言葉です。",
+      "english": "\"deduction\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "差し引き",
+          "reading": "さしひき",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "差し引き",
+      "さしひき"
+    ],
+    "acceptedEnglish": [
+      "deduction",
+      "subtraction",
+      "balance"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-capacity-1777217241392",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "体積",
+    "kanji": "体積",
+    "kana": "たいせき",
+    "meaning": "capacity",
+    "explanation": "A JLPT N2 noun meaning \"capacity\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "体",
+        "meanings": [
+          "body",
+          "form"
+        ]
+      },
+      {
+        "kanji": "積",
+        "meanings": [
+          "accumulate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "体積を計算するなら、縦と横と深さを掛ければよい。",
+      "english": "To calculate the volume, multiply the length by the width by the depth.",
+      "furigana": [
+        {
+          "text": "体積",
+          "highlight": true,
+          "reading": "たいせき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "text": "するなら、縦と"
+        },
+        {
+          "text": "横",
+          "reading": "よこ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "深さ",
+          "reading": "ふかさ"
+        },
+        {
+          "text": "を掛ければよい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137969",
+        "englishSentenceId": "275266",
+        "url": "https://tatoeba.org/en/sentences/show/137969"
+      }
+    },
+    "acceptedJapanese": [
+      "体積",
+      "たいせき"
+    ],
+    "acceptedEnglish": [
+      "capacity",
+      "volume"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-subtraction-1777217241512",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "引き算",
+    "kanji": "引き算",
+    "kana": "ひきざん",
+    "meaning": "subtraction",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"subtraction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      },
+      {
+        "kanji": "算",
+        "meanings": [
+          "calculate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "足し算は好きだけど引き算は嫌いだ。",
+      "english": "I like addition but not subtraction.",
+      "furigana": [
+        {
+          "text": "足し算",
+          "reading": "たしざん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だけど"
+        },
+        {
+          "text": "引き算",
+          "highlight": true,
+          "reading": "ひきざん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "嫌い",
+          "reading": "きらい"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "155301",
+        "englishSentenceId": "259238",
+        "url": "https://tatoeba.org/en/sentences/show/155301"
+      }
+    },
+    "acceptedJapanese": [
+      "引き算",
+      "ひきざん"
+    ],
+    "acceptedEnglish": [
+      "subtraction"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-number-of-times-1777217241566",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "回数",
+    "kanji": "回数",
+    "kana": "かいすう",
+    "meaning": "number of times",
+    "explanation": "A JLPT N2 noun meaning \"number of times\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "回",
+        "meanings": [
+          "turn round",
+          "time"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "いつもより尿の回数が多いです。",
+      "english": "I urinate more often than usual.",
+      "furigana": [
+        {
+          "text": "いつもより尿の"
+        },
+        {
+          "text": "回数",
+          "highlight": true,
+          "reading": "かいすう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "228735",
+        "englishSentenceId": "66093",
+        "url": "https://tatoeba.org/en/sentences/show/228735"
+      }
+    },
+    "acceptedJapanese": [
+      "回数",
+      "かいすう"
+    ],
+    "acceptedEnglish": [
+      "number of times",
+      "frequency",
+      "count"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-altitude-1777217241689",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "高度",
+    "kanji": "高度",
+    "kana": "こうど",
+    "meaning": "altitude",
+    "explanation": "A JLPT N2 noun meaning \"altitude\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "高",
+        "meanings": [
+          "high"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "太陽の高度は２０度である。",
+      "english": "The solar altitude is 20 degrees.",
+      "furigana": [
+        {
+          "text": "太陽",
+          "reading": "たいよう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "高度",
+          "highlight": true,
+          "reading": "こうど"
+        },
+        {
+          "text": "は２０度である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "138132",
+        "englishSentenceId": "275103",
+        "url": "https://tatoeba.org/en/sentences/show/138132"
+      }
+    },
+    "acceptedJapanese": [
+      "高度",
+      "こうど"
+    ],
+    "acceptedEnglish": [
+      "altitude",
+      "height",
+      "elevation"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-division-1777217241896",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "割り算",
+    "kanji": "割り算",
+    "kana": "わりざん",
+    "meaning": "division",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"division\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "割",
+        "meanings": [
+          "divide",
+          "split"
+        ]
+      },
+      {
+        "kanji": "算",
+        "meanings": [
+          "calculate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "何らかの数字をゼロで割り算すると未定義の解になる。",
+      "english": "The result of dividing any number by zero is undefined.",
+      "furigana": [
+        {
+          "text": "何らか",
+          "reading": "なんらか"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "text": "をゼロで"
+        },
+        {
+          "text": "割り算",
+          "highlight": true,
+          "reading": "わりざん"
+        },
+        {
+          "text": "すると"
+        },
+        {
+          "text": "未定",
+          "reading": "みてい"
+        },
+        {
+          "text": "義",
+          "reading": "ぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "解",
+          "reading": "かい"
+        },
+        {
+          "text": "になる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9855952",
+        "englishSentenceId": "9418571",
+        "url": "https://tatoeba.org/en/sentences/show/9855952"
+      }
+    },
+    "acceptedJapanese": [
+      "割り算",
+      "わりざん"
+    ],
+    "acceptedEnglish": [
+      "division"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-circumference-1777217241911",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "円周",
+    "kanji": "円周",
+    "kana": "えんしゅう",
+    "meaning": "circumference",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"circumference\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "円",
+        "meanings": [
+          "circle",
+          "yen"
+        ]
+      },
+      {
+        "kanji": "周",
+        "meanings": [
+          "lap",
+          "periphery",
+          "circumference"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "円周から直径を求めることは可能ですか？",
+      "english": "Is it possible to determine the diameter from the circumference?",
+      "furigana": [
+        {
+          "text": "円周",
+          "highlight": true,
+          "reading": "えんしゅう"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "直径",
+          "reading": "ちょっけい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "求める",
+          "reading": "もとめる"
+        },
+        {
+          "text": "ことは"
+        },
+        {
+          "text": "可能",
+          "reading": "かのう"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "455214",
+        "englishSentenceId": "504803",
+        "url": "https://tatoeba.org/en/sentences/show/455214"
+      }
+    },
+    "acceptedJapanese": [
+      "円周",
+      "えんしゅう"
+    ],
+    "acceptedEnglish": [
+      "circumference"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-litre-1777217242037",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "リットル",
+    "kanji": "リットル",
+    "kana": "リットル",
+    "meaning": "litre",
+    "explanation": "A JLPT N2 noun meaning \"litre\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "もう2リットル牛乳が要ります。",
+      "english": "We need another two litres of milk.",
+      "furigana": [
+        {
+          "text": "もう2"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "リットル"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "リットル"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "リットル"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "リットル"
+        },
+        {
+          "text": "牛乳",
+          "reading": "ぎゅうにゅう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "要り",
+          "reading": "いり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11512424",
+        "englishSentenceId": "10012882",
+        "url": "https://tatoeba.org/en/sentences/show/11512424"
+      }
+    },
+    "acceptedJapanese": [
+      "リットル"
+    ],
+    "acceptedEnglish": [
+      "litre"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-fixed-number-1777217242262",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "定員",
+    "kanji": "定員",
+    "kana": "ていいん",
+    "meaning": "fixed number",
+    "explanation": "A JLPT N2 noun meaning \"fixed number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      },
+      {
+        "kanji": "員",
+        "meanings": [
+          "member"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このエレベーターの定員は１０人だ。",
+      "english": "This elevator's capacity is ten people.",
+      "furigana": [
+        {
+          "text": "このエレベーターの"
+        },
+        {
+          "text": "定員",
+          "highlight": true,
+          "reading": "ていいん"
+        },
+        {
+          "text": "は１０"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223975",
+        "englishSentenceId": "61310",
+        "url": "https://tatoeba.org/en/sentences/show/223975"
+      }
+    },
+    "acceptedJapanese": [
+      "定員",
+      "ていいん"
+    ],
+    "acceptedEnglish": [
+      "fixed number",
+      "prescribed number",
+      "quota",
+      "numerical limit",
+      "complement",
+      "capacity"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-diameter-1777217242421",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "直径",
+    "kanji": "直径",
+    "kana": "ちょっけい",
+    "meaning": "diameter",
+    "explanation": "A JLPT N2 noun meaning \"diameter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "直",
+        "meanings": [
+          "straight",
+          "fix",
+          "repair"
+        ]
+      },
+      {
+        "kanji": "径",
+        "meanings": [
+          "path",
+          "diameter"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その池は直径１００メートルある。",
+      "english": "The pond is 100 meters in diameter.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "池",
+          "reading": "いけ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "直径",
+          "highlight": true,
+          "reading": "ちょっけい"
+        },
+        {
+          "text": "１００メートルある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207849",
+        "englishSentenceId": "45106",
+        "url": "https://tatoeba.org/en/sentences/show/207849"
+      }
+    },
+    "acceptedJapanese": [
+      "直径",
+      "ちょっけい"
+    ],
+    "acceptedEnglish": [
+      "diameter"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-probability-1777217242511",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "確率",
+    "kanji": "確率",
+    "kana": "かくりつ",
+    "meaning": "probability",
+    "explanation": "A JLPT N2 noun meaning \"probability\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "確",
+        "meanings": [
+          "certain",
+          "verify"
+        ]
+      },
+      {
+        "kanji": "率",
+        "meanings": [
+          "rate",
+          "lead",
+          "command"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "勝ち負けの確率は五分五分だ。",
+      "english": "The chances of victory or defeat are even.",
+      "furigana": [
+        {
+          "text": "勝ち負け",
+          "reading": "かちまけ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "確率",
+          "highlight": true,
+          "reading": "かくりつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "五分五分",
+          "reading": "ごぶごぶ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147198",
+        "englishSentenceId": "267363",
+        "url": "https://tatoeba.org/en/sentences/show/147198"
+      }
+    },
+    "acceptedJapanese": [
+      "確率",
+      "かくりつ"
+    ],
+    "acceptedEnglish": [
+      "probability",
+      "likelihood",
+      "chances"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-speed-1777217242574",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "速力",
+    "kanji": "速力",
+    "kana": "そくりょく",
+    "meaning": "speed",
+    "explanation": "A JLPT N2 noun meaning \"speed\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "速",
+        "meanings": [
+          "quick",
+          "fast",
+          "prompt"
+        ]
+      },
+      {
+        "kanji": "力",
+        "meanings": [
+          "power",
+          "force"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「速力」は日本語の言葉です。",
+      "english": "\"speed\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "速力",
+          "reading": "そくりょく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "速力",
+      "そくりょく"
+    ],
+    "acceptedEnglish": [
+      "speed"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-measurement-1777217242616",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "寸法",
+    "kanji": "寸法",
+    "kana": "すんぽう",
+    "meaning": "measurement",
+    "explanation": "A JLPT N2 noun meaning \"measurement\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "寸",
+        "meanings": [
+          "a bit of",
+          "unit of length"
+        ]
+      },
+      {
+        "kanji": "法",
+        "meanings": [
+          "law",
+          "method"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "棚の寸法はいくらあるか。",
+      "english": "What are the measurements of the shelf?",
+      "furigana": [
+        {
+          "text": "棚",
+          "reading": "たな"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "寸法",
+          "highlight": true,
+          "reading": "すんぽう"
+        },
+        {
+          "text": "はいくらあるか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137151",
+        "englishSentenceId": "276085",
+        "url": "https://tatoeba.org/en/sentences/show/137151"
+      }
+    },
+    "acceptedJapanese": [
+      "寸法",
+      "すんぽう"
+    ],
+    "acceptedEnglish": [
+      "measurement",
+      "size",
+      "extent",
+      "dimension",
+      "plan",
+      "intention"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-fraction-1777217242664",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "分数",
+    "kanji": "分数",
+    "kana": "ぶんすう",
+    "meaning": "fraction",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"fraction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "次の分数を小数に直しなさい。",
+      "english": "Convert the following fractions to decimals.",
+      "furigana": [
+        {
+          "text": "次",
+          "reading": "つぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "分数",
+          "highlight": true,
+          "reading": "ぶんすう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "小数",
+          "reading": "しょうすう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "直し",
+          "reading": "なおし"
+        },
+        {
+          "text": "なさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3563621",
+        "englishSentenceId": "9235196",
+        "url": "https://tatoeba.org/en/sentences/show/3563621"
+      }
+    },
+    "acceptedJapanese": [
+      "分数",
+      "ぶんすう"
+    ],
+    "acceptedEnglish": [
+      "fraction"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-area-1777217242697",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "面積",
+    "kanji": "面積",
+    "kana": "めんせき",
+    "meaning": "area",
+    "explanation": "A JLPT N2 noun meaning \"area\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "面",
+        "meanings": [
+          "face",
+          "mask",
+          "surface"
+        ]
+      },
+      {
+        "kanji": "積",
+        "meanings": [
+          "accumulate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "三角形の面積を求めてくれ。",
+      "english": "Please find the area of the triangle.",
+      "furigana": [
+        {
+          "text": "三角",
+          "reading": "さんかく"
+        },
+        {
+          "text": "形の"
+        },
+        {
+          "text": "面積",
+          "highlight": true,
+          "reading": "めんせき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "求め",
+          "reading": "もとめ"
+        },
+        {
+          "text": "てくれ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "169508",
+        "englishSentenceId": "244978",
+        "url": "https://tatoeba.org/en/sentences/show/169508"
+      }
+    },
+    "acceptedJapanese": [
+      "面積",
+      "めんせき"
+    ],
+    "acceptedEnglish": [
+      "area",
+      "square measure",
+      "size",
+      "floor space"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-majority-1777217242727",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "過半数",
+    "kanji": "過半数",
+    "kana": "かはんすう",
+    "meaning": "majority",
+    "explanation": "A JLPT N2 noun meaning \"majority\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "過",
+        "meanings": [
+          "pass by",
+          "exceed",
+          "spend (time)",
+          "err"
+        ]
+      },
+      {
+        "kanji": "半",
+        "meanings": [
+          "half"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは国会で過半数を制した。",
+      "english": "They commanded a majority in the Diet.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "過半数",
+          "highlight": true,
+          "reading": "かはんすう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "制",
+          "reading": "せい"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "97151",
+        "englishSentenceId": "306552",
+        "url": "https://tatoeba.org/en/sentences/show/97151"
+      }
+    },
+    "acceptedJapanese": [
+      "過半数",
+      "かはんすう"
+    ],
+    "acceptedEnglish": [
+      "majority"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-first-1777217242856",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "第一",
+    "kanji": "第一",
+    "kana": "だいいち",
+    "meaning": "first",
+    "explanation": "A JLPT N2 no adjective, noun meaning \"first\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "第",
+        "meanings": [
+          "ordinal number prefix",
+          "degree"
+        ]
+      },
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "安全が第一だよ。",
+      "english": "Safety is the most important thing.",
+      "furigana": [
+        {
+          "text": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "第一",
+          "highlight": true,
+          "reading": "だいいち"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10914440",
+        "englishSentenceId": "795023",
+        "url": "https://tatoeba.org/en/sentences/show/10914440"
+      }
+    },
+    "acceptedJapanese": [
+      "第一",
+      "だいいち"
+    ],
+    "acceptedEnglish": [
+      "first",
+      "foremost",
+      "number one",
+      "most important",
+      "best",
+      "greatest"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-rounding-1777217242868",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "四捨五入",
+    "kanji": "四捨五入",
+    "kana": "ししゃごにゅう",
+    "meaning": "rounding",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"rounding\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      },
+      {
+        "kanji": "捨",
+        "meanings": [
+          "discard",
+          "throw away",
+          "abandon"
+        ]
+      },
+      {
+        "kanji": "五",
+        "meanings": [
+          "five"
+        ]
+      },
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "一円以下は四捨五入してよろしい。",
+      "english": "Count as one fractions of half a yen and over, but ignore those of less.",
+      "furigana": [
+        {
+          "text": "一円",
+          "reading": "いちえん"
+        },
+        {
+          "text": "以下",
+          "reading": "いか"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "四捨五入",
+          "highlight": true,
+          "reading": "ししゃごにゅう"
+        },
+        {
+          "text": "してよろしい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190684",
+        "englishSentenceId": "27844",
+        "url": "https://tatoeba.org/en/sentences/show/190684"
+      }
+    },
+    "acceptedJapanese": [
+      "四捨五入",
+      "ししゃごにゅう"
+    ],
+    "acceptedEnglish": [
+      "rounding",
+      "rounding half away from zero",
+      "rounding off",
+      "converging to a common opinion"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-weight-1777217242940",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "重量",
+    "kanji": "重量",
+    "kana": "じゅうりょう",
+    "meaning": "weight",
+    "explanation": "A JLPT N2 noun meaning \"weight\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "重",
+        "meanings": [
+          "heavy"
+        ]
+      },
+      {
+        "kanji": "量",
+        "meanings": [
+          "quantity",
+          "measure",
+          "weigh"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このバッグは４キロの重量オーバーです。",
+      "english": "This bag is 4 kilograms overweight.",
+      "furigana": [
+        {
+          "text": "このバッグは４キロの"
+        },
+        {
+          "text": "重量",
+          "highlight": true,
+          "reading": "じゅうりょう"
+        },
+        {
+          "text": "オーバーです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223329",
+        "englishSentenceId": "60662",
+        "url": "https://tatoeba.org/en/sentences/show/223329"
+      }
+    },
+    "acceptedJapanese": [
+      "重量",
+      "じゅうりょう"
+    ],
+    "acceptedEnglish": [
+      "weight"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-division-into-equal-parts-1777217243015",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "等分",
+    "kanji": "等分",
+    "kana": "とうぶん",
+    "meaning": "division into equal parts",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"division into equal parts\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "等",
+        "meanings": [
+          "equal",
+          "class"
+        ]
+      },
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この線を２０等分せよ。",
+      "english": "Divide this line into twenty equal parts.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "線",
+          "reading": "せん"
+        },
+        {
+          "text": "を２０"
+        },
+        {
+          "text": "等分",
+          "highlight": true,
+          "reading": "とうぶん"
+        },
+        {
+          "text": "せよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220777",
+        "englishSentenceId": "58099",
+        "url": "https://tatoeba.org/en/sentences/show/220777"
+      }
+    },
+    "acceptedJapanese": [
+      "等分",
+      "とうぶん"
+    ],
+    "acceptedEnglish": [
+      "division into equal parts",
+      "equal parts"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-the-number-of-flat-things-1777217243255",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "枚数",
+    "kanji": "枚数",
+    "kana": "まいすう",
+    "meaning": "the number of flat things",
+    "explanation": "A JLPT N2 noun meaning \"the number of flat things\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "枚",
+        "meanings": [
+          "counter for flat things"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "コピーの枚数を数えてください。",
+      "english": "Please count the number of copies.",
+      "furigana": [
+        {
+          "text": "コピーの"
+        },
+        {
+          "text": "枚数",
+          "highlight": true,
+          "reading": "まいすう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "数え",
+          "reading": "かぞえ"
+        },
+        {
+          "text": "てください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13714007",
+        "englishSentenceId": "13714008",
+        "url": "https://tatoeba.org/en/sentences/show/13714007"
+      }
+    },
+    "acceptedJapanese": [
+      "枚数",
+      "まいすう"
+    ],
+    "acceptedEnglish": [
+      "the number of flat things"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-number-1777217243363",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "ナンバー",
+    "kanji": "ナンバー",
+    "kana": "ナンバー",
+    "meaning": "number",
+    "explanation": "A JLPT N2 noun meaning \"number\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "お名前とフライトナンバーをお願いします。",
+      "english": "Your name and flight number, please?",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "text": "とフライト"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "ナンバー"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "ナンバー"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "ナンバー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ナンバー"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "お願いします",
+          "reading": "おねがいします"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9926759",
+        "englishSentenceId": "63925",
+        "url": "https://tatoeba.org/en/sentences/show/9926759"
+      }
+    },
+    "acceptedJapanese": [
+      "ナンバー"
+    ],
+    "acceptedEnglish": [
+      "number",
+      "number plate",
+      "license plate"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-calorie-1777217243513",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "カロリー",
+    "kanji": "カロリー",
+    "kana": "カロリー",
+    "meaning": "calorie",
+    "explanation": "A JLPT N2 noun meaning \"calorie\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "水は０カロリーです。",
+      "english": "Water has zero calories.",
+      "furigana": [
+        {
+          "text": "水は０"
+        },
+        {
+          "text": "カ",
+          "highlight": true,
+          "reading": "カロリー"
+        },
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "カロリー"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "カロリー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "カロリー"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10760535",
+        "englishSentenceId": "4502850",
+        "url": "https://tatoeba.org/en/sentences/show/10760535"
+      }
+    },
+    "acceptedJapanese": [
+      "カロリー"
+    ],
+    "acceptedEnglish": [
+      "calorie"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-multiplication-1777217243564",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "掛け算",
+    "kanji": "掛け算",
+    "kana": "かけざん",
+    "meaning": "multiplication",
+    "explanation": "A JLPT N2 noun meaning \"multiplication\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "掛",
+        "meanings": [
+          "set",
+          "hang"
+        ]
+      },
+      {
+        "kanji": "算",
+        "meanings": [
+          "calculate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "子供たちは掛け算を暗記している。",
+      "english": "The children are learning the multiplication tables by heart.",
+      "furigana": [
+        {
+          "text": "子供たち",
+          "reading": "こどもたち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "掛け算",
+          "highlight": true,
+          "reading": "かけざん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "暗記",
+          "reading": "あんき"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "168737",
+        "englishSentenceId": "245754",
+        "url": "https://tatoeba.org/en/sentences/show/168737"
+      }
+    },
+    "acceptedJapanese": [
+      "掛け算",
+      "かけざん"
+    ],
+    "acceptedEnglish": [
+      "multiplication"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-plural-1777217243687",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "複数",
+    "kanji": "複数",
+    "kana": "ふくすう",
+    "meaning": "plural",
+    "explanation": "A JLPT N2 no adjective, noun meaning \"plural\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "複",
+        "meanings": [
+          "compound",
+          "double",
+          "multiple"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "日本語の漢字には複数の読み方があります。",
+      "english": "Kanji have multiple pronunciations in Japanese.",
+      "furigana": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本語の"
+        },
+        {
+          "text": "漢字",
+          "reading": "かんじ"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "複数",
+          "highlight": true,
+          "reading": "ふくすう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "読み方",
+          "reading": "よみかた"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9734956",
+        "englishSentenceId": "9732229",
+        "url": "https://tatoeba.org/en/sentences/show/9734956"
+      }
+    },
+    "acceptedJapanese": [
+      "複数",
+      "ふくすう"
+    ],
+    "acceptedEnglish": [
+      "plural",
+      "multiple"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-single-1777217243813",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "単数",
+    "kanji": "単数",
+    "kana": "たんすう",
+    "meaning": "single",
+    "explanation": "A JLPT N2 no adjective, noun meaning \"single\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "単",
+        "meanings": [
+          "single"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「単数」は日本語の言葉です。",
+      "english": "\"single\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "単数",
+          "reading": "たんすう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "単数",
+      "たんすう"
+    ],
+    "acceptedEnglish": [
+      "single",
+      "one"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-amount-1777217243867",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "分量",
+    "kanji": "分量",
+    "kana": "ぶんりょう",
+    "meaning": "amount",
+    "explanation": "A JLPT N2 noun meaning \"amount\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "分",
+        "meanings": [
+          "divide",
+          "part",
+          "minute"
+        ]
+      },
+      {
+        "kanji": "量",
+        "meanings": [
+          "quantity",
+          "measure",
+          "weigh"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その作り方の分量は六人分です。",
+      "english": "The recipe serves six people.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "作り方",
+          "reading": "つくりかた"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "分量",
+          "highlight": true,
+          "reading": "ぶんりょう"
+        },
+        {
+          "text": "は六"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "分",
+          "reading": "わ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "210527",
+        "englishSentenceId": "47795",
+        "url": "https://tatoeba.org/en/sentences/show/210527"
+      }
+    },
+    "acceptedJapanese": [
+      "分量",
+      "ぶんりょう"
+    ],
+    "acceptedEnglish": [
+      "amount",
+      "quantity"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-less-than-1777217243873",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "未満",
+    "kanji": "未満",
+    "kana": "みまん",
+    "meaning": "less than",
+    "explanation": "A JLPT N2 noun, used as a suffix, noun, adverb meaning \"less than\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "未",
+        "meanings": [
+          "not yet"
+        ]
+      },
+      {
+        "kanji": "満",
+        "meanings": [
+          "full"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "輸入車は８％未満しか占めていない。",
+      "english": "Imported cars account for less than eight percent.",
+      "furigana": [
+        {
+          "text": "輸入",
+          "reading": "ゆにゅう"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "は８％"
+        },
+        {
+          "text": "未満",
+          "highlight": true,
+          "reading": "みまん"
+        },
+        {
+          "text": "しか"
+        },
+        {
+          "text": "占",
+          "reading": "うらな"
+        },
+        {
+          "text": "めていない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "79436",
+        "englishSentenceId": "324281",
+        "url": "https://tatoeba.org/en/sentences/show/79436"
+      }
+    },
+    "acceptedJapanese": [
+      "未満",
+      "みまん"
+    ],
+    "acceptedEnglish": [
+      "less than",
+      "under",
+      "below"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-angle-1777217244158",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "角度",
+    "kanji": "角度",
+    "kana": "かくど",
+    "meaning": "angle",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"angle\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "角",
+        "meanings": [
+          "angle",
+          "horn",
+          "corner"
+        ]
+      },
+      {
+        "kanji": "度",
+        "meanings": [
+          "degree",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それでは角度が小さすぎよう。",
+      "english": "The angle would be too narrow.",
+      "furigana": [
+        {
+          "text": "それでは"
+        },
+        {
+          "text": "角度",
+          "highlight": true,
+          "reading": "かくど"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "小さ",
+          "reading": "ちいさ"
+        },
+        {
+          "text": "すぎよう。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "205761",
+        "englishSentenceId": "43006",
+        "url": "https://tatoeba.org/en/sentences/show/205761"
+      }
+    },
+    "acceptedJapanese": [
+      "角度",
+      "かくど"
+    ],
+    "acceptedEnglish": [
+      "angle"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-fraction-1777217244512",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "小数",
+    "kanji": "小数",
+    "kana": "しょうすう",
+    "meaning": "fraction",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"fraction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "小",
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "次の分数を小数に直しなさい。",
+      "english": "Convert the following fractions to decimals.",
+      "furigana": [
+        {
+          "text": "次",
+          "reading": "つぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "分数",
+          "reading": "ぶんすう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "小数",
+          "highlight": true,
+          "reading": "しょうすう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "直し",
+          "reading": "なおし"
+        },
+        {
+          "text": "なさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3563621",
+        "englishSentenceId": "9235196",
+        "url": "https://tatoeba.org/en/sentences/show/3563621"
+      }
+    },
+    "acceptedJapanese": [
+      "小数",
+      "しょうすう"
+    ],
+    "acceptedEnglish": [
+      "fraction",
+      "decimal fraction"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-centimetre-1777217244644",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "センチ",
+    "kanji": "センチ",
+    "kana": "センチ",
+    "meaning": "centimetre",
+    "explanation": "A JLPT N2 noun meaning \"centimetre\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "一メートルは百センチメートルです。",
+      "english": "A metre is 100 centimetres.",
+      "furigana": [
+        {
+          "text": "一メートルは百"
+        },
+        {
+          "text": "セ",
+          "highlight": true,
+          "reading": "センチ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "センチ"
+        },
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "センチ"
+        },
+        {
+          "text": "メートルです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "519511",
+        "englishSentenceId": "73201",
+        "url": "https://tatoeba.org/en/sentences/show/519511"
+      }
+    },
+    "acceptedJapanese": [
+      "センチ"
+    ],
+    "acceptedEnglish": [
+      "centimetre"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-area-1777217244758",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "広さ",
+    "kanji": "広さ",
+    "kana": "ひろさ",
+    "meaning": "area",
+    "explanation": "A JLPT N2 noun meaning \"area\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "広",
+        "meanings": [
+          "wide"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "部屋の広さはどれくらいですか？",
+      "english": "What are the dimensions of the room?",
+      "furigana": [
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "広さ",
+          "highlight": true,
+          "reading": "ひろさ"
+        },
+        {
+          "text": "はどれくらいですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9737793",
+        "englishSentenceId": "44225",
+        "url": "https://tatoeba.org/en/sentences/show/9737793"
+      }
+    },
+    "acceptedJapanese": [
+      "広さ",
+      "ひろさ"
+    ],
+    "acceptedEnglish": [
+      "area",
+      "extent",
+      "dimensions",
+      "size",
+      "width",
+      "breadth"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-measurement-1777217244776",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "測定",
+    "kanji": "測定",
+    "kana": "そくてい",
+    "meaning": "measurement",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"measurement\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "測",
+        "meanings": [
+          "measure",
+          "conjecture"
+        ]
+      },
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "測定においては正確さは欠かせないものである。",
+      "english": "Precision in measurement is a necessity.",
+      "furigana": [
+        {
+          "text": "測定",
+          "highlight": true,
+          "reading": "そくてい"
+        },
+        {
+          "text": "においては"
+        },
+        {
+          "text": "正確",
+          "reading": "せいかく"
+        },
+        {
+          "text": "さは欠かせないものである。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "139892",
+        "englishSentenceId": "274457",
+        "url": "https://tatoeba.org/en/sentences/show/139892"
+      }
+    },
+    "acceptedJapanese": [
+      "測定",
+      "そくてい"
+    ],
+    "acceptedEnglish": [
+      "measurement"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-capacity-1777217245070",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "容積",
+    "kanji": "容積",
+    "kana": "ようせき",
+    "meaning": "capacity",
+    "explanation": "A JLPT N2 noun meaning \"capacity\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "容",
+        "meanings": [
+          "appearance",
+          "contain"
+        ]
+      },
+      {
+        "kanji": "積",
+        "meanings": [
+          "accumulate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "容積を計算するためには縦と横と深さをかければよい。",
+      "english": "To calculate the capacity, multiply the length by the width by the depth.",
+      "furigana": [
+        {
+          "text": "容積",
+          "highlight": true,
+          "reading": "ようせき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "計算",
+          "reading": "けいさん"
+        },
+        {
+          "text": "するためには縦と"
+        },
+        {
+          "text": "横",
+          "reading": "よこ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "深さ",
+          "reading": "ふかさ"
+        },
+        {
+          "text": "をかければよい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "78896",
+        "englishSentenceId": "324820",
+        "url": "https://tatoeba.org/en/sentences/show/78896"
+      }
+    },
+    "acceptedJapanese": [
+      "容積",
+      "ようせき"
+    ],
+    "acceptedEnglish": [
+      "capacity",
+      "volume"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-one-by-one-1777217245154",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "一々",
+    "kanji": "一々",
+    "kana": "いちいち",
+    "meaning": "one-by-one",
+    "explanation": "A JLPT N2 noun, adverb meaning \"one-by-one\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "一",
+        "meanings": [
+          "one"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「一々」は日本語の言葉です。",
+      "english": "\"one-by-one\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "一々",
+          "reading": "いちいち",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "一々",
+      "いちいち"
+    ],
+    "acceptedEnglish": [
+      "one-by-one",
+      "separately",
+      "every single",
+      "each and every",
+      "without omission",
+      "fully"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-numbers-counting-statistics-1777217245208",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "統計",
+    "kanji": "統計",
+    "kana": "とうけい",
+    "meaning": "statistics",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"statistics\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "統",
+        "meanings": [
+          "unite",
+          "interconnected system",
+          "govern",
+          "control"
+        ]
+      },
+      {
+        "kanji": "計",
+        "meanings": [
+          "plan",
+          "compute",
+          "measure"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "統計の数字を理論とつじつまの合うように変える。",
+      "english": "I accommodate statistics to theory.",
+      "furigana": [
+        {
+          "text": "統計",
+          "highlight": true,
+          "reading": "とうけい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "数字",
+          "reading": "すうじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "理論",
+          "reading": "りろん"
+        },
+        {
+          "text": "とつじつまの"
+        },
+        {
+          "text": "合う",
+          "reading": "あう"
+        },
+        {
+          "text": "ように"
+        },
+        {
+          "text": "変える",
+          "reading": "かえる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "123916",
+        "englishSentenceId": "280079",
+        "url": "https://tatoeba.org/en/sentences/show/123916"
+      }
+    },
+    "acceptedJapanese": [
+      "統計",
+      "とうけい"
+    ],
+    "acceptedEnglish": [
+      "statistics"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-postage-1777217245211",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "送料",
+    "kanji": "送料",
+    "kana": "そうりょう",
+    "meaning": "postage",
+    "explanation": "A JLPT N2 noun meaning \"postage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "送",
+        "meanings": [
+          "send"
+        ]
+      },
+      {
+        "kanji": "料",
+        "meanings": [
+          "fee",
+          "materials"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "送料が高くなって買い控えるようになった。",
+      "english": "The shipping cost was too expensive, so I decided against buying it.",
+      "furigana": [
+        {
+          "text": "送料",
+          "highlight": true,
+          "reading": "そうりょう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "高",
+          "reading": "たか"
+        },
+        {
+          "text": "くなって"
+        },
+        {
+          "text": "買い控え",
+          "reading": "かいびかえ"
+        },
+        {
+          "text": "るようになった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11013974",
+        "englishSentenceId": "11572740",
+        "url": "https://tatoeba.org/en/sentences/show/11013974"
+      }
+    },
+    "acceptedJapanese": [
+      "送料",
+      "そうりょう"
+    ],
+    "acceptedEnglish": [
+      "postage",
+      "carriage",
+      "shipping charge"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-minus-1777217245445",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "マイナス",
+    "kanji": "マイナス",
+    "kana": "マイナス",
+    "meaning": "minus",
+    "explanation": "A JLPT N2 noun, suru noun, transitive verb meaning \"minus\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "気温はマイナス6度です。",
+      "english": "It's six degrees below zero.",
+      "furigana": [
+        {
+          "text": "気温",
+          "reading": "きおん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "マイナス"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "マイナス"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "マイナス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "マイナス"
+        },
+        {
+          "text": "6度です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2281525",
+        "englishSentenceId": "2280194",
+        "url": "https://tatoeba.org/en/sentences/show/2281525"
+      }
+    },
+    "acceptedJapanese": [
+      "マイナス"
+    ],
+    "acceptedEnglish": [
+      "minus",
+      "subtraction",
+      "taking away"
+    ]
+  },
+  {
+    "id": "n2-numbers-counting-radius-1777217245493",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "半径",
+    "kanji": "半径",
+    "kana": "はんけい",
+    "meaning": "radius",
+    "explanation": "A JLPT N2 noun meaning \"radius\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "半",
+        "meanings": [
+          "half"
+        ]
+      },
+      {
+        "kanji": "径",
+        "meanings": [
+          "path",
+          "diameter"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "地球の半径は、約6,000キロです。",
+      "english": "Earth's radius is about 6,000 kilometers.",
+      "furigana": [
+        {
+          "text": "地球",
+          "reading": "ちきゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "半径",
+          "highlight": true,
+          "reading": "はんけい"
+        },
+        {
+          "text": "は、"
+        },
+        {
+          "text": "約",
+          "reading": "やく"
+        },
+        {
+          "text": "6,000キロです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11890698",
+        "englishSentenceId": "11890703",
+        "url": "https://tatoeba.org/en/sentences/show/11890698"
+      }
+    },
+    "acceptedJapanese": [
+      "半径",
+      "はんけい"
+    ],
+    "acceptedEnglish": [
+      "radius"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-numbers-counting-list-price-1777217245520",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "定価",
+    "kanji": "定価",
+    "kana": "ていか",
+    "meaning": "list price",
+    "explanation": "A JLPT N2 noun meaning \"list price\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "定",
+        "meanings": [
+          "fix",
+          "determine"
+        ]
+      },
+      {
+        "kanji": "価",
+        "meanings": [
+          "price",
+          "value"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "定価から５％値引きいたします。",
+      "english": "We'll allow a 5 percent discount off list prices.",
+      "furigana": [
+        {
+          "text": "定価",
+          "highlight": true,
+          "reading": "ていか"
+        },
+        {
+          "text": "から５％"
+        },
+        {
+          "text": "値引き",
+          "reading": "ねびき"
+        },
+        {
+          "text": "いたします。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125544",
+        "englishSentenceId": "278448",
+        "url": "https://tatoeba.org/en/sentences/show/125544"
+      }
+    },
+    "acceptedJapanese": [
+      "定価",
+      "ていか"
+    ],
+    "acceptedEnglish": [
+      "list price",
+      "regular price",
+      "established price"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-numbers-counting-even-number-1777217245634",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "偶数",
+    "kanji": "偶数",
+    "kana": "ぐうすう",
+    "meaning": "even number",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"even number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "偶",
+        "meanings": [
+          "by chance",
+          "even number",
+          "(married)couple"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "２と４は、偶数です。",
+      "english": "Two and four are even numbers.",
+      "furigana": [
+        {
+          "text": "２と４は、"
+        },
+        {
+          "text": "偶数",
+          "highlight": true,
+          "reading": "ぐうすう"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10181731",
+        "englishSentenceId": "8576534",
+        "url": "https://tatoeba.org/en/sentences/show/10181731"
+      }
+    },
+    "acceptedJapanese": [
+      "偶数",
+      "ぐうすう"
+    ],
+    "acceptedEnglish": [
+      "even number"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-integer-1777217245736",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "整数",
+    "kanji": "整数",
+    "kana": "せいすう",
+    "meaning": "integer",
+    "explanation": "A JLPT N2 noun meaning \"integer\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "整",
+        "meanings": [
+          "put in order",
+          "organize",
+          "prepared"
+        ]
+      },
+      {
+        "kanji": "数",
+        "meanings": [
+          "number",
+          "count"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「整数」は日本語の言葉です。",
+      "english": "\"integer\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "整数",
+          "reading": "せいすう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "整数",
+      "せいすう"
+    ],
+    "acceptedEnglish": [
+      "integer"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-numbers-counting-discount-1777217245751",
+    "jlpt": "N2",
+    "subcategory": "Numbers/Counting",
+    "name": "割引",
+    "kanji": "割引",
+    "kana": "わりびき",
+    "meaning": "discount",
+    "explanation": "A JLPT N2 noun meaning \"discount\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "割",
+        "meanings": [
+          "divide",
+          "split"
+        ]
+      },
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私はその車を１０％の割引で買った。",
+      "english": "I bought the car at a 10% discount.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "はその"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "を１０％の"
+        },
+        {
+          "text": "割引",
+          "highlight": true,
+          "reading": "わりびき"
+        },
+        {
+          "text": "で買った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "160060",
+        "englishSentenceId": "254462",
+        "url": "https://tatoeba.org/en/sentences/show/160060"
+      }
+    },
+    "acceptedJapanese": [
+      "割引",
+      "わりびき"
+    ],
+    "acceptedEnglish": [
+      "discount",
+      "reduction",
+      "rebate"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

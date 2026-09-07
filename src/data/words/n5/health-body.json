@@ -182,6 +182,7 @@
       {
         "kanji": "薬",
         "meanings": [
+          "drug",
           "medicine"
         ]
       }
@@ -241,7 +242,7 @@
       {
         "kanji": "寝",
         "meanings": [
-          "to sleep"
+          "go to sleep"
         ]
       }
     ],
@@ -281,6 +282,68 @@
     "pitchAccentNumber": 0
   },
   {
+    "id": "n5-health-body-mouth-1777217253467",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "口",
+    "kanji": "口",
+    "kana": "くち",
+    "meaning": "mouth",
+    "explanation": "A JLPT N5 noun meaning \"mouth\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "口",
+        "meanings": [
+          "mouth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "お口、開けて。",
+      "english": "Open your mouth.",
+      "furigana": [
+        {
+          "text": "お"
+        },
+        {
+          "text": "口",
+          "highlight": true,
+          "reading": "くち"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "開",
+          "reading": "あ"
+        },
+        {
+          "text": "けて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10635059",
+        "englishSentenceId": "240551",
+        "url": "https://tatoeba.org/en/sentences/show/10635059"
+      }
+    },
+    "acceptedJapanese": [
+      "口",
+      "くち"
+    ],
+    "acceptedEnglish": [
+      "mouth",
+      "opening",
+      "hole",
+      "gap",
+      "orifice",
+      "spout"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
     "id": "n5-health-body-belly-1777217253548",
     "jlpt": "N5",
     "subcategory": "Health/Body",
@@ -293,7 +356,9 @@
       {
         "kanji": "腹",
         "meanings": [
-          "belly"
+          "belly",
+          "heart",
+          "mind"
         ]
       }
     ],
@@ -461,7 +526,9 @@
       {
         "kanji": "足",
         "meanings": [
-          "foot"
+          "foot",
+          "suffice",
+          "add"
         ]
       }
     ],
@@ -506,6 +573,65 @@
       "pace"
     ],
     "pitchAccentNumber": 2
+  },
+  {
+    "id": "n5-health-body-cold-1777217253938",
+    "jlpt": "N5",
+    "subcategory": "Health/Body",
+    "name": "風邪",
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "meaning": "cold",
+    "explanation": "A JLPT N5 noun meaning \"cold\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "風",
+        "meanings": [
+          "wind",
+          "manner"
+        ]
+      },
+      {
+        "kanji": "邪",
+        "meanings": [
+          "evil",
+          "wrong"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風邪ですね。",
+      "english": "It's just a cold.",
+      "furigana": [
+        {
+          "text": "風邪",
+          "highlight": true,
+          "reading": "かぜ"
+        },
+        {
+          "text": "ですね。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "83981",
+        "englishSentenceId": "319735",
+        "url": "https://tatoeba.org/en/sentences/show/83981"
+      }
+    },
+    "acceptedJapanese": [
+      "風邪",
+      "かぜ"
+    ],
+    "acceptedEnglish": [
+      "cold",
+      "influenza",
+      "flu",
+      "ague",
+      "inflammatory respiratory system illness"
+    ],
+    "pitchAccentNumber": 0
   },
   {
     "id": "n5-health-body-rest-1777217254058",
@@ -693,13 +819,14 @@
       {
         "kanji": "医",
         "meanings": [
+          "medicine",
           "doctor"
         ]
       },
       {
         "kanji": "者",
         "meanings": [
-          "doctor"
+          "person"
         ]
       }
     ],
@@ -754,13 +881,16 @@
       {
         "kanji": "病",
         "meanings": [
-          "illness"
+          "illness",
+          "disease",
+          "sickness"
         ]
       },
       {
         "kanji": "気",
         "meanings": [
-          "illness"
+          "gas",
+          "spirit"
         ]
       }
     ],
@@ -816,7 +946,8 @@
       {
         "kanji": "目",
         "meanings": [
-          "eye"
+          "eye",
+          "item"
         ]
       }
     ],

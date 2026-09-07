@@ -1,1 +1,1078 @@
-[]
+[
+  {
+    "id": "n2-family-father-and-mother-1777217240936",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "父母",
+    "kanji": "父母",
+    "kana": "ふぼ",
+    "meaning": "father and mother",
+    "explanation": "A JLPT N2 noun meaning \"father and mother\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "父",
+        "meanings": [
+          "father"
+        ]
+      },
+      {
+        "kanji": "母",
+        "meanings": [
+          "mother"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の父母は、そこに大きな農場を持っている。",
+      "english": "My parents have a big farm there.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "父母",
+          "highlight": true,
+          "reading": "ふぼ"
+        },
+        {
+          "text": "は、そこに"
+        },
+        {
+          "text": "大きな",
+          "reading": "おおきな"
+        },
+        {
+          "text": "農場",
+          "reading": "のうじょう"
+        },
+        {
+          "text": "を持っている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "162760",
+        "englishSentenceId": "8206324",
+        "url": "https://tatoeba.org/en/sentences/show/162760"
+      }
+    },
+    "acceptedJapanese": [
+      "父母",
+      "ふぼ"
+    ],
+    "acceptedEnglish": [
+      "father and mother",
+      "parents"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-bride-1777217241398",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "花嫁",
+    "kanji": "花嫁",
+    "kana": "はなよめ",
+    "meaning": "bride",
+    "explanation": "A JLPT N2 noun meaning \"bride\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "花",
+        "meanings": [
+          "flower"
+        ]
+      },
+      {
+        "kanji": "嫁",
+        "meanings": [
+          "marry into",
+          "bride"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼が花嫁の父親です。",
+      "english": "He is father to the bride.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "花嫁",
+          "highlight": true,
+          "reading": "はなよめ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "父親",
+          "reading": "ちちおや"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "120552",
+        "englishSentenceId": "283457",
+        "url": "https://tatoeba.org/en/sentences/show/120552"
+      }
+    },
+    "acceptedJapanese": [
+      "花嫁",
+      "はなよめ"
+    ],
+    "acceptedEnglish": [
+      "bride"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-family-ancestor-1777217241452",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "先祖",
+    "kanji": "先祖",
+    "kana": "せんぞ",
+    "meaning": "ancestor",
+    "explanation": "A JLPT N2 noun meaning \"ancestor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      },
+      {
+        "kanji": "祖",
+        "meanings": [
+          "ancestor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の先祖はアイルランドからそこに行った。",
+      "english": "His ancestors went there from Ireland.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "先祖",
+          "highlight": true,
+          "reading": "せんぞ"
+        },
+        {
+          "text": "はアイルランドからそこに"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "116652",
+        "englishSentenceId": "287016",
+        "url": "https://tatoeba.org/en/sentences/show/116652"
+      }
+    },
+    "acceptedJapanese": [
+      "先祖",
+      "せんぞ"
+    ],
+    "acceptedEnglish": [
+      "ancestor",
+      "forefather",
+      "foremother"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-descendant-1777217241869",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "子孫",
+    "kanji": "子孫",
+    "kana": "しそん",
+    "meaning": "descendant",
+    "explanation": "A JLPT N2 noun meaning \"descendant\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      },
+      {
+        "kanji": "孫",
+        "meanings": [
+          "grandchild"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "子孫にきれいな、緑の地球を残したい。",
+      "english": "We want to leave our descendants a clean and green earth.",
+      "furigana": [
+        {
+          "text": "子孫",
+          "highlight": true,
+          "reading": "しそん"
+        },
+        {
+          "text": "にきれいな、"
+        },
+        {
+          "text": "緑",
+          "reading": "みどり"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "地球",
+          "reading": "ちきゅう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "残",
+          "reading": "ざん"
+        },
+        {
+          "text": "したい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "168394",
+        "englishSentenceId": "246098",
+        "url": "https://tatoeba.org/en/sentences/show/168394"
+      }
+    },
+    "acceptedJapanese": [
+      "子孫",
+      "しそん"
+    ],
+    "acceptedEnglish": [
+      "descendant",
+      "progeny",
+      "offspring"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-eldest-daughter-1777217242001",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "長女",
+    "kanji": "長女",
+    "kana": "ちょうじょ",
+    "meaning": "eldest daughter",
+    "explanation": "A JLPT N2 noun meaning \"eldest daughter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "長",
+        "meanings": [
+          "long",
+          "chief"
+        ]
+      },
+      {
+        "kanji": "女",
+        "meanings": [
+          "woman"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ルミは長女です。",
+      "english": "Rumi is the first daughter.",
+      "furigana": [
+        {
+          "text": "ルミは"
+        },
+        {
+          "text": "長女",
+          "highlight": true,
+          "reading": "ちょうじょ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "192384",
+        "englishSentenceId": "29548",
+        "url": "https://tatoeba.org/en/sentences/show/192384"
+      }
+    },
+    "acceptedJapanese": [
+      "長女",
+      "ちょうじょ"
+    ],
+    "acceptedEnglish": [
+      "eldest daughter",
+      "first-born daughter"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-niece-1777217242283",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "姪",
+    "kanji": "姪",
+    "kana": "めい",
+    "meaning": "niece",
+    "explanation": "A JLPT N2 noun meaning \"niece\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "姪",
+        "meanings": [
+          "niece"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この子は私の姪です。",
+      "english": "This is my niece.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "子",
+          "reading": "こ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "姪",
+          "highlight": true,
+          "reading": "めい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11240561",
+        "englishSentenceId": "10701244",
+        "url": "https://tatoeba.org/en/sentences/show/11240561"
+      }
+    },
+    "acceptedJapanese": [
+      "姪",
+      "めい"
+    ],
+    "acceptedEnglish": [
+      "niece"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-eldest-son-1777217242718",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "長男",
+    "kanji": "長男",
+    "kana": "ちょうなん",
+    "meaning": "eldest son",
+    "explanation": "A JLPT N2 noun meaning \"eldest son\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "長",
+        "meanings": [
+          "long",
+          "chief"
+        ]
+      },
+      {
+        "kanji": "男",
+        "meanings": [
+          "man"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ご長男はおいくつですか？",
+      "english": "How old is your eldest son?",
+      "furigana": [
+        {
+          "text": "ご"
+        },
+        {
+          "text": "長男",
+          "highlight": true,
+          "reading": "ちょうなん"
+        },
+        {
+          "text": "はおいくつですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9314362",
+        "englishSentenceId": "12429366",
+        "url": "https://tatoeba.org/en/sentences/show/9314362"
+      }
+    },
+    "acceptedJapanese": [
+      "長男",
+      "ちょうなん"
+    ],
+    "acceptedEnglish": [
+      "eldest son",
+      "first-born son"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-filial-piety-1777217242799",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "孝行",
+    "kanji": "孝行",
+    "kana": "こうこう",
+    "meaning": "filial piety",
+    "explanation": "A JLPT N2 noun, suru noun, na adjective meaning \"filial piety\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "孝",
+        "meanings": [
+          "filial piety"
+        ]
+      },
+      {
+        "kanji": "行",
+        "meanings": [
+          "go",
+          "act",
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "孝行したいときに親はなし。",
+      "english": "When one would be filial, one's parents are gone.",
+      "furigana": [
+        {
+          "text": "孝行",
+          "highlight": true,
+          "reading": "こうこう"
+        },
+        {
+          "text": "したいときに親はなし。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173741",
+        "englishSentenceId": "240729",
+        "url": "https://tatoeba.org/en/sentences/show/173741"
+      }
+    },
+    "acceptedJapanese": [
+      "孝行",
+      "こうこう"
+    ],
+    "acceptedEnglish": [
+      "filial piety",
+      "showing devotion"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-cousin-1777217243183",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "従姉妹",
+    "kanji": "従姉妹",
+    "kana": "いとこ",
+    "meaning": "cousin",
+    "explanation": "A JLPT N2 noun meaning \"cousin\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "従",
+        "meanings": [
+          "follow",
+          "obey",
+          "conquer"
+        ]
+      },
+      {
+        "kanji": "姉",
+        "meanings": [
+          "older sister"
+        ]
+      },
+      {
+        "kanji": "妹",
+        "meanings": [
+          "younger sister"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "従姉妹の連絡先を教えられなくてごめん。",
+      "english": "I'm sorry I haven't been able to give you my cousin's contact info.",
+      "furigana": [
+        {
+          "text": "従姉妹",
+          "highlight": true,
+          "reading": "いとこ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "連絡",
+          "reading": "れんらく"
+        },
+        {
+          "text": "先",
+          "reading": "さき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "教え",
+          "reading": "おしえ"
+        },
+        {
+          "text": "られなくてごめん。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148004",
+        "englishSentenceId": "266555",
+        "url": "https://tatoeba.org/en/sentences/show/148004"
+      }
+    },
+    "acceptedJapanese": [
+      "従姉妹",
+      "いとこ"
+    ],
+    "acceptedEnglish": [
+      "cousin"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-family-youngest-child-1777217243327",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "末っ子",
+    "kanji": "末っ子",
+    "kana": "すえっこ",
+    "meaning": "youngest child",
+    "explanation": "A JLPT N2 noun meaning \"youngest child\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "末",
+        "meanings": [
+          "last part",
+          "end"
+        ]
+      },
+      {
+        "kanji": "子",
+        "meanings": [
+          "child",
+          "noun suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は末っ子です。",
+      "english": "I'm the youngest in the family.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "末っ子",
+          "highlight": true,
+          "reading": "すえっこ"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "152679",
+        "englishSentenceId": "261870",
+        "url": "https://tatoeba.org/en/sentences/show/152679"
+      }
+    },
+    "acceptedJapanese": [
+      "末っ子",
+      "すえっこ"
+    ],
+    "acceptedEnglish": [
+      "youngest child"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-family-ancestor-1777217243456",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "祖先",
+    "kanji": "祖先",
+    "kana": "そせん",
+    "meaning": "ancestor",
+    "explanation": "A JLPT N2 noun meaning \"ancestor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "祖",
+        "meanings": [
+          "ancestor"
+        ]
+      },
+      {
+        "kanji": "先",
+        "meanings": [
+          "ahead"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私たちは祖先をうやまうべきだ。",
+      "english": "We should worship our ancestors.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "たちは"
+        },
+        {
+          "text": "祖先",
+          "highlight": true,
+          "reading": "そせん"
+        },
+        {
+          "text": "をうやまうべきだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "165506",
+        "englishSentenceId": "248999",
+        "url": "https://tatoeba.org/en/sentences/show/165506"
+      }
+    },
+    "acceptedJapanese": [
+      "祖先",
+      "そせん"
+    ],
+    "acceptedEnglish": [
+      "ancestor"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-wife-1777217244254",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "女房",
+    "kanji": "女房",
+    "kana": "にょうぼう",
+    "meaning": "wife",
+    "explanation": "A JLPT N2 noun meaning \"wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "女",
+        "meanings": [
+          "woman"
+        ]
+      },
+      {
+        "kanji": "房",
+        "meanings": [
+          "tassel",
+          "tuft",
+          "fringe",
+          "bunch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "女房が突然泣き出した。",
+      "english": "My wife burst into tears.",
+      "furigana": [
+        {
+          "text": "女房",
+          "highlight": true,
+          "reading": "にょうぼう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "突然",
+          "reading": "とつぜん"
+        },
+        {
+          "text": "泣き",
+          "reading": "なき"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147230",
+        "englishSentenceId": "267331",
+        "url": "https://tatoeba.org/en/sentences/show/147230"
+      }
+    },
+    "acceptedJapanese": [
+      "女房",
+      "にょうぼう"
+    ],
+    "acceptedEnglish": [
+      "wife",
+      "court lady",
+      "female court attache",
+      "woman who served at the imperial palace"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-childcare-1777217244338",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "育児",
+    "kanji": "育児",
+    "kana": "いくじ",
+    "meaning": "childcare",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"childcare\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "育",
+        "meanings": [
+          "raise"
+        ]
+      },
+      {
+        "kanji": "児",
+        "meanings": [
+          "child"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "育児のために仕事を辞めようと考えたことはありますか？",
+      "english": "Have you ever considered quitting your job to raise your children?",
+      "furigana": [
+        {
+          "text": "育児",
+          "highlight": true,
+          "reading": "いくじ"
+        },
+        {
+          "text": "のために"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "を辞めようと"
+        },
+        {
+          "text": "考え",
+          "reading": "かんがえ"
+        },
+        {
+          "text": "たことはありますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3589630",
+        "englishSentenceId": "12209899",
+        "url": "https://tatoeba.org/en/sentences/show/3589630"
+      }
+    },
+    "acceptedJapanese": [
+      "育児",
+      "いくじ"
+    ],
+    "acceptedEnglish": [
+      "childcare",
+      "child-rearing",
+      "nursing",
+      "upbringing"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-relative-1777217245322",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "親類",
+    "kanji": "親類",
+    "kana": "しんるい",
+    "meaning": "relative",
+    "explanation": "A JLPT N2 noun meaning \"relative\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "親",
+        "meanings": [
+          "parent",
+          "relatives",
+          "intimate"
+        ]
+      },
+      {
+        "kanji": "類",
+        "meanings": [
+          "kind",
+          "type",
+          "genus"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は私の遠い親類です。",
+      "english": "He is my distant relation.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "遠い",
+          "reading": "とおい"
+        },
+        {
+          "text": "親類",
+          "highlight": true,
+          "reading": "しんるい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105902",
+        "englishSentenceId": "297785",
+        "url": "https://tatoeba.org/en/sentences/show/105902"
+      }
+    },
+    "acceptedJapanese": [
+      "親類",
+      "しんるい"
+    ],
+    "acceptedEnglish": [
+      "relative",
+      "relation",
+      "kin"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-family-husband-and-wife-1777217245391",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "夫妻",
+    "kanji": "夫妻",
+    "kana": "ふさい",
+    "meaning": "husband and wife",
+    "explanation": "A JLPT N2 noun meaning \"husband and wife\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "夫",
+        "meanings": [
+          "husband",
+          "man laborer"
+        ]
+      },
+      {
+        "kanji": "妻",
+        "meanings": [
+          "wife"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "夫妻は家を売りに出した。",
+      "english": "The couple put their house on the market.",
+      "furigana": [
+        {
+          "text": "夫妻",
+          "highlight": true,
+          "reading": "ふさい"
+        },
+        {
+          "text": "は家を"
+        },
+        {
+          "text": "売り",
+          "reading": "うり"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "84982",
+        "englishSentenceId": "318731",
+        "url": "https://tatoeba.org/en/sentences/show/84982"
+      }
+    },
+    "acceptedJapanese": [
+      "夫妻",
+      "ふさい"
+    ],
+    "acceptedEnglish": [
+      "husband and wife",
+      "married couple"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-family-son-1777217245970",
+    "jlpt": "N2",
+    "subcategory": "Family",
+    "name": "坊ちゃん",
+    "kanji": "坊ちゃん",
+    "kana": "ぼっちゃん",
+    "meaning": "son",
+    "explanation": "A JLPT N2 noun meaning \"son\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "坊",
+        "meanings": [
+          "Buddhist priest",
+          "boy",
+          "colloquial person suffix"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「坊ちゃん」は日本語の言葉です。",
+      "english": "\"son\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "坊ちゃん",
+          "reading": "ぼっちゃん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "坊ちゃん",
+      "ぼっちゃん"
+    ],
+    "acceptedEnglish": [
+      "son",
+      "boy",
+      "young master",
+      "green young man from a well-to-do family",
+      "young man innocent of the ways of the world"
+    ],
+    "pitchAccentNumber": 1
+  }
+]

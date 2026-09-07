@@ -1,1 +1,6195 @@
-[]
+[
+  {
+    "id": "n2-location-place-exit-and-entrance-1777217240966",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "出入り口",
+    "kanji": "出入り口",
+    "kana": "でいりぐち",
+    "meaning": "exit and entrance",
+    "explanation": "A JLPT N2 noun meaning \"exit and entrance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      },
+      {
+        "kanji": "口",
+        "meanings": [
+          "mouth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "出入り口は開けたままになっていた。",
+      "english": "The gate was left open.",
+      "furigana": [
+        {
+          "text": "出入り口",
+          "highlight": true,
+          "reading": "でいりぐち"
+        },
+        {
+          "text": "は開けたままになっていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147711",
+        "englishSentenceId": "266849",
+        "url": "https://tatoeba.org/en/sentences/show/147711"
+      }
+    },
+    "acceptedJapanese": [
+      "出入り口",
+      "でいりぐち"
+    ],
+    "acceptedEnglish": [
+      "exit and entrance"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-railway-bridge-1777217241140",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "鉄橋",
+    "kanji": "鉄橋",
+    "kana": "てっきょう",
+    "meaning": "railway bridge",
+    "explanation": "A JLPT N2 noun meaning \"railway bridge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "鉄",
+        "meanings": [
+          "iron"
+        ]
+      },
+      {
+        "kanji": "橋",
+        "meanings": [
+          "bridge"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "鉄橋が川にかけられた。",
+      "english": "An iron bridge was built across the river.",
+      "furigana": [
+        {
+          "text": "鉄橋",
+          "highlight": true,
+          "reading": "てっきょう"
+        },
+        {
+          "text": "が川にかけられた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125239",
+        "englishSentenceId": "278754",
+        "url": "https://tatoeba.org/en/sentences/show/125239"
+      }
+    },
+    "acceptedJapanese": [
+      "鉄橋",
+      "てっきょう"
+    ],
+    "acceptedEnglish": [
+      "railway bridge",
+      "iron bridge"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-agricultural-community-1777217241227",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "農村",
+    "kanji": "農村",
+    "kana": "のうそん",
+    "meaning": "agricultural community",
+    "explanation": "A JLPT N2 noun meaning \"agricultural community\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "農",
+        "meanings": [
+          "farming",
+          "agriculture"
+        ]
+      },
+      {
+        "kanji": "村",
+        "meanings": [
+          "village"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「農村」は日本語の言葉です。",
+      "english": "\"agricultural community\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "農村",
+          "reading": "のうそん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "農村",
+      "のうそん"
+    ],
+    "acceptedEnglish": [
+      "agricultural community",
+      "farm village"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-paddy-field-1777217241407",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "田んぼ",
+    "kanji": "田んぼ",
+    "kana": "たんぼ",
+    "meaning": "paddy field",
+    "explanation": "A JLPT N2 noun meaning \"paddy field\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "田",
+        "meanings": [
+          "rice field"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その田んぼは荒れ果てたままだ。",
+      "english": "The rice field lies waste.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "田んぼ",
+          "highlight": true,
+          "reading": "たんぼ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "荒れ",
+          "reading": "あれ"
+        },
+        {
+          "text": "果て",
+          "reading": "はて"
+        },
+        {
+          "text": "たままだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207584",
+        "englishSentenceId": "44837",
+        "url": "https://tatoeba.org/en/sentences/show/207584"
+      }
+    },
+    "acceptedJapanese": [
+      "田んぼ",
+      "たんぼ"
+    ],
+    "acceptedEnglish": [
+      "paddy field",
+      "farm"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-prefectural-office-1777217241419",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "県庁",
+    "kanji": "県庁",
+    "kana": "けんちょう",
+    "meaning": "prefectural office",
+    "explanation": "A JLPT N2 noun meaning \"prefectural office\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "県",
+        "meanings": [
+          "prefecture"
+        ]
+      },
+      {
+        "kanji": "庁",
+        "meanings": [
+          "government agency"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「県庁」は日本語の言葉です。",
+      "english": "\"prefectural office\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "県庁",
+          "reading": "けんちょう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "県庁",
+      "けんちょう"
+    ],
+    "acceptedEnglish": [
+      "prefectural office"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-area-1777217241458",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "区域",
+    "kanji": "区域",
+    "kana": "くいき",
+    "meaning": "area",
+    "explanation": "A JLPT N2 noun meaning \"area\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "区",
+        "meanings": [
+          "district",
+          "ward"
+        ]
+      },
+      {
+        "kanji": "域",
+        "meanings": [
+          "bounded area",
+          "region"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の店は町の賑やかな区域にある。",
+      "english": "His shop is in a busy section of town.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の店は町の"
+        },
+        {
+          "text": "賑やか",
+          "reading": "にぎやか"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "区域",
+          "highlight": true,
+          "reading": "くいき"
+        },
+        {
+          "text": "にある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "116460",
+        "englishSentenceId": "287209",
+        "url": "https://tatoeba.org/en/sentences/show/116460"
+      }
+    },
+    "acceptedJapanese": [
+      "区域",
+      "くいき"
+    ],
+    "acceptedEnglish": [
+      "area",
+      "zone",
+      "district",
+      "quarter",
+      "section",
+      "limits"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-headquarters-1777217241476",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "本部",
+    "kanji": "本部",
+    "kana": "ほんぶ",
+    "meaning": "headquarters",
+    "explanation": "A JLPT N2 noun meaning \"headquarters\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "本",
+        "meanings": [
+          "basis",
+          "book",
+          "this"
+        ]
+      },
+      {
+        "kanji": "部",
+        "meanings": [
+          "section"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このプレハブ小屋が本部なの？",
+      "english": "This prefab cabin is HQ?",
+      "furigana": [
+        {
+          "text": "このプレハブ"
+        },
+        {
+          "text": "小屋",
+          "reading": "こや"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "本部",
+          "highlight": true,
+          "reading": "ほんぶ"
+        },
+        {
+          "text": "なの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10996778",
+        "englishSentenceId": "11622589",
+        "url": "https://tatoeba.org/en/sentences/show/10996778"
+      }
+    },
+    "acceptedJapanese": [
+      "本部",
+      "ほんぶ"
+    ],
+    "acceptedEnglish": [
+      "headquarters",
+      "head office",
+      "main office"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-coal-mine-1777217241608",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "炭鉱",
+    "kanji": "炭鉱",
+    "kana": "たんこう",
+    "meaning": "coal mine",
+    "explanation": "A JLPT N2 noun meaning \"coal mine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "炭",
+        "meanings": [
+          "coal",
+          "charcoal"
+        ]
+      },
+      {
+        "kanji": "鉱",
+        "meanings": [
+          "ore",
+          "mine"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "炭鉱の内部に多くの労働者が閉じ込められた。",
+      "english": "Many workers were trapped in the coal mine.",
+      "furigana": [
+        {
+          "text": "炭鉱",
+          "highlight": true,
+          "reading": "たんこう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "内部",
+          "reading": "ないぶ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "多く",
+          "reading": "おおく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "労働者",
+          "reading": "ろうどうしゃ"
+        },
+        {
+          "text": "が閉じ込められた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "880347",
+        "englishSentenceId": "681477",
+        "url": "https://tatoeba.org/en/sentences/show/880347"
+      }
+    },
+    "acceptedJapanese": [
+      "炭鉱",
+      "たんこう"
+    ],
+    "acceptedEnglish": [
+      "coal mine",
+      "pit",
+      "colliery",
+      "coal-mine shaft"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-europe-and-the-united-states-1777217241623",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "欧米",
+    "kanji": "欧米",
+    "kana": "おうべい",
+    "meaning": "Europe and the United States",
+    "explanation": "A JLPT N2 noun meaning \"Europe and the United States\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "欧",
+        "meanings": [
+          "Europe"
+        ]
+      },
+      {
+        "kanji": "米",
+        "meanings": [
+          "rice",
+          "America"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "医学では日本は欧米に追いつきました。",
+      "english": "Japan has caught up with Europe and America in medicine.",
+      "furigana": [
+        {
+          "text": "医学",
+          "reading": "いがく"
+        },
+        {
+          "text": "では"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "本は"
+        },
+        {
+          "text": "欧米",
+          "highlight": true,
+          "reading": "おうべい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "追",
+          "reading": "お"
+        },
+        {
+          "text": "いつきました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190960",
+        "englishSentenceId": "28120",
+        "url": "https://tatoeba.org/en/sentences/show/190960"
+      }
+    },
+    "acceptedJapanese": [
+      "欧米",
+      "おうべい"
+    ],
+    "acceptedEnglish": [
+      "Europe and the United States",
+      "Europe and America",
+      "the West"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-storage-room-1777217241644",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "物置",
+    "kanji": "物置",
+    "kana": "ものおき",
+    "meaning": "storage room",
+    "explanation": "A JLPT N2 noun meaning \"storage room\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      },
+      {
+        "kanji": "置",
+        "meanings": [
+          "place",
+          "put"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "段ボールなら物置だよ。",
+      "english": "The carton is in the storeroom.",
+      "furigana": [
+        {
+          "text": "段ボール",
+          "reading": "だんボール"
+        },
+        {
+          "text": "なら"
+        },
+        {
+          "text": "物置",
+          "highlight": true,
+          "reading": "ものおき"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9963923",
+        "englishSentenceId": "8910296",
+        "url": "https://tatoeba.org/en/sentences/show/9963923"
+      }
+    },
+    "acceptedJapanese": [
+      "物置",
+      "ものおき"
+    ],
+    "acceptedEnglish": [
+      "storage room",
+      "storeroom",
+      "lumber room"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-guest-seating-1777217241662",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "客席",
+    "kanji": "客席",
+    "kana": "きゃくせき",
+    "meaning": "guest seating",
+    "explanation": "A JLPT N2 noun meaning \"guest seating\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "客",
+        "meanings": [
+          "visitor",
+          "customer",
+          "guest"
+        ]
+      },
+      {
+        "kanji": "席",
+        "meanings": [
+          "seat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このお庭の方にね。縁台を出して客席を増やしたいんです。こんな感じに。",
+      "english": "In the garden, you know. I'd like to put out benches and increase the customer seating. Like this ...",
+      "furigana": [
+        {
+          "text": "このお"
+        },
+        {
+          "text": "庭",
+          "reading": "にわ"
+        },
+        {
+          "text": "の方にね。"
+        },
+        {
+          "text": "縁台",
+          "reading": "えんだい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "出し",
+          "reading": "だし"
+        },
+        {
+          "text": "て"
+        },
+        {
+          "text": "客席",
+          "highlight": true,
+          "reading": "きゃくせき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "増",
+          "reading": "ぞう"
+        },
+        {
+          "text": "やしたいんです。こんな"
+        },
+        {
+          "text": "感じ",
+          "reading": "かんじ"
+        },
+        {
+          "text": "に。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "76756",
+        "englishSentenceId": "326964",
+        "url": "https://tatoeba.org/en/sentences/show/76756"
+      }
+    },
+    "acceptedJapanese": [
+      "客席",
+      "きゃくせき"
+    ],
+    "acceptedEnglish": [
+      "guest seating",
+      "passenger seat",
+      "audience"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-multi-unit-apartments-1777217241680",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "団地",
+    "kanji": "団地",
+    "kana": "だんち",
+    "meaning": "multi-unit apartments",
+    "explanation": "A JLPT N2 noun meaning \"multi-unit apartments\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "団",
+        "meanings": [
+          "body",
+          "group"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "目的地は団地の中のスーパーだった。",
+      "english": "Our destination was the supermarket within the apartment complex.",
+      "furigana": [
+        {
+          "text": "目的地",
+          "reading": "もくてきち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "団地",
+          "highlight": true,
+          "reading": "だんち"
+        },
+        {
+          "text": "の中のスーパーだった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11013764",
+        "englishSentenceId": "11510119",
+        "url": "https://tatoeba.org/en/sentences/show/11013764"
+      }
+    },
+    "acceptedJapanese": [
+      "団地",
+      "だんち"
+    ],
+    "acceptedEnglish": [
+      "multi-unit apartments",
+      "apartment complex"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-garden-plant-1777217241683",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "植木",
+    "kanji": "植木",
+    "kana": "うえき",
+    "meaning": "garden plant",
+    "explanation": "A JLPT N2 noun meaning \"garden plant\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "植",
+        "meanings": [
+          "plant"
+        ]
+      },
+      {
+        "kanji": "木",
+        "meanings": [
+          "tree",
+          "wood"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は植木が好きだ。",
+      "english": "I like a garden tree.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "植木",
+          "highlight": true,
+          "reading": "うえき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "155798",
+        "englishSentenceId": "258739",
+        "url": "https://tatoeba.org/en/sentences/show/155798"
+      }
+    },
+    "acceptedJapanese": [
+      "植木",
+      "うえき"
+    ],
+    "acceptedEnglish": [
+      "garden plant",
+      "garden tree",
+      "potted plant"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-dam-1777217241887",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "ダム",
+    "kanji": "ダム",
+    "kana": "ダム",
+    "meaning": "dam",
+    "explanation": "A JLPT N2 noun meaning \"dam\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ダムの近くに住んでます。",
+      "english": "I live near a dam.",
+      "furigana": [
+        {
+          "text": "ダ",
+          "highlight": true,
+          "reading": "ダム"
+        },
+        {
+          "text": "ム",
+          "highlight": true,
+          "reading": "ダム"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "近く",
+          "reading": "ちかく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "住",
+          "reading": "じゅう"
+        },
+        {
+          "text": "んでます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10614522",
+        "englishSentenceId": "2353392",
+        "url": "https://tatoeba.org/en/sentences/show/10614522"
+      }
+    },
+    "acceptedJapanese": [
+      "ダム"
+    ],
+    "acceptedEnglish": [
+      "dam"
+    ]
+  },
+  {
+    "id": "n2-location-place-government-office-1777217241917",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "役所",
+    "kanji": "役所",
+    "kana": "やくしょ",
+    "meaning": "government office",
+    "explanation": "A JLPT N2 noun meaning \"government office\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "役",
+        "meanings": [
+          "service",
+          "role"
+        ]
+      },
+      {
+        "kanji": "所",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "君は役所に自分で出頭する事が必要なのだ。",
+      "english": "It is essential that you present yourself at the office.",
+      "furigana": [
+        {
+          "text": "君",
+          "reading": "きみ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "役所",
+          "highlight": true,
+          "reading": "やくしょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "出頭",
+          "reading": "しゅっとう"
+        },
+        {
+          "text": "する"
+        },
+        {
+          "text": "事",
+          "reading": "こと"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "なのだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "176842",
+        "englishSentenceId": "237619",
+        "url": "https://tatoeba.org/en/sentences/show/176842"
+      }
+    },
+    "acceptedJapanese": [
+      "役所",
+      "やくしょ"
+    ],
+    "acceptedEnglish": [
+      "government office",
+      "public office"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-site-1777217241920",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "敷地",
+    "kanji": "敷地",
+    "kana": "しきち",
+    "meaning": "site",
+    "explanation": "A JLPT N2 noun meaning \"site\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "敷",
+        "meanings": [
+          "spread",
+          "pave",
+          "sit",
+          "promulgate"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "学校の敷地はこの垣根まで続いている。",
+      "english": "The school grounds extend as far as this fence.",
+      "furigana": [
+        {
+          "text": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "敷地",
+          "highlight": true,
+          "reading": "しきち"
+        },
+        {
+          "text": "はこの"
+        },
+        {
+          "text": "垣根",
+          "reading": "かきね"
+        },
+        {
+          "text": "まで"
+        },
+        {
+          "text": "続いて",
+          "reading": "つづいて"
+        },
+        {
+          "text": "いる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "184426",
+        "englishSentenceId": "21555",
+        "url": "https://tatoeba.org/en/sentences/show/184426"
+      }
+    },
+    "acceptedJapanese": [
+      "敷地",
+      "しきち"
+    ],
+    "acceptedEnglish": [
+      "site",
+      "plot",
+      "lot",
+      "grounds"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-fire-station-1777217242028",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "消防署",
+    "kanji": "消防署",
+    "kana": "しょうぼうしょ",
+    "meaning": "fire station",
+    "explanation": "A JLPT N2 noun meaning \"fire station\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "消",
+        "meanings": [
+          "extinguish",
+          "delete",
+          "disappear",
+          "erase"
+        ]
+      },
+      {
+        "kanji": "防",
+        "meanings": [
+          "prevent",
+          "protect from"
+        ]
+      },
+      {
+        "kanji": "署",
+        "meanings": [
+          "public-service station"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "消防署は警察署の隣にあります。",
+      "english": "The fire station is next to the police station.",
+      "furigana": [
+        {
+          "text": "消防署",
+          "highlight": true,
+          "reading": "しょうぼうしょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "警察署",
+          "reading": "けいさつしょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "隣",
+          "reading": "となり"
+        },
+        {
+          "text": "にあります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "146390",
+        "englishSentenceId": "268172",
+        "url": "https://tatoeba.org/en/sentences/show/146390"
+      }
+    },
+    "acceptedJapanese": [
+      "消防署",
+      "しょうぼうしょ"
+    ],
+    "acceptedEnglish": [
+      "fire station"
+    ],
+    "pitchAccentNumber": 5
+  },
+  {
+    "id": "n2-location-place-multi-floor-building-1777217242049",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "ビルディング",
+    "kanji": "ビルディング",
+    "kana": "ビルディング",
+    "meaning": "multi-floor building",
+    "explanation": "A JLPT N2 noun meaning \"multi-floor building\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "「ビルディング」は日本語の言葉です。",
+      "english": "\"multi-floor building\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "ビルディング",
+          "reading": "ビルディング",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "ビルディング"
+    ],
+    "acceptedEnglish": [
+      "multi-floor building",
+      "multi-storey building",
+      "tall building"
+    ]
+  },
+  {
+    "id": "n2-location-place-counter-1777217242094",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "窓口",
+    "kanji": "窓口",
+    "kana": "まどぐち",
+    "meaning": "counter",
+    "explanation": "A JLPT N2 noun meaning \"counter\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "窓",
+        "meanings": [
+          "window"
+        ]
+      },
+      {
+        "kanji": "口",
+        "meanings": [
+          "mouth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "会計の窓口はどこですか。",
+      "english": "Where is the counter to pay my bill?",
+      "furigana": [
+        {
+          "text": "会計",
+          "reading": "かいけい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "窓口",
+          "highlight": true,
+          "reading": "まどぐち"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185333",
+        "englishSentenceId": "22465",
+        "url": "https://tatoeba.org/en/sentences/show/185333"
+      }
+    },
+    "acceptedJapanese": [
+      "窓口",
+      "まどぐち"
+    ],
+    "acceptedEnglish": [
+      "counter",
+      "window",
+      "teller window",
+      "ticket window",
+      "contact person",
+      "point of contact"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-location-place-arable-land-1777217242172",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "耕地",
+    "kanji": "耕地",
+    "kana": "こうち",
+    "meaning": "arable land",
+    "explanation": "A JLPT N2 noun meaning \"arable land\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "耕",
+        "meanings": [
+          "till",
+          "cultivate",
+          "plough"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「耕地」は日本語の言葉です。",
+      "english": "\"arable land\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "耕地",
+          "reading": "こうち",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "耕地",
+      "こうち"
+    ],
+    "acceptedEnglish": [
+      "arable land",
+      "plantation",
+      "farmland",
+      "fazenda",
+      "hacienda",
+      "large estate"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-hedge-1777217242268",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "垣根",
+    "kanji": "垣根",
+    "kana": "かきね",
+    "meaning": "hedge",
+    "explanation": "A JLPT N2 noun meaning \"hedge\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "垣",
+        "meanings": [
+          "hedge",
+          "fence",
+          "wall"
+        ]
+      },
+      {
+        "kanji": "根",
+        "meanings": [
+          "root"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は垣根を飛び越えた。",
+      "english": "He jumped over the hedge.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "垣根",
+          "highlight": true,
+          "reading": "かきね"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "飛び",
+          "reading": "とび"
+        },
+        {
+          "text": "越えた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108918",
+        "englishSentenceId": "290638",
+        "url": "https://tatoeba.org/en/sentences/show/108918"
+      }
+    },
+    "acceptedJapanese": [
+      "垣根",
+      "かきね"
+    ],
+    "acceptedEnglish": [
+      "hedge",
+      "fence",
+      "border",
+      "limit"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-location-place-and-company-1777217242472",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "御中",
+    "kanji": "御中",
+    "kana": "おんちゅう",
+    "meaning": "and Company",
+    "explanation": "A JLPT N2 noun, used as a suffix meaning \"and Company\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "御",
+        "meanings": [
+          "general honorific term",
+          "polite prefix"
+        ]
+      },
+      {
+        "kanji": "中",
+        "meanings": [
+          "middle",
+          "in"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「御中」は日本語の言葉です。",
+      "english": "\"and Company\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "御中",
+          "reading": "おんちゅう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "御中",
+      "おんちゅう"
+    ],
+    "acceptedEnglish": [
+      "and Company",
+      "Messrs",
+      "for the attention of"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-government-office-1777217242508",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "官庁",
+    "kanji": "官庁",
+    "kana": "かんちょう",
+    "meaning": "government office",
+    "explanation": "A JLPT N2 noun meaning \"government office\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "官",
+        "meanings": [
+          "government",
+          "government official",
+          "authorities"
+        ]
+      },
+      {
+        "kanji": "庁",
+        "meanings": [
+          "government agency"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は官庁で相当な職についている。",
+      "english": "He has a good position in a government office.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "官庁",
+          "highlight": true,
+          "reading": "かんちょう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "相当",
+          "reading": "そうとう"
+        },
+        {
+          "text": "な職についている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108777",
+        "englishSentenceId": "294912",
+        "url": "https://tatoeba.org/en/sentences/show/108777"
+      }
+    },
+    "acceptedJapanese": [
+      "官庁",
+      "かんちょう"
+    ],
+    "acceptedEnglish": [
+      "government office",
+      "government agency",
+      "authorities"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-house-number-1777217242517",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "番地",
+    "kanji": "番地",
+    "kana": "ばんち",
+    "meaning": "house number",
+    "explanation": "A JLPT N2 noun meaning \"house number\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "番",
+        "meanings": [
+          "numerical order",
+          "watch"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "アウグスタ通りの３３７番地に住んでいます。",
+      "english": "I live at 337 Augusta Street.",
+      "furigana": [
+        {
+          "text": "アウグスタ"
+        },
+        {
+          "text": "通り",
+          "reading": "とおり"
+        },
+        {
+          "text": "の３３７"
+        },
+        {
+          "text": "番地",
+          "highlight": true,
+          "reading": "ばんち"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "住",
+          "reading": "じゅう"
+        },
+        {
+          "text": "んでいます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5185669",
+        "englishSentenceId": "871339",
+        "url": "https://tatoeba.org/en/sentences/show/5185669"
+      }
+    },
+    "acceptedJapanese": [
+      "番地",
+      "ばんち"
+    ],
+    "acceptedEnglish": [
+      "house number",
+      "address"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-canal-1777217242520",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "運河",
+    "kanji": "運河",
+    "kana": "うんが",
+    "meaning": "canal",
+    "explanation": "A JLPT N2 noun meaning \"canal\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "運",
+        "meanings": [
+          "carry",
+          "move",
+          "fortune"
+        ]
+      },
+      {
+        "kanji": "河",
+        "meanings": [
+          "river"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "船はスエズ運河を通り抜けた。",
+      "english": "The ship went through the Suez Canal.",
+      "furigana": [
+        {
+          "text": "船",
+          "reading": "ふね"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "スエズ"
+        },
+        {
+          "text": "運河",
+          "highlight": true,
+          "reading": "うんが"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "通り抜け",
+          "reading": "とおりぬけ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "141153",
+        "englishSentenceId": "273419",
+        "url": "https://tatoeba.org/en/sentences/show/141153"
+      }
+    },
+    "acceptedJapanese": [
+      "運河",
+      "うんが"
+    ],
+    "acceptedEnglish": [
+      "canal",
+      "waterway"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-lighthouse-1777217242532",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "灯台",
+    "kanji": "灯台",
+    "kana": "とうだい",
+    "meaning": "lighthouse",
+    "explanation": "A JLPT N2 noun meaning \"lighthouse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "灯",
+        "meanings": [
+          "lamp",
+          "light"
+        ]
+      },
+      {
+        "kanji": "台",
+        "meanings": [
+          "stand",
+          "counter for machinery"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "どうせ、狙うなら灯台よ。",
+      "english": "Anyway, if aiming then aim at the lighthouse.",
+      "furigana": [
+        {
+          "text": "どうせ、"
+        },
+        {
+          "text": "狙う",
+          "reading": "ねらう"
+        },
+        {
+          "text": "なら"
+        },
+        {
+          "text": "灯台",
+          "highlight": true,
+          "reading": "とうだい"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10906726",
+        "englishSentenceId": "13721346",
+        "url": "https://tatoeba.org/en/sentences/show/10906726"
+      }
+    },
+    "acceptedJapanese": [
+      "灯台",
+      "とうだい"
+    ],
+    "acceptedEnglish": [
+      "lighthouse"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-shop-1777217242544",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "商店",
+    "kanji": "商店",
+    "kana": "しょうてん",
+    "meaning": "shop",
+    "explanation": "A JLPT N2 noun meaning \"shop\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "商",
+        "meanings": [
+          "trade",
+          "deal"
+        ]
+      },
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この地域は商店が多い。",
+      "english": "There are many stores in this area.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "地域",
+          "reading": "ちいき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "商店",
+          "highlight": true,
+          "reading": "しょうてん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220598",
+        "englishSentenceId": "57921",
+        "url": "https://tatoeba.org/en/sentences/show/220598"
+      }
+    },
+    "acceptedJapanese": [
+      "商店",
+      "しょうてん"
+    ],
+    "acceptedEnglish": [
+      "shop",
+      "store",
+      "firm"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-place-name-1777217242667",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "地名",
+    "kanji": "地名",
+    "kana": "ちめい",
+    "meaning": "place name",
+    "explanation": "A JLPT N2 noun meaning \"place name\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その地名は伝説に由来する。",
+      "english": "The legend gave the name to the place.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "地名",
+          "highlight": true,
+          "reading": "ちめい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "伝説",
+          "reading": "でんせつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "由来",
+          "reading": "ゆらい"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "207860",
+        "englishSentenceId": "45117",
+        "url": "https://tatoeba.org/en/sentences/show/207860"
+      }
+    },
+    "acceptedJapanese": [
+      "地名",
+      "ちめい"
+    ],
+    "acceptedEnglish": [
+      "place name",
+      "toponym"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-school-1777217242739",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "スクール",
+    "kanji": "スクール",
+    "kana": "スクール",
+    "meaning": "school",
+    "explanation": "A JLPT N2 noun meaning \"school\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "スクールバスがあるの？",
+      "english": "Is there a school bus?",
+      "furigana": [
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "スクール"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "スクール"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "スクール"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "スクール"
+        },
+        {
+          "text": "バスがあるの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "214989",
+        "englishSentenceId": "52284",
+        "url": "https://tatoeba.org/en/sentences/show/214989"
+      }
+    },
+    "acceptedJapanese": [
+      "スクール"
+    ],
+    "acceptedEnglish": [
+      "school"
+    ]
+  },
+  {
+    "id": "n2-location-place-tokonoma-1777217242883",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "床の間",
+    "kanji": "床の間",
+    "kana": "とこのま",
+    "meaning": "tokonoma",
+    "explanation": "A JLPT N2 noun meaning \"tokonoma\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "床",
+        "meanings": [
+          "bed",
+          "floor"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "手紙に貼る三銭切手が買えないで、幾日も床の間の上に置いてあるようになった。",
+      "english": "I could not buy the 3 sen stamp to put on the letter, so it ended up staying for many days on top of the tokonoma.",
+      "furigana": [
+        {
+          "text": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "貼る",
+          "reading": "はる"
+        },
+        {
+          "text": "三銭"
+        },
+        {
+          "text": "切手",
+          "reading": "きって"
+        },
+        {
+          "text": "が買えないで、"
+        },
+        {
+          "text": "幾日も",
+          "reading": "いくにちも"
+        },
+        {
+          "text": "床の間",
+          "highlight": true,
+          "reading": "とこのま"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "に置いてあるようになった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "589574",
+        "englishSentenceId": "589578",
+        "url": "https://tatoeba.org/en/sentences/show/589574"
+      }
+    },
+    "acceptedJapanese": [
+      "床の間",
+      "とこのま"
+    ],
+    "acceptedEnglish": [
+      "tokonoma",
+      "alcove where art or flowers are displayed"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-greenhouse-1777217242889",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "温室",
+    "kanji": "温室",
+    "kana": "おんしつ",
+    "meaning": "greenhouse",
+    "explanation": "A JLPT N2 noun meaning \"greenhouse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "温",
+        "meanings": [
+          "warm"
+        ]
+      },
+      {
+        "kanji": "室",
+        "meanings": [
+          "room"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は温室でランを栽培している。",
+      "english": "I grow orchids in my greenhouse.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "温室",
+          "highlight": true,
+          "reading": "おんしつ"
+        },
+        {
+          "text": "でランを"
+        },
+        {
+          "text": "栽培",
+          "reading": "さいばい"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "158213",
+        "englishSentenceId": "256317",
+        "url": "https://tatoeba.org/en/sentences/show/158213"
+      }
+    },
+    "acceptedJapanese": [
+      "温室",
+      "おんしつ"
+    ],
+    "acceptedEnglish": [
+      "greenhouse",
+      "hothouse",
+      "conservatory",
+      "glasshouse"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-district-1777217242892",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "郡",
+    "kanji": "郡",
+    "kana": "ぐん",
+    "meaning": "district",
+    "explanation": "A JLPT N2 noun meaning \"district\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "郡",
+        "meanings": [
+          "county"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その発電所は、その遠く離れた郡に電気を供給している。",
+      "english": "The power plant supplies the remote district with electricity.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "発電所",
+          "reading": "はつでんしょ"
+        },
+        {
+          "text": "は、その"
+        },
+        {
+          "text": "遠く",
+          "reading": "とおく"
+        },
+        {
+          "text": "離",
+          "reading": "り"
+        },
+        {
+          "text": "れた"
+        },
+        {
+          "text": "郡",
+          "highlight": true,
+          "reading": "ぐん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "電気",
+          "reading": "でんき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "供給",
+          "reading": "きょうきゅう"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4252771",
+        "englishSentenceId": "44438",
+        "url": "https://tatoeba.org/en/sentences/show/4252771"
+      }
+    },
+    "acceptedJapanese": [
+      "郡",
+      "ぐん"
+    ],
+    "acceptedEnglish": [
+      "district",
+      "county",
+      "commandery"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-public-square-1777217242961",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "広場",
+    "kanji": "広場",
+    "kana": "ひろば",
+    "meaning": "public square",
+    "explanation": "A JLPT N2 noun meaning \"public square\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "広",
+        "meanings": [
+          "wide"
+        ]
+      },
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "広場には誰もいない。",
+      "english": "The public square is desolate.",
+      "furigana": [
+        {
+          "text": "広場",
+          "highlight": true,
+          "reading": "ひろば"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "誰も",
+          "reading": "だれも"
+        },
+        {
+          "text": "いない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2182837",
+        "englishSentenceId": "10208945",
+        "url": "https://tatoeba.org/en/sentences/show/2182837"
+      }
+    },
+    "acceptedJapanese": [
+      "広場",
+      "ひろば"
+    ],
+    "acceptedEnglish": [
+      "public square",
+      "square",
+      "plaza",
+      "piazza",
+      "forum",
+      "open space"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-kanto-1777217243162",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "関東",
+    "kanji": "関東",
+    "kana": "かんとう",
+    "meaning": "Kantō",
+    "explanation": "A JLPT N2 noun meaning \"Kantō\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "関",
+        "meanings": [
+          "concern",
+          "barrier"
+        ]
+      },
+      {
+        "kanji": "東",
+        "meanings": [
+          "east"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "先週、関東で大雪が降りました。",
+      "english": "A lot of snow fell on the Kanto region last week.",
+      "furigana": [
+        {
+          "text": "先週",
+          "reading": "せんしゅう"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "関東",
+          "highlight": true,
+          "reading": "かんとう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "大",
+          "reading": "たい"
+        },
+        {
+          "text": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "降り",
+          "reading": "ふり"
+        },
+        {
+          "text": "ました。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3054154",
+        "englishSentenceId": "3054344",
+        "url": "https://tatoeba.org/en/sentences/show/3054154"
+      }
+    },
+    "acceptedJapanese": [
+      "関東",
+      "かんとう"
+    ],
+    "acceptedEnglish": [
+      "Kantō"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-toilet-1777217243177",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "便所",
+    "kanji": "便所",
+    "kana": "べんじょ",
+    "meaning": "toilet",
+    "explanation": "A JLPT N2 noun meaning \"toilet\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "便",
+        "meanings": [
+          "mail",
+          "post",
+          "convenient",
+          "excrement"
+        ]
+      },
+      {
+        "kanji": "所",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "生徒はこの便所を使ってはならない。",
+      "english": "Students must not use this toilet.",
+      "furigana": [
+        {
+          "text": "生徒",
+          "reading": "せいと"
+        },
+        {
+          "text": "はこの"
+        },
+        {
+          "text": "便所",
+          "highlight": true,
+          "reading": "べんじょ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "使",
+          "reading": "し"
+        },
+        {
+          "text": "ってはならない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "142728",
+        "englishSentenceId": "271842",
+        "url": "https://tatoeba.org/en/sentences/show/142728"
+      }
+    },
+    "acceptedJapanese": [
+      "便所",
+      "べんじょ"
+    ],
+    "acceptedEnglish": [
+      "toilet",
+      "lavatory",
+      "water closet",
+      "restroom",
+      "bathroom"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-famous-place-1777217243189",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "名所",
+    "kanji": "名所",
+    "kana": "めいしょ",
+    "meaning": "famous place",
+    "explanation": "A JLPT N2 noun meaning \"famous place\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "名",
+        "meanings": [
+          "name"
+        ]
+      },
+      {
+        "kanji": "所",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "スイスには名所が多い。",
+      "english": "Switzerland boasts many sights.",
+      "furigana": [
+        {
+          "text": "スイスには"
+        },
+        {
+          "text": "名所",
+          "highlight": true,
+          "reading": "めいしょ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "多い",
+          "reading": "おおい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "215148",
+        "englishSentenceId": "52446",
+        "url": "https://tatoeba.org/en/sentences/show/215148"
+      }
+    },
+    "acceptedJapanese": [
+      "名所",
+      "めいしょ"
+    ],
+    "acceptedEnglish": [
+      "famous place",
+      "noted place",
+      "place of interest",
+      "sights"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-the-east-1777217243225",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "東洋",
+    "kanji": "東洋",
+    "kana": "とうよう",
+    "meaning": "the East",
+    "explanation": "A JLPT N2 noun meaning \"the East\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "東",
+        "meanings": [
+          "east"
+        ]
+      },
+      {
+        "kanji": "洋",
+        "meanings": [
+          "ocean",
+          "western"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "東洋の陶器に興味があります。",
+      "english": "I'm interested in oriental pottery.",
+      "furigana": [
+        {
+          "text": "東洋",
+          "highlight": true,
+          "reading": "とうよう"
+        },
+        {
+          "text": "の陶"
+        },
+        {
+          "text": "器",
+          "reading": "うつわ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "興味",
+          "reading": "きょうみ"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "124151",
+        "englishSentenceId": "1023151",
+        "url": "https://tatoeba.org/en/sentences/show/124151"
+      }
+    },
+    "acceptedJapanese": [
+      "東洋",
+      "とうよう"
+    ],
+    "acceptedEnglish": [
+      "the East",
+      "the Orient",
+      "Asia",
+      "Japan"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-bar-1777217243234",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "酒場",
+    "kanji": "酒場",
+    "kana": "さかば",
+    "meaning": "bar",
+    "explanation": "A JLPT N2 noun meaning \"bar\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "酒",
+        "meanings": [
+          "alcoholic drink",
+          "sake",
+          "alcohol",
+          "liquor"
+        ]
+      },
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はその酒場で歯医者に成りすましていた。",
+      "english": "He posed as a dentist at that bar.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はその"
+        },
+        {
+          "text": "酒場",
+          "highlight": true,
+          "reading": "さかば"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "歯医者",
+          "reading": "はいしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "成り",
+          "reading": "なり"
+        },
+        {
+          "text": "すましていた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "112683",
+        "englishSentenceId": "290993",
+        "url": "https://tatoeba.org/en/sentences/show/112683"
+      }
+    },
+    "acceptedJapanese": [
+      "酒場",
+      "さかば"
+    ],
+    "acceptedEnglish": [
+      "bar",
+      "pub",
+      "tavern"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-bookshop-1777217243270",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "書店",
+    "kanji": "書店",
+    "kana": "しょてん",
+    "meaning": "bookshop",
+    "explanation": "A JLPT N2 noun meaning \"bookshop\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "書",
+        "meanings": [
+          "write",
+          "book"
+        ]
+      },
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "書店で手に入ります。",
+      "english": "You can get it at a bookstore.",
+      "furigana": [
+        {
+          "text": "書店",
+          "highlight": true,
+          "reading": "しょてん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入り",
+          "reading": "いり"
+        },
+        {
+          "text": "ます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "147413",
+        "englishSentenceId": "267147",
+        "url": "https://tatoeba.org/en/sentences/show/147413"
+      }
+    },
+    "acceptedJapanese": [
+      "書店",
+      "しょてん"
+    ],
+    "acceptedEnglish": [
+      "bookshop",
+      "bookstore"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-main-street-1777217243348",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "大通り",
+    "kanji": "大通り",
+    "kana": "おおどおり",
+    "meaning": "main street",
+    "explanation": "A JLPT N2 noun meaning \"main street\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あれがこの町の大通りだ。",
+      "english": "That is the main street of this city.",
+      "furigana": [
+        {
+          "text": "あれがこの町の"
+        },
+        {
+          "text": "大通り",
+          "highlight": true,
+          "reading": "おおどおり"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "229770",
+        "englishSentenceId": "67132",
+        "url": "https://tatoeba.org/en/sentences/show/229770"
+      }
+    },
+    "acceptedJapanese": [
+      "大通り",
+      "おおどおり"
+    ],
+    "acceptedEnglish": [
+      "main street",
+      "avenue",
+      "boulevard"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-meeting-hall-1777217243417",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "会館",
+    "kanji": "会館",
+    "kana": "かいかん",
+    "meaning": "meeting hall",
+    "explanation": "A JLPT N2 noun meaning \"meeting hall\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "会",
+        "meanings": [
+          "meet",
+          "society"
+        ]
+      },
+      {
+        "kanji": "館",
+        "meanings": [
+          "public building"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "会館は聴衆でいっぱいになった。",
+      "english": "The audience filled the hall.",
+      "furigana": [
+        {
+          "text": "会館",
+          "highlight": true,
+          "reading": "かいかん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "聴衆",
+          "reading": "ちょうしゅう"
+        },
+        {
+          "text": "でいっぱいになった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185413",
+        "englishSentenceId": "22545",
+        "url": "https://tatoeba.org/en/sentences/show/185413"
+      }
+    },
+    "acceptedJapanese": [
+      "会館",
+      "かいかん"
+    ],
+    "acceptedEnglish": [
+      "meeting hall",
+      "assembly hall"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-customs-1777217243492",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "税関",
+    "kanji": "税関",
+    "kana": "ぜいかん",
+    "meaning": "customs",
+    "explanation": "A JLPT N2 noun meaning \"customs\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "税",
+        "meanings": [
+          "tax"
+        ]
+      },
+      {
+        "kanji": "関",
+        "meanings": [
+          "concern",
+          "barrier"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "税関はどこですか。",
+      "english": "Where is Customs?",
+      "furigana": [
+        {
+          "text": "税関",
+          "highlight": true,
+          "reading": "ぜいかん"
+        },
+        {
+          "text": "はどこですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "142489",
+        "englishSentenceId": "446119",
+        "url": "https://tatoeba.org/en/sentences/show/142489"
+      }
+    },
+    "acceptedJapanese": [
+      "税関",
+      "ぜいかん"
+    ],
+    "acceptedEnglish": [
+      "customs",
+      "customs house"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-dwelling-1777217243558",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "住まい",
+    "kanji": "住まい",
+    "kana": "すまい",
+    "meaning": "dwelling",
+    "explanation": "A JLPT N2 noun meaning \"dwelling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "住",
+        "meanings": [
+          "live"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "北海道にお住まいですか？",
+      "english": "Is your house in Hokkaido?",
+      "furigana": [
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "text": "にお"
+        },
+        {
+          "text": "住まい",
+          "highlight": true,
+          "reading": "すまい"
+        },
+        {
+          "text": "ですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10089459",
+        "englishSentenceId": "10208606",
+        "url": "https://tatoeba.org/en/sentences/show/10089459"
+      }
+    },
+    "acceptedJapanese": [
+      "住まい",
+      "すまい"
+    ],
+    "acceptedEnglish": [
+      "dwelling",
+      "house",
+      "residence",
+      "address"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-campus-1777217243624",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "キャンパス",
+    "kanji": "キャンパス",
+    "kana": "キャンパス",
+    "meaning": "campus",
+    "explanation": "A JLPT N2 noun meaning \"campus\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "キャンパスを案内してもらえますか。",
+      "english": "Could you show me the campus?",
+      "furigana": [
+        {
+          "text": "キ",
+          "highlight": true,
+          "reading": "キャンパス"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "キャンパス"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "キャンパス"
+        },
+        {
+          "text": "パ",
+          "highlight": true,
+          "reading": "キャンパス"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "キャンパス"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "案内",
+          "reading": "あんない"
+        },
+        {
+          "text": "してもらえますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "225808",
+        "englishSentenceId": "63146",
+        "url": "https://tatoeba.org/en/sentences/show/225808"
+      }
+    },
+    "acceptedJapanese": [
+      "キャンパス"
+    ],
+    "acceptedEnglish": [
+      "campus"
+    ]
+  },
+  {
+    "id": "n2-location-place-lobby-1777217243648",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "ロビー",
+    "kanji": "ロビー",
+    "kana": "ロビー",
+    "meaning": "lobby",
+    "explanation": "A JLPT N2 noun meaning \"lobby\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ロビーで待ってて。",
+      "english": "Wait in the lobby.",
+      "furigana": [
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "ロビー"
+        },
+        {
+          "text": "ビ",
+          "highlight": true,
+          "reading": "ロビー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ロビー"
+        },
+        {
+          "text": "で待ってて。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11527198",
+        "englishSentenceId": "2648274",
+        "url": "https://tatoeba.org/en/sentences/show/11527198"
+      }
+    },
+    "acceptedJapanese": [
+      "ロビー"
+    ],
+    "acceptedEnglish": [
+      "lobby",
+      "lounge"
+    ]
+  },
+  {
+    "id": "n2-location-place-backdoor-1777217243660",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "裏口",
+    "kanji": "裏口",
+    "kana": "うらぐち",
+    "meaning": "backdoor",
+    "explanation": "A JLPT N2 noun meaning \"backdoor\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "裏",
+        "meanings": [
+          "rear",
+          "reverse side",
+          "back"
+        ]
+      },
+      {
+        "kanji": "口",
+        "meanings": [
+          "mouth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "裏口が全開だよ。",
+      "english": "The back door's wide open.",
+      "furigana": [
+        {
+          "text": "裏口",
+          "highlight": true,
+          "reading": "うらぐち"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "全開",
+          "reading": "ぜんかい"
+        },
+        {
+          "text": "だよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11572887",
+        "englishSentenceId": "4666200",
+        "url": "https://tatoeba.org/en/sentences/show/11572887"
+      }
+    },
+    "acceptedJapanese": [
+      "裏口",
+      "うらぐち"
+    ],
+    "acceptedEnglish": [
+      "backdoor",
+      "rear entrance",
+      "rear exit"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-tatami-room-1777217243741",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "座敷",
+    "kanji": "座敷",
+    "kana": "ざしき",
+    "meaning": "tatami room",
+    "explanation": "A JLPT N2 noun meaning \"tatami room\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "座",
+        "meanings": [
+          "seat",
+          "sit"
+        ]
+      },
+      {
+        "kanji": "敷",
+        "meanings": [
+          "spread",
+          "pave",
+          "sit",
+          "promulgate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「座敷」は日本語の言葉です。",
+      "english": "\"tatami room\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "座敷",
+          "reading": "ざしき",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "座敷",
+      "ざしき"
+    ],
+    "acceptedEnglish": [
+      "tatami room",
+      "tatami mat room",
+      "formal Japanese room",
+      "dinner party in a tatami room"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-four-corners-1777217243771",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "四つ角",
+    "kanji": "四つ角",
+    "kana": "よつかど",
+    "meaning": "four corners",
+    "explanation": "A JLPT N2 noun meaning \"four corners\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "四",
+        "meanings": [
+          "four"
+        ]
+      },
+      {
+        "kanji": "角",
+        "meanings": [
+          "angle",
+          "horn",
+          "corner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "四つ角は二つの道が十字に交わった所である。",
+      "english": "A crossroads is where two roads meet in an X.",
+      "furigana": [
+        {
+          "text": "四つ角",
+          "highlight": true,
+          "reading": "よつかど"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "二つ",
+          "reading": "ふたつ"
+        },
+        {
+          "text": "の道が"
+        },
+        {
+          "text": "十字",
+          "reading": "じゅうじ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "交",
+          "reading": "こもごも"
+        },
+        {
+          "text": "わった所である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "498663",
+        "englishSentenceId": "499377",
+        "url": "https://tatoeba.org/en/sentences/show/498663"
+      }
+    },
+    "acceptedJapanese": [
+      "四つ角",
+      "よつかど"
+    ],
+    "acceptedEnglish": [
+      "four corners",
+      "crossroads",
+      "intersecting street",
+      "street corner"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-stand-1777217243774",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "売店",
+    "kanji": "売店",
+    "kana": "ばいてん",
+    "meaning": "stand",
+    "explanation": "A JLPT N2 noun meaning \"stand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "売",
+        "meanings": [
+          "sell"
+        ]
+      },
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "売店で聞いてください。",
+      "english": "Please ask at the kiosk.",
+      "furigana": [
+        {
+          "text": "売店",
+          "highlight": true,
+          "reading": "ばいてん"
+        },
+        {
+          "text": "で聞いてください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8988093",
+        "englishSentenceId": "11505699",
+        "url": "https://tatoeba.org/en/sentences/show/8988093"
+      }
+    },
+    "acceptedJapanese": [
+      "売店",
+      "ばいてん"
+    ],
+    "acceptedEnglish": [
+      "stand",
+      "stall",
+      "booth",
+      "kiosk",
+      "store"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-tennis-court-1777217243777",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "テニスコート",
+    "kanji": "テニスコート",
+    "kana": "テニスコート",
+    "meaning": "tennis court",
+    "explanation": "A JLPT N2 noun meaning \"tennis court\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "テニスコートに行くの？",
+      "english": "Are you going to the tennis court?",
+      "furigana": [
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "ニ",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "テニスコート"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "くの？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1237003",
+        "englishSentenceId": "1422085",
+        "url": "https://tatoeba.org/en/sentences/show/1237003"
+      }
+    },
+    "acceptedJapanese": [
+      "テニスコート"
+    ],
+    "acceptedEnglish": [
+      "tennis court"
+    ]
+  },
+  {
+    "id": "n2-location-place-room-to-let-1777217243804",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "貸間",
+    "kanji": "貸間",
+    "kana": "かしま",
+    "meaning": "room to let",
+    "explanation": "A JLPT N2 noun meaning \"room to let\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "貸",
+        "meanings": [
+          "lend"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この家に貸間はありますか。",
+      "english": "Have you a room to let in this house?",
+      "furigana": [
+        {
+          "text": "この家に"
+        },
+        {
+          "text": "貸間",
+          "highlight": true,
+          "reading": "かしま"
+        },
+        {
+          "text": "はありますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222842",
+        "englishSentenceId": "60173",
+        "url": "https://tatoeba.org/en/sentences/show/222842"
+      }
+    },
+    "acceptedJapanese": [
+      "貸間",
+      "かしま"
+    ],
+    "acceptedEnglish": [
+      "room to let",
+      "room for rent"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-dwelling-1777217243843",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "住居",
+    "kanji": "住居",
+    "kana": "じゅうきょ",
+    "meaning": "dwelling",
+    "explanation": "A JLPT N2 noun, suru noun, intransitive verb meaning \"dwelling\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "住",
+        "meanings": [
+          "live"
+        ]
+      },
+      {
+        "kanji": "居",
+        "meanings": [
+          "reside",
+          "exist"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は住居に侵入した。",
+      "english": "He broke into a house.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "住居",
+          "highlight": true,
+          "reading": "じゅうきょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "侵入",
+          "reading": "しんにゅう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1196444",
+        "englishSentenceId": "283445",
+        "url": "https://tatoeba.org/en/sentences/show/1196444"
+      }
+    },
+    "acceptedJapanese": [
+      "住居",
+      "じゅうきょ"
+    ],
+    "acceptedEnglish": [
+      "dwelling",
+      "house",
+      "residence",
+      "address"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-main-gate-1777217243846",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "正門",
+    "kanji": "正門",
+    "kana": "せいもん",
+    "meaning": "main gate",
+    "explanation": "A JLPT N2 noun meaning \"main gate\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "正",
+        "meanings": [
+          "right",
+          "correct"
+        ]
+      },
+      {
+        "kanji": "門",
+        "meanings": [
+          "gate"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "それは正門です。",
+      "english": "That's the main gate.",
+      "furigana": [
+        {
+          "text": "それは"
+        },
+        {
+          "text": "正門",
+          "highlight": true,
+          "reading": "せいもん"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "205039",
+        "englishSentenceId": "1264224",
+        "url": "https://tatoeba.org/en/sentences/show/205039"
+      }
+    },
+    "acceptedJapanese": [
+      "正門",
+      "せいもん"
+    ],
+    "acceptedEnglish": [
+      "main gate",
+      "main entrance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-passage-1777217243855",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "通路",
+    "kanji": "通路",
+    "kana": "つうろ",
+    "meaning": "passage",
+    "explanation": "A JLPT N2 noun meaning \"passage\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "通",
+        "meanings": [
+          "pass",
+          "communicate",
+          "commute"
+        ]
+      },
+      {
+        "kanji": "路",
+        "meanings": [
+          "road",
+          "way",
+          "street"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "通路に物を置くな。",
+      "english": "Don't put your stuff in the aisle.",
+      "furigana": [
+        {
+          "text": "通路",
+          "highlight": true,
+          "reading": "つうろ"
+        },
+        {
+          "text": "に物を"
+        },
+        {
+          "text": "置く",
+          "reading": "おく"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "125570",
+        "englishSentenceId": "13926424",
+        "url": "https://tatoeba.org/en/sentences/show/125570"
+      }
+    },
+    "acceptedJapanese": [
+      "通路",
+      "つうろ"
+    ],
+    "acceptedEnglish": [
+      "passage",
+      "pathway",
+      "roadway",
+      "avenue",
+      "aisle"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-city-centre-1777217243858",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "都心",
+    "kanji": "都心",
+    "kana": "としん",
+    "meaning": "city centre",
+    "explanation": "A JLPT N2 noun meaning \"city centre\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "都",
+        "meanings": [
+          "capital (city)",
+          "metropolis"
+        ]
+      },
+      {
+        "kanji": "心",
+        "meanings": [
+          "heart"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "本当に都心に引っ越ししたいのか？",
+      "english": "Do you really want to move downtown?",
+      "furigana": [
+        {
+          "text": "本当に",
+          "reading": "ほんとうに"
+        },
+        {
+          "text": "都心",
+          "highlight": true,
+          "reading": "としん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "引っ越し",
+          "reading": "ひっこし"
+        },
+        {
+          "text": "したいのか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11808758",
+        "englishSentenceId": "11809274",
+        "url": "https://tatoeba.org/en/sentences/show/11808758"
+      }
+    },
+    "acceptedJapanese": [
+      "都心",
+      "としん"
+    ],
+    "acceptedEnglish": [
+      "city centre",
+      "heart of a city",
+      "downtown area"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-kansai-1777217243897",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "関西",
+    "kanji": "関西",
+    "kana": "かんさい",
+    "meaning": "Kansai",
+    "explanation": "A JLPT N2 noun meaning \"Kansai\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "関",
+        "meanings": [
+          "concern",
+          "barrier"
+        ]
+      },
+      {
+        "kanji": "西",
+        "meanings": [
+          "west"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は６月に東京を離れて関西に来る。",
+      "english": "He will leave Tokyo and come to Kansai in June.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "６月",
+          "reading": "ろくがつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "離",
+          "reading": "り"
+        },
+        {
+          "text": "れて"
+        },
+        {
+          "text": "関西",
+          "highlight": true,
+          "reading": "かんさい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "る。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "115045",
+        "englishSentenceId": "288626",
+        "url": "https://tatoeba.org/en/sentences/show/115045"
+      }
+    },
+    "acceptedJapanese": [
+      "関西",
+      "かんさい"
+    ],
+    "acceptedEnglish": [
+      "Kansai"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-another-place-1777217243942",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "余所",
+    "kanji": "余所",
+    "kana": "よそ",
+    "meaning": "another place",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"another place\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "余",
+        "meanings": [
+          "remaining",
+          "excess"
+        ]
+      },
+      {
+        "kanji": "所",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「余所」は日本語の言葉です。",
+      "english": "\"another place\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "余所",
+          "reading": "よそ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "余所",
+      "よそ"
+    ],
+    "acceptedEnglish": [
+      "another place",
+      "somewhere else",
+      "strange parts",
+      "outside",
+      "someone else",
+      "other people"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-location-place-hostel-1777217244002",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "寮",
+    "kanji": "寮",
+    "kana": "りょう",
+    "meaning": "hostel",
+    "explanation": "A JLPT N2 noun meaning \"hostel\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "寮",
+        "meanings": [
+          "dormitory"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の大学には寮があります。",
+      "english": "My college has a dormitory.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "大学",
+          "reading": "だいがく"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "寮",
+          "highlight": true,
+          "reading": "りょう"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "163102",
+        "englishSentenceId": "1166683",
+        "url": "https://tatoeba.org/en/sentences/show/163102"
+      }
+    },
+    "acceptedJapanese": [
+      "寮",
+      "りょう"
+    ],
+    "acceptedEnglish": [
+      "hostel",
+      "dormitory"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-farm-1777217244047",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "牧場",
+    "kanji": "牧場",
+    "kana": "ぼくじょう",
+    "meaning": "farm",
+    "explanation": "A JLPT N2 noun meaning \"farm\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "牧",
+        "meanings": [
+          "pasture"
+        ]
+      },
+      {
+        "kanji": "場",
+        "meanings": [
+          "place"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牧場には羊がたくさんいる。",
+      "english": "There are a lot of sheep in the pasture.",
+      "furigana": [
+        {
+          "text": "牧場",
+          "highlight": true,
+          "reading": "ぼくじょう"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "羊",
+          "reading": "ひつじ"
+        },
+        {
+          "text": "がたくさんいる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81677",
+        "englishSentenceId": "322038",
+        "url": "https://tatoeba.org/en/sentences/show/81677"
+      }
+    },
+    "acceptedJapanese": [
+      "牧場",
+      "ぼくじょう"
+    ],
+    "acceptedEnglish": [
+      "farm",
+      "stock farm",
+      "ranch",
+      "station",
+      "pasture",
+      "meadow"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-producing-area-1777217244392",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "産地",
+    "kanji": "産地",
+    "kana": "さんち",
+    "meaning": "producing area",
+    "explanation": "A JLPT N2 noun meaning \"producing area\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "産",
+        "meanings": [
+          "give birth",
+          "produce"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その地方はお茶の産地です。",
+      "english": "The region is a production center for tea leaves.",
+      "furigana": [
+        {
+          "text": "その地方は"
+        },
+        {
+          "text": "お茶",
+          "reading": "おちゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "産地",
+          "highlight": true,
+          "reading": "さんち"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13714013",
+        "englishSentenceId": "13714014",
+        "url": "https://tatoeba.org/en/sentences/show/13714013"
+      }
+    },
+    "acceptedJapanese": [
+      "産地",
+      "さんち"
+    ],
+    "acceptedEnglish": [
+      "producing area",
+      "place of origin",
+      "growing district",
+      "home",
+      "habitat",
+      "locality"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-school-building-1777217244452",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "校舎",
+    "kanji": "校舎",
+    "kana": "こうしゃ",
+    "meaning": "school building",
+    "explanation": "A JLPT N2 noun meaning \"school building\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "校",
+        "meanings": [
+          "school"
+        ]
+      },
+      {
+        "kanji": "舎",
+        "meanings": [
+          "building",
+          "quarters"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は校舎に放火した。",
+      "english": "He set fire to the school building.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "校舎",
+          "highlight": true,
+          "reading": "こうしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "放火",
+          "reading": "ほうか"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "107359",
+        "englishSentenceId": "296327",
+        "url": "https://tatoeba.org/en/sentences/show/107359"
+      }
+    },
+    "acceptedJapanese": [
+      "校舎",
+      "こうしゃ"
+    ],
+    "acceptedEnglish": [
+      "school building",
+      "schoolhouse"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-south-pole-1777217244455",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "南極",
+    "kanji": "南極",
+    "kana": "なんきょく",
+    "meaning": "South Pole",
+    "explanation": "A JLPT N2 noun meaning \"South Pole\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "南",
+        "meanings": [
+          "south"
+        ]
+      },
+      {
+        "kanji": "極",
+        "meanings": [
+          "extreme",
+          "pole"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは南極を探索した。",
+      "english": "They explored the Antarctic.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "南極",
+          "highlight": true,
+          "reading": "なんきょく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "探索",
+          "reading": "たんさく"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "96444",
+        "englishSentenceId": "307261",
+        "url": "https://tatoeba.org/en/sentences/show/96444"
+      }
+    },
+    "acceptedJapanese": [
+      "南極",
+      "なんきょく"
+    ],
+    "acceptedEnglish": [
+      "South Pole",
+      "the Antarctic",
+      "Antarctica"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-buddhist-temple-1777217244482",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "寺院",
+    "kanji": "寺院",
+    "kana": "じいん",
+    "meaning": "Buddhist temple",
+    "explanation": "A JLPT N2 noun meaning \"Buddhist temple\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "寺",
+        "meanings": [
+          "Buddhist temple"
+        ]
+      },
+      {
+        "kanji": "院",
+        "meanings": [
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "寺院はどこですか？",
+      "english": "Where's the temple?",
+      "furigana": [
+        {
+          "text": "寺院",
+          "highlight": true,
+          "reading": "じいん"
+        },
+        {
+          "text": "はどこですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10049609",
+        "englishSentenceId": "9233628",
+        "url": "https://tatoeba.org/en/sentences/show/10049609"
+      }
+    },
+    "acceptedJapanese": [
+      "寺院",
+      "じいん"
+    ],
+    "acceptedEnglish": [
+      "Buddhist temple",
+      "religious building",
+      "church",
+      "cathedral",
+      "mosque"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-shop-that-handles-western-style-apparel-and-accessories-1777217244521",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "洋品店",
+    "kanji": "洋品店",
+    "kana": "ようひんてん",
+    "meaning": "shop that handles Western-style apparel and accessories",
+    "explanation": "A JLPT N2 noun meaning \"shop that handles Western-style apparel and accessories\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "洋",
+        "meanings": [
+          "ocean",
+          "western"
+        ]
+      },
+      {
+        "kanji": "品",
+        "meanings": [
+          "article",
+          "goods"
+        ]
+      },
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「洋品店」は日本語の言葉です。",
+      "english": "\"shop that handles Western-style apparel and accessories\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "洋品店",
+          "reading": "ようひんてん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "洋品店",
+      "ようひんてん"
+    ],
+    "acceptedEnglish": [
+      "shop that handles Western-style apparel and accessories"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-condominium-1777217244707",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "マンション",
+    "kanji": "マンション",
+    "kana": "マンション",
+    "meaning": "condominium",
+    "explanation": "A JLPT N2 noun meaning \"condominium\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "本当のマンションではありません。",
+      "english": "It isn't a real apartment.",
+      "furigana": [
+        {
+          "text": "本"
+        },
+        {
+          "text": "当の",
+          "reading": "とうの"
+        },
+        {
+          "text": "マ",
+          "highlight": true,
+          "reading": "マンション"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "マンション"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "マンション"
+        },
+        {
+          "text": "ョ",
+          "highlight": true,
+          "reading": "マンション"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "マンション"
+        },
+        {
+          "text": "ではありません。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81497",
+        "englishSentenceId": "627713",
+        "url": "https://tatoeba.org/en/sentences/show/81497"
+      }
+    },
+    "acceptedJapanese": [
+      "マンション"
+    ],
+    "acceptedEnglish": [
+      "condominium",
+      "apartment building",
+      "apartment house",
+      "block of flats",
+      "apartment",
+      "flat"
+    ]
+  },
+  {
+    "id": "n2-location-place-store-1777217244716",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "店屋",
+    "kanji": "店屋",
+    "kana": "みせや",
+    "meaning": "store",
+    "explanation": "A JLPT N2 noun meaning \"store\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "店",
+        "meanings": [
+          "shop",
+          "store"
+        ]
+      },
+      {
+        "kanji": "屋",
+        "meanings": [
+          "house",
+          "small shop"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「店屋」は日本語の言葉です。",
+      "english": "\"store\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "店屋",
+          "reading": "みせや",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "店屋",
+      "みせや"
+    ],
+    "acceptedEnglish": [
+      "store",
+      "shop"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-location-place-spot-1777217244725",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "地点",
+    "kanji": "地点",
+    "kana": "ちてん",
+    "meaning": "spot",
+    "explanation": "A JLPT N2 noun meaning \"spot\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その湖はこの地点が深い。",
+      "english": "The lake is deep at this point.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "湖",
+          "reading": "みずうみ"
+        },
+        {
+          "text": "はこの"
+        },
+        {
+          "text": "地点",
+          "highlight": true,
+          "reading": "ちてん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "深い",
+          "reading": "ふかい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "210856",
+        "englishSentenceId": "48129",
+        "url": "https://tatoeba.org/en/sentences/show/210856"
+      }
+    },
+    "acceptedJapanese": [
+      "地点",
+      "ちてん"
+    ],
+    "acceptedEnglish": [
+      "spot",
+      "point",
+      "place",
+      "position"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-pharmacy-1777217244944",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "薬局",
+    "kanji": "薬局",
+    "kana": "やっきょく",
+    "meaning": "pharmacy",
+    "explanation": "A JLPT N2 noun meaning \"pharmacy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "薬",
+        "meanings": [
+          "drug",
+          "medicine"
+        ]
+      },
+      {
+        "kanji": "局",
+        "meanings": [
+          "bureau",
+          "limited part",
+          "office"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この近くに薬局はありますか？",
+      "english": "Is there a pharmacy nearby?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "近く",
+          "reading": "ちかく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "薬局",
+          "highlight": true,
+          "reading": "やっきょく"
+        },
+        {
+          "text": "はありますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "3554825",
+        "englishSentenceId": "1078081",
+        "url": "https://tatoeba.org/en/sentences/show/3554825"
+      }
+    },
+    "acceptedJapanese": [
+      "薬局",
+      "やっきょく"
+    ],
+    "acceptedEnglish": [
+      "pharmacy",
+      "drugstore",
+      "chemist's",
+      "hospital pharmacy",
+      "dispensary"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-schoolyard-1777217245064",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "校庭",
+    "kanji": "校庭",
+    "kana": "こうてい",
+    "meaning": "schoolyard",
+    "explanation": "A JLPT N2 noun meaning \"schoolyard\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "校",
+        "meanings": [
+          "school"
+        ]
+      },
+      {
+        "kanji": "庭",
+        "meanings": [
+          "court",
+          "garden"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "校庭はたいへん小さかったです。",
+      "english": "The schoolyard was very small.",
+      "furigana": [
+        {
+          "text": "校庭",
+          "highlight": true,
+          "reading": "こうてい"
+        },
+        {
+          "text": "はたいへん"
+        },
+        {
+          "text": "小さ",
+          "reading": "ちいさ"
+        },
+        {
+          "text": "かったです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "173558",
+        "englishSentenceId": "240912",
+        "url": "https://tatoeba.org/en/sentences/show/173558"
+      }
+    },
+    "acceptedJapanese": [
+      "校庭",
+      "こうてい"
+    ],
+    "acceptedEnglish": [
+      "schoolyard",
+      "school playground",
+      "school grounds",
+      "campus"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-each-place-1777217245142",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "各地",
+    "kanji": "各地",
+    "kana": "かくち",
+    "meaning": "each place",
+    "explanation": "A JLPT N2 noun meaning \"each place\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "各",
+        "meanings": [
+          "each"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は各地を転々と移動した。",
+      "english": "He moved from place to place.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "各地",
+          "highlight": true,
+          "reading": "かくち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "転々",
+          "reading": "てんてん"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "移動",
+          "reading": "いどう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "101907",
+        "englishSentenceId": "301786",
+        "url": "https://tatoeba.org/en/sentences/show/101907"
+      }
+    },
+    "acceptedJapanese": [
+      "各地",
+      "かくち"
+    ],
+    "acceptedEnglish": [
+      "each place",
+      "every place",
+      "various places",
+      "all parts"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-house-for-rent-1777217245145",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "貸家",
+    "kanji": "貸家",
+    "kana": "かしや",
+    "meaning": "house for rent",
+    "explanation": "A JLPT N2 noun meaning \"house for rent\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "貸",
+        "meanings": [
+          "lend"
+        ]
+      },
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その家は貸家です。",
+      "english": "The house is to let.",
+      "furigana": [
+        {
+          "text": "その家は"
+        },
+        {
+          "text": "貸家",
+          "highlight": true,
+          "reading": "かしや"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "212066",
+        "englishSentenceId": "49344",
+        "url": "https://tatoeba.org/en/sentences/show/212066"
+      }
+    },
+    "acceptedJapanese": [
+      "貸家",
+      "かしや"
+    ],
+    "acceptedEnglish": [
+      "house for rent"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-outdoors-1777217245175",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "屋外",
+    "kanji": "屋外",
+    "kana": "おくがい",
+    "meaning": "outdoors",
+    "explanation": "A JLPT N2 noun, no adjective meaning \"outdoors\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "屋",
+        "meanings": [
+          "house",
+          "small shop"
+        ]
+      },
+      {
+        "kanji": "外",
+        "meanings": [
+          "outside"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "屋外の音が気になって勉強に集中できない。",
+      "english": "The noise outside is bugging me and I'm not able to focus on study.",
+      "furigana": [
+        {
+          "text": "屋外",
+          "highlight": true,
+          "reading": "おくがい"
+        },
+        {
+          "text": "の音が"
+        },
+        {
+          "text": "気",
+          "reading": "き"
+        },
+        {
+          "text": "になって"
+        },
+        {
+          "text": "勉強",
+          "reading": "べんきょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "集中",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "text": "できない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7562205",
+        "englishSentenceId": "11114750",
+        "url": "https://tatoeba.org/en/sentences/show/7562205"
+      }
+    },
+    "acceptedJapanese": [
+      "屋外",
+      "おくがい"
+    ],
+    "acceptedEnglish": [
+      "outdoors",
+      "outside"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n2-location-place-chimney-1777217245229",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "煙突",
+    "kanji": "煙突",
+    "kana": "えんとつ",
+    "meaning": "chimney",
+    "explanation": "A JLPT N2 noun meaning \"chimney\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "煙",
+        "meanings": [
+          "smoke"
+        ]
+      },
+      {
+        "kanji": "突",
+        "meanings": [
+          "dash",
+          "thrust",
+          "poke",
+          "strike"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの煙突はとても高い。",
+      "english": "That chimney is very high.",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "煙突",
+          "highlight": true,
+          "reading": "えんとつ"
+        },
+        {
+          "text": "はとても"
+        },
+        {
+          "text": "高い",
+          "reading": "たかい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "231194",
+        "englishSentenceId": "68561",
+        "url": "https://tatoeba.org/en/sentences/show/231194"
+      }
+    },
+    "acceptedJapanese": [
+      "煙突",
+      "えんとつ"
+    ],
+    "acceptedEnglish": [
+      "chimney",
+      "smokestack",
+      "funnel",
+      "stovepipe"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-shop-1777217245247",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "ショップ",
+    "kanji": "ショップ",
+    "kana": "ショップ",
+    "meaning": "shop",
+    "explanation": "A JLPT N2 noun meaning \"shop\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "ギフトショップはどこですか？",
+      "english": "Where's the gift shop?",
+      "furigana": [
+        {
+          "text": "ギフト"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "ショップ"
+        },
+        {
+          "text": "ョ",
+          "highlight": true,
+          "reading": "ショップ"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ショップ"
+        },
+        {
+          "text": "プ",
+          "highlight": true,
+          "reading": "ショップ"
+        },
+        {
+          "text": "はどこですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "7960459",
+        "englishSentenceId": "7958964",
+        "url": "https://tatoeba.org/en/sentences/show/7960459"
+      }
+    },
+    "acceptedJapanese": [
+      "ショップ"
+    ],
+    "acceptedEnglish": [
+      "shop"
+    ]
+  },
+  {
+    "id": "n2-location-place-water-fountain-1777217245253",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "噴水",
+    "kanji": "噴水",
+    "kana": "ふんすい",
+    "meaning": "water fountain",
+    "explanation": "A JLPT N2 noun meaning \"water fountain\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "噴",
+        "meanings": [
+          "erupt",
+          "spout",
+          "emit",
+          "flush out"
+        ]
+      },
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "駅の前に噴水があります。",
+      "english": "There's a fountain in front of the station.",
+      "furigana": [
+        {
+          "text": "駅",
+          "reading": "えき"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "前",
+          "reading": "まえ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "噴水",
+          "highlight": true,
+          "reading": "ふんすい"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "188907",
+        "englishSentenceId": "1184646",
+        "url": "https://tatoeba.org/en/sentences/show/188907"
+      }
+    },
+    "acceptedJapanese": [
+      "噴水",
+      "ふんすい"
+    ],
+    "acceptedEnglish": [
+      "water fountain"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-storehouse-1777217245259",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "倉庫",
+    "kanji": "倉庫",
+    "kana": "そうこ",
+    "meaning": "storehouse",
+    "explanation": "A JLPT N2 noun meaning \"storehouse\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "倉",
+        "meanings": [
+          "storehouse",
+          "warehouse",
+          "depository"
+        ]
+      },
+      {
+        "kanji": "庫",
+        "meanings": [
+          "storage chamber",
+          "storehouse"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は倉庫の警備員として仕事をしている。",
+      "english": "He is working as a security guard at a warehouse.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "倉庫",
+          "highlight": true,
+          "reading": "そうこ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "警備",
+          "reading": "けいび"
+        },
+        {
+          "text": "員",
+          "reading": "いん"
+        },
+        {
+          "text": "として"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "をしている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "522337",
+        "englishSentenceId": "300818",
+        "url": "https://tatoeba.org/en/sentences/show/522337"
+      }
+    },
+    "acceptedJapanese": [
+      "倉庫",
+      "そうこ"
+    ],
+    "acceptedEnglish": [
+      "storehouse",
+      "warehouse",
+      "godown"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-drawing-room-1777217245274",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "客間",
+    "kanji": "客間",
+    "kana": "きゃくま",
+    "meaning": "drawing room",
+    "explanation": "A JLPT N2 noun meaning \"drawing room\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "客",
+        "meanings": [
+          "visitor",
+          "customer",
+          "guest"
+        ]
+      },
+      {
+        "kanji": "間",
+        "meanings": [
+          "interval",
+          "between"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "客間に通された。",
+      "english": "I was ushered into the drawing room.",
+      "furigana": [
+        {
+          "text": "客間",
+          "highlight": true,
+          "reading": "きゃくま"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "通",
+          "reading": "つう"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8991690",
+        "englishSentenceId": "256302",
+        "url": "https://tatoeba.org/en/sentences/show/8991690"
+      }
+    },
+    "acceptedJapanese": [
+      "客間",
+      "きゃくま"
+    ],
+    "acceptedEnglish": [
+      "drawing room",
+      "parlour",
+      "guest room"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-low-lying-part-of-a-city-1777217245325",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "下町",
+    "kanji": "下町",
+    "kana": "したまち",
+    "meaning": "low-lying part of a city",
+    "explanation": "A JLPT N2 noun meaning \"low-lying part of a city\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      },
+      {
+        "kanji": "町",
+        "meanings": [
+          "town"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ここはしがない下町の店です。",
+      "english": "This is but a humble downtown store.",
+      "furigana": [
+        {
+          "text": "ここはしがない"
+        },
+        {
+          "text": "下町",
+          "highlight": true,
+          "reading": "したまち"
+        },
+        {
+          "text": "の店です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1989806",
+        "englishSentenceId": "1989807",
+        "url": "https://tatoeba.org/en/sentences/show/1989806"
+      }
+    },
+    "acceptedJapanese": [
+      "下町",
+      "したまち"
+    ],
+    "acceptedEnglish": [
+      "low-lying part of a city",
+      "Shitamachi"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-north-pole-1777217245340",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "北極",
+    "kanji": "北極",
+    "kana": "ほっきょく",
+    "meaning": "North Pole",
+    "explanation": "A JLPT N2 noun meaning \"North Pole\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "北",
+        "meanings": [
+          "north"
+        ]
+      },
+      {
+        "kanji": "極",
+        "meanings": [
+          "extreme",
+          "pole"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女はついに北極に到達した。",
+      "english": "She has finally reached the Arctic.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "はついに"
+        },
+        {
+          "text": "北極",
+          "highlight": true,
+          "reading": "ほっきょく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "到達",
+          "reading": "とうたつ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "92104",
+        "englishSentenceId": "311607",
+        "url": "https://tatoeba.org/en/sentences/show/92104"
+      }
+    },
+    "acceptedJapanese": [
+      "北極",
+      "ほっきょく"
+    ],
+    "acceptedEnglish": [
+      "North Pole",
+      "the Arctic"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-holiday-house-1777217245400",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "別荘",
+    "kanji": "別荘",
+    "kana": "べっそう",
+    "meaning": "holiday house",
+    "explanation": "A JLPT N2 noun meaning \"holiday house\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "別",
+        "meanings": [
+          "separate",
+          "another"
+        ]
+      },
+      {
+        "kanji": "荘",
+        "meanings": [
+          "villa",
+          "inn",
+          "cottage",
+          "feudal manor"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この別荘の持ち主は誰ですか。",
+      "english": "Who owns this villa?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "別荘",
+          "highlight": true,
+          "reading": "べっそう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "持ち主",
+          "reading": "もちぬし"
+        },
+        {
+          "text": "は誰ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "219890",
+        "englishSentenceId": "57210",
+        "url": "https://tatoeba.org/en/sentences/show/219890"
+      }
+    },
+    "acceptedJapanese": [
+      "別荘",
+      "べっそう"
+    ],
+    "acceptedEnglish": [
+      "holiday house",
+      "vacation home",
+      "villa",
+      "prison",
+      "jail"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-zone-1777217245448",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "地帯",
+    "kanji": "地帯",
+    "kana": "ちたい",
+    "meaning": "zone",
+    "explanation": "A JLPT N2 noun meaning \"zone\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "帯",
+        "meanings": [
+          "belt",
+          "wear",
+          "zone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "ツンドラ地帯の気候は厳しい。",
+      "english": "The tundra has a harsh climate.",
+      "furigana": [
+        {
+          "text": "ツンドラ"
+        },
+        {
+          "text": "地帯",
+          "highlight": true,
+          "reading": "ちたい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "気候",
+          "reading": "きこう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "厳",
+          "reading": "げん"
+        },
+        {
+          "text": "しい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "202513",
+        "englishSentenceId": "39741",
+        "url": "https://tatoeba.org/en/sentences/show/202513"
+      }
+    },
+    "acceptedJapanese": [
+      "地帯",
+      "ちたい"
+    ],
+    "acceptedEnglish": [
+      "zone",
+      "area",
+      "belt",
+      "region"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-base-1777217245514",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "基地",
+    "kanji": "基地",
+    "kana": "きち",
+    "meaning": "base",
+    "explanation": "A JLPT N2 noun meaning \"base\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "基",
+        "meanings": [
+          "base",
+          "foundation"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この近くに軍の基地がある。",
+      "english": "There is a military base near here.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "近く",
+          "reading": "ちかく"
+        },
+        {
+          "text": "に軍の"
+        },
+        {
+          "text": "基地",
+          "highlight": true,
+          "reading": "きち"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "222304",
+        "englishSentenceId": "59631",
+        "url": "https://tatoeba.org/en/sentences/show/222304"
+      }
+    },
+    "acceptedJapanese": [
+      "基地",
+      "きち"
+    ],
+    "acceptedEnglish": [
+      "base"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-house-1777217245613",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "家屋",
+    "kanji": "家屋",
+    "kana": "かおく",
+    "meaning": "house",
+    "explanation": "A JLPT N2 noun meaning \"house\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "家",
+        "meanings": [
+          "house",
+          "family"
+        ]
+      },
+      {
+        "kanji": "屋",
+        "meanings": [
+          "house",
+          "small shop"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あの家屋は築５００年です。",
+      "english": "Those houses are 500 years old.",
+      "furigana": [
+        {
+          "text": "あの"
+        },
+        {
+          "text": "家屋",
+          "highlight": true,
+          "reading": "かおく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "築",
+          "reading": "ちく"
+        },
+        {
+          "text": "５００年です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10706725",
+        "englishSentenceId": "67013",
+        "url": "https://tatoeba.org/en/sentences/show/10706725"
+      }
+    },
+    "acceptedJapanese": [
+      "家屋",
+      "かおく"
+    ],
+    "acceptedEnglish": [
+      "house",
+      "building"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-graduate-school-1777217245712",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "大学院",
+    "kanji": "大学院",
+    "kana": "だいがくいん",
+    "meaning": "graduate school",
+    "explanation": "A JLPT N2 noun meaning \"graduate school\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "大",
+        "meanings": [
+          "big"
+        ]
+      },
+      {
+        "kanji": "学",
+        "meanings": [
+          "study",
+          "educational",
+          "institution"
+        ]
+      },
+      {
+        "kanji": "院",
+        "meanings": [
+          "institution"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大学院に進学するつもりです。",
+      "english": "I'm planning to go to graduate school.",
+      "furigana": [
+        {
+          "text": "大学院",
+          "highlight": true,
+          "reading": "だいがくいん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "進学",
+          "reading": "しんがく"
+        },
+        {
+          "text": "するつもりです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "155207",
+        "englishSentenceId": "259332",
+        "url": "https://tatoeba.org/en/sentences/show/155207"
+      }
+    },
+    "acceptedJapanese": [
+      "大学院",
+      "だいがくいん"
+    ],
+    "acceptedEnglish": [
+      "graduate school"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n2-location-place-street-corner-1777217245829",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "街角",
+    "kanji": "街角",
+    "kana": "まちかど",
+    "meaning": "street corner",
+    "explanation": "A JLPT N2 noun meaning \"street corner\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "街",
+        "meanings": [
+          "city quarter",
+          "street"
+        ]
+      },
+      {
+        "kanji": "角",
+        "meanings": [
+          "angle",
+          "horn",
+          "corner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "街角のパン屋にアップルタルトはありますか？",
+      "english": "Are there apple tarts at the corner bakery?",
+      "furigana": [
+        {
+          "text": "街角",
+          "highlight": true,
+          "reading": "まちかど"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "パン屋",
+          "reading": "パンや"
+        },
+        {
+          "text": "にアップルタルトはありますか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "6850106",
+        "englishSentenceId": "6849906",
+        "url": "https://tatoeba.org/en/sentences/show/6850106"
+      }
+    },
+    "acceptedJapanese": [
+      "街角",
+      "まちかど"
+    ],
+    "acceptedEnglish": [
+      "street corner"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-south-america-1777217245910",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "南米",
+    "kanji": "南米",
+    "kana": "なんべい",
+    "meaning": "South America",
+    "explanation": "A JLPT N2 noun meaning \"South America\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "南",
+        "meanings": [
+          "south"
+        ]
+      },
+      {
+        "kanji": "米",
+        "meanings": [
+          "rice",
+          "America"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私達は南米を旅行した。",
+      "english": "We traveled in South America.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "達は"
+        },
+        {
+          "text": "南米",
+          "highlight": true,
+          "reading": "なんべい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "旅行",
+          "reading": "りょこう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "151380",
+        "englishSentenceId": "263176",
+        "url": "https://tatoeba.org/en/sentences/show/151380"
+      }
+    },
+    "acceptedJapanese": [
+      "南米",
+      "なんべい"
+    ],
+    "acceptedEnglish": [
+      "South America"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n2-location-place-amusement-park-1777217245952",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "遊園地",
+    "kanji": "遊園地",
+    "kana": "ゆうえんち",
+    "meaning": "amusement park",
+    "explanation": "A JLPT N2 noun meaning \"amusement park\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遊",
+        "meanings": [
+          "play"
+        ]
+      },
+      {
+        "kanji": "園",
+        "meanings": [
+          "garden"
+        ]
+      },
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その遊園地を建築するのに１０年かかった。",
+      "english": "It took ten years to build the amusement park.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "遊園地",
+          "highlight": true,
+          "reading": "ゆうえんち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "建築",
+          "reading": "けんちく"
+        },
+        {
+          "text": "するのに１０年かかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "206280",
+        "englishSentenceId": "43527",
+        "url": "https://tatoeba.org/en/sentences/show/206280"
+      }
+    },
+    "acceptedJapanese": [
+      "遊園地",
+      "ゆうえんち"
+    ],
+    "acceptedEnglish": [
+      "amusement park"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-waiting-room-1777217246021",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "待合室",
+    "kanji": "待合室",
+    "kana": "まちあいしつ",
+    "meaning": "waiting room",
+    "explanation": "A JLPT N2 noun meaning \"waiting room\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "待",
+        "meanings": [
+          "wait"
+        ]
+      },
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      },
+      {
+        "kanji": "室",
+        "meanings": [
+          "room"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は待合室に座っています。",
+      "english": "He's sitting in the waiting room.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "待合室",
+          "highlight": true,
+          "reading": "まちあいしつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "座",
+          "reading": "ざ"
+        },
+        {
+          "text": "っています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "102525",
+        "englishSentenceId": "301169",
+        "url": "https://tatoeba.org/en/sentences/show/102525"
+      }
+    },
+    "acceptedJapanese": [
+      "待合室",
+      "まちあいしつ"
+    ],
+    "acceptedEnglish": [
+      "waiting room"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n2-location-place-water-well-1777217246030",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "井戸",
+    "kanji": "井戸",
+    "kana": "いど",
+    "meaning": "water well",
+    "explanation": "A JLPT N2 noun meaning \"water well\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "井",
+        "meanings": [
+          "well",
+          "well crib",
+          "town",
+          "community"
+        ]
+      },
+      {
+        "kanji": "戸",
+        "meanings": [
+          "door",
+          "household"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "井戸には少しの水も無かった。",
+      "english": "There was no water in the well.",
+      "furigana": [
+        {
+          "text": "井戸",
+          "highlight": true,
+          "reading": "いど"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "少し",
+          "reading": "すこし"
+        },
+        {
+          "text": "の水も"
+        },
+        {
+          "text": "無",
+          "reading": "む"
+        },
+        {
+          "text": "かった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "190725",
+        "englishSentenceId": "27885",
+        "url": "https://tatoeba.org/en/sentences/show/190725"
+      }
+    },
+    "acceptedJapanese": [
+      "井戸",
+      "いど"
+    ],
+    "acceptedEnglish": [
+      "water well"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n2-location-place-font-of-purifying-water-placed-at-the-entrance-of-a-shrine-1777217246051",
+    "jlpt": "N2",
+    "subcategory": "Location/Place",
+    "name": "御手洗",
+    "kanji": "御手洗",
+    "kana": "みたらし",
+    "meaning": "font of purifying water placed at the entrance of a shrine",
+    "explanation": "A JLPT N2 noun meaning \"font of purifying water placed at the entrance of a shrine\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "御",
+        "meanings": [
+          "general honorific term",
+          "polite prefix"
+        ]
+      },
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "洗",
+        "meanings": [
+          "wash"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「御手洗」は日本語の言葉です。",
+      "english": "\"font of purifying water placed at the entrance of a shrine\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "御手洗",
+          "reading": "みたらし",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "御手洗",
+      "みたらし"
+    ],
+    "acceptedEnglish": [
+      "font of purifying water placed at the entrance of a shrine"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

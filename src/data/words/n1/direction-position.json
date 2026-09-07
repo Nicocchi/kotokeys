@@ -1,1 +1,1096 @@
-[]
+[
+  {
+    "id": "n1-direction-position-detour-1777217232998",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "遠回り",
+    "kanji": "遠回り",
+    "kana": "とおまわり",
+    "meaning": "detour",
+    "explanation": "A JLPT N1 noun meaning \"detour\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "遠",
+        "meanings": [
+          "distant",
+          "far"
+        ]
+      },
+      {
+        "kanji": "回",
+        "meanings": [
+          "turn round",
+          "time"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "今日は遠回りをして帰ろっと。",
+      "english": "I think I will take a detour to return home.",
+      "furigana": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "遠回り",
+          "highlight": true,
+          "reading": "とおまわり"
+        },
+        {
+          "text": "をして帰ろっと。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10366721",
+        "englishSentenceId": "10372678",
+        "url": "https://tatoeba.org/en/sentences/show/10366721"
+      }
+    },
+    "acceptedJapanese": [
+      "遠回り",
+      "とおまわり"
+    ],
+    "acceptedEnglish": [
+      "detour",
+      "roundabout way"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-direction-position-back-1777217233436",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "背後",
+    "kanji": "背後",
+    "kana": "はいご",
+    "meaning": "back",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"back\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "背",
+        "meanings": [
+          "back"
+        ]
+      },
+      {
+        "kanji": "後",
+        "meanings": [
+          "after",
+          "back"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "支配人の背後で暗躍した。",
+      "english": "He acted behind the manager's back.",
+      "furigana": [
+        {
+          "text": "支配人",
+          "reading": "しはいにん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "背後",
+          "highlight": true,
+          "reading": "はいご"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "暗躍",
+          "reading": "あんやく"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "168212",
+        "englishSentenceId": "246282",
+        "url": "https://tatoeba.org/en/sentences/show/168212"
+      }
+    },
+    "acceptedJapanese": [
+      "背後",
+      "はいご"
+    ],
+    "acceptedEnglish": [
+      "back",
+      "rear",
+      "background",
+      "behind the scenes"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-direction-position-inside-out-1777217234483",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "裏返し",
+    "kanji": "裏返し",
+    "kana": "うらがえし",
+    "meaning": "inside out",
+    "explanation": "A JLPT N1 noun meaning \"inside out\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "裏",
+        "meanings": [
+          "rear",
+          "reverse side",
+          "back"
+        ]
+      },
+      {
+        "kanji": "返",
+        "meanings": [
+          "return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "シャツ、裏返しよ。",
+      "english": "Your shirt is inside out.",
+      "furigana": [
+        {
+          "text": "シャツ、"
+        },
+        {
+          "text": "裏返し",
+          "highlight": true,
+          "reading": "うらがえし"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "215873",
+        "englishSentenceId": "53174",
+        "url": "https://tatoeba.org/en/sentences/show/215873"
+      }
+    },
+    "acceptedJapanese": [
+      "裏返し",
+      "うらがえし"
+    ],
+    "acceptedEnglish": [
+      "inside out",
+      "upside down",
+      "flip side",
+      "opposite",
+      "contrary",
+      "reverse"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-direction-position-right-above-1777217235452",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "真上",
+    "kanji": "真上",
+    "kana": "まうえ",
+    "meaning": "right above",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"right above\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の寝室はちょうどこの真上にある。",
+      "english": "My bedroom is just above.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "寝室",
+          "reading": "しんしつ"
+        },
+        {
+          "text": "はちょうどこの"
+        },
+        {
+          "text": "真上",
+          "highlight": true,
+          "reading": "まうえ"
+        },
+        {
+          "text": "にある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "163277",
+        "englishSentenceId": "251234",
+        "url": "https://tatoeba.org/en/sentences/show/163277"
+      }
+    },
+    "acceptedJapanese": [
+      "真上",
+      "まうえ"
+    ],
+    "acceptedEnglish": [
+      "right above",
+      "just above",
+      "directly above",
+      "directly overhead"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-direction-position-right-under-1777217235668",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "真下",
+    "kanji": "真下",
+    "kana": "ました",
+    "meaning": "right under",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"right under\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私の部屋はこの真下です。",
+      "english": "My room is just below.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや"
+        },
+        {
+          "text": "はこの"
+        },
+        {
+          "text": "真下",
+          "highlight": true,
+          "reading": "ました"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "162738",
+        "englishSentenceId": "251777",
+        "url": "https://tatoeba.org/en/sentences/show/162738"
+      }
+    },
+    "acceptedJapanese": [
+      "真下",
+      "ました"
+    ],
+    "acceptedEnglish": [
+      "right under",
+      "directly below",
+      "right beneath"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-direction-position-interior-1777217236442",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "内部",
+    "kanji": "内部",
+    "kana": "ないぶ",
+    "meaning": "interior",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"interior\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "内",
+        "meanings": [
+          "inside"
+        ]
+      },
+      {
+        "kanji": "部",
+        "meanings": [
+          "section"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この図解は地球の深い内部を示している。",
+      "english": "The illustration shows the deep interior.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "図解",
+          "reading": "ずかい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "地球",
+          "reading": "ちきゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "深い",
+          "reading": "ふかい"
+        },
+        {
+          "text": "内部",
+          "highlight": true,
+          "reading": "ないぶ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "示し",
+          "reading": "しめし"
+        },
+        {
+          "text": "ている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220987",
+        "englishSentenceId": "58309",
+        "url": "https://tatoeba.org/en/sentences/show/220987"
+      }
+    },
+    "acceptedJapanese": [
+      "内部",
+      "ないぶ"
+    ],
+    "acceptedEnglish": [
+      "interior",
+      "inside",
+      "internal"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-direction-position-at-hand-1777217236568",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "手元",
+    "kanji": "手元",
+    "kana": "てもと",
+    "meaning": "at hand",
+    "explanation": "A JLPT N1 adverb meaning \"at hand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "元",
+        "meanings": [
+          "origin"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "辞書は手元にあります。",
+      "english": "The dictionary is close at hand.",
+      "furigana": [
+        {
+          "text": "辞書",
+          "reading": "じしょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "手元",
+          "highlight": true,
+          "reading": "てもと"
+        },
+        {
+          "text": "にあります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1255343",
+        "englishSentenceId": "264897",
+        "url": "https://tatoeba.org/en/sentences/show/1255343"
+      }
+    },
+    "acceptedJapanese": [
+      "手元",
+      "てもと"
+    ],
+    "acceptedEnglish": [
+      "at hand",
+      "on hand",
+      "nearby",
+      "close at hand"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-direction-position-both-extremities-1777217236940",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "両極",
+    "kanji": "両極",
+    "kana": "りょうきょく",
+    "meaning": "both extremities",
+    "explanation": "A JLPT N1 noun meaning \"both extremities\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "両",
+        "meanings": [
+          "both"
+        ]
+      },
+      {
+        "kanji": "極",
+        "meanings": [
+          "extreme",
+          "pole"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「両極」は日本語の言葉です。",
+      "english": "\"both extremities\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "両極",
+          "reading": "りょうきょく",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "両極",
+      "りょうきょく"
+    ],
+    "acceptedEnglish": [
+      "both extremities",
+      "North and South Poles",
+      "positive and negative poles"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-direction-position-on-the-way-1777217237714",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "途上",
+    "kanji": "途上",
+    "kana": "とじょう",
+    "meaning": "on the way",
+    "explanation": "A JLPT N1 noun, adverb meaning \"on the way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "途",
+        "meanings": [
+          "way",
+          "road"
+        ]
+      },
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼の車は会社への途上で、故障した。",
+      "english": "His car broke down on the way to work.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "text": "への"
+        },
+        {
+          "text": "途上",
+          "highlight": true,
+          "reading": "とじょう"
+        },
+        {
+          "text": "で、"
+        },
+        {
+          "text": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "117080",
+        "englishSentenceId": "286586",
+        "url": "https://tatoeba.org/en/sentences/show/117080"
+      }
+    },
+    "acceptedJapanese": [
+      "途上",
+      "とじょう"
+    ],
+    "acceptedEnglish": [
+      "on the way",
+      "en route"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-direction-position-side-1777217237981",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "辺",
+    "kanji": "辺",
+    "kana": "ほとり",
+    "meaning": "side",
+    "explanation": "A JLPT N1 noun meaning \"side\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "辺",
+        "meanings": [
+          "vicinity",
+          "borderland"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "六角形には辺が6本ある。",
+      "english": "A hexagon has six sides.",
+      "furigana": [
+        {
+          "text": "六角",
+          "reading": "ろっかく"
+        },
+        {
+          "text": "形には"
+        },
+        {
+          "text": "辺",
+          "highlight": true,
+          "reading": "ほとり"
+        },
+        {
+          "text": "が6"
+        },
+        {
+          "text": "本",
+          "reading": "ほん"
+        },
+        {
+          "text": "ある。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2950743",
+        "englishSentenceId": "3230719",
+        "url": "https://tatoeba.org/en/sentences/show/2950743"
+      }
+    },
+    "acceptedJapanese": [
+      "辺",
+      "ほとり"
+    ],
+    "acceptedEnglish": [
+      "side",
+      "edge",
+      "bank",
+      "shore"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-direction-position-around-there-1777217238449",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "其処ら",
+    "kanji": "其処ら",
+    "kana": "そこら",
+    "meaning": "around there",
+    "explanation": "A JLPT N1 pronoun meaning \"around there\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "其",
+        "meanings": [
+          "that"
+        ]
+      },
+      {
+        "kanji": "処",
+        "meanings": [
+          "deal with",
+          "treat"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「其処ら」は日本語の言葉です。",
+      "english": "\"around there\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "其処ら",
+          "reading": "そこら",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "其処ら",
+      "そこら"
+    ],
+    "acceptedEnglish": [
+      "around there",
+      "that area",
+      "that",
+      "that matter",
+      "that point"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-direction-position-side-1777217239046",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "側",
+    "kanji": "側",
+    "kana": "がわ",
+    "meaning": "side",
+    "explanation": "A JLPT N1 noun, suffix meaning \"side\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "側",
+        "meanings": [
+          "side"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "僕はあなたの側につきます。",
+      "english": "I'm on your side.",
+      "furigana": [
+        {
+          "text": "僕",
+          "reading": "しもべ"
+        },
+        {
+          "text": "はあなたの"
+        },
+        {
+          "text": "側",
+          "highlight": true,
+          "reading": "がわ"
+        },
+        {
+          "text": "につきます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1700182",
+        "englishSentenceId": "68795",
+        "url": "https://tatoeba.org/en/sentences/show/1700182"
+      }
+    },
+    "acceptedJapanese": [
+      "側",
+      "がわ"
+    ],
+    "acceptedEnglish": [
+      "side",
+      "part",
+      "case"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-direction-position-top-and-bottom-1777217239169",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "上下",
+    "kanji": "上下",
+    "kana": "うえした",
+    "meaning": "top and bottom",
+    "explanation": "A JLPT N1 noun meaning \"top and bottom\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      },
+      {
+        "kanji": "下",
+        "meanings": [
+          "down"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は首を上下に振った。",
+      "english": "He shook his head up and down.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は首を"
+        },
+        {
+          "text": "上下",
+          "highlight": true,
+          "reading": "うえした"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "振",
+          "reading": "ふ"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "104422",
+        "englishSentenceId": "299269",
+        "url": "https://tatoeba.org/en/sentences/show/104422"
+      }
+    },
+    "acceptedJapanese": [
+      "上下",
+      "うえした"
+    ],
+    "acceptedEnglish": [
+      "top and bottom",
+      "up and down",
+      "high and low",
+      "above and below",
+      "upper and lower ends"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-direction-position-the-other-way-1777217239379",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "外方",
+    "kanji": "外方",
+    "kana": "そっぽ",
+    "meaning": "the other way",
+    "explanation": "A JLPT N1 noun meaning \"the other way\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "外",
+        "meanings": [
+          "outside"
+        ]
+      },
+      {
+        "kanji": "方",
+        "meanings": [
+          "direction",
+          "way",
+          "square"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「外方」は日本語の言葉です。",
+      "english": "\"the other way\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "外方",
+          "reading": "そっぽ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "外方",
+      "そっぽ"
+    ],
+    "acceptedEnglish": [
+      "the other way"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-direction-position-direction-1777217239391",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "向き",
+    "kanji": "向き",
+    "kana": "むき",
+    "meaning": "direction",
+    "explanation": "A JLPT N1 noun, noun, used as a suffix meaning \"direction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "向",
+        "meanings": [
+          "turn toward",
+          "face toward"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "もっと上を向きなさい。",
+      "english": "Look up more.",
+      "furigana": [
+        {
+          "text": "もっと"
+        },
+        {
+          "text": "上",
+          "reading": "うえ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "向き",
+          "highlight": true,
+          "reading": "むき"
+        },
+        {
+          "text": "なさい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "193265",
+        "englishSentenceId": "30430",
+        "url": "https://tatoeba.org/en/sentences/show/193265"
+      }
+    },
+    "acceptedJapanese": [
+      "向き",
+      "むき"
+    ],
+    "acceptedEnglish": [
+      "direction",
+      "orientation",
+      "aspect",
+      "exposure"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-direction-position-right-in-front-1777217240840",
+    "jlpt": "N1",
+    "subcategory": "Direction/Position",
+    "name": "真ん前",
+    "kanji": "真ん前",
+    "kana": "まんまえ",
+    "meaning": "right in front",
+    "explanation": "A JLPT N1 no adjective, adverb meaning \"right in front\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "真",
+        "meanings": [
+          "true",
+          "genuine"
+        ]
+      },
+      {
+        "kanji": "前",
+        "meanings": [
+          "before",
+          "front"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は私の真ん前にすわった。",
+      "english": "He sat right in front of me.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "真ん前",
+          "highlight": true,
+          "reading": "まんまえ"
+        },
+        {
+          "text": "にすわった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "105772",
+        "englishSentenceId": "297915",
+        "url": "https://tatoeba.org/en/sentences/show/105772"
+      }
+    },
+    "acceptedJapanese": [
+      "真ん前",
+      "まんまえ"
+    ],
+    "acceptedEnglish": [
+      "right in front",
+      "just opposite",
+      "under the nose"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

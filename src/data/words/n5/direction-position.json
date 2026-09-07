@@ -12,7 +12,9 @@
       {
         "kanji": "方",
         "meanings": [
-          "direction"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -197,7 +199,8 @@
       {
         "kanji": "近",
         "meanings": [
-          "near"
+          "near",
+          "recent"
         ]
       }
     ],
@@ -302,13 +305,16 @@
       {
         "kanji": "何",
         "meanings": [
-          "which way"
+          "what",
+          "how many"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "which way"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -369,13 +375,18 @@
       {
         "kanji": "此",
         "meanings": [
-          "this way"
+          "this",
+          "current",
+          "next",
+          "coming"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "this way"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -487,7 +498,8 @@
       {
         "kanji": "向",
         "meanings": [
-          "opposite side"
+          "turn toward",
+          "face toward"
         ]
       }
     ],
@@ -546,7 +558,8 @@
       {
         "kanji": "横",
         "meanings": [
-          "horizontal"
+          "sideways",
+          "side"
         ]
       }
     ],
@@ -605,7 +618,7 @@
       {
         "kanji": "隣",
         "meanings": [
-          "next"
+          "neighbor"
         ]
       }
     ],
@@ -654,13 +667,16 @@
       {
         "kanji": "彼",
         "meanings": [
-          "that way"
+          "third person pronoun",
+          "that"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "that way"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -845,13 +861,15 @@
       {
         "kanji": "其",
         "meanings": [
-          "that way"
+          "that"
         ]
       },
       {
         "kanji": "方",
         "meanings": [
-          "that way"
+          "direction",
+          "way",
+          "square"
         ]
       }
     ],
@@ -913,6 +931,7 @@
       {
         "kanji": "後",
         "meanings": [
+          "after",
           "back"
         ]
       }
@@ -969,7 +988,7 @@
       {
         "kanji": "縦",
         "meanings": [
-          "the vertical"
+          "vertical"
         ]
       }
     ],

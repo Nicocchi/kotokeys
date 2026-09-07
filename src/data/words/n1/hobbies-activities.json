@@ -1,1 +1,3906 @@
-[]
+[
+  {
+    "id": "n1-hobbies-activities-melody-1777217231801",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "メロディー",
+    "kanji": "メロディー",
+    "kana": "メロディー",
+    "meaning": "melody",
+    "explanation": "A JLPT N1 noun meaning \"melody\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "第一バイオリンが、メロディーを演奏する。",
+      "english": "The first violins carry the melody.",
+      "furigana": [
+        {
+          "text": "第一",
+          "reading": "だいいち"
+        },
+        {
+          "text": "バイオリンが、"
+        },
+        {
+          "text": "メ",
+          "highlight": true,
+          "reading": "メロディー"
+        },
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "メロディー"
+        },
+        {
+          "text": "デ",
+          "highlight": true,
+          "reading": "メロディー"
+        },
+        {
+          "text": "ィ",
+          "highlight": true,
+          "reading": "メロディー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "メロディー"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "演奏",
+          "reading": "えんそう"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137196",
+        "englishSentenceId": "276040",
+        "url": "https://tatoeba.org/en/sentences/show/137196"
+      }
+    },
+    "acceptedJapanese": [
+      "メロディー"
+    ],
+    "acceptedEnglish": [
+      "melody",
+      "chime"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-oil-painting-1777217232074",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "油絵",
+    "kanji": "油絵",
+    "kana": "あぶらえ",
+    "meaning": "oil painting",
+    "explanation": "A JLPT N1 noun meaning \"oil painting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "油",
+        "meanings": [
+          "oil"
+        ]
+      },
+      {
+        "kanji": "絵",
+        "meanings": [
+          "picture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は油絵を始めた。",
+      "english": "She has taken to painting in oils.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "油絵",
+          "highlight": true,
+          "reading": "あぶらえ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "始め",
+          "reading": "はじめ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "86465",
+        "englishSentenceId": "317246",
+        "url": "https://tatoeba.org/en/sentences/show/86465"
+      }
+    },
+    "acceptedJapanese": [
+      "油絵",
+      "あぶらえ"
+    ],
+    "acceptedEnglish": [
+      "oil painting"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-hobbies-activities-pawn-1777217232107",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "歩",
+    "kanji": "歩",
+    "kana": "ふ",
+    "meaning": "pawn",
+    "explanation": "A JLPT N1 noun meaning \"pawn\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "歩",
+        "meanings": [
+          "walk"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "歩ける。",
+      "english": "I can walk.",
+      "furigana": [
+        {
+          "text": "歩",
+          "highlight": true,
+          "reading": "ふ"
+        },
+        {
+          "text": "ける。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2568076",
+        "englishSentenceId": "2245648",
+        "url": "https://tatoeba.org/en/sentences/show/2568076"
+      }
+    },
+    "acceptedJapanese": [
+      "歩",
+      "ふ"
+    ],
+    "acceptedEnglish": [
+      "pawn"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-club-1777217232122",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "倶楽部",
+    "kanji": "倶楽部",
+    "kana": "クラブ",
+    "meaning": "club",
+    "explanation": "A JLPT N1 noun meaning \"club\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "倶",
+        "meanings": [
+          "both",
+          "together",
+          "alike"
+        ]
+      },
+      {
+        "kanji": "楽",
+        "meanings": [
+          "pleasure",
+          "comfortable",
+          "music"
+        ]
+      },
+      {
+        "kanji": "部",
+        "meanings": [
+          "section"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「倶楽部」は日本語の言葉です。",
+      "english": "\"club\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "倶楽部",
+          "reading": "クラブ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "倶楽部",
+      "クラブ"
+    ],
+    "acceptedEnglish": [
+      "club",
+      "fraternity",
+      "sorority",
+      "clubhouse"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-hobbies-activities-comedy-1777217232128",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "喜劇",
+    "kanji": "喜劇",
+    "kana": "きげき",
+    "meaning": "comedy",
+    "explanation": "A JLPT N1 noun meaning \"comedy\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "喜",
+        "meanings": [
+          "happy",
+          "happiness",
+          "be glad"
+        ]
+      },
+      {
+        "kanji": "劇",
+        "meanings": [
+          "drama",
+          "play"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "私は悲劇より喜劇の方が好きです。",
+      "english": "I prefer comedy to tragedy.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "悲劇",
+          "reading": "ひげき"
+        },
+        {
+          "text": "より"
+        },
+        {
+          "text": "喜劇",
+          "highlight": true,
+          "reading": "きげき"
+        },
+        {
+          "text": "の方が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "153153",
+        "englishSentenceId": "261391",
+        "url": "https://tatoeba.org/en/sentences/show/153153"
+      }
+    },
+    "acceptedJapanese": [
+      "喜劇",
+      "きげき"
+    ],
+    "acceptedEnglish": [
+      "comedy"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-hobbies-activities-script-1777217232311",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "台本",
+    "kanji": "台本",
+    "kana": "だいほん",
+    "meaning": "script",
+    "explanation": "A JLPT N1 noun meaning \"script\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "台",
+        "meanings": [
+          "stand",
+          "counter for machinery"
+        ]
+      },
+      {
+        "kanji": "本",
+        "meanings": [
+          "basis",
+          "book",
+          "this"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "台本に目を通しておいてください。",
+      "english": "Please go over the script.",
+      "furigana": [
+        {
+          "text": "台本",
+          "highlight": true,
+          "reading": "だいほん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "目",
+          "reading": "め"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "通し",
+          "reading": "とおし"
+        },
+        {
+          "text": "ておいてください。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "137772",
+        "englishSentenceId": "275464",
+        "url": "https://tatoeba.org/en/sentences/show/137772"
+      }
+    },
+    "acceptedJapanese": [
+      "台本",
+      "だいほん"
+    ],
+    "acceptedEnglish": [
+      "script",
+      "libretto",
+      "scenario"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-public-performance-1777217232374",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "公演",
+    "kanji": "公演",
+    "kana": "こうえん",
+    "meaning": "public performance",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"public performance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "公",
+        "meanings": [
+          "public",
+          "official"
+        ]
+      },
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "公演はお楽しみいただけましたか？",
+      "english": "Did you enjoy the performance?",
+      "furigana": [
+        {
+          "text": "公演",
+          "highlight": true,
+          "reading": "こうえん"
+        },
+        {
+          "text": "はお"
+        },
+        {
+          "text": "楽しみ",
+          "reading": "たのしみ"
+        },
+        {
+          "text": "いただけましたか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8721012",
+        "englishSentenceId": "2820961",
+        "url": "https://tatoeba.org/en/sentences/show/8721012"
+      }
+    },
+    "acceptedJapanese": [
+      "公演",
+      "こうえん"
+    ],
+    "acceptedEnglish": [
+      "public performance",
+      "exhibition in a foreign country"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-encore-1777217232401",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "アンコール",
+    "kanji": "アンコール",
+    "kana": "アンコール",
+    "meaning": "encore",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb, intransitive verb meaning \"encore\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "そのピアニストはアンコールに応えて２曲弾いた。",
+      "english": "The pianist played two encores.",
+      "furigana": [
+        {
+          "text": "そのピアニストは"
+        },
+        {
+          "text": "ア",
+          "highlight": true,
+          "reading": "アンコール"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "アンコール"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "アンコール"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "アンコール"
+        },
+        {
+          "text": "ル",
+          "highlight": true,
+          "reading": "アンコール"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "応",
+          "reading": "おう"
+        },
+        {
+          "text": "えて２"
+        },
+        {
+          "text": "曲弾",
+          "reading": "きょくびき"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "212708",
+        "englishSentenceId": "49991",
+        "url": "https://tatoeba.org/en/sentences/show/212708"
+      }
+    },
+    "acceptedJapanese": [
+      "アンコール"
+    ],
+    "acceptedEnglish": [
+      "encore"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-performance-1777217232410",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "上演",
+    "kanji": "上演",
+    "kana": "じょうえん",
+    "meaning": "performance",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"performance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "上",
+        "meanings": [
+          "up"
+        ]
+      },
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "金曜日の上演のチケットはかえなかった。",
+      "english": "There were no tickets available for Friday's performance.",
+      "furigana": [
+        {
+          "text": "金曜日",
+          "reading": "きんようび"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "上演",
+          "highlight": true,
+          "reading": "じょうえん"
+        },
+        {
+          "text": "のチケットはかえなかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "179619",
+        "englishSentenceId": "18477",
+        "url": "https://tatoeba.org/en/sentences/show/179619"
+      }
+    },
+    "acceptedJapanese": [
+      "上演",
+      "じょうえん"
+    ],
+    "acceptedEnglish": [
+      "performance",
+      "staging",
+      "presentation"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-race-1777217232419",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "レース",
+    "kanji": "レース",
+    "kana": "レース",
+    "meaning": "race",
+    "explanation": "A JLPT N1 noun meaning \"race\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "レース観戦は楽しいよ。",
+      "english": "It's fun to watch the race.",
+      "furigana": [
+        {
+          "text": "レ",
+          "highlight": true,
+          "reading": "レース"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "レース"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "レース"
+        },
+        {
+          "text": "観戦",
+          "reading": "かんせん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "text": "よ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10987968",
+        "englishSentenceId": "68459",
+        "url": "https://tatoeba.org/en/sentences/show/10987968"
+      }
+    },
+    "acceptedJapanese": [
+      "レース"
+    ],
+    "acceptedEnglish": [
+      "race"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-development-1777217232830",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "現像",
+    "kanji": "現像",
+    "kana": "げんぞう",
+    "meaning": "development",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"development\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "現",
+        "meanings": [
+          "actual",
+          "appear",
+          "present"
+        ]
+      },
+      {
+        "kanji": "像",
+        "meanings": [
+          "image"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "このフィルムは現像が早い。",
+      "english": "This film develops fast.",
+      "furigana": [
+        {
+          "text": "このフィルムは"
+        },
+        {
+          "text": "現像",
+          "highlight": true,
+          "reading": "げんぞう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "早い",
+          "reading": "はやい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223256",
+        "englishSentenceId": "60588",
+        "url": "https://tatoeba.org/en/sentences/show/223256"
+      }
+    },
+    "acceptedJapanese": [
+      "現像",
+      "げんぞう"
+    ],
+    "acceptedEnglish": [
+      "development",
+      "photographic processing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-starring-1777217232860",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "主演",
+    "kanji": "主演",
+    "kana": "しゅえん",
+    "meaning": "starring",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"starring\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "主",
+        "meanings": [
+          "main",
+          "master"
+        ]
+      },
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "主演は誰ですか。",
+      "english": "Who plays the lead?",
+      "furigana": [
+        {
+          "text": "主演",
+          "highlight": true,
+          "reading": "しゅえん"
+        },
+        {
+          "text": "は誰ですか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "148710",
+        "englishSentenceId": "265849",
+        "url": "https://tatoeba.org/en/sentences/show/148710"
+      }
+    },
+    "acceptedJapanese": [
+      "主演",
+      "しゅえん"
+    ],
+    "acceptedEnglish": [
+      "starring",
+      "playing the leading part"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-handstand-1777217232887",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "逆立ち",
+    "kanji": "逆立ち",
+    "kana": "さかだち",
+    "meaning": "handstand",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"handstand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "逆",
+        "meanings": [
+          "reverse",
+          "be contrary"
+        ]
+      },
+      {
+        "kanji": "立",
+        "meanings": [
+          "stand",
+          "establish"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は逆立ちしている。",
+      "english": "He's doing a handstand.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "逆立ち",
+          "highlight": true,
+          "reading": "さかだち"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2214681",
+        "englishSentenceId": "2214696",
+        "url": "https://tatoeba.org/en/sentences/show/2214681"
+      }
+    },
+    "acceptedJapanese": [
+      "逆立ち",
+      "さかだち"
+    ],
+    "acceptedEnglish": [
+      "handstand",
+      "headstand",
+      "being upside down",
+      "being in reverse"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-performance-1777217232908",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "余興",
+    "kanji": "余興",
+    "kana": "よきょう",
+    "meaning": "performance",
+    "explanation": "A JLPT N1 noun meaning \"performance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "余",
+        "meanings": [
+          "remaining",
+          "excess"
+        ]
+      },
+      {
+        "kanji": "興",
+        "meanings": [
+          "prosper",
+          "amusement",
+          "interest",
+          "revive"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "忘年会の余興で大喜利をやることになった。",
+      "english": "We decided to have a last piece on the programme at the year-end party.",
+      "furigana": [
+        {
+          "text": "忘年会",
+          "reading": "ぼうねんかい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "余興",
+          "highlight": true,
+          "reading": "よきょう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "大喜利",
+          "reading": "おおぎり"
+        },
+        {
+          "text": "をやることになった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1212275",
+        "englishSentenceId": "1234001",
+        "url": "https://tatoeba.org/en/sentences/show/1212275"
+      }
+    },
+    "acceptedJapanese": [
+      "余興",
+      "よきょう"
+    ],
+    "acceptedEnglish": [
+      "performance",
+      "side show",
+      "entertainment"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-tea-ceremony-1777217232953",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "茶の湯",
+    "kanji": "茶の湯",
+    "kana": "ちゃのゆ",
+    "meaning": "tea ceremony",
+    "explanation": "A JLPT N1 noun meaning \"tea ceremony\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "茶",
+        "meanings": [
+          "tea"
+        ]
+      },
+      {
+        "kanji": "湯",
+        "meanings": [
+          "hot water"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「茶の湯」は日本語の言葉です。",
+      "english": "\"tea ceremony\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "茶の湯",
+          "reading": "ちゃのゆ",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "茶の湯",
+      "ちゃのゆ"
+    ],
+    "acceptedEnglish": [
+      "tea ceremony",
+      "chanoyu"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-pachinko-1777217233049",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "パチンコ",
+    "kanji": "パチンコ",
+    "kana": "パチンコ",
+    "meaning": "pachinko",
+    "explanation": "A JLPT N1 noun, suru noun meaning \"pachinko\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私たちは、パチンコをして時を過ごした。",
+      "english": "We passed the time playing pachinko.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "たちは、"
+        },
+        {
+          "text": "パ",
+          "highlight": true,
+          "reading": "パチンコ"
+        },
+        {
+          "text": "チ",
+          "highlight": true,
+          "reading": "パチンコ"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "パチンコ"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "パチンコ"
+        },
+        {
+          "text": "をして"
+        },
+        {
+          "text": "時",
+          "reading": "とき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "過",
+          "reading": "か"
+        },
+        {
+          "text": "ごした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "166772",
+        "englishSentenceId": "247730",
+        "url": "https://tatoeba.org/en/sentences/show/166772"
+      }
+    },
+    "acceptedJapanese": [
+      "パチンコ"
+    ],
+    "acceptedEnglish": [
+      "pachinko",
+      "slingshot",
+      "catapult"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-jazz-1777217233061",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "ジャズ",
+    "kanji": "ジャズ",
+    "kana": "ジャズ",
+    "meaning": "jazz",
+    "explanation": "A JLPT N1 noun meaning \"jazz\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私はジャズが好きです。",
+      "english": "I like jazz.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "ジャズ"
+        },
+        {
+          "text": "ャ",
+          "highlight": true,
+          "reading": "ジャズ"
+        },
+        {
+          "text": "ズ",
+          "highlight": true,
+          "reading": "ジャズ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "好き",
+          "reading": "すき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "160613",
+        "englishSentenceId": "321631",
+        "url": "https://tatoeba.org/en/sentences/show/160613"
+      }
+    },
+    "acceptedJapanese": [
+      "ジャズ"
+    ],
+    "acceptedEnglish": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-score-1777217233223",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "楽譜",
+    "kanji": "楽譜",
+    "kana": "がくふ",
+    "meaning": "score",
+    "explanation": "A JLPT N1 noun meaning \"score\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "楽",
+        "meanings": [
+          "pleasure",
+          "comfortable",
+          "music"
+        ]
+      },
+      {
+        "kanji": "譜",
+        "meanings": [
+          "musical score",
+          "music",
+          "note",
+          "staff"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はピアノを楽譜なしで弾いた。",
+      "english": "He played piano by ear.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はピアノを"
+        },
+        {
+          "text": "楽譜",
+          "highlight": true,
+          "reading": "がくふ"
+        },
+        {
+          "text": "なしで"
+        },
+        {
+          "text": "弾",
+          "reading": "たま"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "111206",
+        "englishSentenceId": "288050",
+        "url": "https://tatoeba.org/en/sentences/show/111206"
+      }
+    },
+    "acceptedJapanese": [
+      "楽譜",
+      "がくふ"
+    ],
+    "acceptedEnglish": [
+      "score",
+      "sheet music"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-tanka-1777217233259",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "短歌",
+    "kanji": "短歌",
+    "kana": "たんか",
+    "meaning": "tanka",
+    "explanation": "A JLPT N1 noun meaning \"tanka\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "短",
+        "meanings": [
+          "short"
+        ]
+      },
+      {
+        "kanji": "歌",
+        "meanings": [
+          "song"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "詩歌とは、詩や短歌のことです。",
+      "english": "Shika are verses and 31-syllable poems.",
+      "furigana": [
+        {
+          "text": "詩"
+        },
+        {
+          "text": "歌",
+          "reading": "うた"
+        },
+        {
+          "text": "とは、詩や"
+        },
+        {
+          "text": "短歌",
+          "highlight": true,
+          "reading": "たんか"
+        },
+        {
+          "text": "のことです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1621767",
+        "englishSentenceId": "1636214",
+        "url": "https://tatoeba.org/en/sentences/show/1621767"
+      }
+    },
+    "acceptedJapanese": [
+      "短歌",
+      "たんか"
+    ],
+    "acceptedEnglish": [
+      "tanka",
+      "31-mora Japanese poem"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-hobbies-activities-singing-together-1777217233448",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "合唱",
+    "kanji": "合唱",
+    "kana": "がっしょう",
+    "meaning": "singing together",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"singing together\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "合",
+        "meanings": [
+          "combine",
+          "fit",
+          "match"
+        ]
+      },
+      {
+        "kanji": "唱",
+        "meanings": [
+          "sing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "全員で歌を合唱した。",
+      "english": "They all sang in chorus.",
+      "furigana": [
+        {
+          "text": "全員",
+          "reading": "ぜんいん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "歌",
+          "reading": "うた"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "合唱",
+          "highlight": true,
+          "reading": "がっしょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "140826",
+        "englishSentenceId": "273746",
+        "url": "https://tatoeba.org/en/sentences/show/140826"
+      }
+    },
+    "acceptedJapanese": [
+      "合唱",
+      "がっしょう"
+    ],
+    "acceptedEnglish": [
+      "singing together",
+      "singing in union",
+      "chorus",
+      "ensemble singing",
+      "choral singing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-contest-1777217233706",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "コンテスト",
+    "kanji": "コンテスト",
+    "kana": "コンテスト",
+    "meaning": "contest",
+    "explanation": "A JLPT N1 noun meaning \"contest\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私たちはコンテストに参加した。",
+      "english": "We took part in the contest.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "たちは"
+        },
+        {
+          "text": "コ",
+          "highlight": true,
+          "reading": "コンテスト"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "コンテスト"
+        },
+        {
+          "text": "テ",
+          "highlight": true,
+          "reading": "コンテスト"
+        },
+        {
+          "text": "ス",
+          "highlight": true,
+          "reading": "コンテスト"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "コンテスト"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "参加",
+          "reading": "さんか"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "166519",
+        "englishSentenceId": "247983",
+        "url": "https://tatoeba.org/en/sentences/show/166519"
+      }
+    },
+    "acceptedJapanese": [
+      "コンテスト"
+    ],
+    "acceptedEnglish": [
+      "contest"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-misemono-1777217233871",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "見世物",
+    "kanji": "見世物",
+    "kana": "みせもの",
+    "meaning": "misemono",
+    "explanation": "A JLPT N1 noun meaning \"misemono\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "見",
+        "meanings": [
+          "see"
+        ]
+      },
+      {
+        "kanji": "世",
+        "meanings": [
+          "world",
+          "era"
+        ]
+      },
+      {
+        "kanji": "物",
+        "meanings": [
+          "thing"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「見世物」は日本語の言葉です。",
+      "english": "\"misemono\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "見世物",
+          "reading": "みせもの",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "見世物",
+      "みせもの"
+    ],
+    "acceptedEnglish": [
+      "misemono",
+      "show",
+      "exhibition",
+      "spectacle",
+      "freakshow",
+      "side show"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-hobbies-activities-yokozuna-1777217234003",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "横綱",
+    "kanji": "横綱",
+    "kana": "よこづな",
+    "meaning": "yokozuna",
+    "explanation": "A JLPT N1 noun meaning \"yokozuna\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "横",
+        "meanings": [
+          "sideways",
+          "side"
+        ]
+      },
+      {
+        "kanji": "綱",
+        "meanings": [
+          "hawser",
+          "class (genus)",
+          "rope",
+          "cord"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「横綱」は日本語の言葉です。",
+      "english": "\"yokozuna\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "横綱",
+          "reading": "よこづな",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "横綱",
+      "よこづな"
+    ],
+    "acceptedEnglish": [
+      "yokozuna",
+      "grand champion",
+      "best in its field",
+      "crème de la crème",
+      "cream of the crop"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-troupe-1777217234315",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "劇団",
+    "kanji": "劇団",
+    "kana": "げきだん",
+    "meaning": "troupe",
+    "explanation": "A JLPT N1 noun meaning \"troupe\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "劇",
+        "meanings": [
+          "drama",
+          "play"
+        ]
+      },
+      {
+        "kanji": "団",
+        "meanings": [
+          "body",
+          "group"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その劇団は３幕ものの劇を上演した。",
+      "english": "The company presented a three-act play.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "劇団",
+          "highlight": true,
+          "reading": "げきだん"
+        },
+        {
+          "text": "は３"
+        },
+        {
+          "text": "幕",
+          "reading": "まく"
+        },
+        {
+          "text": "ものの"
+        },
+        {
+          "text": "劇",
+          "reading": "げき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "上演",
+          "reading": "じょうえん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "211149",
+        "englishSentenceId": "48423",
+        "url": "https://tatoeba.org/en/sentences/show/211149"
+      }
+    },
+    "acceptedJapanese": [
+      "劇団",
+      "げきだん"
+    ],
+    "acceptedEnglish": [
+      "troupe",
+      "theatrical company"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-direction-1777217234372",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "演出",
+    "kanji": "演出",
+    "kana": "えんしゅつ",
+    "meaning": "direction",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"direction\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      },
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その劇は彼によって演出された。",
+      "english": "The play was produced by him.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "劇",
+          "reading": "げき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "によって"
+        },
+        {
+          "text": "演出",
+          "highlight": true,
+          "reading": "えんしゅつ"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "211153",
+        "englishSentenceId": "48427",
+        "url": "https://tatoeba.org/en/sentences/show/211153"
+      }
+    },
+    "acceptedJapanese": [
+      "演出",
+      "えんしゅつ"
+    ],
+    "acceptedEnglish": [
+      "direction",
+      "production",
+      "organization",
+      "arrangement",
+      "staging",
+      "orchestration"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-composition-1777217234399",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "曲",
+    "kanji": "曲",
+    "kana": "きょく",
+    "meaning": "composition",
+    "explanation": "A JLPT N1 noun, noun, used as a suffix meaning \"composition\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "曲",
+        "meanings": [
+          "curve",
+          "musical composition"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "曲を書いてます。",
+      "english": "I write songs.",
+      "furigana": [
+        {
+          "text": "曲",
+          "highlight": true,
+          "reading": "きょく"
+        },
+        {
+          "text": "を書いてます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13894074",
+        "englishSentenceId": "7956597",
+        "url": "https://tatoeba.org/en/sentences/show/13894074"
+      }
+    },
+    "acceptedJapanese": [
+      "曲",
+      "きょく"
+    ],
+    "acceptedEnglish": [
+      "composition",
+      "piece of music",
+      "song",
+      "track"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-game-under-lights-1777217234414",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "ナイター",
+    "kanji": "ナイター",
+    "kana": "ナイター",
+    "meaning": "game under lights",
+    "explanation": "A JLPT N1 noun meaning \"game under lights\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私はよくテレビでナイターを見るんです。",
+      "english": "I often watch night games on TV.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "はよくテレビで"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "ナイター"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "ナイター"
+        },
+        {
+          "text": "タ",
+          "highlight": true,
+          "reading": "ナイター"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ナイター"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見る",
+          "reading": "みる"
+        },
+        {
+          "text": "んです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "152314",
+        "englishSentenceId": "255867",
+        "url": "https://tatoeba.org/en/sentences/show/152314"
+      }
+    },
+    "acceptedJapanese": [
+      "ナイター"
+    ],
+    "acceptedEnglish": [
+      "game under lights",
+      "night game"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-shamisen-1777217234423",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "三味線",
+    "kanji": "三味線",
+    "kana": "しゃみせん",
+    "meaning": "shamisen",
+    "explanation": "A JLPT N1 noun meaning \"shamisen\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "三",
+        "meanings": [
+          "three"
+        ]
+      },
+      {
+        "kanji": "味",
+        "meanings": [
+          "taste"
+        ]
+      },
+      {
+        "kanji": "線",
+        "meanings": [
+          "line"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女は三味線による新しいジャズの演奏法を始めた。",
+      "english": "She originated a new way of playing jazz on the shamisen.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "三味線",
+          "highlight": true,
+          "reading": "しゃみせん"
+        },
+        {
+          "text": "による"
+        },
+        {
+          "text": "新しい",
+          "reading": "あたらしい"
+        },
+        {
+          "text": "ジャズの"
+        },
+        {
+          "text": "演奏",
+          "reading": "えんそう"
+        },
+        {
+          "text": "法",
+          "reading": "ほう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "始め",
+          "reading": "はじめ"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "89842",
+        "englishSentenceId": "313873",
+        "url": "https://tatoeba.org/en/sentences/show/89842"
+      }
+    },
+    "acceptedJapanese": [
+      "三味線",
+      "しゃみせん"
+    ],
+    "acceptedEnglish": [
+      "shamisen",
+      "samisen",
+      "three-stringed Japanese lute"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-go-board-1777217234720",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "碁盤",
+    "kanji": "碁盤",
+    "kana": "ごばん",
+    "meaning": "Go board",
+    "explanation": "A JLPT N1 noun meaning \"Go board\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "碁",
+        "meanings": [
+          "Go"
+        ]
+      },
+      {
+        "kanji": "盤",
+        "meanings": [
+          "tray",
+          "shallow bowl",
+          "platter",
+          "tub"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「碁盤」は日本語の言葉です。",
+      "english": "\"Go board\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "碁盤",
+          "reading": "ごばん",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "碁盤",
+      "ごばん"
+    ],
+    "acceptedEnglish": [
+      "Go board"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-rough-sketch-1777217235398",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "デッサン",
+    "kanji": "デッサン",
+    "kana": "デッサン",
+    "meaning": "rough sketch",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"rough sketch\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "私たちはその少年のデッサンのすばらしさに驚嘆した。",
+      "english": "We were amazed at the excellence of the boy's drawings.",
+      "furigana": [
+        {
+          "text": "私",
+          "reading": "あたし"
+        },
+        {
+          "text": "たちはその"
+        },
+        {
+          "text": "少年",
+          "reading": "しょうねん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "デ",
+          "highlight": true,
+          "reading": "デッサン"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "デッサン"
+        },
+        {
+          "text": "サ",
+          "highlight": true,
+          "reading": "デッサン"
+        },
+        {
+          "text": "ン",
+          "highlight": true,
+          "reading": "デッサン"
+        },
+        {
+          "text": "のすばらしさに"
+        },
+        {
+          "text": "驚嘆",
+          "reading": "きょうたん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "166379",
+        "englishSentenceId": "248124",
+        "url": "https://tatoeba.org/en/sentences/show/166379"
+      }
+    },
+    "acceptedJapanese": [
+      "デッサン"
+    ],
+    "acceptedEnglish": [
+      "rough sketch"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-appearance-1777217236376",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "出演",
+    "kanji": "出演",
+    "kana": "しゅつえん",
+    "meaning": "appearance",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"appearance\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "出",
+        "meanings": [
+          "go out",
+          "put out"
+        ]
+      },
+      {
+        "kanji": "演",
+        "meanings": [
+          "perform"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "誰が出演していますか。",
+      "english": "Who's in it?",
+      "furigana": [
+        {
+          "text": "誰が"
+        },
+        {
+          "text": "出演",
+          "highlight": true,
+          "reading": "しゅつえん"
+        },
+        {
+          "text": "していますか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "136893",
+        "englishSentenceId": "276343",
+        "url": "https://tatoeba.org/en/sentences/show/136893"
+      }
+    },
+    "acceptedJapanese": [
+      "出演",
+      "しゅつえん"
+    ],
+    "acceptedEnglish": [
+      "appearance",
+      "performance"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-tone-colour-1777217236664",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "音色",
+    "kanji": "音色",
+    "kana": "ねいろ",
+    "meaning": "tone colour",
+    "explanation": "A JLPT N1 noun meaning \"tone colour\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "音",
+        "meanings": [
+          "sound"
+        ]
+      },
+      {
+        "kanji": "色",
+        "meanings": [
+          "color"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "風鈴の音色が大好きです。",
+      "english": "I love the sound of wind chimes.",
+      "furigana": [
+        {
+          "text": "風鈴",
+          "reading": "ふうりん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "音色",
+          "highlight": true,
+          "reading": "ねいろ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "大好き",
+          "reading": "だいすき"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8850760",
+        "englishSentenceId": "2570934",
+        "url": "https://tatoeba.org/en/sentences/show/8850760"
+      }
+    },
+    "acceptedJapanese": [
+      "音色",
+      "ねいろ"
+    ],
+    "acceptedEnglish": [
+      "tone colour",
+      "tone quality",
+      "timbre"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-music-1777217236694",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "ミュージック",
+    "kanji": "ミュージック",
+    "kana": "ミュージック",
+    "meaning": "music",
+    "explanation": "A JLPT N1 noun meaning \"music\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "こちらはワンダーミュージックショップです。",
+      "english": "This is Wonder Music Shop.",
+      "furigana": [
+        {
+          "text": "こちらはワンダー"
+        },
+        {
+          "text": "ミ",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ュ",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ジ",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "ミュージック"
+        },
+        {
+          "text": "ショップです。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "224152",
+        "englishSentenceId": "61488",
+        "url": "https://tatoeba.org/en/sentences/show/224152"
+      }
+    },
+    "acceptedJapanese": [
+      "ミュージック"
+    ],
+    "acceptedEnglish": [
+      "music"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-drama-1777217236889",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "戯曲",
+    "kanji": "戯曲",
+    "kana": "ぎきょく",
+    "meaning": "drama",
+    "explanation": "A JLPT N1 noun meaning \"drama\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "戯",
+        "meanings": [
+          "frolic",
+          "play",
+          "sport"
+        ]
+      },
+      {
+        "kanji": "曲",
+        "meanings": [
+          "curve",
+          "musical composition"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その戯曲はうまく舞台にのらなかった。",
+      "english": "The play was not well acted.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "戯曲",
+          "highlight": true,
+          "reading": "ぎきょく"
+        },
+        {
+          "text": "はうまく"
+        },
+        {
+          "text": "舞台",
+          "reading": "ぶたい"
+        },
+        {
+          "text": "にのらなかった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "211480",
+        "englishSentenceId": "48756",
+        "url": "https://tatoeba.org/en/sentences/show/211480"
+      }
+    },
+    "acceptedJapanese": [
+      "戯曲",
+      "ぎきょく"
+    ],
+    "acceptedEnglish": [
+      "drama",
+      "play",
+      "Chinese opera"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-embroidery-1777217236913",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "刺繍",
+    "kanji": "刺繍",
+    "kana": "ししゅう",
+    "meaning": "embroidery",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"embroidery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "刺",
+        "meanings": [
+          "stab",
+          "pierce"
+        ]
+      },
+      {
+        "kanji": "繍",
+        "meanings": [
+          "sew",
+          "figured cloth"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "アイルランドは刺繍で有名である。",
+      "english": "Ireland is famous for lace.",
+      "furigana": [
+        {
+          "text": "アイルランドは"
+        },
+        {
+          "text": "刺繍",
+          "highlight": true,
+          "reading": "ししゅう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "234547",
+        "englishSentenceId": "71923",
+        "url": "https://tatoeba.org/en/sentences/show/234547"
+      }
+    },
+    "acceptedJapanese": [
+      "刺繍",
+      "ししゅう"
+    ],
+    "acceptedEnglish": [
+      "embroidery"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-scoring-1777217237132",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "得点",
+    "kanji": "得点",
+    "kana": "とくてん",
+    "meaning": "scoring",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"scoring\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "得",
+        "meanings": [
+          "acquire",
+          "gain",
+          "profit"
+        ]
+      },
+      {
+        "kanji": "点",
+        "meanings": [
+          "point"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "僕は得点を追求する。",
+      "english": "I am in pursuit of points.",
+      "furigana": [
+        {
+          "text": "僕",
+          "reading": "しもべ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "得点",
+          "highlight": true,
+          "reading": "とくてん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "追求",
+          "reading": "ついきゅう"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "81810",
+        "englishSentenceId": "321905",
+        "url": "https://tatoeba.org/en/sentences/show/81810"
+      }
+    },
+    "acceptedJapanese": [
+      "得点",
+      "とくてん"
+    ],
+    "acceptedEnglish": [
+      "scoring",
+      "score",
+      "points made",
+      "marks obtained",
+      "goals",
+      "runs"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-script-1777217237348",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "脚本",
+    "kanji": "脚本",
+    "kana": "きゃくほん",
+    "meaning": "script",
+    "explanation": "A JLPT N1 noun meaning \"script\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "脚",
+        "meanings": [
+          "skids",
+          "leg",
+          "undercarriage",
+          "lower part"
+        ]
+      },
+      {
+        "kanji": "本",
+        "meanings": [
+          "basis",
+          "book",
+          "this"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は脚本を書いている。",
+      "english": "He writes scripts.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "脚本",
+          "highlight": true,
+          "reading": "きゃくほん"
+        },
+        {
+          "text": "を書いている。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "108506",
+        "englishSentenceId": "295180",
+        "url": "https://tatoeba.org/en/sentences/show/108506"
+      }
+    },
+    "acceptedJapanese": [
+      "脚本",
+      "きゃくほん"
+    ],
+    "acceptedEnglish": [
+      "script",
+      "screenplay",
+      "scenario"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-exploration-1777217237528",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "探検",
+    "kanji": "探検",
+    "kana": "たんけん",
+    "meaning": "exploration",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"exploration\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "探",
+        "meanings": [
+          "probe",
+          "search"
+        ]
+      },
+      {
+        "kanji": "検",
+        "meanings": [
+          "examine",
+          "investigate",
+          "inspect"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "この探検には、お金がかかる。",
+      "english": "This expedition will be expensive.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "探検",
+          "highlight": true,
+          "reading": "たんけん"
+        },
+        {
+          "text": "には、"
+        },
+        {
+          "text": "お金",
+          "reading": "おかね"
+        },
+        {
+          "text": "がかかる。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "220634",
+        "englishSentenceId": "57956",
+        "url": "https://tatoeba.org/en/sentences/show/220634"
+      }
+    },
+    "acceptedJapanese": [
+      "探検",
+      "たんけん"
+    ],
+    "acceptedEnglish": [
+      "exploration",
+      "expedition"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-decision-of-a-contest-1777217237543",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "決勝",
+    "kanji": "決勝",
+    "kana": "けっしょう",
+    "meaning": "decision of a contest",
+    "explanation": "A JLPT N1 noun meaning \"decision of a contest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "決",
+        "meanings": [
+          "decide"
+        ]
+      },
+      {
+        "kanji": "勝",
+        "meanings": [
+          "win",
+          "excel",
+          "be superior"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "決勝まで残った走者は５人だった。",
+      "english": "Five runners reached the finals.",
+      "furigana": [
+        {
+          "text": "決勝",
+          "highlight": true,
+          "reading": "けっしょう"
+        },
+        {
+          "text": "まで"
+        },
+        {
+          "text": "残った",
+          "reading": "のこった"
+        },
+        {
+          "text": "走者",
+          "reading": "そうしゃ"
+        },
+        {
+          "text": "は５"
+        },
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "175914",
+        "englishSentenceId": "238551",
+        "url": "https://tatoeba.org/en/sentences/show/175914"
+      }
+    },
+    "acceptedJapanese": [
+      "決勝",
+      "けっしょう"
+    ],
+    "acceptedEnglish": [
+      "decision of a contest",
+      "finals"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-playing-1777217237831",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "吹奏",
+    "kanji": "吹奏",
+    "kana": "すいそう",
+    "meaning": "playing",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"playing\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "吹",
+        "meanings": [
+          "blow"
+        ]
+      },
+      {
+        "kanji": "奏",
+        "meanings": [
+          "play music"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「吹奏」は日本語の言葉です。",
+      "english": "\"playing\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "吹奏",
+          "reading": "すいそう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "吹奏",
+      "すいそう"
+    ],
+    "acceptedEnglish": [
+      "playing",
+      "blowing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-ring-1777217238146",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "土俵",
+    "kanji": "土俵",
+    "kana": "どひょう",
+    "meaning": "ring",
+    "explanation": "A JLPT N1 noun meaning \"ring\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "土",
+        "meanings": [
+          "soil",
+          "earth",
+          "ground"
+        ]
+      },
+      {
+        "kanji": "俵",
+        "meanings": [
+          "straw sack"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「土俵」は日本語の言葉です。",
+      "english": "\"ring\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "土俵",
+          "reading": "どひょう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "土俵",
+      "どひょう"
+    ],
+    "acceptedEnglish": [
+      "ring",
+      "forum",
+      "sandbag",
+      "gabion"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-show-1777217238149",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "ショー",
+    "kanji": "ショー",
+    "kana": "ショー",
+    "meaning": "show",
+    "explanation": "A JLPT N1 noun meaning \"show\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "明日はショーがあります。",
+      "english": "There is a show tomorrow.",
+      "furigana": [
+        {
+          "text": "明",
+          "reading": "あ"
+        },
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "ショー"
+        },
+        {
+          "text": "ョ",
+          "highlight": true,
+          "reading": "ショー"
+        },
+        {
+          "text": "ー",
+          "highlight": true,
+          "reading": "ショー"
+        },
+        {
+          "text": "があります。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "80470",
+        "englishSentenceId": "323247",
+        "url": "https://tatoeba.org/en/sentences/show/80470"
+      }
+    },
+    "acceptedJapanese": [
+      "ショー"
+    ],
+    "acceptedEnglish": [
+      "show",
+      "performance",
+      "exhibition",
+      "expo",
+      "fair",
+      "convention"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-diving-1777217238650",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "潜水",
+    "kanji": "潜水",
+    "kana": "せんすい",
+    "meaning": "diving",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"diving\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "潜",
+        "meanings": [
+          "submerge",
+          "conceal",
+          "hide",
+          "lower (voice)"
+        ]
+      },
+      {
+        "kanji": "水",
+        "meanings": [
+          "water"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "潜水して泳げるかい。",
+      "english": "Can you swim underwater?",
+      "furigana": [
+        {
+          "text": "潜水",
+          "highlight": true,
+          "reading": "せんすい"
+        },
+        {
+          "text": "して泳げるかい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "75922",
+        "englishSentenceId": "270907",
+        "url": "https://tatoeba.org/en/sentences/show/75922"
+      }
+    },
+    "acceptedJapanese": [
+      "潜水",
+      "せんすい"
+    ],
+    "acceptedEnglish": [
+      "diving",
+      "submerging",
+      "going underwater"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-lottery-1777217238863",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "くじ引き",
+    "kanji": "くじ引き",
+    "kana": "くじびき",
+    "meaning": "lottery",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"lottery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "引",
+        "meanings": [
+          "draw",
+          "pull"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼はくじ引きで一等賞を当てたよ。",
+      "english": "He won the first prize in the lottery.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "くじ引き",
+          "highlight": true,
+          "reading": "くじびき"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "一等賞",
+          "reading": "いっとうしょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "当て",
+          "reading": "あて"
+        },
+        {
+          "text": "たよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13715806",
+        "englishSentenceId": "13715807",
+        "url": "https://tatoeba.org/en/sentences/show/13715806"
+      }
+    },
+    "acceptedJapanese": [
+      "くじ引き",
+      "くじびき"
+    ],
+    "acceptedEnglish": [
+      "lottery",
+      "drawn lot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-bat-1777217239442",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "バット",
+    "kanji": "バット",
+    "kana": "バット",
+    "meaning": "bat",
+    "explanation": "A JLPT N1 noun meaning \"bat\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "このバットを使ってよろしいか。",
+      "english": "May I use this bat?",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "バ",
+          "highlight": true,
+          "reading": "バット"
+        },
+        {
+          "text": "ッ",
+          "highlight": true,
+          "reading": "バット"
+        },
+        {
+          "text": "ト",
+          "highlight": true,
+          "reading": "バット"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "使",
+          "reading": "し"
+        },
+        {
+          "text": "ってよろしいか。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223319",
+        "englishSentenceId": "60651",
+        "url": "https://tatoeba.org/en/sentences/show/223319"
+      }
+    },
+    "acceptedJapanese": [
+      "バット"
+    ],
+    "acceptedEnglish": [
+      "bat"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-woodcut-1777217239502",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "版画",
+    "kanji": "版画",
+    "kana": "はんが",
+    "meaning": "woodcut",
+    "explanation": "A JLPT N1 noun meaning \"woodcut\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "版",
+        "meanings": [
+          "printing plate",
+          "publishing",
+          "edition"
+        ]
+      },
+      {
+        "kanji": "画",
+        "meanings": [
+          "picture"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「版画」は日本語の言葉です。",
+      "english": "\"woodcut\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "版画",
+          "reading": "はんが",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "版画",
+      "はんが"
+    ],
+    "acceptedEnglish": [
+      "woodcut",
+      "woodblock print",
+      "art print"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-winning-a-prize-1777217239544",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "入賞",
+    "kanji": "入賞",
+    "kana": "にゅうしょう",
+    "meaning": "winning a prize",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"winning a prize\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "入",
+        "meanings": [
+          "enter",
+          "put in"
+        ]
+      },
+      {
+        "kanji": "賞",
+        "meanings": [
+          "prize"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は三位に入賞した。",
+      "english": "He won the third prize.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は三位に"
+        },
+        {
+          "text": "入賞",
+          "highlight": true,
+          "reading": "にゅうしょう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2234718",
+        "englishSentenceId": "296986",
+        "url": "https://tatoeba.org/en/sentences/show/2234718"
+      }
+    },
+    "acceptedJapanese": [
+      "入賞",
+      "にゅうしょう"
+    ],
+    "acceptedEnglish": [
+      "winning a prize",
+      "placing"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-victory-1777217239574",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "勝利",
+    "kanji": "勝利",
+    "kana": "しょうり",
+    "meaning": "victory",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"victory\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "勝",
+        "meanings": [
+          "win",
+          "excel",
+          "be superior"
+        ]
+      },
+      {
+        "kanji": "利",
+        "meanings": [
+          "advantage",
+          "profit",
+          "be effective"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "これはみなさんの勝利です。",
+      "english": "This is your victory.",
+      "furigana": [
+        {
+          "text": "これはみなさんの"
+        },
+        {
+          "text": "勝利",
+          "highlight": true,
+          "reading": "しょうり"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "347835",
+        "englishSentenceId": "330435",
+        "url": "https://tatoeba.org/en/sentences/show/347835"
+      }
+    },
+    "acceptedJapanese": [
+      "勝利",
+      "しょうり"
+    ],
+    "acceptedEnglish": [
+      "victory",
+      "triumph",
+      "win",
+      "conquest",
+      "success"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-hobbies-activities-script-1777217239664",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "シナリオ",
+    "kanji": "シナリオ",
+    "kana": "シナリオ",
+    "meaning": "script",
+    "explanation": "A JLPT N1 noun meaning \"script\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "最悪のシナリオは何ですか？",
+      "english": "What's the worst case scenario?",
+      "furigana": [
+        {
+          "text": "最悪",
+          "reading": "さいあく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "シ",
+          "highlight": true,
+          "reading": "シナリオ"
+        },
+        {
+          "text": "ナ",
+          "highlight": true,
+          "reading": "シナリオ"
+        },
+        {
+          "text": "リ",
+          "highlight": true,
+          "reading": "シナリオ"
+        },
+        {
+          "text": "オ",
+          "highlight": true,
+          "reading": "シナリオ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "何で",
+          "reading": "なんで"
+        },
+        {
+          "text": "すか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "5132386",
+        "englishSentenceId": "5132209",
+        "url": "https://tatoeba.org/en/sentences/show/5132386"
+      }
+    },
+    "acceptedJapanese": [
+      "シナリオ"
+    ],
+    "acceptedEnglish": [
+      "script",
+      "screenplay",
+      "scenario"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-collecting-1777217239706",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "採集",
+    "kanji": "採集",
+    "kana": "さいしゅう",
+    "meaning": "collecting",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"collecting\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "採",
+        "meanings": [
+          "pick",
+          "gather",
+          "take",
+          "accept"
+        ]
+      },
+      {
+        "kanji": "集",
+        "meanings": [
+          "collect"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "「採集」は日本語の言葉です。",
+      "english": "\"collecting\" is a Japanese word.",
+      "furigana": [
+        {
+          "text": "「"
+        },
+        {
+          "text": "採集",
+          "reading": "さいしゅう",
+          "highlight": true
+        },
+        {
+          "text": "」は"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "text": "です。"
+        }
+      ]
+    },
+    "acceptedJapanese": [
+      "採集",
+      "さいしゅう"
+    ],
+    "acceptedEnglish": [
+      "collecting",
+      "gathering"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-handicraft-1777217239766",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "工作",
+    "kanji": "工作",
+    "kana": "こうさく",
+    "meaning": "handicraft",
+    "explanation": "A JLPT N1 noun, suru noun, transitive verb meaning \"handicraft\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "工",
+        "meanings": [
+          "manufacture",
+          "construction"
+        ]
+      },
+      {
+        "kanji": "作",
+        "meanings": [
+          "make",
+          "work"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は工作がうまい。",
+      "english": "He has skill in handwork.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "工作",
+          "highlight": true,
+          "reading": "こうさく"
+        },
+        {
+          "text": "がうまい。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "107396",
+        "englishSentenceId": "296290",
+        "url": "https://tatoeba.org/en/sentences/show/107396"
+      }
+    },
+    "acceptedJapanese": [
+      "工作",
+      "こうさく"
+    ],
+    "acceptedEnglish": [
+      "handicraft",
+      "work",
+      "construction",
+      "manufacturing",
+      "maneuvering",
+      "manoeuvering"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n1-hobbies-activities-bet-1777217239790",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "賭け",
+    "kanji": "賭け",
+    "kana": "かけ",
+    "meaning": "bet",
+    "explanation": "A JLPT N1 noun meaning \"bet\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "賭",
+        "meanings": [
+          "gamble",
+          "wager",
+          "bet"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "大きな賭けだ。",
+      "english": "There's a lot at stake.",
+      "furigana": [
+        {
+          "text": "大きな",
+          "reading": "おおきな"
+        },
+        {
+          "text": "賭け",
+          "highlight": true,
+          "reading": "かけ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "4924788",
+        "englishSentenceId": "4923386",
+        "url": "https://tatoeba.org/en/sentences/show/4924788"
+      }
+    },
+    "acceptedJapanese": [
+      "賭け",
+      "かけ"
+    ],
+    "acceptedEnglish": [
+      "bet",
+      "wager",
+      "stake",
+      "gamble"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-hobbies-activities-somersault-1777217239829",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "宙返り",
+    "kanji": "宙返り",
+    "kana": "ちゅうがえり",
+    "meaning": "somersault",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"somersault\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "宙",
+        "meanings": [
+          "space",
+          "midair"
+        ]
+      },
+      {
+        "kanji": "返",
+        "meanings": [
+          "return"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼は宙返りをした。",
+      "english": "He turned a somersault.",
+      "furigana": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "宙返り",
+          "highlight": true,
+          "reading": "ちゅうがえり"
+        },
+        {
+          "text": "をした。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "1171692",
+        "englishSentenceId": "292237",
+        "url": "https://tatoeba.org/en/sentences/show/1171692"
+      }
+    },
+    "acceptedJapanese": [
+      "宙返り",
+      "ちゅうがえり"
+    ],
+    "acceptedEnglish": [
+      "somersault",
+      "looping-the-loop"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n1-hobbies-activities-race-1777217240108",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "駆けっこ",
+    "kanji": "駆けっこ",
+    "kana": "かけっこ",
+    "meaning": "race",
+    "explanation": "A JLPT N1 noun, suru noun, intransitive verb meaning \"race\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "駆",
+        "meanings": [
+          "drive",
+          "run",
+          "gallop",
+          "advance"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "あいつと駆けっこしたんだ。",
+      "english": "I had a race with him.",
+      "furigana": [
+        {
+          "text": "あいつと"
+        },
+        {
+          "text": "駆けっこ",
+          "highlight": true,
+          "reading": "かけっこ"
+        },
+        {
+          "text": "したんだ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10665104",
+        "englishSentenceId": "260202",
+        "url": "https://tatoeba.org/en/sentences/show/10665104"
+      }
+    },
+    "acceptedJapanese": [
+      "駆けっこ",
+      "かけっこ"
+    ],
+    "acceptedEnglish": [
+      "race",
+      "sprint"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n1-hobbies-activities-quiz-1777217240123",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "クイズ",
+    "kanji": "クイズ",
+    "kana": "クイズ",
+    "meaning": "quiz",
+    "explanation": "A JLPT N1 noun meaning \"quiz\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "このクイズは全然分からない。",
+      "english": "I can make nothing of this quiz.",
+      "furigana": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "ク",
+          "highlight": true,
+          "reading": "クイズ"
+        },
+        {
+          "text": "イ",
+          "highlight": true,
+          "reading": "クイズ"
+        },
+        {
+          "text": "ズ",
+          "highlight": true,
+          "reading": "クイズ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "全然",
+          "reading": "ぜんぜん"
+        },
+        {
+          "text": "分",
+          "reading": "ふん"
+        },
+        {
+          "text": "からない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "223862",
+        "englishSentenceId": "61198",
+        "url": "https://tatoeba.org/en/sentences/show/223862"
+      }
+    },
+    "acceptedJapanese": [
+      "クイズ"
+    ],
+    "acceptedEnglish": [
+      "quiz"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-solo-1777217240762",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "ソロ",
+    "kanji": "ソロ",
+    "kana": "ソロ",
+    "meaning": "solo",
+    "explanation": "A JLPT N1 noun, no adjective meaning \"solo\".",
+    "kanjiBreakdown": [],
+    "example": {
+      "japanese": "今どきソロバンを使う人なんてほとんどいやしないよ。",
+      "english": "Few people use an abacus these days.",
+      "furigana": [
+        {
+          "text": "今どき",
+          "reading": "いまどき"
+        },
+        {
+          "text": "ソ",
+          "highlight": true,
+          "reading": "ソロ"
+        },
+        {
+          "text": "ロ",
+          "highlight": true,
+          "reading": "ソロ"
+        },
+        {
+          "text": "バンを"
+        },
+        {
+          "text": "使う",
+          "reading": "つかう"
+        },
+        {
+          "text": "人",
+          "reading": "じん"
+        },
+        {
+          "text": "なんてほとんどいやしないよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11891584",
+        "englishSentenceId": "10191195",
+        "url": "https://tatoeba.org/en/sentences/show/11891584"
+      }
+    },
+    "acceptedJapanese": [
+      "ソロ"
+    ],
+    "acceptedEnglish": [
+      "solo"
+    ]
+  },
+  {
+    "id": "n1-hobbies-activities-art-1777217240855",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "美術",
+    "kanji": "美術",
+    "kana": "びじゅつ",
+    "meaning": "art",
+    "explanation": "A JLPT N1 noun meaning \"art\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "美",
+        "meanings": [
+          "beautiful",
+          "beauty"
+        ]
+      },
+      {
+        "kanji": "術",
+        "meanings": [
+          "practical art",
+          "technique"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "１５世紀のイタリアでは美術が栄えた。",
+      "english": "The fine arts flourished in Italy in the 15th century.",
+      "furigana": [
+        {
+          "text": "１５"
+        },
+        {
+          "text": "世紀",
+          "reading": "せいき"
+        },
+        {
+          "text": "のイタリアでは"
+        },
+        {
+          "text": "美術",
+          "highlight": true,
+          "reading": "びじゅつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "栄",
+          "reading": "えい"
+        },
+        {
+          "text": "えた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "235941",
+        "englishSentenceId": "73322",
+        "url": "https://tatoeba.org/en/sentences/show/235941"
+      }
+    },
+    "acceptedJapanese": [
+      "美術",
+      "びじゅつ"
+    ],
+    "acceptedEnglish": [
+      "art",
+      "fine arts"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n1-hobbies-activities-handicrafts-1777217240864",
+    "jlpt": "N1",
+    "subcategory": "Hobbies/Activities",
+    "name": "手芸",
+    "kanji": "手芸",
+    "kana": "しゅげい",
+    "meaning": "handicrafts",
+    "explanation": "A JLPT N1 noun meaning \"handicrafts\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "手",
+        "meanings": [
+          "hand"
+        ]
+      },
+      {
+        "kanji": "芸",
+        "meanings": [
+          "art",
+          "craft"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼女の手芸は趣味を通り越してプロに近い。",
+      "english": "Her handicraft is more than a hobby. It's more like a profession.",
+      "furigana": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手芸",
+          "highlight": true,
+          "reading": "しゅげい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "趣味",
+          "reading": "しゅみ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "通り",
+          "reading": "とおり"
+        },
+        {
+          "text": "越し",
+          "reading": "ごし"
+        },
+        {
+          "text": "てプロに"
+        },
+        {
+          "text": "近い",
+          "reading": "ちかい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "94322",
+        "englishSentenceId": "309384",
+        "url": "https://tatoeba.org/en/sentences/show/94322"
+      }
+    },
+    "acceptedJapanese": [
+      "手芸",
+      "しゅげい"
+    ],
+    "acceptedEnglish": [
+      "handicrafts"
+    ],
+    "pitchAccentNumber": 0
+  }
+]

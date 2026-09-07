@@ -1,1 +1,1198 @@
-[]
+[
+  {
+    "id": "n4-nature-weather-sand-1777217250938",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "砂",
+    "kanji": "砂",
+    "kana": "すな",
+    "meaning": "sand",
+    "explanation": "A JLPT N4 noun meaning \"sand\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "砂",
+        "meanings": [
+          "sand"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "目に砂が入った。",
+      "english": "I got some sand in my eye.",
+      "furigana": [
+        {
+          "text": "目に"
+        },
+        {
+          "text": "砂",
+          "highlight": true,
+          "reading": "すな"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "入",
+          "reading": "いり"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2124186",
+        "englishSentenceId": "323745",
+        "url": "https://tatoeba.org/en/sentences/show/2124186"
+      }
+    },
+    "acceptedJapanese": [
+      "砂",
+      "すな"
+    ],
+    "acceptedEnglish": [
+      "sand",
+      "grit"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-stone-1777217251166",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "石",
+    "kanji": "石",
+    "kana": "いし",
+    "meaning": "stone",
+    "explanation": "A JLPT N4 noun meaning \"stone\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "石",
+        "meanings": [
+          "stone"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "石は無機物である。",
+      "english": "A stone is dead matter.",
+      "furigana": [
+        {
+          "text": "石",
+          "highlight": true,
+          "reading": "いし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "無機物",
+          "reading": "むきぶつ"
+        },
+        {
+          "text": "である。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "142345",
+        "englishSentenceId": "272225",
+        "url": "https://tatoeba.org/en/sentences/show/142345"
+      }
+    },
+    "acceptedJapanese": [
+      "石",
+      "いし"
+    ],
+    "acceptedEnglish": [
+      "stone",
+      "rock",
+      "pebble",
+      "jewel",
+      "precious stone",
+      "flint"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-nature-weather-forest-1777217251232",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "森",
+    "kanji": "森",
+    "kana": "もり",
+    "meaning": "forest",
+    "explanation": "A JLPT N4 noun meaning \"forest\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "森",
+        "meanings": [
+          "forest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "彼らは森へ向かっています。",
+      "english": "They are making for the forest.",
+      "furigana": [
+        {
+          "text": "彼ら",
+          "reading": "かれら"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "森",
+          "highlight": true,
+          "reading": "もり"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "向",
+          "reading": "む"
+        },
+        {
+          "text": "かっています。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "96784",
+        "englishSentenceId": "306920",
+        "url": "https://tatoeba.org/en/sentences/show/96784"
+      }
+    },
+    "acceptedJapanese": [
+      "森",
+      "もり"
+    ],
+    "acceptedEnglish": [
+      "forest",
+      "shrine grove"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-lake-1777217251340",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "湖",
+    "kanji": "湖",
+    "kana": "みずうみ",
+    "meaning": "lake",
+    "explanation": "A JLPT N4 noun meaning \"lake\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "湖",
+        "meanings": [
+          "lake"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その湖は深いんですか？",
+      "english": "Is the lake deep?",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "湖",
+          "highlight": true,
+          "reading": "みずうみ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "深い",
+          "reading": "ふかい"
+        },
+        {
+          "text": "んですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8714269",
+        "englishSentenceId": "3041973",
+        "url": "https://tatoeba.org/en/sentences/show/8714269"
+      }
+    },
+    "acceptedJapanese": [
+      "湖",
+      "みずうみ"
+    ],
+    "acceptedEnglish": [
+      "lake"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-nature-weather-moon-1777217251403",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "月",
+    "kanji": "月",
+    "kana": "つき",
+    "meaning": "Moon",
+    "explanation": "A JLPT N4 noun meaning \"Moon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "月",
+        "meanings": [
+          "moon",
+          "month"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "月に2回です。",
+      "english": "It's twice a month.",
+      "furigana": [
+        {
+          "text": "月",
+          "highlight": true,
+          "reading": "つき"
+        },
+        {
+          "text": "に2"
+        },
+        {
+          "text": "回",
+          "reading": "かい"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13795166",
+        "englishSentenceId": "13795307",
+        "url": "https://tatoeba.org/en/sentences/show/13795166"
+      }
+    },
+    "acceptedJapanese": [
+      "月",
+      "つき"
+    ],
+    "acceptedEnglish": [
+      "Moon",
+      "month",
+      "moonlight",
+      "natural satellite"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-nature-weather-weather-forecast-1777217251418",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "天気予報",
+    "kanji": "天気予報",
+    "kana": "てんきよほう",
+    "meaning": "weather forecast",
+    "explanation": "A JLPT N4 noun meaning \"weather forecast\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "天",
+        "meanings": [
+          "heaven"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      },
+      {
+        "kanji": "予",
+        "meanings": [
+          "in advance"
+        ]
+      },
+      {
+        "kanji": "報",
+        "meanings": [
+          "inform",
+          "require",
+          "news",
+          "report"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "天気予報はどうですか？",
+      "english": "What is the weather forecast?",
+      "furigana": [
+        {
+          "text": "天気予報",
+          "highlight": true,
+          "reading": "てんきよほう"
+        },
+        {
+          "text": "はどうですか？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "13118125",
+        "englishSentenceId": "13118094",
+        "url": "https://tatoeba.org/en/sentences/show/13118125"
+      }
+    },
+    "acceptedJapanese": [
+      "天気予報",
+      "てんきよほう"
+    ],
+    "acceptedEnglish": [
+      "weather forecast",
+      "weather report"
+    ],
+    "pitchAccentNumber": 4
+  },
+  {
+    "id": "n4-nature-weather-leaf-1777217251616",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "葉",
+    "kanji": "葉",
+    "kana": "は",
+    "meaning": "leaf",
+    "explanation": "A JLPT N4 noun meaning \"leaf\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "葉",
+        "meanings": [
+          "leaf",
+          "foliage"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "その葉っぱは落ち葉だ。",
+      "english": "That leaf is fallen.",
+      "furigana": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "葉",
+          "highlight": true,
+          "reading": "は"
+        },
+        {
+          "text": "っぱは"
+        },
+        {
+          "text": "落ち葉",
+          "reading": "おちば"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "2240157",
+        "englishSentenceId": "10208980",
+        "url": "https://tatoeba.org/en/sentences/show/2240157"
+      }
+    },
+    "acceptedJapanese": [
+      "葉",
+      "は"
+    ],
+    "acceptedEnglish": [
+      "leaf",
+      "blade",
+      "needle"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-branch-1777217251664",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "枝",
+    "kanji": "枝",
+    "kana": "えだ",
+    "meaning": "branch",
+    "explanation": "A JLPT N4 noun meaning \"branch\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "枝",
+        "meanings": [
+          "branch"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "枝を折るな。",
+      "english": "Don't break the branches.",
+      "furigana": [
+        {
+          "text": "枝",
+          "highlight": true,
+          "reading": "えだ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "折る",
+          "reading": "おる"
+        },
+        {
+          "text": "な。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8454948",
+        "englishSentenceId": "246310",
+        "url": "https://tatoeba.org/en/sentences/show/8454948"
+      }
+    },
+    "acceptedJapanese": [
+      "枝",
+      "えだ"
+    ],
+    "acceptedEnglish": [
+      "branch",
+      "bough",
+      "limb",
+      "twig",
+      "sprig",
+      "spray"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-light-1777217251766",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "光",
+    "kanji": "光",
+    "kana": "ひかり",
+    "meaning": "light",
+    "explanation": "A JLPT N4 noun meaning \"light\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "光",
+        "meanings": [
+          "light"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "光あれ！",
+      "english": "Let there be light!",
+      "furigana": [
+        {
+          "text": "光",
+          "highlight": true,
+          "reading": "ひかり"
+        },
+        {
+          "text": "あれ！"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "11633430",
+        "englishSentenceId": "432469",
+        "url": "https://tatoeba.org/en/sentences/show/11633430"
+      }
+    },
+    "acceptedJapanese": [
+      "光",
+      "ひかり"
+    ],
+    "acceptedEnglish": [
+      "light",
+      "illumination",
+      "ray",
+      "beam",
+      "gleam",
+      "glow"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-nature-weather-air-1777217251832",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "空気",
+    "kanji": "空気",
+    "kana": "くうき",
+    "meaning": "air",
+    "explanation": "A JLPT N4 noun meaning \"air\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "空",
+        "meanings": [
+          "sky",
+          "air",
+          "empty"
+        ]
+      },
+      {
+        "kanji": "気",
+        "meanings": [
+          "gas",
+          "spirit"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空気が読めない。",
+      "english": "Unable to sense the situation.",
+      "furigana": [
+        {
+          "text": "空気",
+          "highlight": true,
+          "reading": "くうき"
+        },
+        {
+          "text": "が読めない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "347578",
+        "englishSentenceId": "487436",
+        "url": "https://tatoeba.org/en/sentences/show/347578"
+      }
+    },
+    "acceptedJapanese": [
+      "空気",
+      "くうき"
+    ],
+    "acceptedEnglish": [
+      "air",
+      "atmosphere",
+      "mood",
+      "situation",
+      "someone with no presence",
+      "someone who doesn't stand out at all"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-nature-weather-seashore-1777217251871",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "海岸",
+    "kanji": "海岸",
+    "kana": "かいがん",
+    "meaning": "seashore",
+    "explanation": "A JLPT N4 noun meaning \"seashore\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "海",
+        "meanings": [
+          "sea",
+          "ocean"
+        ]
+      },
+      {
+        "kanji": "岸",
+        "meanings": [
+          "shore",
+          "bank",
+          "coast"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "海岸に行ったよ。",
+      "english": "We went to the beach.",
+      "furigana": [
+        {
+          "text": "海岸",
+          "highlight": true,
+          "reading": "かいがん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "行",
+          "reading": "おこな"
+        },
+        {
+          "text": "ったよ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "185046",
+        "englishSentenceId": "2769836",
+        "url": "https://tatoeba.org/en/sentences/show/185046"
+      }
+    },
+    "acceptedJapanese": [
+      "海岸",
+      "かいがん"
+    ],
+    "acceptedEnglish": [
+      "seashore",
+      "coast",
+      "seaside",
+      "waterfront",
+      "beach"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-island-1777217251913",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "島",
+    "kanji": "島",
+    "kana": "しま",
+    "meaning": "island",
+    "explanation": "A JLPT N4 noun meaning \"island\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "島",
+        "meanings": [
+          "island"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "イギリスは島です。",
+      "english": "Britain is an island.",
+      "furigana": [
+        {
+          "text": "イギリスは"
+        },
+        {
+          "text": "島",
+          "highlight": true,
+          "reading": "しま"
+        },
+        {
+          "text": "です。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "9106981",
+        "englishSentenceId": "8095181",
+        "url": "https://tatoeba.org/en/sentences/show/9106981"
+      }
+    },
+    "acceptedJapanese": [
+      "島",
+      "しま"
+    ],
+    "acceptedEnglish": [
+      "island",
+      "one's territory",
+      "one's turf"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-nature-weather-grass-1777217252000",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "草",
+    "kanji": "草",
+    "kana": "くさ",
+    "meaning": "grass",
+    "explanation": "A JLPT N4 noun meaning \"grass\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "草",
+        "meanings": [
+          "grass"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "牛は草を食べる。",
+      "english": "Cows eat grass.",
+      "furigana": [
+        {
+          "text": "牛は"
+        },
+        {
+          "text": "草",
+          "highlight": true,
+          "reading": "くさ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "食べる",
+          "reading": "たべる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "672255",
+        "englishSentenceId": "684708",
+        "url": "https://tatoeba.org/en/sentences/show/672255"
+      }
+    },
+    "acceptedJapanese": [
+      "草",
+      "くさ"
+    ],
+    "acceptedEnglish": [
+      "grass",
+      "weed",
+      "herb",
+      "thatch",
+      "marijuana",
+      "cannabis"
+    ],
+    "pitchAccentNumber": 2
+  },
+  {
+    "id": "n4-nature-weather-scenery-1777217252084",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "景色",
+    "kanji": "景色",
+    "kana": "けしき",
+    "meaning": "scenery",
+    "explanation": "A JLPT N4 noun meaning \"scenery\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "景",
+        "meanings": [
+          "scene"
+        ]
+      },
+      {
+        "kanji": "色",
+        "meanings": [
+          "color"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "眼下の景色を見る。",
+      "english": "Survey the landscape below.",
+      "furigana": [
+        {
+          "text": "眼下",
+          "reading": "がんか"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "景色",
+          "highlight": true,
+          "reading": "けしき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見る",
+          "reading": "みる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "183674",
+        "englishSentenceId": "20797",
+        "url": "https://tatoeba.org/en/sentences/show/183674"
+      }
+    },
+    "acceptedJapanese": [
+      "景色",
+      "けしき"
+    ],
+    "acceptedEnglish": [
+      "scenery",
+      "scene",
+      "landscape"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-nature-weather-star-1777217252300",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "星",
+    "kanji": "星",
+    "kana": "ほし",
+    "meaning": "star",
+    "explanation": "A JLPT N4 noun meaning \"star\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "星",
+        "meanings": [
+          "star"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "星が出てきた。",
+      "english": "The stars came out.",
+      "furigana": [
+        {
+          "text": "星",
+          "highlight": true,
+          "reading": "ほし"
+        },
+        {
+          "text": "が出てきた。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "143043",
+        "englishSentenceId": "271525",
+        "url": "https://tatoeba.org/en/sentences/show/143043"
+      }
+    },
+    "acceptedJapanese": [
+      "星",
+      "ほし"
+    ],
+    "acceptedEnglish": [
+      "star",
+      "planet",
+      "heavenly body",
+      "asterisk",
+      "dot",
+      "spot"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-cloud-1777217252402",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "雲",
+    "kanji": "雲",
+    "kana": "くも",
+    "meaning": "cloud",
+    "explanation": "A JLPT N4 noun meaning \"cloud\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "雲",
+        "meanings": [
+          "cloud"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "空には雲がない。",
+      "english": "There is no cloud in the sky.",
+      "furigana": [
+        {
+          "text": "空",
+          "reading": "す"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "雲",
+          "highlight": true,
+          "reading": "くも"
+        },
+        {
+          "text": "がない。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "179466",
+        "englishSentenceId": "1170679",
+        "url": "https://tatoeba.org/en/sentences/show/179466"
+      }
+    },
+    "acceptedJapanese": [
+      "雲",
+      "くも"
+    ],
+    "acceptedEnglish": [
+      "cloud"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-nature-weather-typhoon-1777217252525",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "台風",
+    "kanji": "台風",
+    "kana": "たいふう",
+    "meaning": "typhoon",
+    "explanation": "A JLPT N4 noun meaning \"typhoon\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "台",
+        "meanings": [
+          "stand",
+          "counter for machinery"
+        ]
+      },
+      {
+        "kanji": "風",
+        "meanings": [
+          "wind",
+          "manner"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "台風が来てます。",
+      "english": "A typhoon's coming.",
+      "furigana": [
+        {
+          "text": "台風",
+          "highlight": true,
+          "reading": "たいふう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "来",
+          "reading": "らい"
+        },
+        {
+          "text": "てます。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "10227774",
+        "englishSentenceId": "6532363",
+        "url": "https://tatoeba.org/en/sentences/show/10227774"
+      }
+    },
+    "acceptedJapanese": [
+      "台風",
+      "たいふう"
+    ],
+    "acceptedEnglish": [
+      "typhoon",
+      "hurricane"
+    ],
+    "pitchAccentNumber": 3
+  },
+  {
+    "id": "n4-nature-weather-fire-1777217252528",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "火",
+    "kanji": "火",
+    "kana": "ひ",
+    "meaning": "fire",
+    "explanation": "A JLPT N4 noun meaning \"fire\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "火",
+        "meanings": [
+          "fire"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "火を消せ。",
+      "english": "Put out the fire.",
+      "furigana": [
+        {
+          "text": "火",
+          "highlight": true,
+          "reading": "ひ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "消",
+          "reading": "け"
+        },
+        {
+          "text": "せ。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "186723",
+        "englishSentenceId": "23859",
+        "url": "https://tatoeba.org/en/sentences/show/186723"
+      }
+    },
+    "acceptedJapanese": [
+      "火",
+      "ひ"
+    ],
+    "acceptedEnglish": [
+      "fire",
+      "flame",
+      "blaze"
+    ],
+    "pitchAccentNumber": 1
+  },
+  {
+    "id": "n4-nature-weather-earthquake-1777217252681",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "地震",
+    "kanji": "地震",
+    "kana": "じしん",
+    "meaning": "earthquake",
+    "explanation": "A JLPT N4 noun meaning \"earthquake\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "地",
+        "meanings": [
+          "ground",
+          "place",
+          "base",
+          "earth"
+        ]
+      },
+      {
+        "kanji": "震",
+        "meanings": [
+          "quake",
+          "shake",
+          "tremble"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "地震だった？",
+      "english": "Was it an earthquake?",
+      "furigana": [
+        {
+          "text": "地震",
+          "highlight": true,
+          "reading": "じしん"
+        },
+        {
+          "text": "だった？"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "8706037",
+        "englishSentenceId": "4628686",
+        "url": "https://tatoeba.org/en/sentences/show/8706037"
+      }
+    },
+    "acceptedJapanese": [
+      "地震",
+      "じしん"
+    ],
+    "acceptedEnglish": [
+      "earthquake"
+    ],
+    "pitchAccentNumber": 0
+  },
+  {
+    "id": "n4-nature-weather-wood-1777217252687",
+    "jlpt": "N4",
+    "subcategory": "Nature/Weather",
+    "name": "林",
+    "kanji": "林",
+    "kana": "はやし",
+    "meaning": "wood",
+    "explanation": "A JLPT N4 noun meaning \"wood\".",
+    "kanjiBreakdown": [
+      {
+        "kanji": "林",
+        "meanings": [
+          "woods",
+          "forest"
+        ]
+      }
+    ],
+    "example": {
+      "japanese": "林に竹が目立つ。",
+      "english": "Bamboo stands out in the woods.",
+      "furigana": [
+        {
+          "text": "林",
+          "highlight": true,
+          "reading": "はやし"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "竹",
+          "reading": "たけ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "目立つ",
+          "reading": "めだつ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "source": {
+        "name": "Tatoeba",
+        "license": "CC BY 2.0 FR",
+        "japaneseSentenceId": "75660",
+        "englishSentenceId": "328058",
+        "url": "https://tatoeba.org/en/sentences/show/75660"
+      }
+    },
+    "acceptedJapanese": [
+      "林",
+      "はやし"
+    ],
+    "acceptedEnglish": [
+      "wood",
+      "woods",
+      "forest",
+      "grove",
+      "copse",
+      "thicket"
+    ],
+    "pitchAccentNumber": 3
+  }
+]

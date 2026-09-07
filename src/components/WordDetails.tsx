@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import type { FuriganaSegment, VocabularyWord } from "../types";
 import { PitchAccentDisplay } from "./PitchAccentDisplay";
+import { KanjiInfoCard } from "./KanjiInfoCard";
 
 type Props = {
   word: VocabularyWord;
@@ -10,6 +11,10 @@ type Props = {
 
 export function WordDetails({ word, showExampleFurigana, className = "" }: Props) {
   const [showEnglishExample, setShowEnglishExample] = useState(false);
+  // Collapsed by default; the choice is kept while moving between words.
+  const [showRadicals, setShowRadicals] = useState(false);
+  const [showKanjiStrokes, setShowKanjiStrokes] = useState(false);
+  const hasKanji = word.kanjiBreakdown.length > 0;
 
   useEffect(() => {
     setShowEnglishExample(false);
@@ -35,21 +40,33 @@ export function WordDetails({ word, showExampleFurigana, className = "" }: Props
       </div>
 
       <div className="mt-6">
-        <p className="mb-2 text-sm font-semibold text-default-500">Kanji</p>
-        {word.kanjiBreakdown.length > 0 ? (
-          <div className="flex flex-wrap gap-2">
+        <div className="mb-2 flex flex-wrap items-center justify-between gap-2">
+          <p className="text-sm font-semibold text-default-500">Kanji</p>
+          {hasKanji && (
+            <div className="flex flex-wrap gap-1.5">
+              <DetailToggle active={showRadicals} onClick={() => setShowRadicals((visible) => !visible)}>
+                Radicals
+              </DetailToggle>
+              <DetailToggle active={showKanjiStrokes} onClick={() => setShowKanjiStrokes((visible) => !visible)}>
+                Stroke order
+              </DetailToggle>
+            </div>
+          )}
+        </div>
+        {hasKanji ? (
+          <div className="grid gap-3 md:grid-cols-2">
             {word.kanjiBreakdown.map((tag) => (
-              <span
+              <KanjiInfoCard
                 key={`${word.id}-${tag.kanji}`}
-                className="rounded-2xl border border-default-200 bg-content1 px-3 py-2 text-sm"
-              >
-                <span lang="ja" className="jp-text mr-2 text-lg font-bold">{tag.kanji}</span>
-                <span className="text-default-500">{tag.meanings.join(", ")}</span>
-              </span>
+                char={tag.kanji}
+                fallbackMeanings={tag.meanings}
+                showStrokes={showKanjiStrokes}
+                showRadicals={showRadicals}
+              />
             ))}
           </div>
         ) : (
-          <p className="text-default-500">No kanji breakdown added yet.</p>
+          <p className="text-default-500">This word is written without kanji.</p>
         )}
       </div>
 
@@ -86,6 +103,24 @@ export function WordDetails({ word, showExampleFurigana, className = "" }: Props
         </div>
       </div>
     </section>
+  );
+}
+
+function DetailToggle({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
+  return (
+    <button
+      type="button"
+      aria-pressed={active}
+      onClick={onClick}
+      className={`inline-flex cursor-pointer items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-bold transition ${
+        active ? "koto-primary-fill" : "border-default-200 bg-content1 text-default-600 hover:border-primary/50 hover:text-primary"
+      }`}
+    >
+      <span aria-hidden="true" className="text-xs">
+        {active ? "▾" : "▸"}
+      </span>
+      {children}
+    </button>
   );
 }
 
