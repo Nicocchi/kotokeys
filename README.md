@@ -2,6 +2,10 @@
 
 A serverless React/Vite Japanese vocabulary typing trainer.
 
+**Use it here: [https://nicocchi.github.io/kotokeys/](https://nicocchi.github.io/kotokeys/)**
+
+No account or install needed. Practice settings and streaks are saved in your browser.
+
 ## Install
 
 ```bash
@@ -15,6 +19,14 @@ npm run dev
 npm run build
 npm run preview
 ```
+
+## Deploy
+
+```bash
+npm run deploy
+```
+
+Builds the site and publishes `dist/` to the `gh-pages` branch via `scripts/deploy.mjs`, which GitHub Pages serves at the URL above. Add `-- --dry-run` to build and commit without pushing.
 
 ## Add words
 

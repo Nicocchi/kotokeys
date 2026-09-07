@@ -144,3 +144,6 @@ vite.config.ts.timestamp-*
 .vite/
 
 outputs/
+
+# Temporary worktree used by scripts/deploy.mjs
+.gh-pages-worktree/
