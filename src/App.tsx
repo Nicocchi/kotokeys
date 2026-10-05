@@ -15,6 +15,7 @@ import { WordDetails } from "./components/WordDetails";
 import { PitchAccentDisplay } from "./components/PitchAccentDisplay";
 import { RadicalsDialog } from "./components/RadicalsDialog";
 import { WordsDialog } from "./components/WordsDialog";
+import { SiteHeader } from "./components/SiteHeader";
 
 const MAX_STREAK_KEY = "kotokeys-max-streak";
 const LEGACY_MAX_STREAK_KEY = "kotopia-max-streak";
@@ -411,34 +412,18 @@ export default function App() {
   return (
     <main className="soft-grid min-h-screen bg-background text-foreground">
       <div className="mx-auto flex min-h-screen w-full max-w-[1400px] flex-col px-4 py-5 sm:px-6 lg:px-8">
-        <header className="mb-6 flex flex-wrap items-center justify-between gap-3">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.32em] text-primary">Japanese Vocab Trainer</p>
-            <h1 className="text-2xl font-black tracking-tight sm:text-4xl">KotoKeys</h1>
-          </div>
+        <SiteHeader
+          streak={streak}
+          maxStreak={maxStreak}
+          theme={theme}
+          onWords={() => setIsWordsOpen(true)}
+          onRadicals={() => setIsRadicalsOpen(true)}
+          onToggleTheme={toggleTheme}
+          onHelp={() => setIsHelpOpen(true)}
+          onSettings={() => setIsPanelOpen(true)}
+        />
 
-          <div className="flex items-center gap-2">
-            <StatPill label="Streak" value={streak} />
-            <StatPill label="Max" value={maxStreak} />
-            <Button variant="tertiary" className="rounded-full" onPress={() => setIsWordsOpen(true)}>
-              Words
-            </Button>
-            <Button variant="tertiary" className="rounded-full" onPress={() => setIsRadicalsOpen(true)}>
-              Radicals
-            </Button>
-            <Button variant="tertiary" className="rounded-full" onPress={toggleTheme}>
-              {theme === "dark" ? "Light" : "Dark"}
-            </Button>
-            <Button variant="tertiary" className="rounded-full" onPress={() => setIsHelpOpen(true)}>
-              Help
-            </Button>
-            <Button variant="primary" className="rounded-full" onPress={() => setIsPanelOpen(true)}>
-              Menu
-            </Button>
-          </div>
-        </header>
-
-        <section className="grid flex-1 place-items-center">
+        <section className="grid flex-1 content-start justify-items-center lg:content-center">
           <div
             className={`w-full ${
               isResult && detailsPlacement === "side"
@@ -554,15 +539,6 @@ function JapanesePrompt({ word, showKana }: { word: VocabularyWord; showKana: bo
     <div className="flex flex-col items-center justify-center gap-4">
       <p lang="ja" className="jp-text break-words text-5xl font-black tracking-tight sm:text-7xl">{word.kanji}</p>
       {showKana && <PitchAccentDisplay word={word} size="lg" />}
-    </div>
-  );
-}
-
-function StatPill({ label, value }: { label: string; value: number }) {
-  return (
-    <div className="rounded-full border border-default-200 bg-content1 px-4 py-2 text-sm shadow-sm">
-      <span className="text-default-500">{label}</span>
-      <span className="ml-2 font-black">{value}</span>
     </div>
   );
 }
